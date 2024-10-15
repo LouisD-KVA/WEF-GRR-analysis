@@ -1,0 +1,3224 @@
+WMO statement on
+the status of the
+global climate in 2012
+
+WMO-No. 1108
+
+WMO-No. 1108
+© World Meteorological Organization, 2013
+The right of publication in print, electronic and any other form and in any language is reserved by WMO. Short
+extracts from WMO publications may be reproduced without authorization, provided that the complete source
+is clearly indicated. Editorial correspondence and requests to publish, reproduce or translate this publication
+in part or in whole should be addressed to:
+Chair, Publications Board
+World Meteorological Organization (WMO)
+7 bis, avenue de la Paix
+P.O. Box 2300
+CH-1211 Geneva 2, Switzerland
+
+Tel.: +41 (0) 22 730 84 03
+Fax: +41 (0) 22 730 80 40
+E-mail: Publications@wmo.int
+
+ISBN 978-92-63-11108-1
+WMO in collaboration with Members issues since 1993 annual statements on the status of the global
+climate. This publication was issued in collaboration with the Hadley Centre of the UK Meteorological
+Office, United Kingdom of Great Britain and Northern Ireland; the Climatic Research Unit (CRU), University
+of East Anglia, United Kingdom; the Climate Prediction Center (CPC), the National Climatic Data Center
+(NCDC), the National Environmental Satellite, Data, and Information Service (NESDIS), the National
+Hurricane Center (NHC) and the National Weather Service (NWS) of the National Oceanic and Atmospheric
+Administration (NOAA), United States of America; the Goddard Institute for Space Studies (GISS) operated by the National Aeronautics and Space Administration (NASA), United States; the National Snow
+and Ice Data Center (NSIDC), United States; the European Centre for Medium-Range Weather Forecasts
+(ECMWF), United Kingdom; the Global Precipitation Climatology Centre (GPCC), Germany; and the Global
+Snow Laboratory, Rutgers University, United States. Other contributors are the National Meteorological
+and Hydrological Services or equivalent climate institutions of Argentina, Armenia, Australia, Bosnia and
+Herzegovina, Bulgaria, Canada, China, Colombia, Cyprus, Czech Republic, Denmark, Estonia, Fiji, Finland,
+France, Georgia, Germany, Guinea, Hungary, Iceland, India, Iran (Islamic Republic of), Ireland, Israel, Japan,
+Jordan, Kenya, Latvia, Lithuania, Luxembourg, Mexico, Morocco, Nigeria, Norway, Poland, Portugal,
+Republic of Moldova, Romania, Russian Federation, Serbia, Slovakia, Slovenia, South Africa, Spain, Sweden,
+Switzerland, Thailand, Tunisia, Turkey, Ukraine, United Kingdom, United Republic of Tanzania and United
+States. The WMO Regional Association VI (Europe) Regional Climate Centre on Climate Monitoring, the
+African Centre of Meteorological Applications for Development (ACMAD, Niamey), the Caribbean Institute
+for Meteorology and Hydrology (CIMH), the European Space Agency (ESA), the Hong Kong Observatory
+(HKO), Hong Kong, China, the Vienna University of Technology, Austria, the International Research Centre
+on El Niño (CIIFEN, Guayaquil, Ecuador), the Global Atmosphere Watch (GAW) and the World Climate
+Research Programme (WCRP) also contributed.
+
+Cover illustration: Sandra Cunningham (Shutterstock.com)
+NOTE
+The designations employed in WMO publications and the presentation of material in this publication do not imply the expression of any opinion whatsoever on the part of WMO concerning the legal status of any country, territory, city or area, or of its authorities, or concerning the delimitation of its
+frontiers or boundaries.
+The mention of specific companies or products does not imply that they are endorsed or recommended by WMO in preference to others of a similar
+nature which are not mentioned or advertised.
+The findings, interpretations and conclusions expressed in WMO publications with named authors are those of the authors alone and do not necessarily reflect those of WMO or its Members.
+
+Contents
+Foreword . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .      3
+Preface . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .      5
+Key findings . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .      6
+Global temperatures. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .      6
+Global precipitation and northern hemisphere snow cover . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .      7
+State of the ice . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .      9
+Major extreme events and impacts . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     10
+State of greenhouse gases in the atmosphere in 2011 . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     12
+Polar ozone . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     13
+Regional climate features . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     14
+Africa . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     14
+Asia . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     15
+South America . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .    19
+North America, Central America and the Caribbean . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .    20
+South-West Pacific . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .    23
+Europe . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .    24
+Tropical cyclones . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .    29
+
+The use of Earth observation satellites for soil moisture monitoring . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .    32
+
+Foreword
+Since its initial publication in 1993 by the
+World Meteorological Organization, the annual
+“WMO Statement on the Status of the Global
+Climate” has continued to gain in popularity
+and importance. The Statement is produced
+by the WMO Commission for Climatology in
+cooperation with the 191 Members of WMO.
+It gathers together the key climate events of
+each year. The series stands today as an internationally recognized, authoritative source of
+information for the scientific community, the
+media and the public at large. I am confident
+that this 2012 edition will further contribute
+to the success of the series.
+Despite the cooling influence of a La Niña episode
+early in the year, 2012 joined the ten previous
+years as one of the warmest – at ninth place – on
+record. Although the rate of warming varies from
+year to year due to natural variability caused by
+the El Niño/La Niña cycle, volcanic eruptions
+and other phenomena, the sustained warming
+of the lower atmosphere is a worrisome sign.
+The continued upward trend in atmospheric
+concentrations of greenhouse gases and the
+consequent increase in radiative forcing of the
+Earth’s atmosphere confirm that the warming
+will continue.
+The record loss of Arctic sea ice in August–
+September – 18 per cent below the previous
+record low of 4.17 million km2 in 2007 – was also
+a clear and alarming sign of climate change. The
+year 2012 saw many other extremes as well,
+such as droughts and tropical cyclones. Natural
+climate variability has always resulted in such
+extremes, but the physical characteristics of
+extreme weather and climate events are being
+increasingly shaped by climate change. For
+example, because global sea levels are now
+about 20 cm higher than they were in 1880,
+storms such as Hurricane Sandy are bringing
+more coastal flooding than they would have
+otherwise.
+Hurricane Sandy killed close to 100 people and
+caused major destruction in the Caribbean
+before developing further strength and causing tens of billions of US dollars in damage
+and around 130 deaths in the eastern United
+States of America. Typhoon Bopha, the deadliest
+tropical cyclone of the year, hit the Philippines –
+twice – in December. During the year, the United
+
+States and south-eastern Europe experienced
+extreme drought conditions, while West Africa
+was severely hit by extreme flooding. The populations of Europe, northern Africa and Asia were
+acutely affected by extreme cold and snow
+conditions. Severe flooding occurred in Pakistan
+for a third consecutive year.
+Every single life lost to weather and waterrelated disasters is a tragedy. Fortunately, such
+tragedies are being steadily reduced thanks
+to improved early warning systems operated 24 hours a day by the world’s National
+Meteorological and Hydrological Services,
+the enhanced skill and reliability of numerical
+weather prediction models, and advances in
+radar, satellite and other weather, climate and
+water observing systems.
+New scientific paradigms must be further
+explored if decision-making is to benefit from
+advances in our understanding and prediction
+of the climate system. In recent years, climate
+change has been recognized as an aggravating
+factor of climate variability. Climate change has
+also become a source of uncertainty for planners and decision-makers in climate-sensitive
+economic sectors.
+It is vital that we continue to invest in the observations and research that will improve our
+knowledge about climate variability and climate
+change. We need to better understand how much
+of the extra heat captured by greenhouse gases is
+being stored in the oceans and the consequences
+this brings in terms of ocean acidification and
+other impacts. We need to know more about
+the temporary cooling effects of pollution and
+other aerosols emitted into the atmosphere. We
+also need a better understanding of the changing behaviour of extreme weather and climate
+events as a consequence of global warming,
+and we need to assist countries in the most
+affected areas to better manage climate-related
+risks with improved climate early warning and
+climate watch systems.
+The Global Framework for Climate Services,
+adopted by the Extraordinary World Meteorological Congress in 2012, now provides the necessary
+global platform to inform decision-making for
+climate adaptation through enhanced climate
+information.
+
+3
+
+I wish to express the appreciation of WMO
+to all contributors, including those National
+Meteorological and Hydrological Services of its
+191 Members that collaborated on and contributed
+to this key publication. As with the previous editions, I would like to underscore the importance
+of your feedback. WMO looks forward to your
+comments on the WMO Statement on the Status
+
+4
+
+of the Global Climate in 2012 and welcomes your
+suggestions for its further improvement.
+
+(M. Jarraud)
+Secretary-General
+
+Preface
+The present Statement is based on datasets and
+information that were made available by WMO
+Members and partners for 2012 and assessed in
+their global and regional geographical context.
+Comparisons were made with climatological
+averages and records (historical background)
+whenever possible and appropriate.
+
+Many others made their data and climate reports
+available on their websites, and these were
+accessed when necessary. When doubts arose
+as to facts and figures, WMO communicated
+with the relevant national source in order to
+verify the information before its inclusion in
+the Statement.
+
+The global temperature assessment is based on
+three independent datasets that are maintained
+by the Hadley Centre of the Meteorological
+Office and the Climatic Research Unit of the
+University of East Anglia (HadCRU), both in
+the United Kingdom; the National Climatic Data
+Center of the National Oceanic and Atmospheric
+Administration (NCDC–NOAA), based in the
+United States; and the Goddard Institute for
+Space Studies (GISS) operated by the National
+Aeronautics and Space Administration (NASA),
+also in the United States. The HadCRU dataset
+extends back to 1850, and the NCDC and GISS
+datasets (and hence the com­b ined dataset)
+extend back to 1880. Other datasets have also
+been used for additional analysis.
+
+The definition of the Regions is based on the
+WMO regional structure, as follows:
+
+The content was developed and peer-reviewed
+by several experts affiliated with international
+and regional climate institutions, centres and
+programmes, and by the world’s National Meteorological and Hydrological Services (NMHSs),
+the main providers of the underlying observations and climate information. More than
+50 NMHSs provided direct input to the Statement following the WMO call for contributions.
+
+•
+•
+•
+•
+•
+•
+
+Africa (Region I)
+Asia (Region II)
+South America (Region III)
+North America, Central America and the
+Caribbean (Region IV)
+South-West Pacific (Region V)
+Europe (Region VI)
+
+WMO Climate System Monitoring uses Essential
+Climate Variables (ECVs) as defined by the Global
+Climate Observing System. Some 50 ECVs have
+been identified as feasible for global observation.
+The present Statement incorporates assessments of the status of the global climate and
+the observed extremes detected using ECV
+data and products, including air temperature,
+precipitation, ozone and wind speed (atmospheric ECVs); snow cover, fire disturbance and
+river discharge (terrestrial ECVs); as well as sea
+ice (oceanographic ECV). The Statement also
+incorporates findings on soil moisture, an ECV
+for which climate information at a global scale
+only recently became available.
+
+5
+
+Key findings
+Figure 1. Global land
+surface and sea surface
+temperature anomalies
+(°C) for 2012, relative to
+1961–1990
+(Source: Met Office
+Hadley Centre, UK, and
+Climatic Research Unit,
+University of East Anglia,
+United Kingdom)
+
+90N
+
+45N
+
+0
+
+45S
+
+90S
+180
+
+Figure 2. Annual global
+average temperature
+anomalies (relative to
+1961–1990) from 1850
+to 2012 from the Hadley
+Centre/CRU (HadCRUT4)
+(black line and grey area,
+representing mean and
+95 per cent uncertainty
+range), the NOAA
+National Climatic Data
+Center (red), and the
+NASA Goddard Institute
+for Space Studies (blue)
+(Source: Met Office
+Hadley Centre, UK, and
+Climatic Research Unit,
+University of East Anglia,
+United Kingdom)
+
+Global average temperature anomaly (°C)
+
+0.6
+
+–10
+
+90W
+
+–5
+
+–3
+
+–1
+
+0
+
+–0.5
+
+GLOBAL TEMPERATURES
+The 2012 global land and ocean surface temperature is estimated to be 0.45°C ± 0.11°C above
+the 1961–1990 average of 14.0°C. That makes it
+the ninth warmest year since records began in
+1850. It is also the twenty-seventh consecutive
+year that the global land and ocean temperatures
+were above the 1961–1990 average. The years
+2001–2012 were all among the top 13 warmest
+years on record.
+The 2012 global land and ocean temperature
+anomaly was only 0.1°C less than the record
+high value observed in 2010. If the latest 30-year
+reference period, 1981–2010, which includes the
+
+Met Office Hadley Centre and Climatic Research Unit
+NOAA National Climatic Data Center
+NASA Goddard Institute for Space Studies
+
+0.4
+0.2
+0
+– 0.2
+– 0.4
+– 0.6
+– 0.8
+1850
+
+6
+
+–0.2
+
+1900
+
+Year
+
+1950
+
+2000
+
+0
+
+90E
+
+0.2
+
+0.5
+
+1
+
+180
+
+3
+
+5
+
+10
+
+three warmest decades on record, is used instead
+of the 1961–1990 average, the 2012 global land
+and ocean temperature anomaly is estimated
+to be 0.16°C above the average.
+The above figures are based on an average of
+the three main global datasets. Other datasets
+produce similar but slightly different results. The
+Japan Meteorological Agency’s global temperature dataset estimates that the global land and
+ocean surface temperature in 2012 was 0.14°C
+above the 1981–2010 average, ranking it as the
+eighth warmest year on record.
+Global average temperatures estimated using
+model-based reanalysis data are typically consistent with the observations. According to
+reanalysis data from the European Centre for
+Medium-Range Weather Forecasts (ECMWF), the
+2012 global land and ocean temperature anomaly
+of 0.18°C above the 1981–2010 base period tied with
+2002, 2003 and 2009 as the sixth warmest year
+since ECMWF reanalysis records began in 1958.
+The year began with a weak-to-moderate strength
+La Niña, which had developed in October 2011.
+The presence of a La Niña episode during the
+start of a year tends to have a cooling influence on global temperatures, and 2012 was no
+exception. The averaged three-month period
+of January–March 2012 saw the lowest global
+land and ocean temperature for that period since
+1997, yet the temperature anomaly remained
+
+0.4
+
+0.2
+
+0.0
+
+–0.2
+
+Figure 3. Global ranked
+surface temperatures
+for the warmest
+50 years. Inset shows
+global ranked surface
+temperatures from 1850.
+The size of the bars
+indicates the 95 per
+cent confidence limits
+associated with each
+year. Values are simple
+area-weighted averages
+for the whole year.
+(Source: Met Office
+Hadley Centre, UK, and
+Climatic Research Unit,
+University of East Anglia,
+United Kingdom)
+
+2010
+2005
+1998
+2002
+2003
+2007
+2006
+2009
+2012
+2004
+2001
+2011
+2008
+1997
+1995
+1999
+2000
+1990
+1991
+1988
+1996
+1994
+1987
+1983
+1981
+1989
+1993
+1980
+1992
+1944
+1973
+1986
+1977
+1979
+1878
+1953
+1963
+1941
+1982
+1984
+1958
+1969
+1880
+1940
+1961
+1962
+1943
+1985
+1942
+1938
+
+Temperature difference (°C)
+from 1961–1990 average
+
+0.6
+
+0.6
+0.4
+0.2
+0.0
+–0.2
+–0.4
+–0.6
+–0.8
+
+0
+
+50
+
+100
+
+Rank
+
+150
+
+2000–2012
+1990–1999
+1970–1989
+1950–1969
+1930–1949
+1910–1929
+1850–1909
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Rank of hottest years to coldest
+
+Above-average temperatures were experienced
+across most of the globe’s land surface areas,
+most notably in North America, southern Europe,
+the western Russian Federation, parts of northern
+Africa, and southern South America. Nonetheless, cooler-than-average conditions were
+observed across Alaska, parts of northern and
+eastern Australia, and central Asia.
+
+0.6
+0.5
+0.4
+
+Temperature anomaly (°C)
+
+above the 1961–1990 average at +0.28°C. La
+Niña weakened through April as sea surface
+temperatures across the tropical Pacific Ocean
+warmed, giving way to the neutral conditions
+that persisted through the end of the year.
+
+0.3
+
+GLOBAL PRECIPITATION AND NORTHERN
+HEMISPHERE SNOW COVER
+Unlike the past two years (2010 and 2011), which
+saw well-above-average conditions, the land
+surface precipitation in 2012 averaged globally
+was only 6.3 mm above the 1961–1990 average
+according to the United States National Climatic
+Data Center.
+
+Neutral
+El Niño
+
+0.2
+0.1
+0
+–0.1
+–0.2
+–0.3
+–0.4
+1950
+
+Ocean temperatures were above average across
+most of the world’s ocean surfaces. Cooler-thanaverage conditions, however, were observed
+across a large area in the central tropical and
+north-eastern Pacific Ocean, parts of the south
+Atlantic, and the southern oceans. More details
+are given below in the section on Regional climate features.
+
+La Niña
+
+1955
+
+1960
+
+1965
+
+1970
+
+1975
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+Year
+
+Precipitation around the globe varied significantly
+during 2012; however, some features were particularly prominent, such as drier-than-average
+conditions across much of the central United
+States, northern Mexico, north-eastern Brazil,
+central Russian Federation and south-central
+Australia. Wetter-than-average conditions were
+present across northern Europe, western Africa,
+north-central Argentina, western Alaska and most
+of northern China. More details are given below
+in the section on Regional Climate Features.
+According to data from the Global Snow Laboratory at Rutgers University in the United States,
+the North America snow cover extent during the
+
+Figure 4. January–
+December global land
+and ocean surface
+temperature anomalies
+(relative to 1961–1990)
+for the period 1950–2012;
+years that started with
+a moderate or strong La
+Niña already in place are
+shown in blue, years that
+started with a moderate
+or strong El Niño already
+in place are shown in red;
+other years are shown
+in grey.
+
+7
+
+Status of the global climate in 2012
+
+Figure 5. Annual
+precipitation anomalies
+for global land areas for
+2012; gridded 1.0-degree
+raingauge-based
+analysis as percentages
+of average focusing on
+the 1951–2000
+base period
+(Source: Global
+Precipitation Climatology
+Centre, Deutscher
+Wetterdienst, Germany)
+
+90N
+
+60N
+
+30N
+
+0
+
+30S
+
+60S
+
+90S
+180
+
+120W
+
+20
+
+60W
+
+40
+
+60
+
+0
+
+80
+
+2011/2012 winter was below average, resulting
+in the fourth smallest winter snow cover extent
+on record and the smallest winter snow cover
+extent since the winter of 1999/2000. This was
+in marked contrast to the previous two winters
+(2009/2010 and 2010/2011), which had the largest
+and third largest snow cover extent, respectively,
+since records began in 1966.
+Meanwhile, the Eurasian continent snow cover
+extent during the winter was above average, resulting in the fourth largest snow cover extent on
+record. Overall, the northern hemisphere snow
+cover extent was above average – 590 000 km2
+above the average of 45.2 million km2 – and was
+the fourteenth largest snow cover extent on record.
+During spring (March–May), the North America snow cover extent was the third smallest
+on record, at 930 000 km2 below average. In
+Eurasia, the snow cover extent contracted to
+1.0 million km2 below average, resulting in the
+twelfth smallest spring extent on record. As a
+whole, the northern hemisphere snow cover
+extent during the spring ranked as the sixth
+smallest spring extent on record.
+
+8
+
+100
+
+60E
+
+125
+
+167
+
+120E
+
+250
+
+180
+
+500
+
+Recent analysis of the NOAA snow cover extent
+satellite record maintained at Rutgers University
+confirms record low snow cover in Eurasia for
+June for every year since 2008. In addition,
+three of the past five years have seen record low
+June snow cover in North America. The June
+2012 snow cover extent was below-average at
+2.7 million km2 (the June 1967–2012 average
+is 7.8 million km2), making it the lowest June
+snow cover extent over northern hemisphere
+land areas since satellite observations began
+in 1967.
+Northern hemisphere June snow cover is currently decreasing at a faster rate than Arctic
+summer sea-ice extent, and at rates that exceed
+the projections of climate models. Estimates
+of the historical variation in the volume of
+water stored in the seasonal snow pack over
+nor thern hemisphere land areas from the
+European Space Agency Data User Element
+GlobSnow project show gradual decreases
+in annual maximum water storage over the
+period since 1979. Both datasets show trends
+of significantly earlier spring snowmelt over
+high latitudes.
+
+Key findings
+
+Sea-ice extent
+The areal extent of Arctic sea ice expands
+during the northern hemisphere cold season,
+reaching a maximum in March, and then melts
+during the northern hemisphere warm season,
+reaching a minimum in September. During its
+2011–2012 growth season, the Arctic sea-ice
+extent reached its annual maximum on 20 March
+at 15.24 million km2. The averaged March 2012
+sea-ice extent was 15.21 million km2. This was
+3.4 per cent below the 1979–2000 March average and the ninth smallest March extent since
+records began in 1979. However, it was also the
+largest March sea-ice extent since 2008.
+After reaching its maximum extent in March,
+the Arctic sea ice began its melt season. During 2012, the Arctic sea-ice extent tracked near
+or above the 2007 daily levels through May. It
+then rapidly declined in June and again in early
+August, falling below levels observed in 2007.
+In August, the Arctic sea ice lost an average
+of nearly 92 000 km2 of ice per day, the fastest
+observed loss for the month of August on record.
+The ice melted so quickly in August that, by
+26 August, the Arctic sea-ice extent dropped
+
+2012
+
+Extent (millions of square kilometres)
+
+STATE OF THE ICE
+16
+14
+12
+10
+8
+6
+4
+2
+
+2012
+2007
+1981–2010 average
+1979–2000 average
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Month
+
+below the previous record low extent set on
+18 September 2007, a full 18 days before the
+1979–2000 climatological average date of the
+minimum extent (13 September). After 26 August,
+the sea-ice extent continued to decrease and
+by 31 August, the Arctic sea ice had dropped
+to 3.7 million km2, marking the first time in the
+
+Figure 6. Northern
+hemisphere sea-ice
+extent in 2012, compared
+with 2007 and the
+1981–2010 and 1979–
+2000 averages
+(Source: National Snow
+and Ice Data Center,
+United States)
+
+2007
+
+median ice edge
+1979–2000
+
+median ice edge
+1979–2000
+
+Figure 7. Northern
+hemisphere minimum
+sea-ice extent for
+September 2012 (lowest
+on record, left) and
+September 2007 (second
+lowest on record, right);
+the magenta/orange line
+indicates the longterm median from the
+1979–2000 base period.
+(Source: National Snow
+and Ice Data Center,
+United States)
+
+9
+
+Status of the global climate in 2012
+
+34-year record that the month of August recorded
+a sea-ice extent below 4.0 million km2.
+The Arctic reached its record lowest sea-ice
+extent in its annual cycle on 16 September at
+3.41 million km2. This value broke the previous
+record low set on 18 September 2007 by 18 per
+cent. It was 49 per cent or nearly 3.3 million km2
+below the 1979–2000 average minimum. The
+difference between the maximum Arctic sea-ice
+extent on 20 March and the lowest minimum
+extent on 16 September was 11.83 million km2
+– the largest seasonal sea-ice extent loss in the
+34-year satellite record.
+Meanwhile, the Antarctic sea ice expands during
+the southern hemisphere cold season, reaching
+a maximum sea-ice extent in September, and
+then melts during the southern hemisphere
+warm season reaching a minimum sea-ice
+extent in February or March. The Antarctic
+observed its fourth largest March sea-ice extent
+on record at 5.0 million km 2 or 16 per cent
+above the 1979–2000 average. During its growth
+season, the Antarctic sea-ice extent reached
+its maximum extent since records began in
+1979 on 26 September, at 19.4 million km 2 .
+
+This value surpassed the previous maximum
+sea-ice extent record of 19.36 million km2 set
+on 21 September 2006.
+Greenland ice sheet
+In early July, Greenland’s surface ice cover
+melted dramatically, with an estimated 97 per
+cent of the ice sheet surface having thawed
+in mid-July. This was the largest melt extent
+since satellite records began 34 years ago. During the summer it is typical to observe nearly
+half of the surface of Greenland’s ice sheet
+melt naturally, particularly across the lower
+elevations. However, in 2012 a high-pressure
+system brought warmer-than-average conditions to Greenland, which are associated with
+the rapid melting.
+
+MAJOR EXTREME EVENTS AND IMPACTS
+Notable climate anomalies and events were
+observed worldwide in 2012. Some parts of
+the northern hemisphere were affected by
+multiple extremes, such as major heatwaves
+and extreme high temperatures, drought and
+wildfires, extreme precipitation and floods,
+snow and extreme cold, and tropical cyclones.
+
+ESTIMATES OF CASUALTIES, NUMBER OF PEOPLE AFFECTED AND
+LOSSES FOR FIVE SIGNIFICANT EXTREME WEATHER AND CLIMATE EVENTS
+
+10
+
+Event
+
+Location
+
+Date
+
+Casualties
+
+Hurricane
+Sandy
+
+The Caribbean
+and contiguous Late October Over 230
+United States
+
+Typhoon Bopha
+
+Mindanao,
+Philippines
+
+Cold wave
+
+Most of Europe Mid-January
+and northern
+to early
+Africa
+February
+
+Floods
+
+West Africa
+
+Drought
+
+Contiguous
+United States
+
+No. of
+
+Losses
+
+affected
+
+(US$)
+
+~62 million ~70 billion
+
+Over 1 000
+fatalities, with
+nearly 900
+people missing
+
+~6 million
+
+Over
+49 million
+
+Over 650
+
+—
+
+~660 million
+
+July–
+September
+
+340
+
+~3 million
+
+5.8 million
+
+Throughout
+the year
+
+—
+
+164 million
+
+Multi-billion
+
+Early
+December
+
+Key findings
+
+THE 10 MAJOR WEATHER AND
+CLIMATE EVENTS OF THE YEAR
+• Global temperature continued to record positive anomalies; 2012 ranked
+among the 10 warmest years on record (base period: 1961–1990).
+• Arctic sea ice continued its fast decline, reaching the lowest minimum
+sea-ice extent on record.
+• Extreme heat affected Canada, the United States and Europe.
+• Extreme drought conditions affected the United States and southeastern Europe.
+• West Africa was severely hit by extreme flooding.
+• The populations of Europe, northern Africa and northern Asia were
+acutely affected by extreme cold and snow conditions.
+• Pakistan was affected by severe flooding for a third consecutive year.
+• Hurricane Sandy, the costliest tropical cyclone of the year, ravaged
+the eastern seaboard of the United States.
+• Typhoon Bopha, the deadliest tropical cyclone of the year, hit the
+Philippines in December.
+• The polar ozone hole was the second smallest in the past 20 years.
+
+11
+
+Status of the global climate in 2012
+
+1850
+
+370
+360
+350
+340
+330
+
+4
+
+1985
+
+1990
+
+1995 2000
+Year
+
+2005
+
+1750
+1700
+1650
+
+1985
+
+20
+
+(b)
+
+3
+2
+1
+
+1985
+
+1800
+
+1600
+
+2010
+
+1990
+
+1995 2000
+Year
+
+2005
+
+2010
+
+N2O mole fraction (ppb)
+
+380
+
+325
+
+(a)
+
+1990
+
+10
+5
+0
+–5
+
+1985
+
+1990
+
+The globally averaged CO2 mixing ratio in 2011
+reached 390.9±0.1 ppm, which is 40 per cent
+Mixing ratio is defined as the abundance of one component of
+a mixture (for example, a particular greenhouse gas) relative to
+that of all other components (excluding water vapour). Mixing
+ratio is an equivalent to a more technical term “mole fraction”.
+The following units are used to express mixing ratio:
+ppm = number of molecules of the gas per million molecules of
+dry air,
+ppb = number of molecules of the gas per billion (10 9) molecules
+of dry air,
+ppt = number of molecules of the gas per trillion (1012) molecules
+of dry air.
+
+12
+
+315
+310
+305
+300
+
+2010
+
+15
+
+Due to the necessity of performing post-calibration and
+quality-control checks of greenhouse gas observations at the
+measurement networks, the data on the greenhouse gases are
+delivered to the World Data Centre for Greenhouse Gases only
+in the summer of the year following the year of observations,
+while the results of global analysis are presented in November
+of the year following the year of observations, which creates a
+one-year delay relative to meteorological data reporting. The
+results of a global analysis of the 2012 observations will be
+available only in November 2013.
+
+1995 2000
+Year
+
+2005
+
+2010
+
+(a)
+
+320
+
+1980 1985 1990 1995 2000 2005 2010
+Year
+2
+
+The analysis of observations from the WMO
+Global Atmosphere Watch Programme shows
+that the globally averaged mixing ratios1 of
+carbon dioxide (CO2), methane (CH4) and nitrous
+oxide (N2O) reached new highs in 2011. (Data for
+2012 have not yet been compiled.)2
+
+2
+
+2005
+
+(b)
+
+STATE OF GREENHOUSE GASES IN THE
+ATMOSPHERE IN 2011
+
+1
+
+1995 2000
+Year
+
+N2O growth rate (ppb/yr)
+
+(a)
+
+CH4 mole fraction (ppb)
+
+390
+
+CH4 growth rate (ppb/yr)
+
+CO2 mole fraction (ppm)
+
+400
+
+CO2 growth rate (ppm/yr)
+
+Figure 8. Left: Globally
+averaged CO 2 mole
+fraction (a) and its
+growth rate (b) from
+1984 to 2011. Annually
+averaged growth rate
+is shown by columns
+at (b). Centre: Globally
+averaged CH 4 mole
+fraction (a) and its
+growth rate (b) from
+1984 to 2011. Annually
+averaged growth rate is
+shown by columns at (b).
+Right: Globally averaged
+N 2O mole fraction (a) and
+its growth rate (b) from
+1980 to 2011. Annually
+averaged growth rate is
+shown by columns at (b).
+
+(b)
+
+1.5
+1
+0.5
+0
+
+1980 1985 1990 1995 2000 2005 2010
+Year
+
+higher than the pre-industrial level (before 1750).
+The annual increase from 2010 to 2011 was 2.0
+ppm, which is higher than the average growth
+rate for the 1990s (~1.5 ppm/yr) and is the same
+as the average growth rate for the past decade
+(~2.0 ppm/yr).
+Atmospheric CH 4 reached a new high of
+1813±2 ppb in 2011, which is 159 per cent higher
+than the pre-industrial level. The growth rate of
+CH4 decreased from ~13 ppb/yr during the early
+1980s to near zero during 1999–2006. However,
+since 2007, atmospheric CH4 has been increasing
+again, with a nearly constant rate during the
+last three years.
+The average global N2O mixing ratio in 2011
+reached 324.2±0.1 ppb, which is 1.0 ppb above
+2010 and 20 per cent above the pre-industrial
+level. The annual increase from 2010 to 2011
+is greater than the mean growth rate over the
+past 10 years (0.78 ppb/yr). The NOAA Annual
+Greenhouse Gas Index (AGGI) was 1.30 in 2011;
+this corresponds to 2.84 W/m2 (watts per square
+metre) of global radiative forcing, relative to
+1750, of all long-lived greenhouse gases.
+The AGGI indicates an increase in radiative
+forcing by all long-lived greenhouse gases of
+30 per cent since 1990 and of 1.2 per cent from
+2010 to 2011. The radiative forcing by all longlived greenhouse gases in 2011 corresponded
+to a CO2-equivalent mixing ratio of 473 ppm
+(http://www.esrl.noaa.gov/gmd/aggi).
+
+Key findings
+
+POLAR OZONE
+The Antarctic ozone hole of 2012 was less
+severe than in most recent years, reaching its
+maximum daily size at 21.1 million km 2, the
+second smallest in the last 20 years. Averaged over the 7 September to 13 October
+period, the size of the 2012 ozone hole was
+17.8 million km 2 .
+The minimum daily average ozone in 2012
+occurred on 1 October at 124 Dobson Units
+(DU), the second highest value in two decades.
+
+Second, the 2012 Antarctic stratosphere was
+unusually active, leading to the transport of
+ozone-rich air from neighbouring latitudes into
+the South Pole region. This ozone-rich air acted
+like a lid on top of the ozone-depleted air masses
+underneath, leading to low values for the area
+of the ozone hole (that is, the area of the region
+where total ozone is less than 220 DU). These
+low values occurred despite the fact that ozone
+depletion had taken place more or less as normal
+in the 14–20 km altitude range.
+
+200
+30
+
+Day number
+
+300
+
+350
+30
+
+2012
+2011
+2010
+
+25
+
+25
+
+2006
+2004
+
+Area [106 km2]
+
+Two factors contributed to this development
+in 2012. First, stratospheric temperatures over
+the South Pole region were somewhat warmer
+than those seen in recent years. This led to a
+smaller extent of polar stratospheric clouds in
+comparison with most recent years, although the
+Antarctic stratosphere was even warmer in 2010.
+The relatively mild stratospheric temperatures
+of 2012 would normally have led to a moderately
+weak ozone hole, probably somewhere between
+the ozone holes of 2010 (relatively weak) and
+2011 (rather normal).
+
+250
+
+2002
+
+20
+
+20
+
+2000
+1992–2011
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+Jul
+
+Aug
+
+Sep
+
+Oct
+Month
+
+Nov
+
+Dec
+
+Figure 9. Daily area
+(millions of km 2) of the
+Antarctic ozone hole for
+2012 compared with the
+two previous ozone holes
+(2011 and 2010). Also
+shown for comparison
+are examples of two
+other years (2004 and
+2002) that experienced
+weak ozone holes. The
+two largest ozone holes
+on record (in 2000 and
+2006) are also shown.
+The plot is produced at
+WMO and based on data
+from the Multi Sensor
+Re-analysis (MSR) of
+the Royal Netherlands
+Meteorological Institute.
+More information about
+the MSR dataset can be
+found at http://www.
+knmi.nl/research/
+climate_chemistry/
+ck.php?item=news_
+archive&year=2010&
+month=nov.
+
+13
+
+Regional climate features
+AFRICA
+Temperature and precipitation
+Much of Africa experienced above-average temperatures during the year, with the most anomalous
+warmth across parts of northern Africa. In Tunisia,
+2012 was among the top 10 warmest years since
+1950. For East Africa, maximum temperatures were
+above average in Kenya during January and February. In some areas, the maximum temperatures,
+especially in January, were the highest observed
+since 2000. In South Africa, the annual mean
+temperature anomalies for 2012 from preliminary
+station data were on average 0.23°C above the
+1961–1990 average. The mean temperatures of
+the past 16 years were all above normal.
+Northern hemisphere summer precipitation
+across sub-Saharan Africa was above average,
+with much of western Africa, specifically Senegal,
+southern Mauritania, western and eastern Mali,
+Niger and northern Burkina Faso, having 40 per
+cent or more above-normal precipitation. Several
+countries in the Gulf of Guinea and eastern Africa
+had precipitation deficits, recording only 70 per
+cent of normal precipitation.
+Heatwaves and extreme high temperatures
+Heatwaves affected northern Africa throughout
+the year. Morocco experienced its worst heatwave during June and again from mid-July to
+early August, prompting many new temperature
+records. In some locations, the new temperature
+records were 2°C–3°C above the previous record.
+
+YOUSSEF BOUDLAL / REUTERS
+
+People gather at the beach during a heatwave
+in Casablanca, July 2012.
+
+14
+
+Drought
+Below-average rainfall occurred during the
+March–May rainfall season across north-eastern
+parts of Kenya, with the city of Garissa recording a paltry 19.2 mm, which was 13 per cent of
+the average and the second lowest since 1959.
+Extreme precipitation and flooding
+Many parts of western Africa and the Sahel,
+including Niger and Chad, suffered severe
+flooding between July and September because
+of a very active monsoon. The heavy rainfall
+prompted severe floods in 23 states across
+Nigeria. The hazardous weather affected nearly
+3 million people and caused 300 fatalities. The
+floods destroyed farmlands, homes and schools
+and caused outbreaks of cholera and other
+diseases. The torrential rainfall caused floods
+across parts of Niger, destroying thousands
+of homes, affecting over 480 000 people and
+claiming the lives of nearly 100 people.
+Across parts of the United Republic of Tanzania,
+heavy rain fell during different episodes in April,
+prompting flash floods. In Kenya, record-breaking
+rainfall events occurred in May and August, as
+well as during the “short rains” season (October–
+December). Continuous heavy rainfall occurred
+in the western parts of Kenya during the short
+rains season. This was mainly attributed to the
+positive Indian Ocean Dipole. Some of the rivers
+burst their banks and caused flooding, sweeping away some people and displacing others,
+as well as destroying infrastructure in the Lake
+Victoria basin.
+In South Africa, Tropical Storm Dando brought
+heavy rains over the north-eastern parts of the
+country on 17 January, increasing river flow,
+raising dam levels and causing localized flooding.
+Extensive flooding occurred across the cities
+of Cape Town and Port Elizabeth during June,
+causing thousands of people to be displaced.
+August once again saw parts of the low-lying
+areas of Cape Town flooded. Following heavy
+rain in the Eastern Cape on 20–21 October, the
+main routes from East London to Port Elizabeth
+were closed indefinitely to heavy vehicles due
+to road damage.
+Extreme cold and snowfall
+Cold conditions during late January through
+mid-February affected parts of northern Africa,
+
+ASIA
+Temperature and precipitation
+Most of western and southern Asia experienced
+warmer-than-average temperatures during
+2012, with the most notable warmth across
+north-western Asia. However, cooler-thanaverage conditions were present across parts
+of central Asia.
+The Russian Federation as a whole had a warm
+winter, spring and summer, with temperature
+anomalies above the 1961–1990 average. April
+was the warmest of all three northern hemisphere spring months relative to normal, with
+mean monthly temperature anomalies exceeding 7°C in several regions. The summer of 2012
+was the second warmest on record, behind the
+record-breaking summer of 2010, and autumn
+was the fourth warmest since records began
+in 1891.
+While China experienced above-average temperatures during spring and summer, temperatures
+were below average during winter and autumn.
+Overall, the 2012 annual temperature for the
+country was 9.4°C, which is 0.2°C below the
+1981–2010 average. Mean temperature over
+India for the summer monsoon season was
+0.61°C above the 1961–1990 average – the second
+warmest monsoon year since 1901, behind 2009
+and 1987 (+0.80°C). Monthly temperatures in
+Thailand during 2012 were warmer than average, with November and December reporting
+anomalies in the range of 2°C–3°C above average.
+The 2012 annual precipitation in China was
+669.3 mm, 6.3 per cent above average. North
+China, Beijing and Tianjin experienced their
+wettest year in 35 years. Rainfall for India as a
+whole was only 69 per cent of average. Rainfall
+during the pre-monsoon season (March–May)
+
+A woman crosses a flooded street in Wuhan,
+Hubei province, China, May 2012.
+
+CHINA DAILY INFORMATION CORP – CDIC / REUTERS
+
+with some countries setting new record low
+minimum temperatures. In Kenitra, Morocco,
+temperatures dropped to –3°C on 13 February,
+a new record for the location, which previously
+was 0.8°C, and thus the first time in the modern
+instrumental record that this coastal location
+recorded a freezing temperature. Meanwhile,
+Tunisia experienced its most intense cold wave
+since 2002.
+
+was the lowest since 1901. Monsoon season
+rainfall for the country as a whole was below
+normal (93 per cent of average). Rainfall was
+characterized by remarkable spatial and temporal
+variability.
+Heatwaves and extreme high temperatures
+During April and May, most of China experienced
+exceptional warmth, with most areas having
+monthly anomalies as high as 5°C above the
+1961–1990 average. On 30 April, Hong Kong,
+China recorded a daily mean temperature of
+28.5°C, tying with 26 April 1994 as the highest
+temperature in April since records began in
+1884. On 3 May, Hong Kong, China observed
+a minimum temperature of 28.0°C, its earliest
+occurrence of a “hot night” (minimum temperatures equal to or higher than 28°C).
+South-central China experienced a heatwave
+from late June to mid-July, prompting the electricity load to rise as high as 3.8 gigawatts in
+Changsha city on 9 July, the highest on record.
+The warm conditions continued to affect parts
+of southern China in August, with Hong Kong,
+China experiencing one of its warmest August
+months on record.
+An intense heatwave affected parts of India
+during the period 29 May–6 June. The affected
+regions included Uttarakhand (a hilly area of
+
+15
+
+15
+
+Canada
+Alaska, United States
+Anomalously cool conditions affected
+the state during January, resulting in
+the coolest January in the 95-year
+record for the state.
+
+Arctic sea-ice extent
+During its melt season, the Arctic
+reached its lowest sea-ice extent on
+record. During its growth season, the
+Arctic reached its ninth lowest
+maximum sea-ice extent since records
+began in 1979.
+
+Experienced its fifth warmest year,
+third warmest winter, ninth
+warmest spring, warmest
+summer and 17th warmest autumn
+since national records began
+in 1948.
+
+United States
+Nearly two thirds of the
+contiguous United States
+was in drought by the end of
+September. The Palmer Drought
+Severity Index of 55 per cent in June
+was the largest percentage since
+December 1956. The drought
+resulted in a multi-billion dollar
+agricultural disaster.
+
+Eastern North Pacific
+hurricane season
+Near-average activity: 17 storms, 10 hurricanes
+
+Hurricane Carlotta
+14 –16 June
+Maximum winds – 175 km/h: Carlotta was the easternmost
+landfalling hurricane in the North Pacific since 1966.
+
+El Niño-Southern Oscillation
+(ENSO)
+
+United Kingdom
+
+Europe
+
+After experiencing dry conditions
+during the first three months, the
+remainder of the year was wet,
+resulting in the second wettest year
+on record, behind 2000.
+
+Lack of precipitation during most of the year,
+combined with warmer-than-average temperatures, contributed to severe drought conditions
+across parts of south-eastern Europe, greatly
+affecting harvest yields, stream flows, water
+supplies and human health.
+
+Hurricane Sandy
+22–31 October
+Maximum winds – 175 km/h: Sandy caused
+significant damage to infrastructure, roads and
+thousands of homes across parts of the
+Caribbean, claiming nearly 100 lives. Sandy
+also affected the United States, prompting
+severe floods across the north-east and
+resulting in more than 130 fatalities.
+
+Atlantic hurricane
+season
+Above-average seasonal activity:
+19 storms, 10 hurricanes
+
+Western and
+central Africa
+
+ENSO began the year in a cold phase (La Niña),
+transitioning to neutral conditions by April.
+
+Many parts of western Africa and
+the Sahel experienced severe
+flooding between July and
+September. Nearly 3 million people
+were affected. The flooding
+destroyed farmlands, homes and
+schools and caused outbreaks of
+cholera and other diseases.
+
+Brazil
+Severe drought affected north-eastern Brazil, the
+worst in 50 years. Over 1 100 towns were affected.
+
+Cyclone maximum
+wind legend
+(km/h)
+63 – 118
+119 – 153
+154 – 177
+178 – 209
+210 – 249
+> 249
+
+Argentina
+Extreme rainfall severely affected
+Buenos Aires province during August,
+producing severe flooding. Monthly
+totals broke historical records in
+several locations.
+
+Figure 10. Significant climate anomalies and events in 2012
+(Source: National Climatic Data Center, NOAA, United States)
+
+16
+
+Global tropical
+cyclone activity
+Near-average activity: 84 storms,
+41 hurricanes/typhoons/cyclones
+
+Antarctic sea-ice extent
+Fourth largest sea-ice extent during its melt season.
+During its growth season, the Antarctic sea-ice
+extent was the largest since records began in 1979.
+
+Russian Federation
+
+Western North Pacific
+typhoon season
+
+Experienced its second warmest summer, behind
+the record-breaking summer of 2010.
+
+Near-average activity: 25 storms, 14 typhoons
+
+China
+Yunnan and south-western Sichuan provinces
+experienced severe drought during winter and
+spring. Nearly 9.6 million people were affected
+and over 1 million hectares of cropland damaged.
+
+Eurasia
+A cold wave affected most of the Eurasian continent from
+mid-January to mid-February. This was the worst cold in
+at least 26 years in central and eastern Europe. More than
+650 people died due to the frigid conditions. The area from
+North-east China to eastern Inner Mongolia recorded
+minimum temperatures ranging from –30°C to –40°C.
+
+Typhoon Sanba
+10 –19 September
+Maximum winds – 205 km/h – the strongest cyclone
+globally: Sanba affected the Philippines, Japan and
+the Korean Peninsula, dumping torrential rain and
+triggering flooding and landslides that affected
+thousands of people.
+
+Typhoon Bopha
+25 November– 9 December
+
+Pakistan
+Devastating floods
+hit Pakistan during
+September. Over
+5 million people were
+affected, with more
+than 460 000 houses
+damaged or
+destroyed.
+
+Maximum winds – 185 km/h: Bopha struck the southern
+Philippine island of Mindanao in early December. Bopha
+was the strongest cyclone to make landfall in the area.
+More than 1 000 residents were killed and nearly 900 were
+reported missing.
+
+India
+Rainfall during the
+pre-monsoon
+season was the
+lowest since 1901.
+
+Australian cyclone season
+Below-average activity: 7 storms, 3 cyclones
+
+North Indian Ocean
+cyclone season
+Below-average activity: 2 storms, 0 cyclones
+
+Cyclone Evan
+9 – 25 December
+
+Cyclone Anais
+12–19 October
+
+Maximum winds – 230 km/h: Evan was the
+worst tropical cyclone to affect Samoa since Val
+in 1991. Evan is also the costliest tropical
+cyclone ever for Samoa.
+
+Maximum winds – 185 km/h: Anais was the second
+earliest tropical cyclone to form so early in the
+season after Blanche in 1969 and was the first
+intense cyclone on record for the month of October.
+
+South-West Indian Ocean
+cyclone season
+Above-average activity: 11 storms, 3 cyclones
+
+Australia
+Australia had near-average rainfall
+throughout the year. Western Australia had
+its third driest April–October on record.
+
+South-West Pacific
+cyclone season
+Below-average activity: 3 storms, 1 cyclone
+
+TROPICAL CYCLONE CATEGORY
+Hurricane, cyclone and typhoon are different terms for the same weather phenomenon that is accompanied
+by torrential rain and maximum sustained wind speeds (near centre) exceeding 119 kilometres per hour.
+Such a weather phenomenon is referred to by the following name depending on the region:
+•
+
+Hurricane: Western North Atlantic, central and eastern North Pacific, Caribbean Sea and Gulf of Mexico;
+
+•
+
+Typhoon: Western North Pacific;
+
+•
+
+Cyclone: Bay of Bengal and Arabian Sea;
+
+•
+
+Severe tropical cyclone: Western South Pacific and South-East Indian Ocean;
+
+•
+
+Tropical cyclone: South-West Indian Ocean.
+
+17
+
+Status of the global climate in 2012
+
+the western Himalayas), Uttar Pradesh, Bihar,
+Jharkhand and parts of Orissa, West Bengal
+and coastal Andhra Pradesh. The sweltering
+heat brought maximum temperatures that were
+generally 45°C or higher and claimed the lives
+of more than 500 people.
+A heatwave from mid-July to early August
+brought daily maximum temperatures between
+29°C–37°C across parts of central Russian Federation. Northern Japan experienced extremely
+warm conditions from late August to mid-September due to the significantly enhanced North
+Pacific High, prompting record-high 10-day mean
+temperatures with an anomaly of 5.5°C above the
+1981–2010 average in the middle of September.
+Drought and wildfires
+In China, Yunnan province and south-western
+Sichuan province experienced severe drought
+during the winter and spring. Nearly 9.6 million
+people were affected, over 1 million hectares
+of crops were damaged and direct economic
+losses were over US$ 780 million. While most
+of southern China had near- to above-average
+precipitation during the entire year, Hong Kong,
+China experienced below-average conditions
+with only 80 per cent of the 1981–2010 average
+precipitation during the same period. Hong
+Kong, China had its driest August since 1992.
+Drought conditions also affected parts of western
+Russian Federation and western Siberia during June and July. The dry conditions caused
+crop failure or damages, resulting in nearly
+US$ 630 million in damages.
+Drought conditions were present across parts of
+the Islamic Republic of Iran throughout the year.
+The south-west region experienced moderate to
+extreme drought from November 2010 through
+November 2012. The dry conditions contributed
+to wildfires.
+Extreme precipitation and flooding
+Parts of southern China experienced their heaviest rainfall in the past 32 years as torrential rain
+fell from 5 April to 15 May. On 21–22 July, Beijing,
+Tianjin and Hebei had torrential downpours, with
+several stations recording their highest daily
+precipitation on record. Mentougou recorded
+an impressive 305.2 mm of precipitation in one
+day. Some US$ 4.5 billion in economic losses
+
+18
+
+18
+
+and 114 deaths were attributed to this extreme
+rainfall event.
+Episodes of extreme precipitation and devastating floods were recorded across parts of western
+Russian Federation during May–October and in
+the country’s southern Far East during August–
+September. On 21 May, the eastern part of the
+Krasnodar Territory recorded 110 mm of precipitation in under two hours. The heavy rain caused
+floods, inundating nearly 50 homes. Torrential
+downpours fell once again in the area in early
+July, triggering devastating floods that killed
+nearly 200 people, flooded over 5 500 homes
+and destroyed infrastructure in the town of
+Krymsk. Damages were estimated at nearly
+US$ 630 million. On 2 August, extreme flooding
+was observed in Khabarovsk Territory, where
+river water levels were exceeded by 10 metres.
+The heavy rain inundated roads, crops and
+60 houses and destroyed a bridge.
+Heavy rainfall during the last week of June
+prompted severe floods in Assam in northeastern India. The floods claimed nearly 120 lives.
+A cloudburst during the night of 13 September
+in Uttarakhand (hilly areas of the western Himalaya) washed away many houses and claimed
+at least 70 lives.
+Devastating floods hit Pakistan during September. Monsoonal rains prompted deadly flooding
+across the country, with Balochistan, Punjab
+and Sindh the hardest-hit regions. Over 5 million people and over 400 000 hectares of crops
+were affected, and more than 460 000 houses
+and infrastructure were damaged or destroyed.
+Heavy rain fell across parts of the Golestan,
+Mazandaran and Gilan provinces in the Islamic
+Republic of Iran on 12–13 October, prompting
+deadly floods that claimed the lives of six people
+and caused damages to agriculture, residential
+areas and roads. Economic losses were estimated at over US$ 47 million.
+Extreme cold and snowfall
+China experienced two cold snaps that had
+significant impacts. From mid-January to midFebruary, North-east China through eastern Inner
+Mongolia registered minimum temperatures
+ranging between –30°C and –40°C. This affected
+nearly 41 000 people, damaged 25 000 houses
+
+Regional climate features
+
+and caused a direct economic loss equivalent
+to US$ 1.8 million. The cool temperatures contributed to the region having its coldest mean
+minimum temperature (–25.6°C) since 1991 and
+its fourth coldest since national records began
+in 1951.
+Snowfall also fell across parts of the country,
+with Nyalam registering a total of 91.5 mm
+on 9 February, the highest daily snowfall total
+on record. The second cold snap occurred on
+22–23 August across parts of the country and
+affecting 125 000 hectares, the most serious
+cold damage since 1961. Nearly 400 000 people
+were affected by the cold, and economic losses
+were equivalent to US$ 25.7 million.
+
+SOUTH AMERICA
+Temperature and precipitation
+The 2012 mean temperature was predominantly
+above average in South America. The persistence
+of warm anomalies in the range of 1°C–2°C was
+observed over northern South America, Brazil,
+Paraguay and northern Argentina. The persistent
+warmth that affected Argentina throughout the
+year led to the warmest year on record since
+1961, at 0.78°C above the 1961–1990 average.
+This value surpassed the previous record year of
+2006 by +0.22°C. Spring 2012 was the warmest
+such period for the country.
+
+ENRIQUE MARCARIAN / REUTERS
+
+Precipitation was above average during January–March in western parts of northern South
+America and in Argentina, with anomalies ranging from 50 mm to 250 mm. By contrast, during
+most of the year below-normal precipitation
+
+A man herds dairy cows in the city of Totoras,
+north of Buenos Aires, February 2012.
+
+was observed in Brazil, which bottomed out
+in March–May, with a deficit of 300 mm. This
+had severe impacts on the populations of the
+northern region.
+In the Bolivarian Republic of Venezuela, Colombia, Suriname and Guyana, below-average
+precipitation was observed from April through
+to the end of the year. From August onwards,
+precipitation was above average across the
+central region of Argentina, with the southern
+hemisphere spring (September–November)
+being extremely wet for the region.
+Heatwaves and extreme high temperatures
+A moderate to severe heatwave affected parts
+of central Argentina during the first 10 days
+of January. The intense heat prompted many
+temperature records to be broken and caused
+energy supply cuts.
+Drought
+North-east Brazil experienced a severe drought
+during its 2012 wet season, which followed several years of near- to above-normal precipitation.
+The severe drought affected over 1 100 towns,
+endangering the lives of local people and their
+livestock. This was the lowest rainfall registered
+in the region in the past 50 years.
+Extreme precipitation and flooding
+Across northern South America, parts of Colombia were affected by heavy precipitation during
+most of the year, with some areas recording
+daily totals between 150 mm and 250 mm. The
+weather in Colombia during the first four months
+of the year was influenced by La Niña, which
+produced heavy rain across parts of the country,
+leading to the overflow of rivers and floods that
+affected thousands of people. In the northern
+part of the country, Istmina, Chocó recorded a
+total of 251 mm of rain on 31 March, the highest
+24-hour amount in March.
+In August, extreme heavy rainfall severely
+affected the Buenos Aires province in Argentina,
+producing severe flooding and evacuations.
+Monthly totals broke historical records (since
+1875) in several locations across central and
+parts of northern Argentina, with nearly double
+the previous records for the month of August in
+some places. On 6 December, a severe storm
+brought heavy precipitation to Buenos Aires.
+
+19
+
+Status of the global climate in 2012
+
+In a few hours a total of 122 mm of precipitation fell, resulting in the second highest daily
+precipitation in December since 1906. In the city
+of Rosario, Santa Fe province, extreme rainfall
+fell on 19 December, with a total of 178 mm
+accumulating in 12 hours, the second highest
+daily rainfall since 1935.
+Snowfall
+In Argentina, the southernmost city in the world,
+Ushuaia, was affected by heavy snowfall during
+June, equaling the record 19-day snowfalls in
+June 1986 and 1995.
+
+NORTH AMERICA,
+CENTRAL AMERICA AND
+THE CARIBBEAN
+Temperature and precipitation
+Across North America, the contiguous United
+States and Canada experienced anomalous
+warmth throughout the year. The 2011/2012
+northern hemisphere winter (December–February) ranked as the third warmest for Canada and
+for the contiguous United States since national
+records began in 1948 and 1895, respectively.
+
+Figure 11. Temperature
+anomalies (°F) relative
+to 1961–1990 for
+March 2012 across the
+contiguous United States
+(Source: National
+Oceanic and Atmospheric
+Administration)
+
+20
+
+Canada experienced its warmest summer (June–
+August) on record, with the contiguous United
+States having its warmest spring (April–May)
+and second warmest summer on record. Autumn
+(September–November) brought cooler temperatures across parts of the contiguous United
+States and Canada. Overall, the contiguous
+United States had its warmest year on record,
+approximately 1.8°C above the twentieth century
+(1901–2000) average.
+While most of North America was experiencing
+unusual warmth during January, anomalous cool
+conditions dominated across Alaska, resulting
+in the coldest January in the 95-year record
+for the state.
+Across Mexico, warmer-than-average temperatures were present throughout the year.
+February was the only month when coolerthan-average temperatures were present across
+parts of the country. In the Caribbean, summer
+temperatures were warmer than average, particularly over the Greater Antilles, with some
+locations setting all-time records from June
+through November. In the metro area of San
+Juan, Puerto Rico, summer 2012 was the third
+warmest on record, with June 2012 the warmest
+month on record.
+
+Difference from average temperature (°F)
+–5
+
+0
+
+15
+
+Regional climate features
+
+Canada observed near-normal precipitation,
+just 1 per cent above the 1961–1990 average.
+The 2011/2012 winter was the second driest
+on record at 18 per cent below average. Precipitation was near average during the other
+seasons. Much of the contiguous United States
+experienced below-average precipitation, with a
+national average of 674.9 mm – 65.3 mm below
+the 1901–2000 average. Although many states
+had below-average precipitation for the year,
+only two states, Nebraska and Wyoming, had
+their driest year on record.
+In the Caribbean, precipitation was average to
+below average during the region’s wet season
+(June–November), with June and September
+being very dry across the region. In June, totals
+of 3.1 mm and 4.1 mm were recorded on Sint
+Maarten and in San Juan, Puerto Rico, respectively, the driest June in the 60-year record for
+both locations. Other islands that had their top
+three driest June were Saint Thomas (second
+driest), Saint Croix (third driest) and Antigua
+(third driest). Saint Thomas and Antigua had
+their driest September on record. During its
+dry season (January–May), Grenada recorded
+245 per cent of normal precipitation, the wettest
+in 27 years.
+Heatwaves and extreme temperatures
+Major heatwaves affected the northern hemisphere during the year, with the most notable
+heatwaves occurring in early spring (March–May)
+across North America. Summer-like temperatures affected a large portion of North America
+throughout most of March.
+In Canada, temperatures soared to record
+and near-record levels, contributing to the
+warmest March on record across the Prairies
+and in the Great Lakes and Saint Lawrence
+basin. Temperature records were set at many
+locations across Canada in March. Winnipeg
+registered a maximum temperature of 20.9°C
+on 19 March, the earliest recording of temperatures above 20°C in a calendar year. On
+21 March, Petawawa recorded a maximum
+temperature of 28.8°C, the highest temperature ever recorded in Ontario in March. This
+value surpassed the previous record by 16.6°C.
+Halifax reported a maximum temperature of
+27.2°C on 22 March, shattering its previous
+record of 11.8°C set in 1983.
+
+Across the United States, the extraordinary warm
+spell resulted in nearly 15 000 new daily records
+for high maximum and minimum temperatures
+during March, nearly double the number of broken records experienced during the August 2011
+heatwave. Every state in the country experienced
+a record warm daily temperature during March.
+In some cases, the minimum temperature was
+as warm as or warmer than the existing record
+maximum temperature for a given date.
+The hardest hit area was the Midwestern region,
+where temperatures were generally 11°C–17°C
+above average, with some locations setting
+records for the warmest March temperature.
+In some instances, the differences between the
+new record and the old record were as high as
+8°C –11°C. The extreme heat contributed to the
+contiguous United States having the warmest
+March on record. The heat continued into the
+northern hemisphere summer (June–August),
+exacerbating drought conditions and fuelling
+wildfires.
+Drought and wildfires
+The year began with severe to exceptional
+drought, as defined by the North American
+Drought Monitor, across the south central and
+south-eastern contiguous United States and
+the northern half of Mexico. In the southern
+Plains of the United States, the 2012 drought
+
+Intensity:
+D0 Abnormally dry
+D1 Drought – moderate
+D2 Drought – severe
+D3 Drought – extreme
+D4 Drought – exceptional
+
+Figure 12. North
+American drought
+status as at the end
+of September 2012
+(Sources: NOAA National
+Climatic Data Center,
+in association with the
+United States Department
+of Agriculture, the NOAA
+Climate Prediction Center
+and the National Drought
+Mitigation Center, United
+States; Environment
+Canada and Agriculture
+and Agri-Food Canada;
+the Comisión Nacional
+del Agua, and the
+Servicio Meteorológico
+Nacional, Mexico)
+
+Drought not analyzed
+in shaded areas
+
+Drought impact types:
+Delineates dominant impacts
+S = Short-term, typically < 6 months
+(e.g. agriculture, grasslands)
+L = Long-term, typically > 6 months
+(e.g. hydrology, ecology)
+
+L
+S
+
+21
+
+KARI GREER / REUTERS
+
+Status of the global climate in 2012
+
+A firefighter sprays water during a burn operation in
+Boise National Forest, Idaho, United States, August 2012.
+
+was a continuation of severe drought conditions
+that developed in 2011. Drought conditions
+evolved across the United States throughout
+2012, improving in some areas while deteriorating in others. According to the United States
+Drought Monitor (USDM), nearly two thirds of
+the contiguous United States (64.6 per cent)
+was considered to be in moderate to exceptional
+drought on 25 September, the date of peak
+coverage and the highest drought footprint in
+the 13-year history of the USDM.
+Overall, the drought affected an estimated
+164 million people and resulted in a multibillion dollar agricultural disaster, the most
+severe and extensive impact since the drought
+of 1988. Late-summer (June –August) and
+autumn (September–November) precipitation
+provided substantial drought relief in some areas
+across the contiguous United States; however,
+significant drought persisted through year’s
+end in much of the western and central parts of
+the country.
+Dry conditions, combined with the heat in
+the northern hemisphere during most of the
+spring and summer, contributed to devastating
+wildfires. Across the contiguous United States,
+although the number of wildfires throughout
+
+22
+
+the year was the lowest since 2000, the amount
+of acres burned per fire event during the same
+period was the largest on record.
+Noteworthy wildfires across the contiguous
+United States occurred in New Mexico, Colorado
+and Oregon. The New Mexico wildfire began
+in mid-May as a result of lightning strikes in
+the very dry Gila National Forest in the western part of the state. The fire charred over
+63 000 hectares, becoming the largest wildfire
+in the state’s history. In Colorado, the 2012
+wildfire season was the state’s worst season in
+a decade, when nearly 102 000 hectares were
+burned by wildfires. It was the most destructive
+fire in the state’s history and the second largest
+wildfire on record in the month of June. Oregon
+also reported having its largest wildfire since
+the 1860s.
+Extreme precipitation and flooding
+Across the contiguous United States, several
+tropical storms brought much-needed precipitation to drought-stricken areas. Tropical Storm
+Debby dumped record rainfall across Florida,
+contributing to its wettest June on record. Hurricane Isaac brought heavy rainfall to southern
+states, resulting in the second wettest August
+on record in Louisiana and Mississippi.
+
+Regional climate features
+
+The beneficial rains across the region helped
+improve drought conditions across the Lower
+Mississippi River Valley. Florida had its wettest
+summer on record, partially driven by the storms.
+Prior to reaching the United States mainland,
+Hurricane Isaac dropped between 100–200 mm
+of rain across Puerto Rico, with locally heavier
+amounts across the interior mountains.
+Cold and snowfall
+In the United States, a snowstorm brought heavy
+snow to parts of eastern Colorado and Nebraska
+on 2–4 February. In Colorado, 40.4 cm of snow fell
+in Denver, setting a February record and surpassing the previous record set in February 1912 by
+4.6 cm. Meanwhile, 57.7 cm fell in Boulder, also
+setting a February record. In Lincoln, Nebraska,
+a total of 28.2 cm was observed, the city’s fourth
+largest 24-hour snowfall on record.
+
+SOUTH-WEST PACIFIC
+Temperature and precipitation
+Most of the South-West Pacific was warmer
+than normal. Northern Australia was an exception, with cooler-than-average conditions, but
+Australia as a whole had a mean temperature of
+0.11°C above the 1961–1990 average of 21.81°C.
+The maximum temperatures were 0.51°C above
+average.
+Despite the high average warmth, minimum temperatures on the Australian continent were cooler
+than average, especially from February through
+to August, resulting in a January–December
+national minimum temperature of 0.28°C below
+average. The contrast between high maximum
+and low minimum temperatures resulted in
+the third-highest diurnal temperature range
+on record, behind 1994 and 2002. The winter
+(June–August) minimum temperature ranked
+as the third coolest for the country as a whole.
+Following two very wet years, Australia experienced near-average precipitation in 2012. The
+year began with above-average precipitation
+for most of the country during January–March,
+consistent with the presence of a La Niña event.
+March was the third wettest on record for the
+country. After the dissipation of La Niña in April,
+precipitation was generally below average for
+most of the southern regions of the country.
+
+In Fiji, Nadi recorded a total annual rainfall of
+3 548 mm, the highest amount in 69 years of
+records.
+Heatwaves and extreme temperatures
+Across parts of Australia, maximum temperatures were well above average from August
+onwards. Of particular interest, Evans Head
+had a maximum temperature of 41.6°C on
+20 October, the highest October temperature
+on record for any coastal New South Wales site.
+Meanwhile, Birdsville had its earliest springtime
+40-degree day on record when it reached 40.6°C
+on 20 September.
+Drought
+After extremely wet years in 2010 and 2011
+associated with La Niña, precipitation returned
+to near normal over much of Australia in 2012.
+The first quarter of the year (January–March)
+was much wetter than normal over most of the
+country as La Niña still prevailed, but from April
+onwards conditions were dry over most areas.
+Nationally, the April–October precipitation total
+was 31 per cent below normal, the eleventh
+lowest on record.
+Regionally, Western Australia had its third driest
+April–October on record. A number of sites in
+the interior of Western Australia and northern
+South Australia received less than 10 mm in
+the seven-month period. An indicator of the
+dry conditions was that no rain fell at Alice
+Springs Airport in 157 days from 25 April to
+28 September, the longest rainless period in
+the site’s 71-year history.
+Extreme precipitation and flooding
+Across Australia, the most extensive flood event
+of the year occurred in late February and early
+March as a result of persistent heavy rain in a
+region extending from eastern South Australia
+through most of southern inland New South
+Wales and northern border areas of Victoria.
+Heavy rains commenced on 27 February and
+continued until 4 March, with weekly totals
+exceeding 200 mm over a large part of southern
+New South Wales and adjacent areas of northern
+Victoria.
+Seven-day precipitation averages for the Upper
+Murray (nearly 295 mm), Murrumbidgee (nearly
+203 mm) and Lachlan catchments (about 180 mm)
+
+23
+
+Status of the global climate in 2012
+
+Rainfall decile ranges
+
+Rainfall decile ranges
+
+10
+
+Highest on
+record
+Very much
+above average
+
+Above average
+
+8–9
+
+Above average
+
+4–7
+
+Average
+
+4–7
+
+Average
+
+2–3
+
+Below average
+
+2–3
+
+Below average
+
+Very much
+below average
+Lowest on
+record
+
+were all nearly double the previous record high
+values for any seven-day period. Parts of the
+Murrumbidgee and Lachlan Rivers reached their
+highest flood peaks since 1974, and many towns
+were evacuated, including Wagga Wagga, Hay
+and Forbes.
+The northern and western parts of Fiji experienced severe flooding on 21–26 January. More
+than 200 mm of rainfall were recorded across
+the majority of the Western Division between 22
+and 24 January; notably, 863 mm were recorded
+at Vatukoula, 818 mm at Tavua, 579 mm at Nadi
+Airport, 552 mm at Lautoka Mill, 547 mm at Penang Mill and 513 mm at Rarawai Mill. These high
+rainfall amounts, with already saturated ground
+conditions, contributed to severe flooding in the
+major towns of Nadi, Ba and Rakiraki.
+Rain was particularly heavy and prolonged in
+the Western Division, which consequently led
+to severe flooding of major rivers, streams and
+low-lying areas in the Division until 31 January.
+The Western Division experienced one of its
+worst floods in the last week of March.
+Snow and extreme cold
+In Australia, unusually cool minimum temperatures affected much of inland Australia in early
+July. South Australia was particularly cold, with
+Yunta recording a minimum temperature of
+–7.5°C on 6 July, the lowest temperature recorded
+in South Australia since 1983. An all-time record
+of –5.0°C was set at Marla on 7 July. A lateseason snow event occurred in mid-October.
+In the upper Blue Mountains, west of Sydney,
+
+24
+
+10
+
+8–9
+
+1
+
+Figure 13. Australian
+rainfall deciles for the
+period January–March
+2012 (left) and April–
+December 2012 (right)
+(Source: Australian
+Bureau of Meteorology)
+
+Highest on
+record
+Very much
+above average
+
+1
+
+Very much
+below average
+Lowest on
+record
+
+15 to 25 cm of snow were registered, the heaviest
+snowfall since 1984.
+
+EUROPE
+Temperature and precipitation
+Europe experienced warmer-than-average temperatures during 2012, with the most notable
+warmth across south-eastern Europe. Warmerthan-average temperatures were evident across
+Europe during December 2011 and most of
+January 2012. Cold conditions only affected the
+region from late January until mid-February,
+resulting in an overall mild winter for many
+European countries. The anomalous late January to mid-February cold resulted in several
+countries experiencing their coldest February
+in nearly three decades.
+After the severe cold spell, warmer-than-average
+temperatures re-emerged, with March bringing
+summer-like temperatures to parts of Europe.
+Many countries had March temperatures that
+ranked among the top three warmest: Norway
+(warmest), Switzerland (second warmest), the
+Netherlands, Austria, the United Kingdom, France
+and Germany (all third warmest). In some locations, the March 2012 average was higher than
+that for April 2012, a very unusual occurrence.
+While unusual warmth was affecting much of
+Europe during March, parts of the south-eastern
+region were experiencing cooler-than-average
+temperatures. Armenia and Georgia experienced
+their second coolest March since 1965 and 1961,
+
+Regional climate features
+
+respectively. The rest of spring brought warmerthan-average temperatures across Europe, with
+the exception that parts of northern Europe had
+below-average temperatures in April.
+Warmer-than-average conditions persisted
+during summer across southern and southeastern Europe, the Middle East, Greenland
+and western Asia, while cooler-than-average
+conditions were observed across northern parts
+of Europe, including the northern parts of the
+British Isles and the Scandinavia region. Overall, the summer of 2012 is ranked as one of the
+warmest summers for several countries in the
+southern half of Europe: the warmest in Bosnia
+and Herzegovina, Bulgaria, Serbia, Montenegro,
+the former Yugoslav Republic of Macedonia and
+Israel (tied with 2010); the second warmest in
+Hungary and Slovenia; the third warmest in
+Austria; and fourth warmest in Spain.
+The summer was also unusually warm across
+Greenland, with many areas experiencing their
+warmest or near-record-warm summer. Denmark and the United Kingdom, on the other
+hand, had their coolest summer since 2000
+and 1998, respectively, with northern regions
+of Sweden experiencing their coolest summer
+in over 15 years.
+In Turkey, monthly mean temperatures were
+below the 1971–2000 average in January, February and March, with the remainder of the year
+experiencing above-average temperatures. The
+annual mean temperature for the country was
+14.2°C, which is 1.0°C above average. In the South
+Caucasus, warmer-than-average temperatures
+were present in April and continued through to
+the end of June. From August through to the end
+of the year, exceptional warmth affected Armenia. The autumn ranked as the third warmest on
+record, with the warmest October since 1966.
+A marked contrast between northern and southern Europe was observed during 2012, with most
+of northern Europe experiencing above-average
+precipitation, while southern Europe experienced
+below-average precipitation.
+
+matching the wettest year on record set in 2000.
+Sweden had its third wettest year since national
+records began 150 years ago. After experiencing
+its wettest year on record in 2011, Norway had
+near-average precipitation in 2012 at 105 per cent
+of average. In Finland, the annual precipitation
+in 2012 was 739 mm, which is 173 mm above
+the 1961–1990 average of 566 mm. This was
+the wettest year in Finland since the start of the
+gridded precipitation dataset in 1961.
+For the sixth consecutive year, Latvia experienced above-average precipitation. The 2012
+precipitation total of 832 mm (127 per cent of
+normal) marked its fourth wettest year since
+records began 90 years ago. Cyprus reported
+its wettest year on record since 1902. Turkey
+experienced above-average precipitation in
+2012, with a mean total precipitation of 745 mm
+or 16 per cent above the 1971–2000 average.
+Autumn 2012 was the wettest on record since
+2001 for Denmark.
+Precipitation during January–March in Spain was
+37 per cent of average, the lowest precipitation
+value for this period since 1947. Drier-thanaverage conditions continued into the summer,
+resulting in the second driest summer season
+of the last 60 years. Portugal received a total
+of 636 mm of precipitation, a deficit of 246 mm
+when compared with the 1971–2000 average –
+its eighth driest year since 1931. Following the
+driest year on record, 2012 was also drier than
+average in Hungary.
+
+Figure 14. European
+temperature anomalies
+(°C) relative to 1961–1990
+for March 2012
+(Source: WMO Regional
+Association VI (Europe)
+Regional Climate Centre
+on Climate Monitoring,
+Deutscher Wetterdienst,
+Germany)
+
+°C
+< –4
+–4 – –3
+–3 – –2
+–2 – –1
+–1 – 0
+0 – 1
+1 – 2
+
+The United Kingdom experienced its second
+wettest year since records began in 1910,
+with its annual precipitation total of 1 331 mm
+(121 per cent of average) only 6 mm shy of
+
+2 – 3
+3 – 4
+>4
+
+25
+
+Status of the global climate in 2012
+
+Figure 15. January–
+December 2012
+precipitation anomalies
+(as percentages of the
+1961–1990 average)
+for the United Kingdom
+(Source: Met Office,
+United Kingdom)
+
+Per cent of average
+> 135
+125 to 135
+115 to 125
+105 to 115
+95 to 105
+85 to 95
+75 to 85
+65 to 75
+< 65
+
+Parts of the south-east and north-east regions
+of Greenland reported a lack of precipitation
+during summer 2012. The town of Tasiilaq had
+its third driest summer since records began in
+1895, and Danmarkshavn’s summer tied with
+2003 as the second driest since records began
+in 1949.
+Heatwaves and extreme temperatures
+As in the contiguous United States and Canada, a
+warm spell during the last week of March resulted
+in many record-breaking temperatures in Europe.
+March 2012 was the warmest March on record
+in central parts of Sweden, with several stations
+recording their highest daily maximum temperature, surpassing their old records by up to 3°C.
+Norway recorded a maximum temperature of
+23.1°C on 27 March at Landvik (Aust-Agder) in
+the southern part of the country, a new national
+March record for Norway.
+Heatwaves continued to affect Europe throughout the year. In southern Norway, a maximum
+temperature of 31.1°C was observed on 25 May,
+becoming the country’s highest May maximum
+temperature on record. Greenland, which had
+above-average temperatures for much of the
+year, recorded its all-time highest May maximum
+temperature, when temperatures soared to
+24.8°C at Ivittuut/Narsarsuaq on 29 May.
+
+26
+
+Slovakia experienced several heatwaves during
+the summer. Overall, southern Slovakia had a
+total of 37 to 53 tropical days (daily maximum
+temperatures greater than the reference temperature of 30°C), which is the second-highest
+number of tropical days since national records
+began in 1901, behind 2003.
+Cyprus experienced eight consecutive days of
+40°C or higher daily maximum temperatures,
+with the 43.6°C observed on 17 July being the
+second-highest temperature recorded in the last
+25 years. In Bulgaria, extreme heatwaves were
+experienced throughout July, causing hundreds
+of people to seek medical attention. The highest
+temperature recorded was 41.5°C on 15 July in
+Somovit. In Hungary, Budapest experienced
+four heatwaves during June–August, resulting
+in 24 days with daily mean temperatures equal
+to or greater than 27°C, the largest number ever
+recorded. Jordan experienced two heatwaves during June and July, observing daily temperatures
+as high as 9°C above normal during that time.
+France experienced a short, yet significant, heatwave during the second half of August. The event
+was noteworthy for its lateness and for breaking
+records of maximum temperatures that were set
+in the August 2003 major heatwave. The Czech
+Republic also experienced heatwaves during
+most of the summer; on 20 August, a new record
+for the highest maximum temperature was set
+when temperatures rose to 40.4°C. Unseasonably warm weather affected southern parts of
+Sweden in October. On 20 October, Helsingborg
+reported a maximum temperature of 19.7°C – the
+highest temperature ever recorded in Sweden
+so late in the year.
+Drought and wildfires
+Significant drought also affected parts of Europe
+during the northern hemisphere winter, spring,
+and summer. Several countries reported their
+driest month in several years: Portugal (driest
+February since 1931), France (driest February
+since 1959), the United Kingdom (driest March
+since 1953), the Czech Republic (second driest
+March in the last 50 years) and Germany (third
+driest March). Spain recorded its lowest January–March mean precipitation value since 1947.
+Dry conditions continued to affect Spain during
+the summer, resulting in the second driest summer in the last 60 years.
+
+Regional climate features
+
+However, wet conditions developed across
+parts of northern Europe during the end of
+spring, while some southern areas had wetter
+conditions during the start of autumn. Lack of
+precipitation during most of the year, combined
+with warmer-than-average temperatures, contributed to severe drought conditions across
+parts of south-eastern Europe, greatly affecting
+harvest yields, stream flows and water supplies.
+In Hungary, the drought that persisted for almost
+two years caused severe damage to agriculture,
+resulting in a total loss of over US$ 1.8 billion.
+
+rainfall resulted in widespread flooding, affecting
+the transport network, inundating properties
+and triggering landslides.
+
+Significant wildfires also developed in Europe.
+In Spain, nearly 210 000 hectares of land were
+scorched by wildfires in the course of the year,
+the highest in a decade. The most notable wildfire
+ignited on 24 September in Valencia, forcing
+nearly 2 000 people to evacuate. In August, southern parts of Bosnia and Herzegovina recorded
+a wildfire that burned nearly 5 000 hectares of
+land, causing almost US$ 83 million in damage. In Romania, unusually warm temperatures
+and the lack of precipitation during July and
+August prompted forest fires that charred over
+200 hectares of pastures and dry vegetation
+across the southern parts of the country.
+
+June and July were very wet months in Sweden.
+Stockholm had its rainiest June since records
+began in 1786. In early July, heavy precipitation
+fell over parts of southern Sweden, triggering
+local flooding. On 7 July, Hishult in south-eastern
+Sweden received a total of 163 mm of rain, the
+fifth highest daily amount on record at an official
+Swedish weather station. Across the western
+part of mainland Estonia, a total of 93.7 mm of
+rain was recorded on the same day, in 12 hours
+or less, the largest daily precipitation amount
+since 1964 for this region.
+
+Extreme precipitation and flooding
+In south-eastern Bulgaria, heavy precipitation
+and the melting of snow caused the Ivanovo dam
+to break on 6 February, flooding the village of
+Bisser. The floods damaged or destroyed nearly
+100 homes, damaged crops and claimed the lives
+of 10 people. Damages were estimated at over
+US$ 2.7 million. Abundant precipitation also fell
+during the latter half of May in Romania, causing
+floods in more than 100 localities in 20 counties.
+The floods damaged nearly 800 houses, crops,
+roads and railways. The heavy rainfall also
+triggered landslides that blocked a number of
+national roads.
+After its driest March since 1953, the United
+Kingdom experienced its wettest April and June
+on record. The wet weather continued through
+the summer, which turned out to be its wettest
+since 1912. In late November, a series of lowpressure systems brought heavy rain to much
+of the country, resulting in one of its wettest
+weeks of the last 50 years. With the ground
+already saturated due to the wet conditions that
+had affected the country since April, the heavy
+
+Several thunderstorms brought heavy rain to
+parts of Ireland during June. On 8 June, total
+precipitation of 99.5 mm was reported at Lough
+Glencar, resulting in the station’s highest annual
+and June daily rainfall on record since 1993.
+On 22 June, Malin Head experienced its highest annual daily rainfall and June daily rainfall
+since 1987.
+
+In Finland, many local precipitation records
+were broken throughout the year, especially in
+July, September and October. Helsinki recorded
+its highest precipitation amount in September
+since records began in 1844. In October, many
+areas across western Finland reported daily
+precipitation ranging between 40–50 mm, with
+some areas receiving over 100 mm in one week.
+October monthly precipitation averages typically
+range between 50–60 mm in this area. In some
+cases, the exceptional downpours contributed
+to record flooding during the autumn. The floods
+caused nearly US$ 8 million in agricultural and
+infrastructure damages.
+Cold and snow
+The cold spell that affected the Eurasian continent during late January through mid-February
+was the most notable of the year for its intensity,
+duration and societal impact. Across eastern Russian Federation, temperatures ranged
+between –45°C and –50°C during the end of January. Several areas of eastern Europe reported
+minimum temperatures as low as –30°C, with
+some areas across northern Europe and central
+Russian Federation experiencing temperatures
+below –40°C.
+
+27
+
+Status of the global climate in 2012
+
+Meanwhile, maximum temperatures remained
+below 0°C for several consecutive days throughout most of Europe, with eastern central Europe
+having nearly 20 consecutive days below 0°C,
+10 days more than the February normal. In
+France, the exceptional cold conditions were
+the most severe since January 1987, while Switzerland experienced its most significant cold
+spell in 27 years. Poland recorded temperatures
+as low as –29.9°C, leading to the coldest cold
+spell since 2002.
+In Austria, temperatures were 10°C below average during the first half of February, contributing
+to its coldest February since 1986. Georgia
+observed minimum temperatures in the range
+of –8°C to –31°C, resulting in the most significant
+cold wave since January 2008. On 6 February, Sweden recorded its lowest temperature
+since 2001 as temperatures dropped to –42.8°C.
+In Portugal, the second lowest average minimum temperature for February since 1931 was
+recorded, with an anomaly of nearly 5°C below
+the 1971–2000 average. Some parts of eastern
+Spain were reporting minimum temperatures
+ranging between –10°C and –15°C, resulting in the
+most significant cold wave since February 1956.
+Across northern Slovakia, daily mean temperatures ranged between –20°C and –23°C, with
+minimum temperatures dropping below –30°C.
+
+DENIS SINYAKOV / REUTERS
+
+Workers clear snow in
+Moscow’s Red Square,
+February 2012.
+
+28
+
+This was the most significant cold wave since
+the winter of 1962/1963 for this region, with the
+February average minimum temperatures the
+lowest in the last 25 years. The first 10 days
+of February were the coldest in 120 years for
+Bosnia and Herzegovina. Cyprus recorded a
+minimum temperature of –11.1°C in Troodos on
+20 February, the second coldest minimum temperature recorded in the last 15 years. Across
+Latvia, for five consecutive days (2–6 February)
+daily temperatures were below –30°C, only
+the third time this has occurred in the country
+(the other two times were February 1956 and
+February 1999).
+The European part of the Russian Federation had
+extremely cold temperatures during the period
+8–13 February, particularly in the southern
+regions, with several cities setting new record
+minimum temperatures. Moscow observed a
+near-record temperature on 13 February, when
+temperatures fell to –28.5°C. The record minimum temperature of –29.3°C was set in 1911.
+Across parts of the north-western region of
+the Islamic Republic of Iran, temperatures fell
+as low as –23.6°C, setting a new minimum
+temperature record. The previous record was
+set in 1987 when temperatures dropped to
+–23°C. Additional information may be found
+in the Assessment of the Observed Extreme
+Conditions during Late Boreal Winter 2011/2012
+(WCDMP-No. 80).
+The unusual cold was also accompanied by heavy
+snow accumulations. Bosnia and Herzegovina
+received 85–107 cm of snow, the highest accumulation in the last 120 years. The heavy snow
+accumulation prompted the closure of schools
+for 15 days and caused the roof of a sports hall
+to collapse under the weight of the snow. Overall, damages were estimated at US$ 40 million.
+Several locations across northern Italy recorded
+their highest snowfall accumulation in 100 years,
+ranging between 250 and 305 cm. Across Europe,
+the extreme conditions were responsible for the
+deaths of over 650 people.
+
+Tropical cyclones
+
+Atlantic Ocean basin
+The Atlantic basin experienced an above-average
+hurricane season for a third consecutive year,
+with a total of 19 storms, of which 10 reached
+hurricane status and only 1 attained major
+intensity (the averages are 12 storms, 6 hurricanes and 3 major hurricanes). The season
+marked the lowest number of major hurricanes
+in the basin since 1997. In terms of the Accumulated Cyclone Energy, which measures the
+strength and duration of tropical storms and
+hurricanes, the Atlantic 2012 hurricane season
+was 142 per cent of average. This makes 2012
+an active season, but not exceptionally so, as
+there were 10 busier years since 1980.
+The Atlantic basin recorded several storms before
+the 1 June official start of the season. Tropical
+Storm Alberto formed on 19 May, becoming the
+earliest-forming tropical storm in the Atlantic
+basin since Tropical Storm Ana (20–24 April) in
+2003. Tropical Storm Beryl also formed during
+
+May, making it the first time since 1908 that two
+tropical storms formed before the start of the
+hurricane season. Beryl was also the strongest
+pre-season tropical cyclone of record to make
+landfall in the United States. Of the 19 storms
+formed during the hurricane season, 4 storms
+formed before 1 July, the first time this has
+occurred since record-keeping began in 1851.
+Typically, the fourth tropical storm forming in
+the Atlantic basin occurs in August. However,
+8 storms formed in August 2012, tying with 2004
+for the all-time record for the number of named
+storms formed in August.
+Hurricane Sandy was the most noteworthy
+Atlantic storm of 2012. Sandy wreaked havoc
+across the Caribbean, claiming the lives of
+nearly 100 people. The strong winds and heavy
+downpours brought by the storm significantly
+damaged infrastructure, roads and thousands
+of homes across parts of the Caribbean. The
+contiguous United States was also affected,
+prompting severe floods across the north-east
+and resulting in over 130 fatalities. Hurricane
+Sandy brought record rainfall to parts of the
+north-eastern region, with rainfall totals in
+some areas ranging from 100 mm to 230 mm.
+The heavy precipitation also contributed to
+several states having one of their top 10 wettest
+
+The remnants of a roller coaster three days after Hurricane Sandy came ashore in
+New Jersey, United States, November 2012.
+
+STEVE NESIUS / REUTERS
+
+The 2012 global tropical cyclone activity was
+near the 1981–2010 average of 85 storms, with
+a total of 84 storms (wind speeds greater than
+or equal to 34 knots (63 km/h)). The number of
+storms recorded in 2012 was higher than in the
+last two years.
+
+29
+
+Status of the global climate in 2012
+
+Octobers. Along with heavy precipitation, Sandy
+also brought large storm surges and high water
+levels to much of the coastal north-east, bringing water levels to an all-time record for several
+locations. Sandy was also responsible for the
+closure of the New York Stock Exchange for two
+consecutive days – the last time this occurred
+due to a weather phenomenon was in 1888 in
+response to a major winter storm.
+Eastern North Pacific Ocean basin
+In contrast to the below-average activity of the
+last two years in the Eastern North Pacific basin,
+hurricane activity was near average in 2012. This
+basin recorded a total of 17 storms, 10 of which
+intensified to hurricane status (the averages are
+17 storms and 9 hurricanes). Like the Atlantic
+basin, the Eastern North Pacific basin saw an
+early start to its official hurricane season, which
+begins on 15 May, when Tropical Storm Aletta
+formed on 14 May. This was the first time a tropical storm formed before the official start of the
+hurricane season in both the Atlantic and Eastern
+North Pacific basins.
+A noteworthy storm of the Eastern North Pacific
+2012 hurricane season was Hurricane Bud, which
+
+Super Typhoon Sanba,
+September 2012
+
+tied with Hurricane Alma of 2002 as the second
+strongest May hurricane in the Eastern North
+Pacific, behind Hurricane Adolph of 2001. Bud
+also set a record for the earliest date on record
+for the second tropical storm formation in the
+Eastern North Pacific.
+Also of note was Hurricane Carlotta, which in
+mid-June made the easternmost landfall of any
+hurricane in the Eastern North Pacific – along
+the coast of the Oaxaca basin in Mexico – since
+1966. Although Carlotta brought beneficial rain
+to drought-stricken areas, the storm prompted
+floods and landslides, damaged roads and crops
+and claimed the lives of seven people.
+Western North Pacific Ocean basin
+The Western North Pacific typhoon season was
+near average, recording a total of 25 storms, 14 of
+which strengthened to typhoons (the 1981–2010
+averages are 26 storms and 16 typhoons). The
+Western North Pacific basin was the only basin
+to have recorded a typhoon that reached the
+maximum of at least 105 knots (195 km/h) sustained for 10 minutes.
+Throughout the year, powerful typhoons wreaked
+havoc across the East Asia region. Super Typhoon
+Sanba was the strongest cyclone globally to have
+formed in 2012, with maximum sustained winds
+of 110 knots (205 km/h) and central pressure of
+900 hPa. Sanba hit the Philippines, Japan and
+the Korean Peninsula, dumping torrential rain,
+triggering floods and landslides that affected
+thousands of people, and causing millions of
+US dollars in damage.
+
+NASA
+
+Another noteworthy storm was Super Typhoon
+Bopha, which made landfall in the southern
+Philippine island of Mindanao in early December. Bopha was the strongest cyclone to make
+landfall in the area. It caused widespread damage and left thousands of residents homeless.
+Over 1 000 fatalities were reported, with nearly
+900 people missing. Damages were estimated
+to be equivalent to over US$ 49 million.
+
+30
+
+The Russian Far East set a new record for the
+number of tropical and extra-tropical cyclones
+in the region since records began in 1970. Six
+tropical cyclones struck in 2012, surpassing the
+previous records of five tropical cyclones set in
+1981 and 2011.
+
+Tropical cyclones
+
+North Indian Ocean and South-West Indian
+Ocean basins
+The North Indian Ocean recorded a belowaverage season with only 2 tropical storms (the
+1981–2010 average is 4 storms), while the SouthWest Indian Ocean 2011/2012 tropical cyclone
+season was above average with 11 storms (the
+average is 5 storms). Tropical Storm Nilam, one
+of two cyclones that formed in the North Indian
+Ocean Basin, made landfall on the Tamil Nadu
+coast of southern India, causing widespread
+damage to property and claiming the lives of
+five people. The cyclone moved northwards
+over the Andhra coast, causing torrential rains
+during 31 October–2 November, claiming over
+40 lives and damaging crops and property.
+In the South-West Indian Ocean basin, Tropical
+Storm Dando made landfall in Gaza province,
+Mozambique, on 16 January, the first tropical
+storm to hit southern Mozambique since Tropical
+Storm Domoina in 1984. Dando brought heavy
+rain to the region, prompting deadly floods.
+Tropical Cyclone Giovanna made landfall on
+Madagascar on 14 February with maximum sustained winds of 68 knots (126 km/h), equivalent
+to a Category 4 storm on the Saffir–Simpson
+Hurricane Scale (SSHS). The storm struck the
+island with vicious winds and heavy precipitation, resulting in nearly 25 fatalities and affecting
+thousands of people. Cyclone Anais, the first
+intense cyclone on record for the month of
+October, formed on 12 October and was thus a
+
+2012/2013 season cyclone. Anais was the second
+earliest tropical cyclone to form so early in the
+season, after Tropical Cyclone Blanche in 1969.
+Australian basin
+The Australian basin recorded a below-average
+cyclone season, with 7 storms (the average is
+11 storms). The strongest cyclone of the season
+was Lua, a Category 2 storm on the SSHS. Lua
+made landfall at that intensity on 17 March in
+Western Australia, before its remnants moved
+inland over Western Australia. The areas affected
+by the cyclone were sparsely populated, and
+only limited damage was reported.
+South-West Pacific Ocean basin
+The 2011/2012 tropical cyclone season in the
+South-West Pacific was below-average, with only
+3 named tropical storms (the 1981–2010 average
+is 8 storms). Only 1 of those, Jasmine, attained
+major status, equivalent to a Category 4 on the
+SSHS. Tropical Cyclone Evan, which formed on 9
+December, made landfall in Samoa, causing great
+devastation and widespread damage to agricultural crops, roads, homes and schools. It was
+the worst cyclone to strike Samoa since Tropical
+Cyclone Val in 1991. Tropical Cyclone Evan generated winds gusting as high as 84 knots (156 km/h),
+a new record since observations began in 1971
+on the Island of Wallis. Near Futuna, winds gusts
+as high as 82 knots (152 km/h) were recorded,
+the second strongest wind gust measured on the
+island since the opening of the station in 1981.
+
+31
+
+The use of Earth observation satellites for
+soil moisture monitoring
+Wolfgang Wagner, Wouter Dorigo and Christoph Paulik, Vienna University of Technology, Austria
+Soil moisture strongly influences the exchange
+of water and energy between the land surface
+and the atmosphere and is thus a key variable
+of the climate system. While many of its effects
+on the climate system, such as the role of soil
+moisture deficits in the occurrence of heatwaves,
+are reasonably well understood, progress in the
+scientific understanding of soil moisture–climate
+interaction has so far been hampered by the lack
+of soil moisture observations. Fortunately, this
+situation has improved significantly in the last
+few years thanks to the increasing availability
+of in situ (for example, through the International
+Soil Moisture Network – see www.ipf.tuwien.
+ac.at/insitu/) and satellite-based soil moisture
+observations.
+
+MICROWAVE REMOTE-SENSING OF
+SOIL MOISTURE
+Many Earth observation satellites carry microwave sensors that measure the emission or the
+reflection of microwave radiation by the Earth’s
+surface. The signal received by these microwave
+sensors is sensitive to the amount of water
+contained in the first few centimetres of the soil
+because, at microwave frequencies, the water
+molecules contained in the soil rotate as they try
+to align themselves with the alternating electric
+field of the microwaves. This rotation not only
+leads to a minuscule heating of the soil (an effect
+that is exploited at much higher energy levels
+in microwave ovens) but also causes scattering
+of the microwave radiation. Therefore, active
+microwave instruments (radars) that illuminate a
+wet soil generally receive a higher backscattered
+signal than when illuminating a dry soil. For the
+same reason, wet soil surfaces transmit less
+natural microwave radiation emanating from
+deeper soil layers than dry soils, which implies
+that the natural radiation received by passive
+microwave instruments (radiometers) decreases
+with increasing surface soil moisture content.
+Despite the strong relationship between soil
+moisture and microwave observations, it has
+been quite difficult to develop operational Earth
+observation capabilities. Technologically, one
+of the challenges has been to build sensors
+that are capable of measuring the low energy
+of microwave signals with good radiometric
+accuracy. Another challenge has been to push
+the sensor wavelength to longer wavelengths
+
+32
+
+in order to maximize the sensitivity to soil moisture, but without negative repercussions on the
+spatial resolution and coverage. Scientifically,
+the task has been to develop algorithms that
+single out the soil moisture signal from a host
+of other parameters affecting the microwave
+observations, such as the vegetation cover or the
+roughness of the soil surface. While many scientific questions are still only partially answered,
+the retrieval algorithms have matured up to a
+point where global-scale processing has become
+feasible.
+
+A VIRTUAL CONSTELLATION OF SOIL
+MOISTURE SATELLITES
+So far only one Earth observation satellite has
+been built and launched for the primary purpose
+of measuring soil moisture over land, namely
+the Soil Moisture and Ocean Salinity (SMOS)
+satellite launched by the European Space Agency
+(ESA) in November 2009. The next dedicated
+soil moisture satellite will be the Soil Moisture
+Active-Passive (SMAP) mission that is foreseen
+to be launched by the National Aeronautics and
+Space Administration (NASA) in the 2014–2015
+time frame. But these two dedicated explorative
+missions are not alone; there is a fleet of other
+satellites with microwave remote-sensing instruments on board. These instruments have been
+built for other purposes, for example, for sea-ice
+or ocean wind monitoring, but they can nonetheless also be used for measuring soil moisture.
+As a result, there are now several satellites in
+orbit which, taken together, provide several
+soil moisture measurements per day for each
+point of the Earth’s land surface. One may thus
+think of these satellites as a virtual constellation
+providing day-round global-scale soil moisture
+observations.
+Unfortunately, it is still quite difficult to directly
+compare soil moisture data derived from the
+different satellites. This is because the characteristics of the various sensors and scientific
+algorithms may differ significantly. Also, there
+are as yet no internationally agreed standards.
+Nonetheless, the situation improves significantly
+when systematic differences between the different satellite datasets are removed. Then it
+becomes apparent that most satellite-derived
+soil moisture products depict soil moisture
+trends in space and time quite well. This has
+
+also opened up the opportunity to merge soil
+moisture data from active and passive microwave
+instruments to create a long-term soil moisture
+record, as has been done within the framework
+of ESA’s Climate Change Initiative (see www.
+esa-soilmoisture-cci.org/).
+
+METOP ASCAT SOIL MOISTURE
+
+of its Satellite Application Facility on Support
+to Operational Hydrology and Water Management (H-SAF). These data are given in the
+original swath geometry of the instrument,
+representing only the thin (< 2 cm) topsoil
+layer accessible to the microwaves.
+•
+
+Until a few years ago satellite soil moisture products had only been available off-line with a data
+latency of, at best, a few days. This changed with
+the Advanced Scatterometer (ASCAT), which
+is an active microwave sensor that has been
+flown on a series of Meteorological Operational
+(METOP) satellites since late 2006. ASCAT soil
+moisture data are processed and disseminated
+fully operationally in two stages:
+•
+
+The European Organization for the Exploitation of Meteorological Satellites (EUMETSAT)
+generates 25-km ASCAT surface soil moisture
+data in near-real time within the framework
+
+By filtering the ASCAT surface soil moisture
+time series with an exponential filter, the
+so-called ASCAT Soil Water Index (SWI) is
+derived, which is an estimate of the moisture
+content in the soil profile down to a depth
+of about 0.5 m. Daily ASCAT SWI data are
+available on a regular global grid through
+the global land monitoring service of the
+European Copernicus (formerly GMES)
+programme.
+
+Both the ASCAT surface soil moisture and SWI
+data products are freely accessible and can be
+used by operational and scientific users alike to
+study weather- and climate-related soil moisture
+patterns.
+
+Forest mask
+Arid regions mask
+Snow/frost mask
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Soil Water Index (SWI) [%]
+
+–40
+
+–20
+
+0
+
+20
+
+40
+
+Soil Water Index (SWI) Anomaly [%]
+
+Absolute soil moisture
+(top) and soil moisture
+anomalies (bottom)
+for the period July–
+September 2012 derived
+from the ASCAT flown
+on board of the METOP
+satellites. SWI is an
+estimate of the relative
+moisture content in the
+0.5-m soil layer derived
+solely from the satellite
+observations. Areas
+where ASCAT cannot
+provide reliable soil
+moisture estimates
+are masked. The
+SWI anomaly image
+(baseline period is
+2007–2011) shows areas
+of unusual dryness or
+wetness, depicting, for
+example, the severe
+drought conditions in
+central North America,
+north-eastern Brazil,
+south-eastern Europe,
+and the unusually wet
+conditions in Western
+Africa, which lead to
+large-scale flooding in
+the area.
+
+33
+
+For more information, please contact:
+
+World Meteorological Organization
+Communications and Public Affairs Office
+Tel.: +41 (0) 22 730 83 14 – Fax: +41 (0) 22 730 80 27
+
+7 bis, avenue de la Paix – P.O. Box 2300 – CH 1211 Geneva 2 – Switzerland
+www.wmo.int
+
+P-OBS_13378
+
+E-mail: cpa@wmo.int
+
+

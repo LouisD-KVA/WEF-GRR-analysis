@@ -1,0 +1,4997 @@
+WEATHER CLIMATE WATER
+
+WMO Statement on
+the State of the
+Global Climate in 2018
+
+WMO-No. 1233
+
+WMO-No. 1233
+© World Meteorological Organization, 2019
+The right of publication in print, electronic and any other form and in any language is reserved by WMO. Short
+extracts from WMO publications may be reproduced without authorization, provided that the complete source is
+clearly indicated. Editorial correspondence and requests to publish, reproduce or translate this publication in part
+or in whole should be addressed to:
+Chairperson, Publications Board
+World Meteorological Organization (WMO)
+7 bis, avenue de la Paix
+P.O. Box 2300
+CH-1211 Geneva 2, Switzerland
+
+Tel.: +41 (0) 22 730 84 03
+Fax: +41 (0) 22 730 81 17
+Email: publications@wmo.int
+
+ISBN 978-92-63-11233-0
+The following people contributed to this Statement: John Kennedy (UK Met Office), Selvaraju Ramasamy (Food and Agriculture Organization
+of the United Nations (FAO)), Robbie Andrew (Center for International Climate Research (CICERO), Norway), Salvatore Arico (Intergovernmental
+Oceanographic Commission of the United Nations Educational, Scientific and Cultural Organization (IOC-UNESCO)), Erin Bishop (United Nations
+High Commissioner for Refugees (UNHCR)), Geir Braathen (WMO), Pep Canadell (Commonwealth Scientific and Industrial Research Organization,
+Australia), Anny Cazanave (Laboratoire d’Etudes en Géophysique et Océanographie Spatiales CNES and Observatoire Midi-Pyrénées, France),
+Jake Crouch (National Oceanic and Atmospheric Administration (NOAA), United States of America), Chrystelle Damar (Environment, International
+Civil Aviation Organization (ICAO)), Neil Dickson (Environment, ICAO), Pierre Fridlingstein (University of Exeter), Madeline Garlick (UNHCR),
+Marc Gordon (United Nations Office for Disaster Risk Reduction (UNISDR)), Jane Hupe (Environment, ICAO), Tatiana Ilyina (Max Planck Institute),
+Dina Ionesco (International Organization for Migration (IOM)), Kirsten Isensee (IOC-UNESCO), Robert B. Jackson (Stanford University), Maarten
+Kappelle (United Nations Environment Programme (UNEP)), Sari Kovats (London School of Hygiene and Tropical Medicine), Corinne Le Quéré
+(Tyndall Centre for Climate Change Research), Sieun Lee (IOM), Isabelle Michal (UNHCR), Virginia Murray (Public Health England), Sofia Palli
+(UNISDR), Giorgia Pergolini (World Food Programme (WFP)), Glen Peters (CICERO), Ileana Sinziana Puscas (IOM), Eric Rignot (University of
+California, Irvine), Katherina Schoo (IOC-UNESCO), Joy Shumake-Guillemot (WMO/WHO Joint Climate and Health Office), Michael Sparrow
+(WMO), Neil Swart (Environment Canada), Oksana Tarasova (WMO), Blair Trewin (Bureau of Meteorology, Australia), Freja Vamborg (European
+Centre for Medium-range Weather Forecasts (ECMWF)), Jing Zheng (UNEP), Markus Ziese (Deutscher Wetterdienst (DWD)).
+The following agencies also contributed: ICAO, IOC-UNESCO, IOM, FAO, UNEP, UNHCR, UNISDR, WFP and World Health Organization (WHO).
+With inputs from the following countries: Algeria, Argentina, Armenia, Australia, Austria, Belgium, Brazil, Canada, Central African Republic, Chile,
+China, Costa Rica, Côte d’Ivoire, Croatia, Cyprus, Czechia, Denmark, Estonia, Fiji, Finland, France, Georgia, Germany, Greece, Hungary, Iceland,
+India, Indonesia, Iran (Islamic Republic of), Iraq, Ireland, Israel, Italy, Japan, Jordan, Kazakhstan, Kenya, Kuwait, Latvia, Lesotho, Libya (State of),
+Malaysia, Mali, Mexico, Morocco, New Zealand, the Netherlands, Nigeria, Norway, Pakistan, Philippines, Poland, Portugal, Qatar, Republic of
+Korea, Republic of Moldova, Russian Federation, Serbia, Slovenia, South Africa, Spain, Sweden, Switzerland, Tunisia, Turkey, Ukraine, United
+Arab Emirates, United Kingdom of Great Britain and Northern Ireland, United Republic of Tanzania, United States.
+With data provided by: Global Precipitation Climatology Centre (DWD), UK Met Office Hadley Centre, NOAA National Centres for Environmental
+Information (NOAA NCEI), ECMWF, National Aeronautics and Space Administration Goddard Institute for Space Studies (NASA GISS), Japan
+Meteorological Agency (JMA), WMO Global Atmospheric Watch, United States National Snow and Ice Data Center (NSIDC), Rutgers Snow Lab,
+Mauna Loa Observatory, Blue Carbon Initiative, Global Ocean Oxygen Network, Global Ocean Acidification Observing Network, Niger Basin
+Authority, Hong Kong Observatory, Pan-Arctic Regional Climate Outlook Forum, European Space Agency Climate Change Initiative, Copernicus
+Marine Environmental Monitoring Service and AVISO (Archiving, Validation and Interpretation of Satellite Oceanographic data), World Glacier
+Monitoring Service (WGMS) and Colorado State University.
+
+Cover illustration: Lugard Road, Victoria Peak of Hong Kong, China; photographer: Chi Kin Carlo Yuen, Hong Kong, China
+NOTE
+The designations employed in WMO publications and the presentation of material in this publication do not imply the expression of any opinion whatsoever on the part of WMO concerning the legal status of any country, territory, city or area, or of its authorities, or concerning the delimitation of its
+frontiers or boundaries.
+The mention of specific companies or products does not imply that they are endorsed or recommended by WMO in preference to others of a similar
+nature which are not mentioned or advertised.
+The findings, interpretations and conclusions expressed in WMO publications with named authors are those of the authors alone and do not necessarily reflect those of WMO or its Members.
+
+Contents
+Foreword . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Statement by the United Nations Secretary-General. . . . . . . . . . . . . . . . . . . . . . 4
+Statement by the President of the United Nations General Assembly . . . . . . . . . . . . 5
+State-of-the-climate indicators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Temperature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Definition of state of the climate indicators . . . . . . . . . . . . . . . . . . . . . . . . 7
+Data sources and baselines for global temperature . . . . . . . . . . . . . . . . . . . 8
+Greenhouse gases and ozone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Coastal blue carbon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+The oceans. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Deoxygenation of open ocean and coastal waters . . . . . . . . . . . . . . . . . . . . 14
+Warming trends in the southern ocean . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+The cryosphere . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Antarctic ice sheet mass balance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Drivers of interannual variability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Extreme events . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Climate risks and related impacts overall . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Agriculture and food security . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Population displacement and human mobility . . . . . . . . . . . . . . . . . . . . . . . . 31
+Heat and health . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Environmental impacts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Impacts of heat on health . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Air pollution and climate change . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+International civil aviation and adaptation to climate change . . . . . . . . . . . . . . 38
+
+2018 was the fourth warmest year on record
+2015–2018 were the four warmest years
+on record as the long-term warming trend continues
+
+Ocean heat content is at a record high and
+global mean sea level continues to rise
+Artic and Antarctic sea-ice extent is
+well below average
+
+Extreme weather had an impact on lives and
+sustainable development on every continent
+
+Average global temperature reached approximately
+1 °C above pre-industrial levels
+We are not on track to meet climate change targets
+and rein in temperature increases
+
+Every fraction of a degree of warming makes a difference
+
+Foreword
+This publication marks the twenty-fifth anniversary of the WMO Statement on the State
+of the Global Climate, which was first issued
+in 1994. The 2019 edition treating data for
+2018 marks sustained international efforts
+dedicated to reporting on, analysing and
+understanding the year-to-year variations
+and long-term trends of a changing climate.
+Substantial knowledge has been produced
+and delivered annually during this period
+to inform WMO Member States, the United
+Nations system and decision-makers about
+the status of the climate system. It complements the Intergovernmental Panel on Climate
+Change (IPCC) five-to-seven year reporting
+cycle in producing updated information for
+the United Nations Framework Convention
+for Climate Change and other climate-related
+policy frameworks.
+Since the Statement was first published,
+climate science has achieved an unprecedented degree of robustness, providing
+authoritative evidence of global temperature
+increase and associated features such as
+sea-level rise, shrinking sea ice, glacier mass
+loss and extreme events linked to increasing
+temperatures, such as heatwaves. There are
+still areas that need more observations and
+research, including assessing the contribution of climate change to the behaviour of
+extreme events and to ocean currents and
+atmospheric jet streams that can induce
+extreme cold spells in some places and mild
+conditions in others.
+Key findings of this Statement include
+the striking consecutive record warming
+recorded from 2015 through 2018, the continuous upward trend in the atmospheric
+
+concentration of the major greenhouse gases,
+the increasing rate of sea-level rise and the
+loss of sea ice in both northern and southern
+polar regions.
+The understanding of the linkage between the
+observed climate variability and change and
+associated impact on societies has also progressed, thanks to the excellent collaboration
+of sister agencies within the United Nations
+system. This current publication includes some
+of these linkages that have been recorded in
+recent years, in particular from 2015 to 2018,
+a period that experienced a strong influence
+of the El Niño and La Niña phenomena in
+addition to the long-term climate changes.
+Global temperature has risen to close to 1 °C
+above the pre-industrial period. The time
+remaining to achieve commitments under
+the Paris agreement is quickly running out.
+This report will inform the United Nations
+Secretary-General’s 2019 Climate Action
+Summit. I therefore take this opportunity to
+thank all the contributors – authors, National
+Meteorological and Hydrological Services,
+global climate data and analyses centres,
+Regional Specialized Meteorological Centres,
+Regional Climate Centres and the United
+Nations agencies that have collaborated on
+this authoritative publication.
+
+(P. Taalas)
+Secretary-General
+
+3
+
+Statement by the United Nations
+Secretary-General
+The data released in this report give cause for
+great concern. The past four years were the
+warmest on record, with the global average
+surface temperature in 2018 approximately
+1 °C above the pre-industrial baseline.
+These data confirm the urgency of climate
+action. This was also emphasized by the
+recent Intergovernmental Panel on Climate
+Change (IPCC) special report on the impacts
+of global warming of 1.5 °C. The IPCC found
+that limiting global warming to 1.5 °C will
+require rapid and far-reaching transitions in
+land, energy, industry, buildings, transport,
+and cities, and that global net human-caused
+emissions of carbon dioxide need to fall by
+about 45% from 2010 levels by 2030, reaching
+“net zero” around 2050.
+
+There is no longer any time for delay. I commend
+this report as an indispensable contribution
+to global efforts to avert irreversible climate
+disruption.
+
+(A. Guterres)
+United Nations Secretary-General
+
+UN Photo/Loey Felipe
+
+To promote greater global ambition on
+addressing climate change, I am convening
+a Climate Action Summit on 23 September.
+The Summit aims to mobilize the necessary political will for raising ambition as
+
+we work to achieve the goals of the Paris
+Agreement. Specifically, I am calling on all
+leaders to come to New York in September
+with concrete, realistic plans to enhance
+their nationally determined contributions by
+2020 and reach net zero emissions around
+mid-century. The Summit will also demonstrate transformative action in all the areas
+where it is needed.
+
+WMO Secretary-General Petteri Taalas (left) and United Nations Secretary-General António Guterres
+during a meeting in New York in September 2018.
+
+4
+
+Statement by the President of the
+United Nations General Assembly
+This wide ranging and significant report by the World
+Meteorological Organization clearly underlines the need
+for urgent action on climate change and shows the value
+of authoritative scientific data to inform governments in
+their decision-making process. It is one of my priorities as
+President of the General Assembly to highlight the impacts
+of climate change on achieving the sustainable development goals and the need for a holistic understanding of
+the socioeconomic consequences of increasingly intense
+extreme weather on countries around the world. This
+current WMO report will make an important contribution
+to our combined international action to focus attention
+on this problem.
+María Fernanda Espinosa Garcés
+President of the United Nations General Assembly
+73rd Session
+
+5
+
+State-of-the-climate indicators
+Figure 1. Global mean
+temperature anomalies
+with respect to the
+1850–1900 baseline
+for the five global
+temperature datasets.
+Source: UK Met Office
+Hadley Centre.
+
+TEMPERATURE
+The global mean temperature for 2018 is
+estimated to be 0.99 ± 0.13 °C above the preindustrial baseline (1850–1900). The estimate
+comprises five independently maintained
+global temperature datasets and the range
+represents their spread (Figure 1).
+
+Above-average temperatures were widespread in 2018 (Figure 2). According to
+continental numbers from NOAA, 2018 was
+ranked in the top 10 warmest years for Africa,
+Asia, Europe, Oceania and South America.
+Only for North America did 2018 not rank
+among the top 10 warmest years, coming
+eighteenth in the 109-year record.
+
+Global mean temperature difference from 1850–1900 (°C)
+HadCRUT
+NOAAGlobalTemp
+GISTEMP
+ERA-Interim
+JRA-55
+
+1.2
+1.0
+
+°C
+
+0.8
+0.6
+0.4
+0.2
+0.0
+−0.2
+1850
+
+1875
+
+1900
+
+1925
+
+Year
+
+1950
+
+1975
+
+2000
+
+0.86 °C above the pre-industrial baseline. For
+comparison, the average anomaly above the
+same baseline for the most recent decade
+2009–2018 was 0.93 ± 0.07 °C,1 and the average for the past five years, 2014–2018, was
+1.04 ± 0.09 °C above this baseline. Both of
+these periods include the warming effect of
+the strong El Niño of 2015–2016.
+
+2025
+
+The year 2018 was the fourth warmest on
+record and the past four years – 2015 to
+2018 – were the top four warmest years in
+the global temperature record. The year 2018
+was the coolest of the four. In contrast to the
+two warmest years (2016 and 2017), 2018
+began with weak La Niña conditions, typically
+associated with a lower global temperature.
+The IPCC special report on the impacts of
+global warming of 1.5 °C (Global Warming
+of 1.5 °C) reported that the average global
+temperature for the period 2006–2015 was
+
+There were a number of areas of notable
+warmth. Over the Arctic, annual average
+temperature anomalies exceeded 2 °C widely
+and 3 °C in places. Although Arctic temperatures were generally lower than in the record
+year of 2016, they were still exceptionally
+high relative to the long-term average. An
+area extending across Europe, parts of North
+Africa, the Middle East and southern Asia was
+also exceptionally warm, with a number of
+countries experiencing their warmest year on
+record (Czechia, France, Germany, Hungary,
+1
+
+IPCC used NOAAGlobalTemp, GISTEMP and two versions of
+HadCRUT4 for their assessment. One version of HadCRUT4
+was an earlier version of the one used here, the other is
+produced by filling gaps in the data using a statistical
+method (Cowtan, K. and R.G. Way, 2014: Coverage bias in
+the HadCRUT4 temperature series and its impact on recent
+temperature trends. Quarterly Journal of the Royal Meteorological Society, 140:1935–1944, doi:10.1002/qj.2297).
+
+Figure 2. Surface-air
+temperature anomaly
+for 2018 with respect to
+the 1981–2010 average.
+Source: ECMWF ERAInterim data, Copernicus
+Climate Change Service.
+
+6
+
+-10 -5 -3 -2 -1 -0.5 0 0.5 1
+
+2
+
+3
+
+5 10 ºC
+
+DEFINITION OF STATE OF THE CLIMATE INDICATORS
+
+Changes in the energy budget
+Atmosphere and ocean
+temperature, heat content
+
+Changes in the
+atmospheric
+composition
+
+Changes in weather
+Extreme events
+
+Changes in the
+hydrological cycle
+river discharge, lakes,
+precipitation
+
+Key components of
+climate system and
+interactions:
+energy budget,
+atmospheric composition,
+weather, hydrological
+cycle, ocean and
+cryosphere.
+
+ATMOSPHERE
+Clouds
+
+CO2, CH4, N2O, O3, H2O and others
+Aerosols
+
+Heat
+Exchange
+
+AtmosphereBiosphere
+Interaction
+
+Volcanic Activity
+
+Precipitation
+Evaporation
+
+Atmosphere-Ice
+Interaction
+
+LandAtmosphere
+Interaction
+
+Terrrestrial
+Radiation
+
+Wind
+Stress
+
+Ice Sheet
+
+Sea Ice
+
+Glacier
+
+BIOSPHERE
+
+HYDROSPHERE
+Ocean
+
+Land Surface
+Droughts, Floods
+
+Human Influence
+
+Ice-Ocean
+Coupling
+
+Soil Carbon
+
+Rivers and
+Lakes
+
+Changes in the cryosphere
+Snow, Frozen Ground, Sea Ice, Ice Sheets, Glaciers
+
+Changes in the ocean
+Sea Level, Ocean Currents, Acidification
+
+Changes in and on the land surface
+Vegetation
+
+The large number of existing indicators produced by climate scientists are useful for many
+specific technical and scientific purposes and audiences. They are thus not all equally
+suitable for helping non-specialists to understand how the climate is changing. Identifying
+a subset of key indicators that capture the components of the climate system and their
+essential changing behaviour in a comprehensive way helps non-scientific audiences to
+easily understand the changes of key parameters of the climate system.
+The World Meteorological Organization uses a list of seven state-of-the-climate indicators
+that are drawn from the 55 Global Climate Observing System (GCOS) Essential Climate
+Variables, including surface temperature, ocean heat content, atmospheric carbon dioxide
+(CO2), ocean acidification, sea level, glacier mass balance and Arctic and Antarctic sea ice
+extent. Additional indicators are usually assessed to allow a more detailed picture of the
+changes in the respective domain. These include in particular – but are not limited to – precipitation, GHGs other than CO2, snow cover, ice sheet, extreme events and climate impacts.
+e
+
+er
+
+era re a
+e er
+
+e
+
+ra e
+era re
+
+ea
+
+ea
+
+er
+
+ea a
+
+a
+
+a er
+
+r
+
+ere
+
+ea
+a
+
+ea e e
+
+a er
+
+r
+ea
+
+a
+ar
+ee e
+
+State-of-the-climate indicators used by WMO for tracking climate variability and change at global level, including surface
+temperature, ocean heat content, atmospheric CO 2 , ocean acidification, sea level, glacier mass balance and Arctic and
+Antarctic sea-ice extent. These indicators are drawn from the 55 GCOS Essential Climate Variables.
+Source: https://gcos.wmo.int/en/global-climate-indicators.
+
+7
+
+DATA SOURCES AND BASELINES FOR GLOBAL TEMPERATURE
+The assessment of global temperatures
+presented in the Statement is based on
+five datasets. Three of these are based on
+temperature measurements made at weather
+stations over land and by ships and buoys
+on the oceans, combined using statistical
+methods. Each of the data centres, NOAA
+NCEIs,1 NASA GISS, 2 and the Met Office
+Hadley Centre and Climatic Research Unit at
+the University of East Anglia, 3 processes the
+data in different ways to arrive at the global
+average. Two of the datasets are reanalysis
+datasets – from ECMWF and its Copernicus
+Climate Change Service (ERA-Interim), and
+JMA (JRA-55). Reanalyses combine millions
+of meteorological and marine observations,
+including from satellites, with modelled values
+to produce a complete “reanalysis” of the
+atmosphere. The combination of observations
+with models makes it possible to estimate
+temperatures at any time and in any place
+across the globe, even in data-sparse areas
+such as the polar regions. The high degree
+of consistency of the global averages across
+these datasets demonstrates the robustness
+of the global temperature record.
+Global temperatures are usually expressed as
+“anomalies”, that is, temperature differences
+from the average for a particular baseline
+period. Although actual temperatures can
+vary greatly over short distances – for example, the temperature difference between the
+top and bottom of a mountain – temperature
+anomalies are representative of much wider
+areas. That is, if it is warmer than normal at
+the top of the mountain, it is probably warmer
+than normal at the bottom of it. Averaged
+over a month, coherent areas of above- or
+below-average temperature anomalies can
+extend for thousands of kilometres. To get
+a reasonable measurement of the global
+temperature anomaly, one needs only a few
+stations within each of these large coherent
+areas. On the other hand, obtaining an accurate measurement of the actual temperature
+requires far more stations and careful, representative sampling of many different climates.
+
+8
+
+1
+
+NOA A NCEI produce and maintain global temperature
+datasets called NOAAGlobalTemp.
+
+2
+
+NASA GISS produces and maintains a global temperature
+dataset called GISTEMP.
+
+3
+
+The UK Met Office Hadley Centre and Climatic Research
+Unit at the University of East Anglia produce and maintain
+a global temperature dataset called HadCRUT4.
+
+The period chosen as a baseline against which
+to calculate anomalies usually depends on
+the application. Commonly used baselines
+include the periods 1961–1990, 1981–2010 and
+1850–1900. The last of these is often referred to
+as a pre-industrial baseline. For some applications, for example assessing the temperature
+change during the twentieth century, the choice
+of baseline can make little or no difference.
+The period 1961–1990 is currently recommended by WMO for climate change
+assessments. This baseline period was used
+extensively in the past three IPCC assessment
+reports (AR3, AR4 and AR5) and therefore
+provides a consistent point of comparison
+over time. Considerable effort has been made
+to calculate and disseminate climate normals
+for this period.
+A commonly used value for the absolute
+global average temperature for 1961–1990 is
+14 °C. This number is not known with great
+precision, however, and may be half a degree
+higher or lower. As explained previously, this
+margin of error for this actual temperature
+value is considerably larger than is typical for
+an annually averaged temperature anomaly,
+which is usually around 0.1 °C.
+The 1981–2010 baseline period is used for
+climate monitoring. A recent period such as
+this one is often preferred because it is most
+representative of current or “normal” conditions. These 30-year averages are, indeed,
+often referred to as “climate normals”. Using
+a 1981–2010 normal means that it is possible
+to use data from satellite instruments and
+reanalyses for comparison, which do not
+often extend much further back in time. The
+1981–2010 period is around 0.3 °C warmer
+than 1961–1990.
+The period 1850–1900 was used to represent
+“pre-industrial” conditions in the IPCC Global
+Warming of 1.5 °C report and is the period
+adopted in this Statement. Monitoring global
+temperature differences from pre-industrial
+conditions is important because the Paris
+Agreement seeks to limit global warming to
+1.5 °C or 2 °C above pre-industrial conditions.
+The downside of using this baseline are that
+there are relatively few observations from
+this time and consequently there are larger
+uncertainties associated with this choice.
+The 1850–1900 period is around 0.3 °C cooler
+than 1961–1990.
+
+In contrast, areas of below-average temperatures over land were more limited. Parts of
+North America and Greenland, central Asia,
+western parts of North Africa, parts of East
+Africa, coastal areas of western Australia and
+western parts of tropical South America were
+cooler than average, but not unusually so.
+
+globally averaged mole fractions of CO2 at
+405.5 ± 0.1 parts per million (ppm), methane
+(CH4) at 1 859 ± 2 parts per billion (ppb) and
+nitrous oxide (N2O) at 329.9 ± 0.1 ppb (Figure 3).
+These values constitute, respectively, 146%,
+257% and 122% of pre-industrial levels (before
+1750). Global average figures for 2018 will
+not be available until late 2019, but real-time
+data from a number of specific locations,
+including Mauna Loa (Hawaii) and Cape Grim
+(Tasmania) indicate that levels of CO2, CH4 and
+N2O continued to increase in 2018. The IPCC
+Global Warming of 1.5 °C report found that
+limiting warming to 1.5 °C above pre-industrial
+temperatures implies reaching net zero CO2
+emissions globally around 2050, and this with
+concurrent deep reductions in emissions of
+non-CO2 forcers, particularly CH4.
+
+GREENHOUSE GASES AND OZONE
+
+CARBON BUDGET
+
+Increasing levels of GHGs in the atmosphere
+are key drivers of climate change. Atmospheric
+concentrations reflect a balance between
+sources (including emissions due to human
+activities) and sinks (for example, uptake
+by the biosphere and oceans). In 2017, GHG
+concentrations reached new highs, with
+
+Accurately assessing CO2 emissions and their
+redistribution within the atmosphere, oceans,
+and land – the “global carbon budget” – helps
+us capture how humans are changing the
+Earth’s climate, supports the development
+of climate policies, and improves projections
+of future climate change.
+
+Serbia, Switzerland) or one in the top five
+(Belgium, Estonia, Israel, Latvia, Pakistan,
+the Republic of Moldova, Slovenia, Ukraine).
+For Europe as a whole, 2018 was one of the
+three warmest years on record. Other areas of
+notable warmth included the south-western
+United States, eastern parts of Australia (for
+the country overall it was the third warmest
+year) and New Zealand, where it was the joint
+second warmest year on record.
+
+1850
+
+390
+
+1800
+
+380
+
+1750
+
+370
+
+1700
+
+360
+
+1650
+
+350
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+1600
+
+2.0
+1.0
+
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+15
+10
+5
+0
+-5
+
+325
+320
+315
+310
+305
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+2.0
+N2O growth rate (ppb/yr)
+
+3.0
+
+330
+
+300
+
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+20
+CH 4 growth rate (ppb/yr)
+
+CO 2 growth rate (ppm/yr)
+
+4.0
+
+0.0
+
+N2O mole fraction (ppb)
+
+CH 4 mole fraction (ppb)
+
+CO 2 mole fraction (ppm)
+
+400
+
+340
+
+335
+
+1900
+
+410
+
+Figure 3. Top row:
+Globally averaged mole
+fraction (measure of
+concentration) from
+1984 to 2017 of CO 2 (ppm;
+left), CH 4 (ppb; centre)
+and N 2 O (ppb; right). The
+red line is the monthly
+mean mole fraction
+with the seasonal
+variations removed; the
+blue dots and line show
+the monthly averages.
+Bottom row: Growth
+rates representing
+increases in successive
+annual means of mole
+fractions for CO 2 (ppm
+per year; left), CH 4 (ppb
+per year; centre) and
+N 2 O (ppb per year; right).
+Source: WMO Global
+Atmosphere Watch.
+
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+1.5
+1.0
+0.5
+0.0
+
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+9
+
+Coastal blue carbon
+Kirsten Isensee,1 Jennifer Howard, 2 Emily Pidgeon, 2 Jorge Ramos, 2
+1
+
+IOC-UNESCO, France
+
+2
+
+Conservation International, United States
+
+In broad terms, “blue carbon” refers to carbon stored, sequestered and cycled through
+coastal and ocean ecosystems. However, in climate mitigation, coastal blue carbon (also
+known as “coastal wetland blue carbon”)1 is defined as the carbon stored in mangroves,
+tidal salt marshes, and seagrass meadows within the soil; the living biomass above ground
+(leaves, branches, stems); the living biomass below ground (roots and rhizomes); and the
+non-living biomass (litter and dead wood)2 (see table). When protected or restored, coastal
+blue carbon ecosystems act as carbon sinks (see figure (a)).They are found on every continent except Antarctica and cover approximately 49 Mha.
+Currently, for a blue carbon ecosystem to be recognized for its climate mitigation value within
+international and national policy frameworks it is required to meet the following criteria:
+(a) Quantity of carbon removed and stored or prevention of emissions of carbon by the
+ecosystem is of sufficient scale to influence climate;
+(b) Major stocks and flows of GHGs can be quantified;
+(c) Evidence exists of anthropogenic drivers impacting carbon storage or emissions;
+(d) Management of the ecosystem that results in increased or maintained sequestration
+or emission reductions is possible and practicable;
+(e) Management of the ecosystem is possible without causing social or environmental
+harm.
+However, the ecosystem services provided by mangroves, tidal marshes and seagrasses
+are not limited to carbon storage and sequestration. They also support improved coastal
+water quality, provide habitats for economically important fish species, and protect coasts
+against floods and storms. Recent estimates revealed that mangroves are worth at least
+US$ 1.6 billion each year in ecosystem services.
+Despite the proven importance for ocean health and human well-being, mangroves, tidal
+marshes and seagrasses are being lost at a rate of up to 3% per year (see table). When
+degraded or destroyed, these ecosystems emit the carbon they have stored for centuries
+into the ocean and atmosphere and become sources of GHGs (see figure, (b)).
+Based on IPCC data it is estimated that as much as a billion tons of CO2 are being released
+annually from degraded coastal blue carbon ecosystems (from all three systems – mangroves, tidal marshes and seagrasses), which is equivalent to 19% of emissions from tropical
+deforestation globally.3
+CO2
+
+(b)
+
+(a)
+
+CO2
+Sequestration
+into woody
+biomass
+
+Anthropogenic GHG emissions
+
+CO2
+
+CO2
+
+Carbon uptake
+by photosynthesis
+
+CO2
+
+Carbon released
+through respiration
+and decomposition
+
+CO2
+
+Sequestration
+into soil
+
+10
+
+Carbon sequestration and release in intact and degraded coastal ecosystems – (a): In intact coastal wetlands (from left to right:
+mangroves, tidal marshes and seagrasses), carbon is taken up via photosynthesis (purple arrows) and sequestered in the long
+term into woody biomass and soil (red dashed arrows) or respired (black arrows). (b): When soil is drained from degraded
+coastal wetlands, the carbon stored in the soils is consumed by microorganisms, which respire and release CO 2 as a metabolic
+waste product. This happens at an increased rate when the soils are drained and oxygen is more available, which leads to
+greater CO 2 emissions. The degradation, drainage and conversion of coastal blue carbon ecosystems from human activity (that
+is, deforestation and drainage, impounded wetlands for agriculture, dredging) result in a reduction in CO 2 uptake due to the loss
+of vegetation (purple arrows) and the release of globally important GHG emissions.
+
+Carbon storage potential of coastal and marine ecosystems1
+Mangroves
+
+Tidal marsh
+
+Seagrass
+
+Geographic extent (million hectares)
+
+13.8–15.24,5
+
+2.2–40 6,7
+
+30–60 6
+
+Sequestration rate (Mg C ha -1 yr-1)
+
+2.26 ± 0.39 6
+
+2.18 ± 0.24 6
+
+1.38 ± 0.38 6
+
+Total carbon sequestered annually
+(extent x sequestration rate)
+(Million Mg C yr-1)
+
+31.2–34.4
+
+4.8–87.2
+
+41.4–82.8
+
+Top metre of soil
+pool (Mg C ha -1)
+
+280 8
+
+250 8
+
+140 8
+
+Biomass pool
+(Mg C ha -1)
+
+1278
+
+98
+
+28
+
+5 617–6 186
+
+570–10 360
+
+4 260–8 520
+
+Centuries to
+millennium
+
+Centuries to
+millennium
+
+Centuries to
+millennium
+
+Anthropogenic conversion rate (% yr-1)
+
+0.7–3.0 9
+
+1.0–2.010,11
+
+0.4–2.612,13
+
+Potential emissions due to
+anthropogenic conversion assuming all
+carbon is converted to CO2 ((total carbon
+stock per ha x ha converted annually)
+x 3.67 (conversion rate to CO2))
+
+144.3–681.1
+
+20.9–760.4
+
+62.5–813.0
+
+Mean global
+estimate of
+carbon stock
+(total = (soil
++ biomass) x
+extent)
+
+Total (million Mg C)
+
+Carbon stock stability (Years)
+
+1
+
+Howard, J., A. Sutton-Grier, D. Herr, J. Kleypas, E. Landis, E. Mcleod, E. Pidgeon and S. Simpson, 2017: Clarifying the role
+of coastal and marine systems in climate mitigation. Frontiers in Ecology and the Environment, 15(1):42–50, doi:10.1002/
+fee.1451.
+
+2
+
+Howard, J., S. Hoyt, K. Isensee, M. Telszewski and E. Pidgeon (eds), 2014: Coastal Blue Carbon: Methods for Assessing
+Carbon Stocks and Emissions Factors in Mangroves, Tidal Salt Marshes, and Seagrasses. Conservation International,
+IOC-UNESCO, International Union for Conservation of Nature. Arlington, Virginia, United States.
+
+3
+
+Intergovernmental Panel on Climate Change, 2006: 2006 Guidelines for National Greenhouse Gas Inventories. (H.S. Eggleston,
+L. Buendia, K. Miwa, T. Ngara and K. Tanabe, eds). Prepared by the National Greenhouse Gas Inventories Programme.
+Kanagawa, Japan, IGES.
+
+4
+
+Giri, C., et al., 2011: Status and distribution of mangrove forests of the world using Earth observation satellite data. Global
+Ecology and Biogeography, 20:154–59.
+
+5
+
+Spalding, M., M. Kainuma and L. Collins, 2010: World Atlas of Mangroves. London and Washington, D.C., Earthscan.
+
+6
+
+Mcleod, E., G.L. Chmura, S. Bouillon, R. Salm, M. Björk, C.M. Duarte, C.E. Lovelock, W.H. Schlesinger and B.R. Silliman, 2011:
+A blueprint for blue carbon: toward an improved understanding of the role of vegetated coastal habitats in sequestering
+CO 2 . Frontiers in Ecology and the Environment, 9(10):552–560, doi:10.1890/110004.
+
+7
+
+Duarte, C.M., et al., 2013: The role of coastal plant communities for climate change mitigation and adaptation. Nature
+Climate Change, 3:961–68.
+
+8
+
+Pendleton, L., et al., 2012: Estimating global “blue carbon” emissions from conversion and degradation of vegetated coastal
+ecosystems. PLoS ONE, 7(9):e43542.
+
+9
+
+Food and Agriculture Organization of the United Nations, 2007: The World’s Mangroves 1980–2005. FAO Forestry Paper
+153. Rome, FAO.
+
+10
+
+Duarte, C.M., J. Borum, F.T. Short and D.I. Walker, 2005: Seagrass ecosystems: their global status and prospects. In: Aquatic
+Ecosystems: Trends and Global Prospects (N.V.C. Polunin, ed.). Cambridge, United Kingdom, Cambridge University Press.
+
+11
+
+Bridgham, S. D., J.P. Megonigal, J.K. Keller, N.B. Bliss and C. Trettin, 2006: The carbon balance of North American wetlands.
+Wetlands, 26(4):889–916.
+
+12
+
+Waycott, M., et al., 2009: Accelerating loss of seagrasses across the globe threatens coastal ecosystems. Proceedings
+of the National Academy of Sciences of the United States of America, 106:12377–12381.
+
+13
+
+Green, E.P. and F.T. Short (eds), 2003: World Atlas of Seagrasses. Berkeley, University of California Press.
+
+11
+
+Figure 4
+(a) Annual global carbon
+budget averaged for
+the decade 2008–2017.
+Fluxes are in billion tons
+of CO 2 . Circles show
+carbon stocks in billion
+tons of carbon.
+
+The rise in atmospheric CO2 causes climate change
+Fossil CO2
+
+Anthropogenic
+fluxes 2008-2017
+average GtCO2 per year
+
+Land-use change
+
+Biosphere
+
+Carbon cycling GtCO2
+per year
+
++17.3
+
+440
+
+(33-36)
+Stocks available GtCO2
+
+440
+
+4000
+
+Gas reserves
+
+140,000
+
+330
+
+Permafrost
+
+Oil reserves
+
+Soils
+
+Copyright:
+
+Fossil CO2 emissions have grown almost continuously for the past two centuries (Figure 4),
+a trend only interrupted briefly by globally
+significant economic downturns. Emissions
+to date continued to grow at 1.6% in 2017 and
+at a preliminary 2.0% (1.1%–3.4%) per year in
+2018. It is anticipated that a new record high
+of 36.9 ± 1.8 billion tons of CO2 was reached
+in 2018.
+
+(b)
+
+CO2 flux (Gt CO2/yr)
+
+Fossil
+carbon
+
+10
+
+Land-use
+change
+Ocean sink
+
+0
+−10
+
+12
+
+Marine
+biota
+
+Dissolved
+inorganic
+carbon
+
+Bu
+udget imbalance +2
+
+20
+
+Land sink
+Total estimated sources do
+not match total estimated
+sinks. This imbalance reflects
+the gap in our understanding.
+
+1920
+
+Organic
+carbon
+
+Produced by the Future Earth Media Lab for the Global Carbon Project. http://www.globalcarbonproject.org/carbonbudget/index.htm.
+Written and edited by Corinne Le Quéré (Tyndall Centre UEA) with the Global Carbon Budget team. Impacts based on IPCC SR15.
+Graphic by Nigel Hawtin. Credits: Le Quéré et al. Earth System Science Data (2018);
+NOAA-ESRL and the Scripps Institution of Oceanography; Illustrative projections by D. van Vuuren based on the IMAGE model
+
+30
+
+1900
+
+Surface
+sediments
+
+Coal reserves
+
+40
+
+−40
+
+330
+
+Vegetation
+
+Balance of sources and sinks
+
+−30
+
+9
+
+(7-11)
+
+(9-14)
+
+Net CO2 emissions from land use and land
+cover changes were on average 5.0 ± 2.6 billion tons per year over the past decade, with
+highly uncertain annually resolved estimates.
+Together, land-use change and fossil CO 2
+
+−20
+
+Atmospheric CO2
+
+12
+
+34
+
+Ocean
+
+Atmospheric CO2
+
+5
+
+(3-8)
+
+0.5
+
+(b) The historical global
+carbon budget, 1900–
+2017. Carbon emissions
+are partitioned among
+the atmosphere and
+carbon sinks on land
+and in the oceans. The
+“imbalance” between
+total emissions and total
+sinks reflects the gaps
+in data, modelling or our
+understanding of the
+carbon cycle.
+Source: Global Carbon
+Project, http://www.
+globalcarbonproject.org/
+carbonbudget; Le Quéré,
+et al., 2018. 2
+
+(a)
+
+The global carbon cycle 2008-2017
+
+1940
+
+1960
+
+emissions reached an estimated 41.5 ± 3.0 billion tons of CO2 in 2018.
+The continued high emissions have led to high
+levels of CO2 accumulation in the atmosphere
+that amounted to 2.82 ± 0.09 ppm in22018. 3
+This level of atmospheric CO2 is the result of
+the accumulation of only a part of the total CO2
+emitted because about 55% of all emissions
+are removed by CO2 sinks in the oceans and
+terrestrial vegetation.
+Sinks for CO2 are distributed across the hemispheres, on land and oceans, but CO2 fluxes
+in the tropics (30°S–30°N) are close to carbon
+neutral due to the CO2 sink being largely offset
+by emissions from deforestation. Sinks for
+CO2 in the southern hemisphere are dominated by the removal of CO2 by the oceans,
+while the stronger sinks in the northern hemisphere have similar contributions from both
+land and oceans.
+
+OZONE
+Following the success of the Montreal Protocol, the use of halons and chlorofluorocarbons
+(CFCs) has been discontinued. However, due
+to their long lifetime these compounds will
+remain in the atmosphere for many decades.
+There is still more than enough chlorine and
+
+Atmosphere
+
+1980
+
+2000
+
+2017
+
+Global Carbon Project • Data:Year
+CDIAC/GCP/NOAA-ESRL/UNFCCC/BP/USGS
+
+2
+
+Le Quéré, et al., 2018: Global carbon budget 2018. Earth
+System Science Data, 10:2141–2194; and March 2019 updates.
+
+3
+
+NOAA, 2019: Trends in atmospheric carbon dioxide, https://
+www.esrl.noaa.gov/gmd/ccgg/trends/gl_gr.html.
+
+In 2018, south polar stratospheric temperatures were below the long-term mean
+(1979–2017), and the stratospheric polar vortex was relatively stable with less eddy heat
+flux than the average from June to mid-November. Ozone depletion started relatively
+early in 2018 and remained above the longterm average until about mid-November
+(Figure 5).
+The ozone hole area reached its maximum for
+2018 on 20 September, with 24.8 million km2,
+whereas it reached 28.2 million km 2 on
+2 October in 2015 and 29.6 million km2 on
+24 September 2006 according to an analysis
+from NASA. Despite a relatively cold and
+stable vortex, the 2018 ozone hole was smaller
+than in earlier years with similar temperature
+conditions, such as, for example, 2006. This
+is an indication that the size of the ozone
+hole is starting to respond to the decline
+in stratospheric chlorine as a result of the
+provisions of the Montreal Protocol.
+
+THE OCEANS
+SEA-SURFACE TEMPERATURES
+Sea-surface waters in a number of ocean
+areas were unusually warm in 2018, including
+much of the Pacific with the exception of the
+eastern tropical Pacific and an area to the
+north of Hawaii, where temperatures were
+below average. The western Indian Ocean,
+tropical Atlantic and an area of the North
+Atlantic extending from the east coast of
+the United States were also unusually warm.
+Unusually cold surface waters were observed
+in an area to the south of Greenland, which
+is one area of the world that has seen longterm cooling.
+
+Figure 5. Area (10 6 km 2 )
+
+30
+
+1979-2017
+2014
+2015
+2016
+2017
+2018
+
+Ozone hole area
+25
+
+20
+Area (106 km2)
+
+bromine present in the atmosphere to cause
+complete destruction of ozone at certain altitudes in Antarctica from August to December,
+so the size of the ozone hole from one year
+to the next is to a large degree governed by
+meteorological conditions.
+
+where the total ozone
+column is less than 220
+Dobson units. The dark
+green-blue shaded area
+is bounded by the 30 th
+and 70 th percentiles
+and the light greenblue shaded area is
+bounded by the 10 th and
+90 th percentiles for the
+period 1979–2017. The
+thin black lines show the
+maximum and minimum
+values for each day
+during the 1979–2017
+period. Source: based
+on data from the NASA
+Ozone Watch website
+(Ozone Mapping and
+Profiler Suite, Ozone
+Monitoring Instruments
+and Total Ozone Mapping
+Spectrometer).
+
+15
+
+10
+
+5
+
+0
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Month
+
+Nov
+
+Dec
+
+exceeded 4 °C above normal at certain times
+(Figure 6). The record high sea-surface temperatures were linked to unusually warm
+conditions over New Zealand, which had
+its warmest summer and warmest month
+(January) on record. It was also the warmest
+November to January period on record for
+Tasmania. The warm waters were associated
+with high humidity and February, though past
+the peak of the marine heatwave, saw a number of extreme rainfall events in New Zealand.
+
+OCEAN HEAT CONTENT
+More than 90% of the energy trapped by
+GHGs goes into the oceans and ocean heat
+content provides a direct measure of this
+energy accumulation in the upper layers of the
+ocean. Unlike surface temperatures, where
+the incremental long-term increase from one
+year to the next is typically smaller than the
+year-to-year variability caused by El Niño and
+La Niña, ocean heat content is rising more
+
+Figure 6. Daily seasurface temperature
+anomalies for 29 January
+2018 with respect to the
+1987–2005 average.
+Source: UK Met Office
+Hadley Centre
+
+Sea-surface Temperature difference from 1987–2005 (ºC)
+-5
+
+-4
+
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+In November 2017, a marine heatwave developed in the Tasman Sea that persisted until
+February 2018. Sea-surface temperatures in
+the Tasman Sea exceeded 2 °C above normal
+widely and daily sea-surface temperatures
+
+13
+
+3
+
+5
+
+Deoxygenation of open ocean and
+coastal waters
+IOC Global Ocean Oxygen Network
+(GO2NE), Kirsten Isensee,1
+Denise Breitburg, 2 Marilaure Gregoire3
+1
+
+IOC-UNESCO, France
+
+2
+
+Smithsonian Environment Research Center,
+United States
+
+3
+
+Oxygen minimum zones
+(blue) and areas with
+coastal hypoxia (red)
+in the world’s oceans.
+Coastal hypoxic sites
+mapped here are
+systems where oxygen
+concentrations of
+< 2 mg/L have been
+recorded and in which
+anthropogenic nutrients
+are a major cause of
+oxygen decline. Sources:
+data from (3) and Diaz,
+J.R., unpublished; figure
+adapted after (4), (5)
+and (6).
+
+0.05
+
+0.25
+
+14
+
+University of Liège, Belgium
+
+Both observations and numerical models indicate
+that oxygen is declining in the modern open and
+coastal oceans, including estuaries and semi-enclosed seas. Since the middle of the last century,
+there has been an estimated 1%–2% decrease
+(that is, 2.4–4.8 Pmol or 77 billion–145 billion
+tons) in the global ocean oxygen inventory,1, 2
+while, in the coastal zone, many hundreds of sites
+are known to have experienced oxygen concentrations that impair biological processes or are
+lethal for many organisms. Regions with historically low oxygen concentrations are expanding,
+and new regions are now exhibiting low oxygen
+conditions. While the relative importance of
+the various mechanisms responsible for the
+loss of the global ocean oxygen content is not
+precisely known, global warming is expected
+to contribute to this decrease directly because
+the solubility of oxygen decreases in warmer
+waters, and indirectly through changes in ocean
+dynamics that reduce ocean ventilation, which is
+the introduction of oxygen to the ocean interior.
+Model simulations have been performed for the
+end of this century that project a decrease of
+oxygen in the open ocean under both high- and
+low-emission scenarios.
+In coastal areas, increased export by rivers
+of nitrogen and phosphorus since the 1950s
+has resulted in eutrophication of water bodies
+worldwide. Eutrophication increases oxygen
+consumption and, when combined with low
+ventilation, leads to the occurrence of oxygen deficiencies in subsurface waters. Climate
+
+Hypoxic areas
+1.4 mg l–1 O2
+
+change is expected to further amplify deoxygenation in coastal areas, already influenced by
+anthropogenic nutrient discharges, by decreasing oxygen solubility, reducing ventilation by
+strengthening and extending periods of seasonal stratification of the water column, and in
+some cases where precipitation is projected to
+increase, by increasing nutrient delivery.
+The volume of anoxic regions of the ocean oxygen minimum zones has expanded since 1960,2
+altering biogeochemical pathways by allowing
+processes that consume fixed nitrogen and
+release phosphate, iron, hydrogen sulfide (H2S),
+and possibly N2O (see figure). The relatively
+limited availability of essential elements, such
+as nitrogen and phosphorus, means such alterations are capable of perturbing the equilibrium
+chemical composition of the oceans. Furthermore, we do not know how positive feedback
+loops (for example, remobilization of phosphorus
+and iron from sediment particles) may speed
+up the perturbation of this equilibrium.
+Deoxygenation affects many aspects of the
+ecosystem services provided by the world’s
+oceans and coastal waters. For example, the
+process affects biodiversity and food webs,
+and can reduce growth, reproduction and survival of marine organisms. Low-oxygen-related
+changes in spatial distributions of harvested
+species can cause changes in fishing locations
+and practices, and can reduce the profitability of
+fisheries. Deoxygenation can also increase the
+difficulty of providing sound advice on fishery
+management.
+
+1
+
+Bopp, L., L. Resplandy, J.C. Orr, S.C. Doney, J.P. Dunne,
+M. Gehlen, P. Halloran, C. Heinze, T. Ilyina and R. Seferian,
+2013: Multiple stressors of ocean ecosystems in the 21st
+century: projections with CMIP5 models. Biogeosciences,
+10:6225–6245.
+
+2
+
+Schmidtko, S., L. Stramma and M. Visbeck, 2017: Decline in
+global oceanic oxygen content during the past five decades.
+Nature, 542:335–339.
+
+3
+
+Diaz, R.J. and R. Rosenberg, 2008: Spreading dead zones and
+consequences for marine ecosystems. Science, 321:926–929.
+
+4
+
+Isensee, K., L.A. Levin, D.L. Breitburg, M. Gregoire, V. Garçon and
+L. Valdés, 2015: The ocean is losing its breath. Ocean and Climate,
+Scientific Notes. http://www.ocean-climate.org/wp-content/
+uploads/2017/03/ocean-out-breath_07-6.pdf.
+
+5
+
+Breitburg, D., M. Grégoire and K. Isensee (eds), 2018: The
+Ocean is Losing Its Breath: Declining Oxygen in the World’s
+Ocean and Coastal Waters. Global Ocean Oxygen Network.
+IOC Technical Series No. 137. IOC-UNESCO.
+
+6
+
+Breitburg, D., et al., 2018: Declining oxygen in the global ocean
+and coastal waters. IOC Global Ocean Oxygen Network.
+Science, 359(6371):p.eaam7240.
+
+Warming trends in the southern ocean
+
+2
+
+Armour, K.C., J. Marshall, J.R. Scott, A. Donohoe and E.R.
+Newson, 2016: Southern Ocean warming delayed by circumpolar upwelling and equatorward transport. Nature
+Geoscience, 9:549–554, https://doi.org/10.1038/ngeo2731.
+
+3
+
+Swart, N.C., S.T. Gille, J.C. Fyfe and N.P. Gillett, 2018: Recent
+southern ocean warming and freshening driven by greenhouse gas emissions and ozone depletion. Nature Geoscience,
+11:836–842, https://doi.org/10.1038/s41561-018-0226-1.
+
+b
+.0
+
+34
+
+34.2
+
+10.0
+
+35.4
+
+35.2
+34.8
+
+34
+
+.4
+
+Observations
+
+Depth (m)
+
+18.0
+16.0
+
+1,500
+2,000
+12.0
+
+8.
+
+d
+34.0
+
+10.0
+
+500
+
+34.6
+
+2.0
+
+34
+
+.8
+
+1,500
+2,000
+
+e
+
+2.0
+
+0
+
+6.0
+
+12.0
+
+8.
+
+0
+
+16.0 18.0
+14.0
+
+f
+
+34.4
+
+34.4
+
+34.6
+
+2.0
+
+1,500
+2,000
+60° S
+
+.2
+
+34
+
+34.0
+
+10.0
+
+500
+1,000
+
+34.8
+
+34.4
+
+34.4
+
+34.6
+
+CanESM2 (full)
+
+1,000
+
+16.0 18.0
+14.0
+
+0
+
+CanESM2 (subsampled)
+
+6.0
+
+.6
+
+0
+
+34
+
+c
+
+34.2
+
+Sallée, J.B., 2018: Southern ocean warming. Oceanography,
+31(2):52–62, https://doi.org/10.5670/oceanog.2018.215.
+
+12.014.0
+
+34.6
+
+4.0
+
+1
+
+8.0
+
+1,000
+
+4.0
+
+The greatest rates of ocean warming are in the
+southern ocean, with warming reaching to the
+deepest layers. However, there are significant
+regional differences. The subpolar surface
+ocean south of the Antarctic circumpolar
+current (ACC) has exhibited delayed warming,
+or even a slight cooling over past decades.1, 2
+To the north of the ACC (approximately 30°S
+to 60°S), however, the southern ocean has
+experienced rapid warming from the surface
+to a depth of 2 000 m (see figure) at rates of
+roughly twice those of the global ocean. 3, 4, 5
+The pattern of delayed warming to the south,
+and enhanced surface to intermediate-depth
+warming to the north is driven by the northward and downward advection of heat by
+the southern ocean meridional overturning
+circulation.1, 2 This transfer of heat from the
+surface to the interior makes the southern
+ocean the primary region of anthropogenic
+heat uptake. 6 Indeed, the observed rapid
+warming north of the ACC has been formally
+attributed to increasing GHG concentrations.3
+Changes in the westerly winds, and resulting
+anomalous northward Ekman transport of
+cold waters, driven by stratospheric ozone
+depletion, may also contribute to the subpolar surface cooling7, 8 and warming to the
+north. 3 Finally, the deep (> 2 000 m) and
+abyssal (> 4 000 m) southern ocean has been
+warming significantly faster than the global
+mean. 9, 10 This is thought to be connected
+to changes in the rate of Antarctic bottom
+water formation and the lower limb of the
+meridional overturning circulation.
+
+6.0
+
+500
+
+Depth (m)
+
+WMO
+
+Depth (m)
+
+2
+
+2.0
+
+.0
+35
+
+Environment Canada
+
+0
+
+4.0
+
+1
+
+a
+
+34.6
+
+Neil Swart,1 Michael Sparrow 2
+
+34.8
+
+2.0
+
+55° S
+
+50° S
+
+45° S
+
+40° S
+
+35° S
+
+60° S
+
+55° S
+
+50° S
+
+Latitude
+–0.60
+
+–0.20
+
+0.20
+
+45° S
+
+40° S
+
+35° S
+
+Latitude
+0.60
+
+–0.03
+
+∆T (°C)
+
+4
+
+Gille, S.T., 2002: Warming of the Southern Ocean since
+the 1950s. Science, 295(5558):1275–1277, DOI: 10.1126/
+science.1065863.
+
+5
+
+Gille, S.T., 2008: Decadal-scale temperature trends in the
+southern hemisphere ocean. Journal of Climate, 21:4749–
+4765, https://doi.org/10.1175/2008JCLI2131.1.
+
+6
+
+Roemmich, D., J. Church, J. Gilson, D. Monselesan, P. Sutton
+and S. Wijffels, 2015: Unabated planetary warming and
+its ocean structure since 2006. Nature Climate Change,
+5(3):240–245.
+
+7
+
+Kostov, Y., D. Ferreira, K.C. Armour and J. Marshall, 2018:
+Contributions of greenhouse gas forcing and the southern
+annular mode to historical southern ocean surface temperature trends. Geophysical Research Letters, 45:1086–1097,
+https://doi.org/10.1002/2017GL074964.
+
+8
+
+Ferreira, D., J. Marshall, C.M. Bitz, S. Solomon and A.
+Plumb, 2015: Antarctic ocean and sea ice response to ozone
+depletion: A two-time-scale problem. Journal of Climate,
+28:1206–1226, https://doi.org/10.1175/JCLI-D-14-00313.1.
+
+9
+
+Desbruyères, D.G., S.G. Purkey, E.L. McDonagh, G.C. Johnson
+and B.A. King, 2016: Deep and abyssal ocean warming from
+35 years of repeat hydrography. Geophysical Research
+Letters, 43:10356–10365.
+
+10
+
+Purkey, S.G. and G.C. Johnson, 2010: Warming of global
+abyssal and deep southern ocean waters between the
+1990s and 2000s: Contributions to global heat and sea level
+rise budgets. Journal of Climate, 23:6336–6351, https://doi.
+org/10.1175/2010JCLI3682.1.
+
+–0.01
+
+0.01
+
+0.03
+
+∆Salinity (psu)
+
+Observed changes in
+temperature (left) and
+salinity (right) between
+the 2006–2015 mean and
+the 1950–1980 mean.
+The top panels (a, b) are
+from observations and
+the bottom two from
+models, sub-sampled to
+match the observational
+coverage (c, d) and the
+ensemble mean forcing
+with full sampling (e, f).
+The observed changes
+are primarily attributable
+to increases in GHGs.
+Source: (3).
+
+15
+
+revealed by satellite altimetry (World Climate
+Research Programme Global Sea Level Budget Group, 2018).5
+
+Levitus
+EN4
+
+10
+
+1022 joules
+
+5
+0
+−5
+−10
+
+1960
+
+Figure 7. Global ocean
+heat content change
+(x 10 22 J) for the 0–700 m
+layer relative to the
+1981–2010 baseline. The
+lines show annual means
+from the Levitus analysis
+produced by NOAA NCEI
+and the EN4 analysis
+produced by the UK Met
+Office Hadley Centre.
+Source: UK Met Office
+Hadley Centre, prepared
+using data also from
+NOAA NCEI.
+
+Figure 8. Left: Global
+mean sea level for
+the period 1993–2018
+from satellite altimetry
+datasets. The thin
+black line is a quadratic
+function representing
+the acceleration.
+Right: Contribution of
+individual components
+to the global mean sea
+level during the period
+1993–2016. Shaded
+area around the red and
+blue curves represents
+the uncertainty range.
+Source: European Space
+Agency Climate Change
+Initiative.
+
+16
+
+1970
+
+1980
+
+Year
+
+1990
+
+2000
+
+2010
+
+2020
+
+steadily with less pronounced year-to-year
+fluctuations (Figure 7). Indeed, 2018 set new
+records for ocean heat content in the upper
+700 m (data since 1955) and upper 2 000 m
+(data since 2005), exceeding previous records
+set in 2017.
+
+SEA LEVEL
+Sea level is one of the seven key indicators of
+global climate change highlighted by GCOS 4
+and adopted by WMO for use in characterizing the state of the global climate in its
+annual statements. Sea level continues to
+rise at an accelerated rate (see Figure 8, left).
+Global mean sea level for 2018 was around
+3.7 mm higher than in 2017 and the highest
+on record. Over the period January 1993 to
+December 2018, the average rate of rise was
+3.15 ± 0.3 mm yr-1, while the estimated acceleration was 0.1 mm yr-2. Accelerated ice mass
+loss from the ice sheets is the main cause
+of the global mean sea-level acceleration as
+
+OCEAN ACIDIFICATION
+In the past decade, the oceans have absorbed
+around 30% of anthropogenic CO 2 emissions. Absorbed CO2 reacts with seawater and
+changes ocean pH. This process is known as
+ocean acidification. Changes in pH are linked
+to shifts in ocean carbonate chemistry that
+can affect the ability of marine organisms,
+such as molluscs and reef-building corals,
+to build and maintain shells and skeletal
+material. This makes it particularly important to fully characterize changes in ocean
+5
+
+4
+
+Global climate indicators, ht tps: //gcos.wmo.int /en/
+global-climate-indicators.
+
+World Climate Research Programme Global Sea Level Budget
+Group, 2018: Global sea-level budget 1993–present. Earth
+Systems Science Data, 10:1551–1590.
+
+ESA climate change initiative (SL_cci) data
+AVISO plus near real time Jason-3 data
+
+CCI GMSL
+Sum of SLBC-CCI V2 components
+Residual: CCI GMSI: Sum of components
+Steric Dieng et al., 2017 with deep ocean included
+GlaciersV2
+Greenland ice sheet altimetry based V2
+Antarctic ice sheet altimetry based V2
+MeanTWSV2
+
+140
+120
+100
+
+Sea level (mm)
+
+1950
+
+Assessing the sea-level budget helps to quantify and understand the causes of sea-level
+change. Closure of the total sea-level budget
+means that the observed changes of global
+mean sea level as determined from satellite
+altimetry equal the sum of observed contributions from changes in ocean mass and
+thermal expansion (based on in situ temperature and salinity data, down to 2 000 m since
+2005 with the international Argo project).
+Ocean mass change can be either derived
+from GRACE satellite gravimetry (since 2002)
+or from adding up individual contributions
+from glaciers, ice sheets and terrestrial water
+storage (Figure 8, right). Failure to close the
+sea-level budget would indicate errors in
+some of the components or contributions
+from components missing from the budget.
+
+E
+
+E
+
+80
+
+> 60
+Cl)
+
+co
+
+Cl)
+
+(f)
+
+..........-·...... ..,.,:.·. .................: ... . . .�
+•
+
+40
+
+•·
+
+..._. ·..
+�--.·
+
+,... •.. .,_. ...
+♦
+
+_
+
+...
+
+./w:-L••♦
+
+....
+
+•
+
+.,,.......... . .......... �....
+
+......:-.,,,.: ....\•••••••♦•♦-
+
+#t.
+
+♦
+
+---
+
+4 I
+
+•
+
+.
+..
+
+-- •
+♦
+
+♦
+
+20
+
+---
+
+-"'
+
+J"'r-
+
+-20
+1993
+
+Year
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+Year
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+carbonate chemistry. Observations in the
+open ocean over the last 30 years have shown
+a clear trend of decreasing pH (Figure 9). The
+IPCC AR5 reported a decrease in the surface
+ocean pH of 0.1 units since the start of the
+industrial revolution (1750). Trends in coastal
+locations, however, are less clear due to the
+highly dynamic coastal environment, where
+a great many influences such as temperature
+changes, freshwater runoff, nutrient influx,
+biological activity and large ocean oscillations
+affect CO2 levels. To characterize the variability of ocean acidification, and to identify the
+drivers and impacts, a high temporal and
+spatial resolution of observations is crucial.
+In line with previous reports and projections
+on ocean acidification, global pH levels continue to decrease. More data for recently
+established sites for observations in New
+Zealand show similar patterns, while filling
+important data gaps for ocean acidification
+in the southern hemisphere. Availability of
+operational data is currently limited, but it
+is expected that the newly introduced methodology for the United Nations Sustainable
+
+Development Goal indicator 14.3.1 (“Average
+marine acidity (pH) measured at agreed suite
+of representative sampling stations”) will lead
+to an expansion in the observation of ocean
+acidification on a global scale.
+
+THE CRYOSPHERE
+The cryosphere component of the Earth system includes solid precipitation, snow cover,
+sea ice, lake and river ice, glaciers, ice caps,
+ice sheets, permafrost and seasonally frozen
+ground. The cryosphere provides key indicators of climate change, yet is one of the most
+under-sampled domains of the Earth system.
+There are at least 30 cryospheric properties
+that, ideally, would be measured. Many are
+measured at the surface, but spatial coverage
+is generally poor. Some have been measured
+for many years from space; the capability to
+measure others with satellites is developing.
+The major cryosphere indicators for the state
+of the climate include sea ice, glaciers, and the
+Greenland ice sheet. Snow cover assessment
+is also included in this section.
+Hawaii Ocean Time Series
+
+Hawaii Ocean Time Series
+8.20
+
+475
+450
+
+8.15
+pHTOT (in situ)
+
+pCO2 (μatm)
+
+425
+400
+375
+350
+325
+
+8.10
+8.05
+8.00
+
+300
+275
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+7.95
+1990
+
+2015
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+Year
+
+Year
+
+Figure 9. Records
+Bermuda Atlantic Time Series
+
+Bermuda Atlantic Time Series
+
+475
+
+8.20
+
+450
+8.15
+pHTOT (in situ)
+
+pCO2 (μatm)
+
+425
+400
+375
+350
+325
+
+8.05
+8.00
+
+300
+275
+1990
+
+8.10
+
+1995
+
+2000
+
+2005
+
+2010
+
+7.95
+1990
+
+2015
+
+1995
+
+2000
+
+Year
+
+2005
+
+2010
+
+2015
+
+Year
+
+European Station for Time series
+in the Ocean Canary Islands
+
+European Station for Time series
+in the Ocean Canary Islands
+
+475
+
+8.20
+
+450
+8.15
+pHTOT (in situ)
+
+pCO2 (μatm)
+
+425
+400
+375
+350
+325
+
+8.05
+8.00
+
+300
+275
+1990
+
+8.10
+
+1995
+
+2000
+
+2005
+Year
+
+2010
+
+2015
+
+7.95
+1990
+
+1995
+
+2000
+
+2005
+Year
+
+2010
+
+2015
+
+of pCO 2 and pH from
+three long-term ocean
+observation stations.
+Top: Hawaii Ocean Time
+Series in the Pacific.
+Middle: Bermuda
+Atlantic Time Series.
+Bottom: European
+Station for Time Series
+in the Ocean, Canary
+Islands, in the Atlantic
+Ocean. Source: Richard
+Feely (NOAA Pacific
+Marine Environmental
+Laboratory) and Marine
+Lebrec (International
+Atomic Energy Agency
+Ocean Acidification
+International
+Coordination Centre).
+
+17
+
+SEA ICE
+Arctic sea-ice extent was well below average throughout 2018 and was at record low
+levels for the first two months of the year.
+The annual maximum occurred in midMarch and the March monthly extent was
+14.48 million km2, approximately 7% below
+the 1981–2010 average. This ranked as the
+third lowest March extent in the 1979–2018
+satellite record, according to data from NSIDC
+and the Copernicus Climate Change Service
+(C3S). Only March 2016 and 2017 were lower.
+Following the below-average maximum
+extent, sea-ice extent ranked second lowest
+on record to the end of May and continued
+to rank among the 10 lowest until the end of
+August. Similar to 2017, a strong, persistent
+low-pressure system over the Arctic helped to
+inhibit ice loss and keep temperatures below
+average, especially during late summer. The
+Arctic sea-ice extent reached its minimum in
+mid-September. The September monthly seaice extent was 5.45 million km2, approximately
+28% below average and the sixth smallest
+September extent on record (Figure 10, left).
+The 12 lowest September extents have all
+occurred since 2007. Sea-ice coverage was
+particularly low in the East Siberian, northern
+Laptev and northern Chukchi Seas. Nearand above-average sea-ice coverage was
+observed in the eastern Beaufort Sea and
+the northern Kara and Barents Seas.
+After the sea-ice minimum in September,
+sea-ice extent in the Arctic expanded at a
+slower-than-average rate until mid-October
+
+when ice expansion accelerated through to
+the end of November. By December the rate
+of ice expansion had slowed again and at the
+end of 2018 daily ice extent was near record
+low levels.
+Antarctic sea-ice extent was also well below
+average throughout 2018. The monthly extent
+in January was the second lowest, and in
+February the lowest. The annual minimum
+extent occurred in late February and the
+monthly average was 2.28 million km2, 33%
+below average and ranked record low in the
+C3S dataset and second lowest in the NSIDC
+data. Late summer sea-ice conditions in the
+Antarctic have been highly variable for several years, with the record largest sea-ice
+extent occurring as recently as 2008. For the
+seven months from February to August, the
+monthly extent ranked among the 10 lowest
+on record.
+The Antarctic sea-ice extent reached its annual
+maximum in late September and early October. The September monthly average extent
+was 17.82 million km2, 4% below average and
+the second smallest on record according to
+the C3S dataset, and fifth smallest according
+to the NSIDC data (Figure 10, right). Belowaverage ice coverage was observed in parts
+of the northern Weddell Sea and southern
+Indian Ocean. After the maximum extent in
+early spring, Antarctic sea ice declined at a
+rapid rate with the monthly extents ranking
+among the five lowest for each month through
+to the end of 2018. In the last days of 2018,
+the daily Antarctic sea-ice extent reached a
+record minimum.
+100
+80
+
+Figure 10. Average
+sea-ice concentration
+(in %) for September
+2018 from the C3S
+analysis (blue and white
+shading). The pink line
+shows the climatological
+ice edge for the period
+1981–2010. Source:
+ECMWF Copernicus
+Climate Change Service
+(ERA-Interim) data.
+
+18
+
+60
+%
+40
+20
+0
+
+Antarctic ice sheet mass balance
+1979–1989
+
+Eric Rignot,1 Michael Sparrow 2
+1
+
+University of California and Jet Propulsion
+Laboratory, California Institute of Technology
+
+2
+
+WMO
+
+Antarctica contains an ice volume that translates into a sea-level equivalent of 57.2 m.1
+Its annual net input of mass from snowfall
+is 2 100 Gt, excluding ice shelves, equivalent to a 5.8 mm fluctuation in global sea
+level. 2 In a state of mass equilibrium, accumulation of snowfall in the interior would
+balance surface ablation (wind transport and
+sublimation) and ice discharge along the
+periphery into the southern ocean. Nearly
+half of the land ice that crosses the grounding line to reach the ocean to form floating
+ice shelves melts in contact with the ocean,
+while the other half breaks up and detaches
+into icebergs. 3,4
+Recent observations have shown that the
+ice sheet is losing mass along the periphery
+due to the enhanced flow of its glaciers at a
+rate that has been increasing over time, while
+there is no long-term change in snowfall accumulation in the interior. Recent research5 has
+evaluated the mass balance of the Antarctic
+ice sheet over the last four decades using a
+comprehensive, precise satellite record and
+output products from a regional atmospheric
+climate model to document its impact on
+sea-level rise. The mass loss is dominated by
+enhanced glacier flow in areas closest to warm,
+salty, subsurface circumpolar deep water,
+including east Antarctica, which has been a
+major contributor over the entire period. The
+same sectors are likely to dominate sea-level
+rise from Antarctica in decades to come as
+enhanced polar westerlies push more circumpolar deep water (CDW) towards the glaciers.
+The total mass loss from Antarctica increased
+from 40 ± 9 Gt/year in the 11-year period
+1979 –1989 to 50 ± 14 Gt /year in 1989 –
+1999, 166 ± 18 Gt/year in 1999–2009, and
+252 ± 26 Gt/year in 2009–2017, that is, by a
+factor 6 (see figure).
+This evolution of the glaciers and surrounding
+ice shelves is consistent with a strengthening
+of the westerlies caused by a rise in GHG levels
+and ozone depletion that bring more CDW onto
+the continental shelf. Enhanced intrusion of
+CDW being the root cause of the mass loss in
+the Amundsen Sea Embayment and the West
+
+Antarctica
+
+1989–1999
+1000 km
+
+(a)
+
+Peninsula
+
+West
+
+East
+
+Antarctica
+
+1999–2009
+
+Antarctica
+
+Peninsula
+
+West
+
+Peninsula
+
+West
+
+East
+
+2009–2017
+1000 km
+
+(c)
+
+1000 km
+
+(b)
+
+East
+
+1000 km
+
+(d)
+
+Antarctica
+
+Peninsula
+
+Peninsula, Rignot et al. suggest that a similar
+situation is taking place in Wilkes Land, where
+novel and sustained oceanographic data are
+critically needed. These authors’ mass balance
+assessment, combined with prior surveys,
+suggests that the sector between the Cook/
+Ninnis and west ice shelves may be exposed
+to CDW and could contribute a multimetre
+sea-level rise with unabated climate warming.
+1
+
+Fretwell, P., et al., 2013: Bedmap2: improved ice bed, surface
+and thickness datasets for Antarctica. Cryosphere, 7:375–393.
+
+2
+
+van Wessem, J.M., et al., 2018: Modelling the climate and
+surface mass balance of polar ice sheets using RACMO2 –
+Part 2: Antarctica (1979-2016). Cryosphere, 12:1479–1498.
+
+3
+
+Rignot, E., S. Jacobs, J. Mouginot and B. Scheuchl, 2013:
+Ice-shelf melting around Antarctica. Science, 341:266–270.
+
+4
+
+Liu, Y., J.C. Moore, X. Cheng, R.M. Gladstone, J.N. Bassis,
+H-X. Liu, J-H. Wen and F-M. Hui, 2015: Ocean-driven thinning enhances iceberg calving and retreat of Antarctic ice
+shelves. Proceedings of the National Academy of Sciences
+of the United States of America, 112:3263–3268.
+
+5
+
+Rignot, E., J. Mouginot, B. Scheuchl, M. van den Broeke,
+M.J. van Wessem and M. Morlighem, 2019: Four decades
+of Antarctic ice sheet mass balance from 1979–2017. Proceedings of the National Academy of Sciences of the United
+States of America, 116(4):1095–1103, http://www.pnas.org/
+cgi/doi/10.1073/pnas.1812883116.
+
+West
+
+East
+
+Ice mass balance of
+Antarctica over four
+periods: (a) 1979–1989,
+(b) 1989–1999, (c) 1999–
+2009 and (d) 2009–2017.
+The size of the circle
+is proportional to the
+absolute magnitude of
+the anomaly and the
+colours go from red
+(mass loss) to blue (mass
+gain). Source: (5).
+
+19
+
+events across the Greenland ice sheet have
+not occurred in at least the past 500 years.
+
+0.4
+
+Annual mass change in (m w.e.) or (t m-2)
+
+Figure 11. Annual
+mass balance of
+reference glaciers
+having more than
+30 years of ongoing
+glaciological
+measurements. Annual
+mass change values are
+in units of metre water
+equivalent (m w.e.),
+which corresponds
+to tons per m 2 (t m -2 ).
+Source: World Glacier
+Monitoring Service
+(2017, updated and
+earlier reports), https://
+wgms.ch/faqs/.
+
+0.2
+
+GLACIERS
+
+0.0
+−0.2
+−0.4
+−0.6
+−0.8
+–1.0
+Annual values calculated as arithmetic average of regional means.
+
+1950
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+2020
+
+Year
+
+GREENLAND
+The Greenland ice sheet has been losing ice
+mass nearly every year over the past two
+decades. The surface mass budget (SMB)
+is a preliminary estimate of the surface-ice
+changes and includes components that add
+to the surface ice, including precipitation
+and components that account for ice loss
+such as meltwater runoff, evaporation and
+wind removal. The final ice mass balance
+calculation will also include loss of ice by ice
+flow and calving into the ocean. These are
+not included in the SMB, however, causing
+the SMB to be higher than the total eventual
+change in mass.
+In 2018, similarly to 2017, the SMB saw an
+increase due to above-average snow fall,
+particularly in eastern Greenland, and a
+near-average melt season. Despite cool and
+snowy summer conditions, three surface
+melt events occurred in July and August,
+with more than 30% of the ice sheet surface
+experiencing melting during each event.
+About 150 gigatons more ice mass will be
+added to the ice sheet compared to the
+1981–2010 average, the sixth highest value
+in the 1960–2018 period of record. This is
+the largest SMB net gain since 1996, and
+the highest snow fall since 1972. Despite the
+gain in overall SMB in 2017 and 2018, it is
+only a small departure from the trend over
+the past two decades, which has witnessed
+the loss from the Greenland ice sheet of
+approximately 3 600 gigatons of ice mass
+since 2002. A recent study also examined ice
+cores taken from Greenland, which captured
+melting events back to the mid-1500s. The
+study determined that the recent level of melt
+
+20
+
+The World Glacier Monitoring Service monitors glacier mass balance using a set of
+global reference glaciers having more than
+30 years of observations between 1950 and
+2018. They cover 19 mountain regions. Preliminary results for 2018, based on a subset
+of glaciers, indicate that the hydrological year
+2017/18 was the thirty-first consecutive year of
+negative mass balance, with a mass balance
+of -0.7 m water equivalent (Figure 11). The
+cumulative loss of ice since 1970 amounts to
+21.1 m water equivalent.6
+A hot summer in parts of Europe, including record heat in some locations, caused
+massive ice losses for many alpine glaciers.
+Heavy snow during the 2017/18 winter season
+helped to partially protect the glaciers from
+the summer heat. In April and May, record
+high snow depths were measured on many
+Swiss glaciers. However, very little snow
+fell during the warm summer months and,
+combined with the third hottest summer on
+record for Switzerland, the country’s glaciers
+lost an average of 1.5–2.0 metres of ice thickness. According to the Expert Commission for
+Cryospheric Measurement Networks of the
+Academy of Sciences, Swiss glaciers have lost
+one fifth of their volume in the last 10 years.
+
+SNOW COVER
+During 2018, the average northern hemisphere
+snow cover extent was 25.64 million km2. This
+was 0.77 million km2 greater than the 1981–2010
+average and ranked as the thirteenth largest annual snow cover extent since satellite
+records began in November 1966 and slightly
+below 2017. Above-average snow cover was
+observed for most months, with below-average snow cover during the late spring and
+summer. Continental snow cover anomalies
+across North America were generally greater
+than snow cover anomalies for Eurasia.
+6
+
+This represents the depth of water that would result by
+distributing the water in liquid form obtained from the snow
+and ice lost over the last 48 years evenly across the area of
+the glaciers. This would give a column of water 21.1 m deep
+over every m 2 of glacier.
+
+There are no comparable snow-cover records
+for the southern hemisphere, where (except
+for the Antarctic) snow is generally rare over
+land outside of high mountain regions. In
+the high elevations of New South Wales and
+parts of Victoria in Australia, the snow season
+started early compared to recent years, with
+heavy snow falling in mid-June. In Spencers
+Creek, New South Wales, 73.6 cm of snow was
+recorded over 5 days in June, resulting in the
+highest snow depth since 2000 that early in the
+season. Numerous cold fronts and below-average temperatures impacted the region for the
+rest of the winter season with nearly steady
+snow accumulation. Snow continued to fall
+on the higher elevations of New South Wales
+mountains with the snow depth peaking at
+224.6 cm at Spencers Creek in late August, a
+little less than the 240.9-cm peak observed in
+September 2017. The peak snow depth was
+above the long-term average of 190 cm.
+
+DRIVERS OF INTERANNUAL
+VARIABILITY
+Certain recurrent and dominant patterns
+have been identified from historical records
+of pressure and sea-surface temperature.
+These are often referred to as “modes” of
+variability and describe or influence conditions over large areas of the world from
+seasons to years and beyond.
+The El Niño Southern Oscillation (ENSO) is
+one of the most important drivers of yearto-year variability in global weather patterns
+as well as global temperature. The Pacific
+Ocean also has a global effect on longer time
+scales through the Pacific Decadal Oscillation
+(PDO). The Indian Ocean Dipole (IOD), which is
+related to changes in the sea-surface temperature gradient across the Indian Ocean, affects
+weather around the ocean basin as well as
+the Asian monsoon. In the North Atlantic,
+slow changes in sea-surface temperature,
+referred to as the Atlantic Multidecadal Oscillation, have an effect on basin-wide climate,
+including hurricane formation. The Arctic
+Oscillation (AO) and North Atlantic Oscillation
+(NAO) are closely related modes, representing
+atmospheric circulation patterns at mid- to
+high latitudes of the northern hemisphere. In
+the positive phases of these modes, westerly
+circulation is strengthened at mid-latitudes.
+
+The negative mode is associated with a weakening of the circulation. Changes in AO and
+NAO are seen on all time scales from days to
+decades. In the southern hemisphere, there
+is an equivalent mode known as the Antarctic
+Oscillation (AAO), often referred to as the
+Southern Annular Mode (SAM).
+The year 2018 started with a weak La Niña
+event, with cooler than average surface waters
+in the tropical Pacific. The La Niña continued
+until March when temperatures returned to
+near normal. Late in the year, sea-surface
+temperatures in the eastern tropical Pacific
+warmed, showing signs of a return to El Niño.
+The atmosphere did not respond in a way that
+was characteristic of El Niño, however, and the
+feedbacks that mark a mature El Niño – such
+as weakened Pacific trade winds, increased
+cloudiness at the date line and a weakening of
+the pressure gradient across the Pacific – were
+absent. Although there was a weak imprint of
+La Niña on annual average temperatures in
+the Pacific, typical patterns of precipitation
+associated with ENSO variability, either La
+Niña or El Niño, were not clearly evident in
+2018 (see section on Precipitation).
+From the late 1990s until around 2014 PDO
+was in a predominately negative phase. This
+negative phase has been invoked to explain
+the temporary reduction in the rate of surface
+warming, while heat continued to accumulate
+at a steady rate in the oceans. Throughout
+2015 and 2016, PDO was positive, but in 2018
+it was predominantly negative again. On
+short time scales it is difficult to distinguish
+between the effects of ENSO and PDO.
+While IOD was predominantly negative during
+the first half of 2018, it shifted to the positive
+phase from September to December. During
+the austral spring months, a positive IOD
+index is linked with drier conditions in central
+and southern Australia.
+In 2018, the monthly NAO was strongly
+positive, with the exception of March and
+November. In winter, a positive NAO is generally associated with warm and wet conditions
+across northern Europe and drier, cooler conditions further south. A negative NAO is often
+associated with drier and colder conditions
+across northern Europe. In March, a period of
+cold weather affected an area from the United
+
+21
+
+Figure 12.
+Left: CWDs in 2018.
+Right: RX5 in 2018.
+Source: Global
+Precipitation Climatology
+Centre, DWD.
+
+0
+
+Figure 13. Annual
+total precipitation in
+2018 expressed as
+a percentile of the
+1951–2010 reference
+period for areas that
+would have been in the
+driest 20% (brown) and
+wettest 20% (green)
+of years during the
+reference period, with
+darker shades of brown
+and green indicating the
+driest and wettest 10%,
+respectively. Source:
+Global Precipitation
+Climatology Centre,
+DWD.
+
+50
+
+days
+
+100
+
+0
+
+150
+
+400
+
+PRECIPITATION
+
+The longest periods of CWD occur in the
+Indian monsoon and in the Inter-Tropical Convergence Zone (ITCZ) across South America
+and the Malay Archipelago. Regions with
+heavy precipitation days (> 20 mm daily precipitation) are related to the ITCZ as well as
+the African and Indian monsoons, but also to
+tropical storm activities and on the windward
+slope of mid-latitude coastal mountains.
+These are, on average, also the regions with
+the highest RX5 (Figure 12, right). More than
+300 mm was recorded locally over 5 days in
+Afghanistan, reflecting a series of events in
+May with intense rainfall causing flash floods
+and associated fatalities.
+
+Although weak La Niña conditions were present at the beginning of 2018, later changing
+to neutral, the usual effects on precipitation
+were absent. For example, several floods
+occurred in California, where the opposite
+is expected during La Niña events.
+Unlike other important climate variables,
+there is no single indicator that can usefully
+summarize global precipitation changes.
+Indeed, some of the predicted changes in
+precipitation in response to climate change
+affect the frequency and intensity of rainfall
+that are not well captured by simple monthly
+
+30N
+
+EQ
+
+30S
+
+60S
+
+22
+
+300
+
+or annual averages. A number of indices have
+been developed that provide this additional
+information. One such measure is “consecutive wet days” (CWDs), which gives the
+longest spell of such CWDs in a given period
+(Figure 12). Another is “RX5”, which captures
+the highest 5-day rainfall total.
+
+60N
+
+120W
+
+60W
+
+0.1
+
+200
+mm/5 days
+
+Kingdom and Northern Ireland east across
+northern Europe into Asia. Further south, temperatures were above average. In late October
+to December, SAM was positive. At this time
+of year, a positive SAM is associated with
+increased likelihood of above-average rainfall
+in parts of eastern Australia.
+
+90N
+
+90S
+180
+
+100
+
+0.2
+
+0
+
+0.3
+
+0.4
+
+60E
+
+0.6
+
+0.7
+
+120E
+
+0.8
+
+0.9
+
+180
+
+In 2018 large positive precipitation anomalies
+with respect to a 1951–2010 climatology, in
+some places above the 90 th percentile, were
+observed in some regions in northern and
+eastern Africa, the Arabian Peninsula, central
+and south-east Asia and the Malay Archipelago, south-western Australia, New Zealand
+and eastern North America (Figure 13).
+Above-average precipitation amounts were
+also observed in Japan, south-west and
+south-east Europe, some spots in South
+America and the previously noted event in
+Afghanistan. Above-average precipitation
+was also observed around the Arctic Ocean.
+Below-normal precipitation, partly below the
+10th percentile, were found in central and east
+Australia, the northern and eastern coast of
+
+the Arabian Sea and north-east of the Caspian
+Sea, but also at some spots in Central and
+North America and southern Africa. Rainfall deficits were also reported from central
+and northern Europe and Argentina. Some
+of these regions also experienced belownormal precipitation amounts in 2017, such
+as parts of southern Africa, eastern Australia
+or northern North America.
+The Indian summer monsoon brought less
+precipitation than normal to the West Ghats
+and the eastern parts of the Himalayas, but
+higher than normal precipitation in the Western Himalayas. The all-India rainfall for June
+to September 2018 was around 9% below
+the long-term average. The African monsoon
+brought higher precipitation than normal to
+most regions and extended far into the Sahel
+region. However, a region between Senegal
+and Cote d’Ivoire received less than normal
+precipitation.
+Noteworthy events related to heavy precipitation or continuous rainfall occurred in the
+region between Lake Victoria and the Ethiopian
+Highlands; the eastern and northern coast of
+the Bay of Bengal to the eastern parts of the
+Himalayas due to the Indian summer monsoon; and south-east Asia due to repeated
+occurrence of tropical storms. The northern
+Mediterranean region experienced many heavy
+precipitation events. Several flash floods were
+caused by repeated heavy precipitation events
+in the Middle East. In Argentina, some regions
+experienced drought conditions while at the
+same time others had flash floods. Flooding
+affected central Europe at the beginning of the
+year, but the same region experienced severe
+dry conditions later on. In Iceland, Reykjavík
+had a very wet year, with 261 rain days, the
+highest on record. The month of May was
+the wettest on record, at three times the May
+average, and it rained every single day of the
+month. In November, the city had its highest
+ever 2-day rainfall total, with 83.2 mm.
+
+EXTREME EVENTS
+TROPICAL STORMS
+The tropical cyclone season in the northern
+hemisphere was active in 2018. The number
+of tropical cyclones was above average in
+
+350
+
+300
+
+ACE (104 kt2)
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+1970
+
+1975
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+Year
+
+all four northern hemisphere basins. There
+were 74 northern hemisphere cyclones in
+2018, well above the long-term average of 63.
+The north-east Pacific basin was especially
+active, with an accumulated cyclone energy
+(ACE)7 value of 316 kt 2 , the highest since
+reliable satellite records began (Figure 14).
+Southern hemisphere activity in the 2017/18
+season was near average, with 22 cyclones.
+
+Figure 14. ACE for
+the eastern North
+Pacific basin 1971–2018.
+Source: Colorado State
+University.
+
+Two of the strongest tropical cyclones of
+the year were Mangkhut (Ompong) and Yutu
+(Rosita) in the north-west Pacific. Mangkhut
+(Ompong) crossed the northern Philippines
+in mid-September, then passed just south
+of Hong Kong, China before making landfall
+in Guangdong province of China. It affected
+more than 2.4 million people. According to
+the Philippines Department of Agriculture,
+over 550 000 hectares of agricultural land
+were affected, and agricultural losses were
+high. Reported deaths stood at 134, 127 of
+them in the Philippines. In Hong Kong, China,
+the storm surge of 2.35 m at Victoria Harbour
+was the highest on record. Yutu (Rosita),
+which crossed the northern Mariana Islands
+in October at near peak intensity, caused
+extensive damage in that region.
+Jebi, which made landfall near Kobe on
+4 September, was the strongest landfall in
+Japan since 1993. There was widespread
+river and storm-surge flooding, with much
+of Kansai International Airport (near Osaka)
+7
+
+The ACE index combines the intensity and lifetime of each
+cyclone to provide a measure of overall activity.
+
+23
+
+being inundated. Son-Tinh, in July, caused
+extensive flooding in Viet Nam and also in
+the Lao People’s Democratic Republic, where
+it contributed to the collapse of a dam which
+resulted in at least 55 deaths. Soulik, in late
+August, crossed the Korean Peninsula and
+contributed to severe flooding in the Democratic People’s Republic of Korea in which
+at least 86 lives were lost. At the end of the
+year, tropical depression Usman hit the central
+Philippines on 29 December, with heavy rain
+and landslides.
+There were two significant hurricane landfalls
+on the United States mainland in 2018, with
+combined damages estimated to be around
+US$ 49 billion. Florence weakened from
+category 4 to category 1 before landfall in
+North Carolina in September, but still caused
+extreme rainfall and significant flooding, especially in coastal regions. Michael, in October,
+made landfall at Mexico Beach, Florida, as
+a category 4 system with a central pressure
+of 919 hPa (provisional estimate), the most
+intense known landfall in this region and the
+most intense landfall in the continental United
+States since at least 1992, with severe wind
+and storm-surge damage. At least 53 deaths
+in the United States were associated with
+Florence and 49 with Michael.
+
+Figure 15. Rainfall
+estimates for Hurricane
+Florence for 18
+September 2018. Source:
+United States National
+Weather Service Eastern
+Region Headquarters.
+
+24
+
+Three east and central Pacific hurricanes
+reached category 5 intensity in 2018: Lane,
+Walaka and Willa. The most significant
+impacts came from Lane, which approached
+Hawaii (although at well below peak intensity) and caused extremely heavy rainfall;
+1 321 mm of rain was recorded in 96 hours
+during the period 22–26 August at Mountain
+View, on the island of Hawaii, the highest
+storm rainfall total on record for a Hawaiian
+tropical cyclone, and second for the United
+States after Harvey in 2017. Earlier in the year,
+in an event not associated with a tropical
+cyclone, Hanalei, on the north coast of Kauai,
+received 1 262 mm in 24 hours on 14–15 April,
+a new United States record.
+Three of the five northern Indian Ocean
+cyclones affected Yemen: Sagar and Mekunu
+in May, and Luban in October. The most
+intense of these was Mekunu, which made
+landfall near Salalah, Oman in late May. At
+least 24 people died, most on the island of
+Socotra. Titli made landfall on 11 October in
+Andhra Pradesh, on the east coast of India,
+and there were at least 85 deaths, mostly
+from flooding.
+Two tropical cyclones affected the east coast
+of Madagascar in early 2018, Ava in January
+
+Inches
+≤ 0.1
+0.1 to 0.25
+0.25 to 0.5
+0.5 to 1.0
+1.0 to 1.5
+1.5 to 2.0
+2.0 to 3.0
+3.0 to 4.0
+4.0 to 6.0
+6.0 to 8.0
+8.0 to 10.0
+10.0 to 15.0
+15.0 to 20.0
+20.0 to 30.0
+30.0 to 50.0
+
+and Eliakim in March. Both approached very
+close to the coast and were associated with
+major flooding, with significant loss of life in
+both cases. Extremely heavy rainfall associated with tropical cyclones also occurred
+at times in early 2018 on La Réunion, with a
+daily total of 847.5 mm at Grand-Coude on
+18 January during Tropical Cyclone Berguitta,
+and an hourly total of 176 mm at Sainte-Rose
+on 24 April during Tropical Cyclone Fakir; the
+latter is the highest hourly total observed at
+an automatic site in the territory.
+Gita in the South Pacific in February 2018
+was the most intense tropical cyclone ever
+to affect Tonga, passing 30 km south of the
+most heavily populated island of Tongatapu.
+It was the costliest storm in Tonga’s history.
+Significant damage also occurred in Samoa,
+American Samoa and on outlying islands
+of Fiji.
+
+FLOODING, EXTREME RAINFALL AND
+EXTRATROPICAL STORMS
+In August, the south-west Indian state of
+Kerala suffered major flooding, reportedly
+the worst since 1924, as a result of persistent
+heavy monsoon rains. Rainfall for the state
+for August was 96% above the long-term
+average, with weekly totals for the weeks
+9–15 and 16–22 August of 258% and 218%
+above average, respectively. At Nilambar
+400 mm fell on 9 August, and 620 mm
+in 2 days at Peermade on 15–16 August.
+Reported deaths stood at 223, and according
+to reports from the National Disaster Management Authority more than 1.4 million people
+were accommodated in relief camps and
+more than 5.4 million were affected in some
+way. Total economic losses were estimated
+at US$ 4.3 billion.
+Large parts of western Japan experienced
+destructive flooding in late June and early
+July as a result of persistent rains from a
+near-stationary baiu front. Rainfall totals at
+Yanase, on Shikoku island, reached 1 025 mm
+in 48 hours at the system’s peak, with a total
+of 1 853 mm for the period from 28 June
+to 8 July. In total, at least 245 deaths were
+reported and 6 767 houses were destroyed.
+There was major flooding on parts of the
+Niger River and its tributaries in September,
+
+particularly in northern and central Nigeria
+and the Niger, driven by heavy rains from
+late August onwards. Flood peaks were generally lower than those observed in 2012
+but impacts were still very substantial, with
+200 deaths reported and 561 000 people
+internally displaced.
+Flooding affected many parts of east Africa
+in March and April. This included Kenya and
+Somalia, which had previously been suffering
+from severe drought, as well as Ethiopia and
+northern and central regions of the United
+Republic of Tanzania. Rainfall for the period
+from March to May was at least double the
+average over most of Kenya and northern
+parts of the United Republic of Tanzania – at
+least 87 deaths were attributed to flooding
+in the former and 14 in the latter.
+Heavy rain and flash flooding affected various
+parts of the Middle East in late October and
+November. Noteworthy falls included 84 mm
+in 6 hours at Abu Hamor, Qatar, on 20 October,
+102.8 mm in 24 hours at Al Fujairah, United
+Arab Emirates, on 28 October, and 49.2 mm
+in 24 hours at Kuwait Airport on 9 November.
+Flash floods with loss of life were reported in
+Jordan in late October and on 9–10 November,
+and in Iraq from 2 to 25 November.
+
+HEATWAVES AND DROUGHT
+Large parts of Europe experienced exceptional heat and drought through the late
+spring and summer of 2018. Temperatures
+were well above average and rainfall well
+below average from April onwards in much
+of northern and western Europe.
+Some of the most abnormal conditions
+affected northern Europe from May to July.
+This period was the driest and warmest on
+record in many parts of central and southern
+Scandinavia and Finland; rainfall for May
+to July at Lund in southern Sweden, with
+observations dating back to 1748, was only
+about half the previous lowest recorded.
+Denmark had its hottest summer and driest
+May to July on record, and Norway and Finland their hottest Julys. This culminated in
+a prolonged heatwave in late July and early
+August, which included numerous record
+high temperatures north of the Arctic Circle,
+and record long runs of warm temperatures,
+
+25
+
+5.0
+4.0
+3.0
+2.0
+1.0
+0.0
+-1.0
+-2.0
+-3.0
+-4.0
+-5.0
+Celsius
+
+Figure 16. Europe
+experienced elevated
+temperatures for many
+months during 2018, as
+shown here for July.
+Source: Copernicus
+Climate Change Service
+European State of
+the Climate Monthly
+Reports.
+
+including 25 consecutive days above 25 °C at
+Helsinki-Vantaa, Finland, and 8 consecutive
+days above 30 °C at Lääne-Nigula, Estonia.
+Warm nights and high humidity were also a
+feature of this period, with records including
+seven consecutive nights above 20 °C at Riga,
+Latvia, and a national record dewpoint of
+24.8 °C on 1 August at Karlskrona, Sweden.
+It was also an exceptionally warm and dry
+period in the United Kingdom and Ireland.
+Conditions in these regions moderated from
+mid-August, but it remained unusually warm
+and dry further south. Dry conditions were
+especially persistent in Germany, where the
+April–September period was the second driest on record, leading to heavy agricultural
+production losses , and eastern Switzerland
+(driest April to November on record), with
+western Poland, Czechia (with its driest January to August on record), the Netherlands
+and north-eastern France also amongst the
+areas affected. Latvia went on to have its
+driest year on record (29% below average)
+and Czechia its second driest (24% below
+average), while further north, Stockholm
+had its driest year since 1892. Uccle (near
+Brussels) had its second-driest year on record
+(25% below average).
+The most significant heatwave in central
+Europe was in late July and early August;
+in France it was of similar duration to the
+
+26
+
+heatwave of 2003 but less intense; still,
+1 500 excess deaths were repor ted. In
+Germany, some sites in the Frankfurt area
+had 18 consecutive days above 30 °C from
+23 July to 9 August. Further south-west, a
+short but intense heatwave affected Spain
+and Portugal in early August. In Portugal,
+4 August was the country’s hottest day of
+the 21st century with 40% of stations setting
+records, including Lisbon – Gago Coutinho
+(44.0 °C). Armenia had its warmest July with
+43.7 °C being recorded in Yerevan, the highest
+temperature on record.
+Wildfires reached an unprecedented extent in
+Sweden, with over 25 000 hectares burned,
+and abnormal wildfire activity also occurred
+in Latvia, Norway, Germany, the United Kingdom and Ireland. The dry conditions also led
+to very low flows on some central European
+rivers, with the Rhine approaching record low
+flows by mid-October, before some recovery
+during December. This severely disrupted
+river transport with the weight of goods carried reduced by 20% to 25% compared with
+2017. There were also disruptions to river
+transport on the Danube in Serbia.
+Eastern Australia experienced significant
+drought during 2018. The most extensively
+affected area was inland eastern Australia,
+particularly in New South Wales and southern Queensland, with much of the region
+receiving less than half its average rainfall
+for the period from January to September.
+Over the Murray-Darling Basin, the rainfall
+for January to September was the lowest
+since 1902. The abnormally dry conditions
+also extended to coastal areas in eastern
+Victoria, where it was the second dry year
+in succession, and on the east coast around
+and south of Sydney. In much of southern
+inland Queensland, as well as north-west Victoria and southern inland New South Wales,
+rainfall has been below average for most of
+the period since early 2012, interrupted only
+briefly by heavy rains in winter and spring
+2016. Central Australia was dry even by its
+usual standards, with Alice Springs having a record 160 consecutive days without
+rain. The dry conditions extended to parts
+of Indonesia in mid-year, with significant
+drought affecting Java from July to October
+before a return to near-average rainfall from
+November.
+
+Afghanistan was significantly affected by
+drought, with low rainfall early in the year
+having a substantial impact on crop planting, although heavy rains affected parts of
+the country in May. Long-term drought also
+persists in western Pakistan, with rainfall in
+Baluchistan at least 28% below average in
+each of the five years from 2014 to 2018. The
+year 2018 was especially dry at 62% below
+average, the fourth-driest year since regional
+records began in 1961. Drought conditions
+were also reported in parts of Iran.
+Severe drought affected Uruguay, and northern and central Argentina, in late 2017 and
+early 2018, with the most intense period
+lasting from October 2017 to March 2018.
+Rainfall for the 6-month period over the five
+most affected Argentine provinces (Entre
+Ríos, Santa Fe, Córdoba, Buenos Aires and
+La Pampa) was 43% below the 1981–2010
+average, the lowest on record, while individual
+locations that had their driest October–March
+on record included Buenos Aires (364.7 mm)
+and Córdoba (329.2 mm). The drought eased
+by April, and May was Argentina’s wettest
+on record. The dry conditions resulted in
+heavy losses to summer crops, especially
+soybeans and maize, with agricultural losses
+estimated at US$ 5.9 billion. Later in the year,
+a dry December contributed to estimated
+losses of 30% to soybean crops in Paraná
+state in Brazil.
+A historically significant heatwave affected
+parts of east Asia in late July and early August.
+The worst-hit area was Japan, following on
+from the severe floods experienced earlier
+in the month. A national record of 41.1 °C
+was set at Kumagaya on 23 July. In total,
+153 deaths in Japan were attributed to the
+heat. It was the hottest summer on record
+for eastern Japan. The Korean Peninsula
+was also seriously affected, with a national
+record also set for the Republic of Korea
+(41.0 °C at Hongcheon on 1 August), as well
+as a city record for Seoul (39.6 °C), and heat
+illness and agricultural losses reported in
+the Democratic People’s Republic of Korea.
+Heatwaves affected North America during
+the summer of 2018. The most significant
+impact was in eastern Canada, which experienced the longest and most intense heat
+spell in years. Temperatures exceeding 35 °C,
+
+combined with dewpoints between 20 °C and
+25 °C, affected Montreal in early July, with
+extreme conditions also occurring through
+other parts of southern Quebec and eastern
+Ontario. Montreal had a record 5 consecutive days of 33 °C or above. Across Quebec,
+86 excess deaths were associated with the
+heatwave.8 Later in the summer, Calgary had
+its hottest day on record when it reached 36.5
+°C on 10 August.
+Exceptionally high temperatures occurred
+in many parts of the Middle East and North
+Africa in late June and early July. On 26 June,
+the overnight temperature at Quriyat, Oman,
+only fell to 42.6 °C, amongst the highest
+known minimum temperatures globally. In
+early July the heat extended to north Africa,
+with records set at a number of locations in
+Algeria, the highest being 51.3 °C at Ouargla,
+a national record.
+
+COLD AND SNOW
+One of the most significant cold outbreaks in
+recent years affected Europe in late February
+and early March. Cold conditions initially
+became established in north-east Europe
+in late February, where the 21–28 February
+period was the second coldest on record for
+Estonia. Ireland and southern France experienced abnormal snow, with falls of 15 to
+30 cm around Nimes and Montpellier, and
+in southern Italy around Naples, while snow
+depths exceeding 50 cm were reported at
+some locations in eastern Ireland. Unusually
+heavy snow also fell at higher elevations
+in Algeria. A rare freezing rain event also
+occurred in Portugal. A maximum temperature of -4.7 °C on 1 March at Tredegar, Wales,
+was a United Kingdom record for March.
+Earlier in the winter, there were unusual snow
+falls in some desert areas of Morocco, with
+Zagora receiving its first snow since 1960 on
+30 January. Wet conditions during the winter
+led to very heavy snow accumulations at
+higher elevations of the European Alps, with
+Arosa, Switzerland, having 530 cm of snow
+8
+
+Lebel, G., M. Dubé and R. Bustinza, 2019: Surveillance des
+impacts des vagues de chaleur extreme sur la santé au
+Québec à l’été 2018. Institut national de santé publique du
+Québec, Bulletin d’ information en santé environnementale
+(in press).
+
+27
+
+for the season, its second-highest seasonal
+accumulation of the last 50 years.
+In southern Africa, Lesotho received an
+unusual snow event in mid-August with
+5–30 cm of snow accumulation across the
+nation. The highest totals were in the Maluti
+Mountains. Heavy snow fell as recently as
+2016 in Lesotho, but such snow fall used
+to be a more common winter event in the
+past, being observed in most winters in the
+nineteenth and first half of the twentieth
+centuries.
+A cold wave in January affected parts of
+the Indian subcontinent. Between 3 and
+13 January, 135 deaths were attributed to
+the cold in Uttar Pradesh.
+In South America, two rare snow events
+affected different parts of the continent. In
+June, a strong cold front brought snow fall
+to the central district of Santiago, Chile. The
+storm system also brought temperatures
+as low as -14 °C to parts of the Plurinational
+State of Bolivia, and snow as deep as 40 cm
+blanketed large parts of Peru. In August, a
+rare snow event affected parts of Uruguay
+when a strong cold front moved through
+the region bringing snow to south-eastern
+parts of the country with graupel (snow with
+a fragile coating of ice, sometimes referred
+to as soft hail) accumulating in neighbouring
+Argentina.
+
+WILDFIRES
+Major wildfires affected the region around
+Athens on 23 July. The fires spread rapidly
+in high winds, unusual for the time of year,
+with peak gusts of 124 km/h north of Athens.
+At least 99 deaths were attributed to the fires,
+the worst loss of life in a wildfire anywhere
+in the world since the 2009 Black Saturday
+fires in Australia.
+In the United States on 8 November a wildfire, driven by severe winds in ongoing dry
+conditions, burned through the town of Paradise and surrounding areas in California.
+The town was largely destroyed by the fire,
+85 deaths were reported, the worst loss of
+life in a United States wildfire for more than
+100 years, and over 18 000 structures were
+destroyed.
+
+28
+
+There were also significant fires in California in July and August. The Mendocino
+Complex fire was the largest in California
+history, affecting a total area of 185 800
+hectares, while the Carr fire caused the loss
+of 1 604 structures and 8 lives, and insured
+losses of US$ 1.5 billion, with the city of
+Redding being the worst affected. It was
+also a severe fire season in western Canada.
+British Columbia broke its record for the
+largest area burned in a fire season for the
+second successive year, with a total of 1.35
+million hectares burnt. Property losses were
+modest given the scale of the fires and no
+casualties were reported, but heavy smoke
+affected the interior of the province and cities
+on the west coast such as Vancouver and
+Seattle for extended periods. Total losses
+for the 2018 United States wildfire season
+were estimated at US$ 24 billion, the largest
+on record for any season.
+
+SEVERE STORMS
+The most significant European windstorm of
+the 2017–18 winter was Friederike (known as
+David in France). This low-pressure system,
+from 17 to 19 January, crossed Ireland and
+the United Kingdom, before passing over the
+Netherlands, northern Germany and Poland.
+The storm’s most significant impacts were in
+Germany. Wind gusts reached 203 km/h at
+the Brocken (the highest since 1990) and over
+140 km/h at some low-elevation sites. There
+were also major impacts in the Netherlands
+(Amsterdam Airport was closed) and Belgium.
+Thirteen deaths were attributed to the storm.
+A storm with tropical-cyclone-like properties crossed the eastern Mediterranean in
+late September. In the early stages of the
+system there was heavy rain and flash flooding in Tunisia and Libya, with 205 mm rain
+in 24 hours at Nabeul, Tunisia. The storm
+then intensified as it moved east and made
+landfall in western Greece on 29 September,
+with pressures as low as 989 hPa, leading to
+widespread damage there.
+The severe weather season in the United
+States had below-average levels of activity – 1 102 tornadoes had been reported by
+the end of November, about 10% below the
+1991–2010 average. It was the first year since
+comprehensive records began in 1950 with
+
+no confirmed tornadoes of enhanced Fujita
+scale 4 or 5 intensity. However, destructive
+hailstorms affected the Dallas-Fort Worth
+region on 6 June, and the Denver-Boulder-Fort
+Collins corridor on 18–19 June, resulting in
+estimated damages of US$ 1.3 billion and
+US$ 2.2 billion, respectively.
+An intense low-pressure system in the Mediterranean Sea in late October brought flooding
+and high winds to several countries. Italy
+was the worst affected. Peak wind gusts
+on 29 October included 179 km/h at Monte
+Cimone, while a gust of 161 km/h occurred at
+Kredarica, Slovenia. Extremely heavy rainfall
+also occurred, with 24-hour totals including
+406 mm at Casera Pradut in the north-east
+alpine foothills, and 308 mm at Cabane in Liguria. Three-day totals in excess of 400 mm also
+occurred in southern Switzerland and Austria,
+and in western Slovenia, while damaging
+winds were also reported in Czechia, Corsica
+and southern Poland. Thirty deaths in Italy
+were associated with the storm. Other events
+with heavy rain and flash flooding affected
+various parts of the Mediterranean region
+in the later part of 2018, including severe
+floods in Languedoc, south-west France, on
+13–14 October, with rainfall totals of up to 400
+mm in 6 hours reported. At the end of the
+year, there were a number of intense rainfall
+events in Turkey and Cyprus, including a Turkish national record daily fall of 490.8 mm on
+18 December at Ovacik, near Antalya.
+
+ATTRIBUTION OF EXTREME EVENTS
+Determining the causal factors, including
+anthropogenic forcings, that contributed
+to or influenced the probability of extreme
+events is an area of ongoing research. Each
+year since 2012, a selection of peer-reviewed
+articles has been published as a supplement
+to the Bulletin of the American Meteorological
+Society under the title “Explaining Extreme
+Events from a Climate Perspective”. The most
+
+recent issue, “Explaining Extreme Events in
+2017 from a Climate Perspective”, contains
+18 analyses of extreme events between late
+2016 and early 2018.
+In heat-related events, such as the European
+and Chinese heatwaves of 2017, the early
+onset of summer in the Republic of Korea
+in 2017 and the Tasman Sea marine heatwave of 2017–2018, anthropogenic factors
+were found to have increased the probability
+of such events occurring. For hydrological
+events, such as droughts and heavy rain,
+an anthropogenic increase was noted in
+each case, but some studies also gave more
+emphasis to the role of internal variability in
+these events. One paper looked at two case
+studies, the Oroville Dam overspill event in
+California and Hurricane Harvey in Texas. It
+highlighted the complexity of such events
+and suggested ways of providing actionable
+attribution information for real-world decision-making contexts.
+Care needs to be taken in attempting a synthesis of extreme event attribution studies.
+A number of factors influence the process by
+which events are selected for study. Amongst
+other things, these include: availability of
+data and other resources, the visibility of the
+event, and the perceived ability of models to
+accurately simulate the necessary processes.
+One must also be aware that the same factors
+that increase the likelihood of certain extreme
+events can also reduce the likelihood of others; the absence of extremes also needs to
+be considered in a balanced view.
+The time required to select events for study,
+gather data, perform model runs, analyse the
+output, and write and review papers means
+that there is often a significant delay between
+an event and a peer-reviewed attribution analysis. A number of rapid event attributions have
+been performed of events in 2018, but these
+have not yet been through the review process.
+
+29
+
+Climate risks and related impacts overall
+
+700
+
+18
+16
+
+600
+
+14
+
+500
+
+12
+
+400
+
+10
+
+300
+
+8
+6
+
+200
+
+4
+
+100
+
+2
+
+0
+
+0
+Countries with high exposure
+to climate extremes
+
+Global statistics on economic losses attributed
+to disasters in 2018 have not been completed
+at the time of writing this publication; available statistics indicate that the highest losses
+affected the United States resulting from
+two significant hurricane landfalls – Florence
+and Michael – with a total loss estimated at
+nearly US$ 50 billion; much less than the
+US$ 300 billion loss estimated for 2017, which
+was among the highest losses in recent years,
+owing to three major hurricanes affecting the
+United States and the Caribbean.910
+
+AGRICULTURE AND FOOD
+SECURITY
+Exposure of the agricultural sector to climate
+extremes is threatening to reverse gains
+made in ending hunger and malnutrition. New
+evidence shows a continuing rise in world
+hunger after a prolonged decline.11 In 2017,
+the number of undernourished people was
+estimated to have increased to 821 million.
+Severe droughts associated with the strong El
+Niño of 2015–2016 and a number of localized
+extreme weather and climate events contributed to the recent rise in undernourishment.12
+Climate variability and extremes are a key
+driver behind the recent rise in global hunger and one of the leading causes of severe
+food crises. Hunger is significantly worse in
+countries with agricultural systems that are
+highly sensitive to rainfall and temperature
+variability and severe drought, and where the
+livelihood of a high proportion of the population depends on agriculture. The countries
+with high exposure to climate extremes have
+more than double the number of undernourished people as those without high exposure
+(Figure 17).
+
+9
+
+CRED, 2019: 2018 Review of Disaster Events. Université
+catholique de Louvain, Belgium, www.emdat.be.
+
+10
+
+FAO, 2017: The Impact of Disasters and Crises on Agriculture
+and Food Security. Rome, http://www.fao.org/3/I8656EN/
+i8656en.pdf.
+
+11
+
+FAO, IFAD, UNICEF, WFP and WHO, 2018: The State of Food
+Security and Nutrition in the World 2018 – Building Climate
+Resilience for Food Security and Nutrition. Rome, FAO. Data
+are from 2005–2017.
+
+12
+
+FAO, IFAD, IOM and WFP, 2018: The Linkages between
+Migration, Agriculture, Food Security and Rural Development.
+Rome, http://www.fao.org/3/CA0922EN/CA0922EN.pdf.
+
+Countries with low exposure
+to climate extremes
+
+Number of undernourished 2017 (millions)
+Prevalence of undernourishment 2017 (unweighted)
+
+30
+
+PREVALENCE OF UNDERNOURISHMENT (%)
+
+NUMBER UNDERNOURISHED PEOPLE (MILLIONS)
+
+Figure 17. Prevalence
+(unweighted)
+and number of
+undernourished people
+in low- and middleincome countries
+with high and low
+exposure to climate
+extremes during the
+period 2011–2016.
+Countries with high
+exposure are defined
+as being exposed to
+climate extremes (heat,
+drought, floods and
+storms) for more than
+66 % of the time, that
+is, for more than three
+years in the period
+2011–2016; low exposure
+is defined as three
+years or less. Source:
+FAO, International
+Fund for Agricultural
+Development (IFAD),
+United Nations
+International Children’s
+Emergency Fund
+(UNICEF), WFP
+and WHO.
+
+In 2018, weather and climate events accounted
+for most of nearly 62 million people affected
+by natural hazards, according to an analysis of 281 events recorded by the Centre
+for Research on the Epidemiology of Disasters (CRED).9 Floods continued to affect the
+largest number, amounting to more than 35
+million people in 2018. The CRED statistics
+also highlight that over 9 million people were
+affected by drought worldwide, including in
+Kenya, Afghanistan, and Central America, as
+well as migration hotspots El Salvador, Guatemala, Honduras and Nicaragua. There are
+still some challenges to better quantify these
+impacts and their association with particular
+categories of hydrometeorological events,
+including from the perspective of reporting
+on specific Sustainable Development Goal
+target indicators and monitoring the Sendai Framework for Disaster Risk Reduction
+(2015–2030). There are recent initiatives and
+methodologies that provide the latest data
+on the impact of natural disasters and crises on agricultural sectors, combined with
+sound analyses.10 However, renewed and
+urgent efforts to develop and consolidate
+innovative approaches, tools and methods
+for characterizing high-impact events and
+quantify loss and damage and their linkage
+to extreme weather, water and climate events
+will ultimately support the global agenda on
+disaster risk reduction.
+
+Climate events in 2017 had the biggest impact
+on acute food insecurity and malnutrition in
+Africa, affecting 59 million people in 24 countries and requiring urgent humanitarian
+action.13 Much of the vulnerability to climate
+variability is associated with the dryland
+farming and pastoral rangeland systems
+supporting 70%–80% of the continent’s rural
+population.
+Globally, 40 countries, of which 31 in Africa,
+continue to be in need of external assistance
+for food.14 Persisting conflicts together with
+climate-induced production declines have
+negatively affected food availability. In 2018,
+unfavourable weather conditions limited
+southern African cereal outputs and heightening food insecurity, while ample rains in
+East Africa boosted production prospects
+but also resulted in localized flooding that
+caused food insecurity. Favourable spring
+weather boosted production in North Africa,
+while in West Africa, harvests are expected
+to revert back to average levels.
+In Asia, cereal harvests in 2018 declined to
+below-average levels in the Near East15 and
+the Commonwealth of Independent States
+countries because of rainfall deficits and
+conflict. Cereal production in Latin America and the Caribbean in 2018 is estimated
+at 248 million tons, 8% below the record
+output of 2017. The bulk of the decline is
+based on drought-reduced maize harvests
+of the main producers in South America,
+especially Argentina and Brazil. In central
+America and the Caribbean, dry conditions
+were less severe than previously expected,
+particularly in Guatemala and Nicaragua,
+and consequently the aggregate output
+contracted by 2%.16
+
+13
+
+FAO, IFAD, UNICEF, WFP and WHO, 2018: The State of Food
+Security and Nutrition in the World 2018 – Building Climate
+Resilience for Food Security and Nutrition. Rome, FAO.
+Table 7.
+
+14
+
+FAO, 2018: Crop Prospects and Food Situation. Quarterly
+Global Report, December. http://www.fao.org/documents/
+card/en/c/CA2726EN.
+
+15
+
+The Near East is an area from Turkey east to Afghanistan,
+including the Arabian Peninsula in the south.
+
+16
+
+FAO, 2018: Crop Prospects and Food Situation. Quarterly
+Global Report, December. http://www.fao.org/documents/
+card/en/c/CA2726EN.
+
+In Somalia, about 2.7 million people were
+estimated to be in need of emergency assistance. These were mainly internally displaced
+persons (IDPs) and agro-pastoral communities affected by drought between mid-2016
+and late 2017.17 In southern Africa, especially in Madagascar, the number of people
+affected by food insecurity increased to 1.3
+million in southern regions, associated with
+dry spells and tropical cyclones that kept
+cereal production in 2018 at below-average
+levels.18
+Typhoon Manghkut (Ompong), which crossed
+the Philippines in mid-September, was associated with losses in crops and fisheries
+that put the population’s food security at
+risk. Disruption to agricultural production
+affected the country’s food supply for the
+following months, while the loss of livelihood for farmers and fisherfolk during the
+September–October harvest worsened the
+food insecurity and malnutrition.19
+
+POPULATION DISPLACEMENT AND
+HUMAN MOBILITY
+Out of the 17.7 million IDPs tracked by the IOM
+Displacement Tracking Matrix (IOM DTM), 20
+over 2 million people were displaced due to
+disasters linked to weather and climate events
+as at September 2018.21 Drought, floods and
+storms (including hurricanes and cyclones)
+were the events that led to the greatest number of disaster-induced displacement in 2018.
+In all cases, the displaced populations have
+protection needs and vulnerabilities.
+17
+
+FAO, 2018: Crop Prospects and Food Situation. Quarterly
+Global Report, June, http://www.fao.org/policy-support/
+resources/resources-details/en/c/1039827/.
+
+18
+
+FAO, 2018: Crop Prospects and Food Situation. Quarterly
+Global Report, September, http://www.fao.org/3/CA1487EN/
+ca1487en.pdf.
+
+19
+
+National Disaster Risk Reduction and Management Council, 2018. NDRRMC Update on preparedness measures
+and effects for Typhoon “OMPONG” (I.N. “MANGKHUT”),
+Philippines, 27 September.
+
+20
+
+The IOM DTM is a system to track and monitor displacement
+and population mobility. It represents the largest source of
+primary data on internal displacement in the world and it
+is used by a large number of humanitarian actors in their
+operations to support an enhanced response to affected
+populations. See https://displacement.iom.int/.
+
+21
+
+See the IOM DTM global figures at https://displacement.
+iom.int/.
+
+31
+
+In Madagascar, a long process of interlinked
+climate events is leading to population displacements. 22 Out of around 5 700 IDPs
+tracked by IOM in the 10 southern communes
+between 2009 and 2018, 42% were displaced
+in connection with drought as at August
+2018. The largest displacements in the
+assessed communes were noted between
+2013 and 2016, a period corresponding to
+the prolonged drought between 2015 and
+2016. The number of displaced persons
+decreased significantly in 2017 in a period
+of improved rains and humanitarian assistance in the region. Early displacements
+were tracked in Madagascar in 2018 due to
+the lack of rain during the crop cycle from
+December 2017 to May 2018. In addition to
+drought, which largely affected the south of
+Madagascar, over 250 000 IDPs were tracked
+in 2017 because of Cyclone Enawo.
+In some parts of the world, human mobility
+can be understood in the context of the nexus
+between conflict and climate events, where
+climate events act as a “threat multiplier”.
+Somalia is one such context.23 In 2018, a combination of sudden and slow-onset events
+compounded by the protracted conflict have
+led to continued population displacement
+both internally and across borders. 24 As at
+December 2018 there were an estimated
+1.1 million people in protracted internal displacement in Somalia against a backdrop of
+multifaceted conflicts and intensified competition for resources due to climate-related
+events. 25 According to the UNHCR Protection and Return Monitoring Network, some
+883 000 new internal displacements were
+recorded between January and December
+2018, with conflict the primary reason for
+displacement (36%), followed by flooding
+
+22
+
+32
+
+See IOM DTM Madagascar profile at https://displacement.
+iom.int/madagascar, including the displacement report at
+https://displacement.iom.int/reports/madagascar-%E2%80%
+94-rapport-de-suivi-des-d%C3%A9placements-ao%C3%
+BBt-2018?close=true.
+
+23
+
+Humanitarian Country Team Somalia, https://reliefweb.int/
+sites/reliefweb.int/files/resources/Somalia%20Revised%20
+HRP%20July%202018-FINAL.pdf, p.4.
+
+24
+
+UNHCR, https://data2.unhcr.org/en/documents/download
+/65450.
+
+25
+
+UNHCR, https://data2.unhcr.org/en/situations/horn.
+
+(32%) and drought (29%). 26 The flooding
+contaminated drinking water leading to rising
+cases of “acute watery diarrhoea” and cholera.27 During the same period in 2017, the vast
+majority of IDPs (79%) cited drought-related
+reasons for their displacement, compared
+to only 0.6% indicating flooding.
+Existing refugee and IDP sites can be particularly vulnerable to climate and weather
+events such as storms. In 2018, hundreds
+of thousands of Rohingya refugees were
+affected by secondary displacement due to
+extreme weather events. 28, 29 The monsoon
+rains in Bangladesh between May and September put these refugees at heightened risk
+of landslides and flooding, particularly in
+Cox’s Bazaar district, where the majority of
+Rohingya refugees reside. As at September
+2018, up to 200 000 of the total estimated 900
+000 Rohingya refugees were exposed to these
+natural hazards. UNHCR provided emergency
+shelter and made temporary emergency
+relocation arrangements for those most at
+risk, as well as extending its support to Bangladeshi communities affected by monsoon
+rains through the distribution of family kits.30
+
+26
+
+UNHCR, https://unhcr.github.io/dataviz-somalia-prmn/
+index.html#reason=&month=2018-01-01%2C2018-07-31
+&pregion=&pregionmap=&pdistrictmap=&cregion=&cregionmap=&cdistrictmap.
+
+27
+
+United Nations Office for the Coordination of Humanitarian Af fairs, ht tps: //relief web.int /repor t /somalia/
+ocha-somalia-flash-update-5-humanitarian-impact-heavyrains-15-may-2018-enso.
+
+28
+
+UNHCR, www.unhcr.org/rohingya-emergency.html.
+
+29
+
+See IOM DTM Needs and Populations Monitoring in
+Bangladesh during the monsoon season at http://iom.
+maps .arcgis .com /apps / MapSeries / index .h t ml?ap pid=1eec7ad29df742938b6470d77c26575a and https://
+displacement.iom.int/reports/bangladesh-%E2%80%94npm-acaps-analysis-hub-report-%E2%80%94-rohingyacrisis-impact-cyclones-report-april?close=true.
+
+30
+
+U N H C R , h t t p s : //da t a 2 . u n hcr. o r g /e n /d ocu m e n t s /
+download/65468.
+
+Between 2000 and 2016, the number of people exposed to heatwaves 31 was estimated
+to have increased by around 125 million
+(Figure 18), as the average length of individual
+heatwaves was 0.37 days longer, compared
+to the period between 1986 and 2008. In
+2015 alone, a record 175 million people were
+exposed to 627 heatwaves. Each event at the
+local level translates to significant and varied
+impacts; for example, in Karachi, Pakistan,
+this same year, 65 000 people were taken to
+hospital with heat-related symptoms.
+
+ENVIRONMENTAL IMPACTS
+In addition to direct socioeconomic impacts
+on human health and well-being, United
+Nations organizations are also tracking environmental impacts associated with climate
+change.32 These include coral bleaching and
+reduced levels of oxygen in the oceans. Others – loss of “blue carbon” associated with
+coastal ecosystems such as mangroves, seagrasses and salt marshes; and ecosystems
+across a range of landscapes – are important
+coastal, ocean and terrestrial components of
+the carbon cycle.
+Peatlands are important to human societies
+around the world. They contribute significantly to climate change mitigation and
+adaptation through carbon sequestration
+and storage, biodiversity conservation, water
+regime and quality regulation, and the provision of other ecosystem services that support
+livelihoods. Climate change has emerged as
+a significant threat to peatland ecosystems,
+because it exacerbates the effects of drainage
+and increases fire risk. It exposes peatlands
+currently protected by permafrost to thawing and possible increased CH4 emissions
+and loss of carbon. Sea-level rise increases
+the risks of coastal erosion and salination of
+freshwater peatlands.
+
+31
+
+A heatwave is defined as a period of more than 3 days during
+which the minimum temperature is greater than the 99th
+percentile of the historical minima (1986–2008 average) (from
+Jacob, D., et al., 2014: EURO–CORDEX: new high-resolution
+climate change projections for European impact research.
+Regional Environmental Change, 14:563–578).
+
+32
+
+UNEP and IOC-UNESCO.
+
+Change in the number of the heatwave
+exposure events (millions per year)
+
+HEAT AND HEALTH
+
+200
+
+Change relative to 1986–2005 average
+
+150
+100
+50
+0
+
+2000 2002 2004 2006 2008 2010 2012 2014 2016
+Year
+
+Grazing lands cover 5 billion hectares worldwide and sequester 200–500 kg of carbon per
+hectare per year, playing an important role
+in climate change mitigation. In addition to
+containing the bulk of the world’s terrestrial
+inorganic carbon, rangelands store organic
+carbon in biomass and in the soil. The unique
+climatic features of rangelands means that
+in many places the majority of carbon is
+below ground. Restored rangeland not only
+contributes to climate change mitigation, but
+provides other ecosystem services, including
+protection of watersheds, habitat for biodiversity and reduction of dust storms.
+
+Figure 18. The change
+in the number of people
+exposed to heatwaves
+(or “heatwave exposure
+events”) in millions per
+year from 2000 to 2017
+(blue line), relative to
+the 1986–2005 average.
+Source: Watts, N.,
+et al., 2018: The 2018
+report of The Lancet
+Countdown on health
+and climate change:
+shaping the health of
+nations for centuries
+to come, Lancet,
+392(10163):2479–2514.
+
+33
+
+Impacts of heat on health
+Joy Shumake-Guillemot,1 Virginia Murray, 2
+Sari Kovats3
+1
+
+WMO/WHO Joint Climate and Health Office
+
+2
+
+Public Health England
+
+3
+
+London School of Hygiene and Tropical
+Medicine
+
+Heat stress is a serious health threat for
+humans. Heat is a leading cause of weather-related death, and can exacerbate underlying
+morbidities including cardiovascular disease,
+diabetes, psychological distress, asthma, as
+well as increasing the risk of accidents and
+infectious diseases. Analyses conducted
+across all six populated continents in recent
+years clearly demonstrate that high outdoor
+and indoor temperatures have an impact on
+mortality.1 For example, daily mortality spikes
+can be clearly observed for the heatwave days
+that occurred in England during the summer
+of 2016 (see figure). 2 Single heatwaves can
+last weeks, occur consecutively and result in
+significant excess mortality. In 2003, 70 000
+people in Europe died as a result of the June–
+September event. 3 In 2010, 55 000 excess
+deaths occurred during a 44-day heatwave
+in the Russian Federation.4, 5
+
+MECHANISMS OF HEALTH IMPACTS OF
+HEAT
+Exposure to heat has wide ranging physiological impacts for all humans, with extreme
+exposures resulting in a cascade of illnesses,
+including heat cramps, heat exhaustion,
+1
+
+Gasparrini, A., et al., 2015: Mortality risk attributable to high
+and low ambient temperature: a multicountry observational
+study. Lancet, 386(9991):369–375.
+
+2
+
+Public Health England, 2016: Heatwave Mortality Monitoring Summer 2 016. London, PHE, ht tps: //assets.
+publishing.service.gov.uk/government/uploads/system/
+uploads/attachment_data/file/714933/PHE_heatwave_mortality_monitoring_report_2016.pdf.
+
+3
+
+Robine, J.-M., S.L.K. Cheung, S. Le Roy, H. van Oyen, C.
+Griffiths, J.-P. Michel and F.R. Herrmann, 2008: Death toll
+exceeded 70,000 in Europe during the summer of 2003.
+Comptes rendus biologies, 331(2):171–178.
+
+4
+
+Shaposhnikov, D., B. Revich, T. Bellander, G. Bero Bedada,
+M. Bottai, T. Kharkova, E. Kvasha, E. Lezina, T. Lind, E.
+Semutnikova and G. Pershagen, 2014: Mortality related to
+air pollution with the Moscow heat wave and wildfire of
+2010. Epidemiology (Cambridge, Mass.), 25(3):359–364.
+
+5
+
+34
+34
+
+See ht tp: //origin.who.int /globalchange/publications/
+heat-and-health/en/.
+
+heatstroke and hyperthermia. Heat gain in the
+human body can be a combination of external heat from the environment and internal
+body heat generated from physical activity
+– hence, people working outside are particularly at risk and may not have the option to
+stop working or have access to appropriate
+cooling opportunities. High temperatures can
+also amplify a wide range of existing health
+conditions leading to a risk of premature
+mortality or additional hospital admissions.
+Heatwaves can also affect health indirectly, by
+altering human behaviour, the transmission
+of diseases, the capacity for health service
+delivery, air quality, and the functioning of
+critical social infrastructure such as energy,
+transport and water. The scale and nature of
+negative health impacts of heat depend on the
+timing, intensity and duration of a temperature event, and how well adapted buildings
+and behaviour are to the prevailing climate.
+The precise threshold at which temperature
+represents a hazardous condition varies by
+region and over time.
+
+TYPES OF IMPACTS
+Heat stress ranks amongst the highest environmental threats to human health due to
+the combination of direct deaths and derived
+effects on vulnerable groups during heatwaves
+and prolonged seasonal heat. Heatwaves
+can acutely impact large populations for
+short periods of time, often triggering health
+emergencies that result in excess mortality,
+cascading socioeconomic impacts (for example, lost work capacity and labour productivity)
+and the loss of health service delivery capacity.
+Power shortages that often accompany heatwaves can disrupt health facilities, energy,
+transport and water infrastructure, triggering
+secondary health risks due to lack of access to
+essential services. For example, in Australia
+and the United States, tens of thousands were
+left without power during heatwaves in 2018 as
+energy demand for cooling exceeded electric
+grid capacity.6 Heatwaves can increase the risk
+of wildfires, amplifying safety and health risks,
+such as observed in fires in 2018 in Scandinavia
+and California, and in the Russian Federation
+6
+
+See https://www.reuters.com/article/us-australia-power/
+heat-wave-leaves-thousands-of-australian-homes-without-power-idUSK BN1F I0 CO and ht tps: // w w w.cnn.
+com/2018/07/07/us/heat-wave-los-angeles-wxc/index.html.
+
+50
+45
+
+1200
+
+Number of deaths
+
+40
+1000
+
+35
+30
+
+800
+
+25
+600
+
+20
+15
+
+400
+
+10
+200
+
+5
+
+Mean central England temperature (°C)
+
+1400
+
+Daily mortality in people
+aged 65 or over in
+England, summer 2016.
+Source: Public Health
+England.
+
+0
+28-Sep
+
+24-Sep
+
+20-Sep
+
+12-Sep
+16-Sep
+
+08-Sep
+
+04-Sep
+
+31-Aug
+
+27-Aug
+
+23-Aug
+
+19-Aug
+
+15-Aug
+
+11-Aug
+
+30-Jul
+
+07-Aug
+
+26-Jul
+
+03-Aug
+
+22-Jul
+
+18-Jul
+
+14-Jul
+
+10-Jul
+
+06-Jul
+
+02-Jul
+
+28-Jun
+
+24-Jun
+
+20-Jun
+
+16-Jun
+
+12-Jun
+
+08-Jun
+
+04-Jun
+
+31-May
+
+27-May
+
+23-May
+
+0
+
+Date of death
+Delay corrected death counts
+
+Epected deaths
+
+Upper 3SD limit
+
+in 2010. Extended periods of high day and
+night-time temperatures create cumulative
+physiological stress on the human body that
+exacerbates the top causes of death globally,
+including respiratory and cardiovascular diseases, diabetes mellitus, and renal disease.
+Indoor and outdoor workers are particularly
+exposed to chronic excessive heat exposure,
+and rising temperatures often make work intolerable or dangerous.7 Occupational heat strain
+directly affects workers’ health, elevating the
+risk of kidney diseases and work accidents.
+The socioeconomic effects of lost productivity
+must also be taken into account – considering
+individual ability to live healthy and productive
+lives is fundamental to poverty reduction and
+global health.
+
+INCREASING HEAT EXPOSURE DUE TO
+CLIMATE CHANGE
+No population can avoid exposure to rising ambient temperatures. However, some
+populations are more exposed to or more
+physiologically or socioeconomically vulnerable to physiological stress, exacerbated
+illness and an increased risk of death from
+exposure to excess heat. These include the
+elderly, infants and children, pregnant women,
+workers, athletes and people involved in
+outdoor recreation (for example, religious
+events or music festivals), and the poor. In
+7
+
+Sherwood, S.C. and M. Huber, 2010: An adaptability limit
+to climate change due to heat stress. Proceedings of the
+National Academy of Sciences of the United States of America, 107(21):9552–9555, DOI:10.1073/pnas.0913352107.
+
+Mean CET
+
+December 2018, experts from six continents
+reported to the Global Heat Health Information Network (GHHIN) significant observed
+shifts in regional climatologies, with a strong
+trend toward increasing frequency, intensity,
+and duration of heat events, accompanied by
+wide-ranging health impacts.8
+Population exposure to heat is predictably
+increasing due to the “climate commitment”
+or expected amount of warming due to GHG
+levels in the atmosphere today. Heat-related
+problems for society will be exacerbated by
+a warming climate for the remainder of the
+twenty-first century regardless of climate
+change mitigation pathways. These trends
+raise alarm bells for the public health community as extreme temperature events are
+observed to be increasing in their intensity,
+frequency and duration.
+Detrimental health outcomes associated with
+excessive heat exposure can be markedly
+reduced if appropriate early warning systems,
+public preparedness and health interventions
+are effectively implemented. For example, in
+Europe the presence of a heat health warning system has been shown to reduce the
+impact of heatwaves on several populations.
+GHHIN was established in 2018 to increase
+collaboration between relevant disciplines to
+accelerate the sharing of scientific evidence
+and decision tools to improve global public
+health heat risk management.8
+8
+
+Global Heat Health Information Network First Global Forum
+on Heat and Health, see www.ghhin.org.
+
+3535
+
+Air pollution and climate change
+processes. The second figure, below, depicts
+the complexity of these interactions.
+
+Oksana Tarasova (WMO)
+Although climate change and air pollution are
+closely connected, these two environmental
+challenges are still viewed as separate issues
+and dealt with by different science communities and within different policy frameworks.
+However, it is not possible to separate the
+anthropogenic emissions into two distinct
+categories – atmospheric pollutants and climate-active species – as many air pollutants,
+such as tropospheric ozone or aerosol, have
+direct or indirect impacts on climate. Air pollution itself has detrimental effects on human
+health and the environment (see following figure). According to a report by WHO,1 over 90%
+of the urban population of the world breathes
+air containing levels of outdoor air pollutants
+that exceed WHO guidelines. Air pollution
+inside and outside the home is the second
+leading cause of death from non-communicable
+disease worldwide.
+
+The effects, both direct and indirect, of air
+quality on climate change are related to the
+interactions of atmospheric pollutants with
+solar radiation. The global average radiative
+forcing of ozone is similar to that of CH4, and
+about one quarter of that due to CO2. 3 Tropospheric ozone negatively affects ecosystems
+and reduces their capacity to absorb CO 2 .
+Another indirect impact of ozone on radiative
+forcing has the opposite effect: production of
+the hydroxyl radical increases with increasing
+ozone concentration, shortening the lifetime
+of CH4 in the atmosphere. Particulate matter,
+which has adverse effects on human health, has
+both direct and indirect influences on radiative
+forcing. Depending on its composition, it can
+scatter or absorb incoming radiation directly,
+but particles can also act as cloud condensation
+nuclei and thereby affect radiative forcing and
+weather patterns indirectly. Deposition of the
+particles on snow and ice changes their albedo.
+
+Air quality and climate change are not only
+driven by common constituents, they are also
+closely interlinked through diverse atmospheric
+
+Climate change also affects air quality through
+changes in meteorology (including temperature, precipitations, boundary-layer dynamics,
+
+Air pollutant / GHG
+
+Carbon dioxide (CO 2)
+Fluorinated gases
+(F-gases)
+Methane (CH4)
+
+Nitrogen oxides (NO x)
+
+Nitrous oxides (N 2O)
+
+Lifetime/scale
+
+Climate impact
+
+Health/ecosystem
+impacts
+
+Lifetime in atmosphere =
+days/weeks
+Impact scale = local/regional
+
+Lifetime in atmosphere = years
+Impact scale = global
+
+Warming
+
+Cooling
+
+Human health impact
+
+Particulate matter (PM)
+Ecosystem impact
+Sulfur dioxide (SO 2)
+
+Common air pollutants
+and GHGs and their
+impacts on climate,
+human health and
+ecosystems, including
+agriculture. Source: (2).
+
+36
+
+Tropospheric ozone (O 3)
+Volatile organic
+compounds (VOCs)/
+Carbon monoxide (CO)
+
+No direct impact on human
+health or ecosystems*
+*No direct impact implies the substance in
+question either does not directly cause human
+health or ecosystem impacts or it does not go
+through a chemical process to create a
+substance that directly impact human health
+and ecosystems.
+Current Opinion in Environmental Sustainability
+
+humidity and cloud cover) and through the
+impact it has on natural emissions. Increasing
+temperatures lead to increasing emissions
+of volatile organic compounds that are the
+precursors of tropospheric ozone and aerosols. Higher temperatures are also favourable
+for faster ozone formation. As the climate
+changes, ozone in peak episodes is expected
+to increase – the so-called “climate penalty”.
+Climate change is also associated with changing
+transport patterns and mixing and can lead to
+more frequent extreme pollution events due
+to stagnation. Changes in wildfire frequencies
+could lead to increasing levels of pollution,
+particularly aerosols. Changing precipitation
+patterns affect the deposition of pollutants.
+Despite a growing recognition of the strong links
+between the two areas, policies addressing air
+pollution and those focusing on climate change
+remain weakly linked. The major challenge is to
+identify policies that provide “win–win” solutions, as not all climate policies are beneficial
+for air pollution reductions and vice versa. One
+example is the use of biofuels that leads to a
+
+increased / changed
+emissions
+
+reduction of CO2 but contributes to increasing
+levels of tropospheric ozone. An integrated
+approach is therefore needed to evaluate the
+air quality and climate policies that take into
+account the factors outlined above. Such integrated policies are likely to constitute the best
+environmental policy strategies in terms of
+both social and economic costs.
+
+1
+
+World Heal t h Organizat ion, 2 018 : COP 24 Special
+Repor t: Health and Climate Change. Geneva, WHO,
+h t t ps : // w w w.w ho. in t /globalchange /publica t ions /
+COP24-report-health-climate-change/en/.
+
+2
+
+Melamed, M.L., J. Schmale and E. von Schneidemesser,
+2016: Sustainable policy – key considerations for air quality
+and climate change. Current Opinion in Environmental
+Sustainability, 23:85–91, http://linkinghub.elsevier.com/
+retrieve/pii/S1877343516301087.
+
+3
+
+World Meteorological Organization, 2018: Reactive Gas
+Bulletin – Highlights from the Global Atmosphere Watch
+Programme. No.2. Geneva.
+
+4
+
+von Schneidemesser, E., et al., 2015: Chemistry and the linkages
+between air quality and climate change. Chemical Reviews,
+115(10):3856–3897.
+
+smog
+(air pollution)
+
+temperature
+change
++
+change in
+weather
+patterns
++
+premature
+death
++
+crop
+losses
+
+increased
+RF
+
+ATMOSPHERIC COMPOSITION
+CHANGE (CO2 , CH4, PM, O 3)
+AEROSOLRADIATION EFFECTS (PM)
+
+changed
+reflection &
+absorption
+
+temperature
+change
+
+ATMOSPHERE BIOSPHERE
+INTERACTIONS (O 3,CO2 , CH4, PM)
+
+AIR QUALITY AND
+CLIMATE CHANGE
+INTERACTIONS
+
+decreased
+CO2 uptake
+by plants
+more CO2
+& higher
+temperature
+
+increased
+BVOC
+emissions
+
+increased
+O3 formation
+
+crop
+losses
+
+ATMOSPHERE RE-CRYOSPHERE
+INTERACTIONS (BC)
+
+AEROSOL-
+
+CLOUD INTERACTIONS (PM)
+
+changed
+weather
+patterns
+
+greater
+melting
+
++
+changed cloud
+properties
+
+plant
+damage
+
+temperature
+change
+
+white, snowy
+mountains/glaciers
+(high albedo,
+reflects sunlight)
+
++
+
+pollution
+transport
+
+darker surfaces,
+increased snowmelt
+(lower albedo,
+less reflected sunlight)
+
+increased
+temperature
+
+changes to
+hydrological
+cycle
+
+An overview of the main
+categories of air quality
+and climate change
+interactions, including a
+depiction of an example
+interaction or feedback
+for each category.
+Depicted emission
+sources are examples
+but do not encompass
+all emission sources
+relevant to the depicted
+interaction. The most
+relevant components
+are listed in the brackets
+following the category.
+PM (particulate matter)
+indicates all aerosol
+sources, including OA
+(organic aerosol), BC
+(black carbon), and SO2;
+O3 (ozone) includes
+O3 and its precursor
+compounds, NOx, nonmethane volatile organic
+compounds (NMVOCs),
+and CO. Source: figure
+taken from (4).
+
+37
+
+International civil aviation
+and adaptation to climate change
+Chrystelle Damar,1 Neil Dickson,1 Jane Hupe1
+1
+
+Environment, ICAO
+
+While the efforts of ICAO are mainly focused
+on reducing the impact of international civil
+aviation on the global climate, the impact of
+climate change has been identified as a significant risk for the aviation sector and the work of
+ICAO on climate adaptation is the foundation
+of risk preparedness.1 A key question is how
+should aviation infrastructure be designed and
+built so that CO2 emissions are limited, and
+more extreme weather events, water scarcity,
+sandstorms, or any impact attributable to a
+changing climate, can be withstood.
+A report was recently produced by ICAO2
+synthesizing existing information on the range
+of projected climate impacts in the aviation
+sector to better understand risks to aviation
+operations and infrastructure. This included a
+literature review and a survey that was sent to
+
+Based on replies from
+ICAO member States
+the ICAO climate
+adaptation risk map
+1
+shows the nature of the
+expected climate change
+impacts on international
+aviation. Source: based
+on data from the ICAO
+climate synthesis
+analysis, see (2).
+
+ICAO Assembly Resolution A39-2 – “Consolidated statement of
+continuing ICAO policies and practices related to environmental
+protection – climate change” requests (the Council) to “identify
+the potential impacts of climate change on international aviation
+operations and related infrastructure and identify adaptation
+measures to address the potential climate change impacts, in
+cooperation with other relevant international organizations and
+the industry”.
+
+Sea-level rise
+Changes in
+biodiversity
+Increased
+intensity
+of storms
+Changing
+precipitations
+Desertification
+High average and
+extreme temperatures
+Changing icing
+conditions
+Changes in
+wind patterns
+Business and
+economics
+
+38
+
+all ICAO member States to collect information
+on the level of awareness of climate change
+impacts, the nature of the impacts and how
+they will affect international aviation, as well
+as the self-assessed level of preparedness of
+the various international aviation stakeholders.
+One of the key findings of the survey showed
+that 74% of respondents found that their
+aviation sectors are already experiencing
+some climate change impacts, while 17%
+expected some impact by 2030. Potential
+climate impacts on the aviation sector were
+identified for eight climate impact categories:
+sea-level rise, increased intensity of storms,
+temperature change, changing precipitation,
+changing icing conditions, changing wind
+direction, desertification, and changes to biodiversity. Consideration was also given to
+potential climate change impacts to business
+and economics, as well as climate change risk
+assessment and adaptation planning.
+The impacts on the aviation system were
+identified globally and are shown in the ICAO
+global climate adaptation risk map (see figure).
+The survey showed that 30% of respondents
+2
+
+International Civil Aviation Organization, 2019: Climate
+change: Adaptation. Climate adaptation synthesis analysis,
+https://www.icao.int /environmental-protection/Pages/
+adaptation.aspx.
+
+have already implemented climate adaptation
+measures, 25% intend to do so in the next
+5 to 10 years, while 6% indicate that they
+have no measures planned. A climate change
+risk assessment is required to determine the
+climate change vulnerabilities before an adaptation strategy is developed.
+Regarding the preparedness of the global aviation sector for climate change impacts, the
+majority of respondents stated that while the
+sector has engaged heavily in climate change
+mitigation efforts, more effort should be given
+to climate change adaptation, including the
+need for more global coordination. Many
+respondents identified the need for more outreach, training and capacity-building, as well
+
+as increasing the understanding of specific
+vulnerabilities for the sector. Respondents also
+thought that the development of adaptation risk
+assessments, policies and planning for resilience at the global level could also be required.
+The International Civil Aviation Organization
+envisages to cooperate with international
+experts to develop the first globally recognized
+climate change risk assessment methodology.
+The cornerstone of this methodology will
+be the identification, characterization and
+visualization of the climate change impacts
+on international aviation and identification of
+the risks to which the operations and infrastructure may be exposed based on climate
+change projections and scenarios.
+
+39
+
+For more information, please contact:
+
+World Meteorological Organization
+7 bis, avenue de la Paix – P.O. Box 2300 – CH 1211 Geneva 2 – Switzerland
+Communication and Public Affairs Office
+Tel.: +41 (0) 22 730 83 14/15 – Fax: +41 (0) 22 730 80 27
+Email: cpa@wmo.int
+
+42
+
+JN 19228
+
+public.wmo.int
+
+

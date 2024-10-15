@@ -1,0 +1,2913 @@
+COMMITTED TO
+IMPROVING THE STATE
+OF THE WORLD
+
+Global Risks 2006
+
+A World Economic Forum Report,
+in collaboration with
+MMC (Marsh & McLennan Companies, Inc.)
+Merrill Lynch and
+Swiss Re
+and in association with the Risk Management
+and Decision Processes Center at the
+Wharton School of the University of Pennsylvania
+
+World Economic Forum
+91-93 route de la Capite
+CH-1223 Cologny/Geneva
+Switzerland
+Tel.: +41 (0)22 869 1212
+Fax: +41 (0)22 786 2744
+E-mail: contact@weforum.org
+www.weforum.org
+© 2006 World Economic Forum
+All rights reserved.
+No part of this publication may be reproduced or transmitted in
+any form or by any means, including photocopying and recording,
+or by any information storage and retrieval system.
+
+The information in this report, or on which this report is based, has been obtained from sources that the authors believe to be reliable and accurate.
+However, it has not been independently veriﬁed and no representation or warranty, express or implied, is made as to the accuracy or completeness
+of any information obtained from third parties. In addition, the statements in this report may provide current expectations of future events based on
+certain assumptions and include any statement that does not directly relate to a historical fact or a current fact. These statements involve known
+and unknown risks, uncertainties and other factors which are not exhaustive. The companies contributing to this report operate in a continually
+changing environment and new risks emerge continually. Readers are cautioned not to place undue reliance on these statements. The companies
+contributing to this report undertake no obligation to publicly revise or update any statements, whether as a result of new information, future events
+or otherwise and they shall in no event be liable for any loss or damage arising in connection with the use of the information in this report.
+
+Global Risks 2006
+
+1. Executive Summary: Towards a more
+sophisticated understanding of global risks
+This document summarizes the output of a
+collaboration between the World Economic Forum,
+MMC (Marsh & McLennan Companies, Inc.), Merrill
+Lynch and Swiss Re, in association with the Risk
+Management and Decision Processes Center of the
+Wharton School at the University of Pennsylvania, on
+the topic of Global Risks. A longer document
+containing more information on the genesis of the
+World Economic Forum’s Global Risk Programme, on
+the methodologies employed and detailing the
+scenarios constructed is available at
+www.weforum.org.
+The purpose of this collaboration, building on work
+undertaken in 2004, was to:
+• identify and assess current and emerging global
+risks in the 2006 and 2015 time horizons;
+• study the links between them and to assess their
+likely effect on different markets and industries; and
+• advance the thinking around more effective
+mitigation of global risks.
+The global risk landscape
+The 2006 risk landscape is dominated by high impact
+headline risks, such as terrorism and an influenza
+pandemic, which top the global risk mitigation agenda
+and are increasingly well understood. Other risks, like
+climate change, whose cumulative impact will only be
+felt over the longer term, have begun to move to the
+centre of the policy debate and may offer the greatest
+challenges for global risk mitigation in the future.
+Finally, we consider a number of potential risks whose
+outcomes are as yet very unclear, such as those
+associated with new technologies. These risks are
+thought about by few, but have the potential to be
+highly disruptive in the future. In many ways 2005 was
+a wake-up call. What is needed now are positive
+responses, innovation and an understanding of
+potential business opportunities implicit in a rapidly
+changing environment.
+Impacts can be greater than the sum of
+their parts
+Identification of individual global risks, however, is only
+one part of the story. In reality, global risks rarely
+manifest themselves in isolation. The combination of
+speed (the effects of global risks travel fast), the
+interconnectivity of the global system as well as its
+
+deepening complexity can lead to rapid and
+unexpected contagion of global risks across
+industries and geographical areas. The interplay of
+multiple global risks and their combined ripple effects
+can create potentially disastrous “perfect storms” –
+cumulative events which cause damage far in excess
+of the sum of each individual risk event. In 2005,
+Hurricane Katrina provided a powerful example of
+conflation that will have long-term impacts. Avian flu
+may present similar global challenges, should
+widespread human-to-human transmission occur.
+Global solutions to global risks
+Internationally collaborative approaches like those
+coordinated by the World Health Organization and
+public-private cooperation on global risk mitigation
+can help to improve the way the world deals with risk.
+Similarly, there is scope for more widespread and
+effective initiative by the private sector. Incentives
+need to be properly aligned to make risk mitigation
+as much about proactive prevention as about reactive
+recovery.
+In some cases, as in the increasing contribution of
+business to disaster relief and the growth of
+innovative financial instruments to price risk, more
+sophisticated mitigation approaches are developing.
+However, our collective ability to mitigate global risks
+is still seriously hampered by divergent perceptions of
+the nature and importance of such risks; differing
+agendas; and the inability of any government,
+business or international institution to address these
+risks independently.
+Looking to a better future
+The World Economic Forum’s Global Risk Programme
+has identified three core areas where these problems
+can be addressed and risk mitigation improved:
+• enhancement of the quality of information on risk
+and its flow amongst stakeholders;
+• reassessment of risk priorities and reallocation of
+resources and incentives accordingly; and
+• strengthening the capacity and resilience of
+business and political and administrative institutions
+at all levels.
+No one can succeed alone in dealing effectively with
+global risks. An integrated multistakeholder approach
+offers the best hope of increasing our capacity to
+pre-empt, manage and mitigate global risks.
+1
+
+Global Risks 2006
+
+2. Today’s global risk landscape
+Over the past 13 months the world has suffered a
+spate of major risk events, from the Indian Ocean
+tsunami, through a string of hurricanes in the Gulf of
+Mexico, to the suicide bomb attacks in London
+during the G-8 Summit and the earthquake in
+Pakistan. At the beginning of 2006, the global risk
+most preoccupying global business and political
+leaders is the H5N1 avian flu virus.
+But these were only the most prominent features of
+the changing risk landscape. Since the 2005 World
+Economic Forum Annual Meeting in Davos, the
+participants in the Global Risk Programme have
+worked to refine their understanding of global risks
+
+through expert workshops, with the aim of identifying
+and assessing truly global risks and moving forward
+the global discussion on risk mitigation. A summary
+of 25 global risk scenarios generated by the Global
+Risks Programme can be found in the appendix to
+this document. The scenarios are available on-line at
+www.weforum.org.
+Some of the risks identified are those that generally
+top the list of risk concerns of states and businesses
+because they are considered to be highly likely or
+highly damaging, or both. These include terrorism,
+oil-price spikes, fiscal crises, pandemics and
+earthquakes. These risks were rarely out of the
+headlines in 2005.
+
+Many of the headline risks of 2005 will continue to dominate headlines in 2006…
+The geopolitical risk landscape is still dominated by the risk (real and perceived) of terrorism. The capacity
+of terrorist organizations to act globally in a coordinated way has diminished, but the risks of localized
+terror remain high. Should an attack incorporate chemical, biological or nuclear weapons, or target critical
+infrastructure (such as transport networks, critical information infrastructure (CII) or water and electricity
+supplies), the human and economic costs will bring new pressures to bear on public policy. The world
+suffered an oil-price spike above US$ 70 in 2005. The spike was lower (in real terms) than those of the
+1970s, but the world’s reliance on hydrocarbons and growing concerns about the geopolitics of supply
+mean that oil prices will inevitably be an issue of concern in 2006 and beyond. Some parts of the world
+have been living with fiscal crises for a number of years, but, in the year in which the “baby boomer”
+generation starts reaching retirement age, the risks to global prosperity are apparent. The long-term
+economic health of developed countries, as well as the medium-term values of their currencies, may
+depend on how fiscal reforms are undertaken. The fear of an avian flu virus mutating to enable human-tohuman transmission and sparking an influenza pandemic has caused acute concern both in the
+developed and developing world; the long-term human, societal and economic effects of diseases such as
+HIV/AIDS, TB and malaria continue to debilitate large parts of the developing world. Finally, the Pakistan
+earthquake provided a lesson as to our current incapacity to respond sufficiently to major humanitarian
+crises and a warning that many parts of the world remain highly vulnerable to natural disaster.
+
+Other risks, such as those stemming from climate
+change, are still emerging. Consensus on the nature
+of this risk and its consequences for global society
+and for the global economy has not yet been
+reached, though a growing body of scientific
+evidence points to the seriousness of the long-term
+challenge. The spread of liability regimes is already
+
+2
+
+causing concern. Still other potential risks – like
+those deriving from Electro-Magnetic Fields (EMF) or
+counterfeiting, to take two examples – are on the
+radar screen of only a small section of the
+international business and political community.
+They may yet develop into the headline risks of
+tomorrow.
+
+Global Risks 2006
+
+…while a range of other risks may move
+up the global agenda
+Climate change has long been viewed as a
+source of risk, and may become irreversible over
+the next 10 to 20 years. There is growing
+consensus that the phenomenon is real, even if
+there are wide differences of opinion over its
+effects. As research improves and as the global
+community reaches a better understanding of
+the relationship – or lack of it – between extreme
+weather events and climate change, the issue
+will move up the risk mitigation agenda. The
+spread of liability regimes from the United
+States, representing a growing societal aversion
+to risk and placing an increasing cost on
+business through large and unpredictable claims,
+will attract increasing attention. The manufacture
+and spread of counterfeit (pirated) goods is
+already a political issue between states with
+knowledge-based economies and certain
+countries growing their manufacturing sectors.
+Companies in the entertainment, software and
+pharmaceutical industries are taking steps to
+prevent the erosion of the value of their
+investments, but the risk with many counterfeit
+products is defects and damage to reputation
+rather than just the loss of profit. The
+phenomenon of illicit trade remains only partly
+understood – and its increasingly widespread
+nature poses risks which go well beyond the
+industries that are presently affected. Riskrelated expectations need to be clarified and
+better managed in the realm of ElectroMagnetic Fields (EMF), generated by a large
+(and increasing) number of 21st century
+electronic devices, including mobile phones. If it
+were to transpire that EMF had widespread
+harmful health effects at relatively low exposure
+levels, this would have huge societal and
+economic impacts.
+
+Outliers: potentially significant risks
+that did not make it onto the watch list
+for 2006 and beyond
+There are some potential risks that have not yet
+penetrated public consciousness, but which
+might have severe consequences. Space
+weather is one example: unseen and unknown
+to most people. The sun is the main source; its
+output varies normally over a period of 11 years
+and the recent high of solar activity occurred in
+2000. Solar flares produce radiation bursts
+across the electromagnetic spectrum, from radio
+waves to x-rays and gamma-rays, while solar
+winds buffet the earth's magnetic field and can
+produce storms in the magnetosphere. Space
+weather constantly has low-level effects on
+technology, interspersed with occasional
+dramatic events. Given ever-present solar activity
+and an increasingly technology-dependent
+society on earth, space weather disturbances
+are likely to grow in importance. They can affect
+power supplies, radio communications,
+navigation equipment and geophysical
+exploration, impacting public safety, information
+services, defence, industrial processes and
+transport networks. To give one example:
+radiation doses received by passengers and
+crew of airplanes at cruising altitudes are 20 to
+30 times higher than they are on the ground,
+and major solar particle events can significantly
+increase this dose, especially over the polar
+regions. The loss of biodiversity is another
+example: the rapid loss of species may reduce
+our ability to use nature as a template for
+pharmaceutical remedies and could have
+profound negative effects on environmental
+sustainability.
+
+3
+
+Global Risks 2006
+
+Four key risk scenarios
+These four risk scenarios, drawn from the extensive
+list available on-line at www.weforum.org, illustrate
+different manifestations of global risk in the decade
+ahead. They include risks whose probability is high
+in the short term, such as an oil price spike and
+
+localized terrorist incidents, for which companies
+and governments are relatively well-prepared. They
+also include risks whose impact is potentially very
+severe, such as an influenza pandemic – if mutation
+of an avian virus enables human-to human
+transmission – and, over the longer-term, climate
+change.
+
+Oil Price Shock – price spike above
+US$ 80-100/bl
+Hydrocarbons drive the world economy. As demand grows, with economic growth in India and China in
+particular, there are fears that prices will rise and geopolitical competition to secure resources for future
+supply will sharpen. There is certainty that higher emissions will cause further environmental damage. The
+scenario is that of an oil price spike above US$ 80/bl in the short term, which has both a very high
+probability and a very severe impact. An oil price spike results principally in the transfer of funds from oilconsuming countries to oil-producing countries, as happened in 2005. However, the ancillary effects
+include damage to business confidence and higher inflation which may contribute to a global economic
+slowdown. In the relatively unlikely event that oil prices remained above US$ 100/bl for an extended period
+over the next decade, the costs would be on a par with the oil price shocks of the 1970s, which led to
+geopolitical shifts and caused economic disruption and social unrest in oil-consuming countries.
+
+Influenza pandemic
+The risk of a pandemic flu, particularly one caused by human-to-human transmission of the H5N1 or
+another avian flu virus, is now a dominant theme in the global conversation on risk. While the spread of a
+pandemic can be modelled, we do not know when, where (or whether) the H5N1 virus will mutate so as to
+allow it to spread easily from one person to another. Humans have little or no immunity to H5N1 and no
+vaccine to protect against it currently exists. Present supplies of antiviral drugs are insufficient to deal with
+a major pandemic outbreak. If person-to-person infection were to become commonplace, the
+vulnerabilities of our interconnected global systems would intensify the human and economic impact. A
+lethal flu, its spread facilitated by global travel patterns and uncontained by insufficient warning
+mechanisms, would present an acute threat. Short-term economic impacts would include severe
+impairment of travel, tourism and other service industries, as well as manufacturing and retail supply
+chains. Global trade, investor risk appetites and consumption demand could suffer for more extended
+periods. Deep shifts in social, economic and political relations are possible. A flu pandemic further presents
+complex mitigation challenges, including difficult trade-offs (for example, mass vaccination now may
+protect against the spread of a pandemic now, but mass vaccination also carries a heightened risk of
+mutation of the virus into more resistant strains later), and posits an obvious need for multistakeholder
+coordination of both prevention and response. The longer it takes for a pandemic to emerge – as long as
+we maintain awareness of the risk – the better prepared we are likely to be.
+
+4
+
+Global Risks 2006
+
+Terrorism
+Terrorist attacks involving aircraft and high explosives have already had a massive global impact politically,
+socially and on several business sectors including financial services – especially insurance – and the airline
+and travel and tourism industries. Beyond more “conventional” attacks, experts fear the detonation of a
+radiological bomb (a “dirty bomb”), a small nuclear device, or the use of chemical or biological agents by
+terrorist groups in a major city, reinforcing an era of asymmetrical warfare, where small and relatively
+uncoordinated groups can strike at the heart of otherwise well-defended states and societies. The
+phenomenon of terrorism will not be eradicated soon and locally-based terrorism, including that variant
+which claims credibility from religion, is likely to continue along current trends. The world will suffer from a
+number of small-scale terrorist attacks in 2006. The major threat from terrorism stems from the risk of one
+or more major attacks on fragile nodes in the international system with large conflation effects. Over the
+longer term, there is a moderate risk of such an event – with very high human, political and economic
+consequences.
+
+Climate Change
+As the December 2005 UN Montreal climate
+change conference demonstrated, many, but not
+all of the human-induced risk factors are now
+identified, carefully tracked and modelled. Climate
+change has moved, over the course of the last
+century, from the realm of the unknowable (U) to
+the unknown (u) (See KuU box on next page).
+There is still uncertainty as to how the risks will
+manifest: rises in sea levels, gradual temperature
+shifts and intensifying weather patterns have the
+potential to impact heavily on both society and the
+global economy, and are increasingly well
+understood as risks to business. The effects will
+become more evident on a longer time horizon
+(chiefly beyond 10 years) so the severity of the risk
+is not fully captured in either the 2006 or 2015
+horizons, but the accumulative nature of
+greenhouse gases and the feedback delays in the
+climate demand a response to the putative causes
+
+Several conceptual frameworks can be applied when
+considering global risks – a discussion of these can
+be found in the broader Global Risks document at
+
+Natural catastrophe losses are
+on the rise
+Annual insurance losses
+in USD bn (2 0 0 4 price levels)
+2 0 0 5 : largest
+loss burden ever
+
+60
+
+Excluding life
+and liability
+claims
+
+?
+
+50
+40
+30
+20
+10
+0
+1970
+
+1974
+
+1978
+
+1982
+
+Natural catastrophes
+
+1986
+
+1990
+
+1994
+
+1998
+
+2002
+
+Man-made disasters (property losses only)
+
+Source: Swiss R e sigma Catastrophe database
+
+today. The risks presented by climate change are
+fundamentally intertwined with other key risks,
+from storms and ecosystem degradation to
+regulation and long-term energy prices.
+
+www.weforum.org. A practical framework, relevant
+for mitigation, considers the “knowability” of the risk
+and its effects.
+
+5
+
+Global Risks 2006
+
+Knowability and risk – the KuU framework
+This simple typology, developed by Professor Diebold and others at The Wharton School, suggests a
+continuum of risk from known (K) through unknown (u) to unknowable (U) risks.
+Some risks, particularly natural disasters, can be said to be “known”. Their causes, probability of
+occurrence and likely impacts are understood and well defined, although there is still some uncertainty
+surrounding these estimates. Known risks can be measured and managed.
+Other risks are “unknown”. The risk events are well-defined, but it is not possible to assign probabilities of
+specific events occurring. Terrorism and systemic financial risk are good examples of this. Another way of
+looking at “unknown” risks is to think of them as risks where there are several competing plausible models
+of how reality might unfold, but no accepted paradigm. Unknown risks require governments or businesses
+to build resilience into their risk models – through continuity-planning, stockpiling, slack in the system or
+diversification of sources of vital goods.
+The last class of risks are those which are “unknowable”. Unknowable risks have not yet emerged, and our
+understanding the systemic linkages of unknowable risks is speculative. Unknowability is a key
+consideration in the context of risk conflation, where a large number of possible combinations of risks and
+vulnerabilities can lead to a vast array of possible outcomes, some of which are “perfect storms”.
+
+3. Impacts can be greater than the sum
+of their parts
+Most major risk events occur initially in one part of
+the global system: an earthquake in Iran or Pakistan,
+a Class 4 hurricane in the Gulf of Mexico, a war in
+Iraq, or terrorist incidents in Manhattan and
+Washington DC. Most can be categorized within one
+of the five risk areas defined in the Global Risk
+Programme: economic, environmental, geopolitical,
+societal and technological. However, some do not fit
+easily into any of these categories. The degradation
+of critical infrastructures is a geographically
+widespread risk, with potential economic, societal
+and political impacts. The pace of technological
+advance, the availability of finance and social and
+political priorities at local government level are key
+issues in determining the rate at which infrastructure
+is degraded and the speed at which it is repaired or
+replaced. Terrorist attacks on power, water, transport
+or communication networks could have widespread
+impact on business activities, particularly if focused
+on weak links in the system, causing major ripple
+effects. There are often multiple factors at work in
+the way in which a risk plays out.
+
+6
+
+When certain risk events occur, their impacts are not
+constrained by geographical or systemic boundaries.
+The level of interconnectivity in the world system
+increasingly lends itself to risk contagion across
+both, spreading the effects of a risk well beyond
+those initially expected. While interconnectivity helps
+to drive global prosperity, it can bring with it
+increased vulnerability to risk. It facilitates the flow of
+goods and information, and the distribution of aid
+delivered in response to humanitarian crises. But the
+efficiency of these systems often depends on a
+limited number of vulnerable links, and
+understanding what these are is vital.
+In today’s world, more than ever before, risks travel.
+To take a simple example, the volume of shipped
+goods through the Malacca Straits has increased
+hugely over the last 10 years as globalization has led
+to an increase in trade and reconfigured
+manufacturing supply chains. A successful terrorist
+attack blocking the Malacca Straits would not only
+cause substantial disruption of oil supplies to East
+Asia, but could also result in severe dislocation of the
+supply chains of manufacturers around the world
+
+Global Risks 2006
+
+whose plants depend on the raw materials and
+semi-finished goods transiting the Straits every day.
+The primary challenge arising from this insight is risk
+conflation: ripple effects and the possibility of
+contemporaneous risk events interacting with one
+another to amplify their individual effects, thereby
+generating dangerous unforeseen consequences,
+exposing pre-existent weaknesses in systems and
+degrading our ability to respond effectively. The less
+resilient a system, the more likely it is that an
+inadequate response to a risk event will amplify the
+initial impacts.
+Taken together, these factors make possible socalled “perfect storms”, causing damage far
+exceeding that which would have been caused by
+the sum of each individual event.
+Meanwhile, a lack of information or misinformation
+leading to a breakdown in public trust in the ability of
+governments, international institutions or business to
+manage risk can lead to the spread of fear in ways
+that greatly amplify the consequences of a particular
+threat. Fear is a potent risk amplifier. So-called
+“infodemics” may have impacts as grave as risk
+events themselves.
+
+Hurricane Katrina
+Hurricane Katrina provides an excellent example of
+the way in which conflation of multiple risk factors
+can produce varied and sometimes unanticipated
+outcomes. The damage that might be wrought on
+the Gulf Coast by a category 5 hurricane had been
+identified a decade earlier as the most severe
+potential risk faced by the US. Taking the tropical
+storm as the core risk in this series of events, we
+can see how it conflated with longer-term
+environmental risks to produce damage unseen in
+the United States since the Great Depression.
+Tropical cyclones are influenced by natural climate
+variability such as hurricane cycles. High sea surface
+temperatures in the Gulf of Mexico may have further
+intensified Katrina (and a number of other tropical
+storms) to category 4-5 levels. In the future, humaninduced climate change may intensify tropical
+cyclones. Degradation of marshlands and silt
+deposits along the coast worsened the flooding.
+Meanwhile, tight markets for oil and gas, driven by
+
+Victims of Hurricane Katrina given shelter in the Houston Astrodome,
+9th September 2005
+
+Asian demand, boosted by US indebtedness and a
+low-valued dollar, as well as instability in other oilproducing countries, caused price spikes
+disproportionate to the supply constraints actually
+inflicted when Katrina slammed into the oil and gas
+terminals and refineries on the Gulf Coast.
+
+Impact of Katrina
+The effects of Hurricane Katrina have been
+economic, societal and (potentially) geopolitical
+as well as environmental. These impacts have
+been concentrated in the US, but are also borne
+by other parts of the world.
+Impacts beyond the environmental system
+• Economic: US$ 200 billion in local economic
+damage, and increased short-term
+vulnerability to other risk events.
+• Societal: Loss of faith in crisis management
+ability of government.
+• Geopolitical: Potential increase of US
+dependence on non-US refining capacity,
+decline in positive US image, and loss of faith
+in federal government in other policy areas.
+Example of impacts beyond the US
+• Higher global oil price.
+• Re-focusing of US expenditures on domestic
+reconstruction projects.
+• The portion of insurance costs borne by nonUS insurers.
+
+7
+
+Global Risks 2006
+
+The socio-political outcomes were even less well
+anticipated. To that point, US fiscal imbalances and
+the diversion of resources to address the war on
+terrorism both domestically and in Iraq had not been
+identified as short-term risks that had degraded
+Federal, state and local disaster response capability;
+it took Katrina to expose this. The response
+infrastructure was further weakened by the impact of
+the storm, in turn opening up the frightening
+possibility that another risk event (e.g. an outbreak of
+avian flu or a major terrorist incident) could deliver a
+devastating blow. Finally, the image of the US was
+harmed around the world by the apparent ineptness
+of the government response, with implications not
+yet fully understood.
+For further discussion of the impacts of Hurricane
+Katrina on the oil and gas industry, please see
+the Mercer Oliver Wyman report, which can be found
+at www.mow.com
+
+Researcher displays avian flu vaccine, 14 November 2005
+
+8
+
+Pandemics
+Over the past year, the risk of an H5N1 or other
+avian flu pandemic has generated increasing
+anxiety in much of the world. If the avian flu H5N1
+virus mutates to enable human-to-human
+transmission, it may disrupt our global society and
+economy in an unprecedented way and claim
+human life at levels close to the 1918-1919
+Spanish Flu pandemic. The 1918 flu infected half
+the world and between 40 and 50 million people
+died. The other two flu pandemics of the last
+century – in 1957 and 1968 – were less severe.
+The World Health Organization has disclosed
+estimates of potential deaths in a full-fledged avian
+flu pandemic of between 2 and 7.4 million, up to
+a worst-case of between 20 and 40 million deaths.
+But this is dependent on the mutation of the
+virus allowing it to be spread rapidly from human
+to human.
+
+Global Risks 2006
+
+A conflation scenario for H5N1
+New pandemics such as SARS (before its emergence) and human variants of avian flu lie on the
+continuum between unknown (u) and unknowable (U) risks. Unlike human flu or animal foot and mouth
+disease – where it is known that outbreaks will reoccur and past experience provides a reasonably
+accurate guide as to their impact – new viral diseases evolve and cause death and secondary economic
+damage in unpredictable ways. Global interconnectivity has vastly increased the opportunities for the
+emergence and rapid transmission of disease and the myriad linkages in the global economy enable
+systemic economic, social and political contagion as well.
+The following is a brief sketch of the possible conflationary impacts of a major human outbreak.
+Several cities in East Asia suffer major outbreaks of human-to-human transmission. International travel
+is severely affected, pandemic-specific vaccine supplies are secured and security authorities prepare for
+external contingencies and domestic insurgency. Emergency supply chain management is instituted,
+based on the possibility that 50% of those infected die. Commodities and services needed to survive
+for one to three years are identified. Non-critical industries reduce output or close. Even with full-scale
+vaccine production in nine countries with 12% of the global population, fewer than 500 million people
+(14% of the world’s population) can be vaccinated in a year.
+An outbreak of H5N1 human-to-human transmission could have devastating impacts globally across all
+social and economic sectors, disrupting efficient processes, severely degrading response capabilities
+and exacerbating the effects of known weaknesses in different systems. These impacts might include:
+the disruption of supply chains and trade flows; an exacerbation of financial imbalances and the
+transformation of intellectual property regimes for pharmaceutical products; rioting to gain access to
+scarce supplies of antivirals and vaccines; a collapse of public order; partial de-urbanization as people
+flee population centres; the extinction of trust in governments; decimation of specific human skill sets;
+and forced, large-scale migration, associated with the further collapse of already weak states.
+In such a scenario, the impact on society might be as profound as that which followed the Black Death
+in Europe in 1348. That plague caused a fundamental transformation of socio-economic relations in
+Europe. The deaths of an estimated one third of the European population of the time created a
+shortage of labour, undermining an economy based on serfdom, and effecting a shift in the relative
+values of capital and labour. Scarcity of labour resources brought about a wage-based economy in
+which the value of skills was efficiently priced.
+
+4. Global responses to global risks
+Different risk events can have radically different
+impacts on industries and on geographical areas. At
+the time of writing (January 2006) the US stockmarket average had recovered fully from Hurricane
+Katrina, though this hid a wide disparity in outcomes
+in different industries.
+
+However, the mitigation of global risks is inherently a
+collective endeavour, in which different parts of the
+private sector, governments, intergovernmental
+organizations and parts of civil society have different
+and complementary roles to play.
+Mitigation covers a range of actions, from prevention
+– where possible – and preparation for risk events,
+
+9
+
+Global Risks 2006
+
+to response and recovery from them if they occur.
+The current international architecture of global risk
+mitigation is built around insurance, financial
+instruments, business continuity planning, private
+sector enterprise risk management and government
+action. All are necessary; none is sufficient.
+• The financial services industry provides a wide
+range of instruments to mitigate the economic
+consequences of global risks. Insurance and
+financial instruments can put a price on risk,
+providing information, stimulating incentives for
+action and enabling decisions on prevention
+measures, the development of new technologies
+or on business location.
+Recent events have demonstrated the critical role
+of the financial industry in mitigating the economic
+consequences of risk events, from the collapse of
+LTCM to the fallout from the 11 September
+terrorist attacks. Insurance capacities have been
+expanded recently by securitizing peak insurance
+risks, such as tropical storms and earthquakes.
+Government actions, however, may reduce
+insurance capacity when, for example, premium
+rates are capped artificially low, or when juries
+hand out unpredictable compensatory and
+punitive awards. In some countries, the protection
+of national financial institutions, or the lack of
+internal financial systems, presents further barriers
+to the extension of the insurance role.
+• Enterprise Risk Management (ERM) – the ongoing
+attempts by individual businesses to identify,
+research and manage their risks – is about
+moving risks down the “knowability” scale, from
+unknowable risks to unknown risks, which require
+strategic decision-making, and finally to known
+risks which can be managed through insurance,
+financial derivatives, diversification and internal
+controls.
+• Governments are often the insurers of last resort,
+as we saw in the Terrorism Risk Insurance Act of
+2002 (TRIA) passed by the US Congress after the
+September 11 attacks, to protect consumers by
+maintaining the “availability and affordability of
+insurance for terrorism risk” and to allow private
+markets time to adjust to the new risk
+environment. Deeper discussion between public
+
+10
+
+and private sectors of the sort now underway will
+enhance the effectiveness of their cooperation.
+Local governments, while often in the front-line of
+risk mitigation and risk response and recovery, are
+often too frail to cope alone.
+• International organizations, while vital for proper
+public coordination of some risk mitigation
+strategies, are often constrained by political
+disputes, as well as inadequate resources.
+Global risks require all the potential risk mitigating
+groups – individuals, companies, the financial
+services industry (notably the insurers), governments
+and international organizations – to act
+collaboratively. A long-standing problem in dealing
+with risk has been matching up those who bear the
+costs of mitigation with the potential beneficiaries.
+With global risks, the number of those ultimately
+affected is much greater than commonly perceived.
+Divergent perceptions and different political agendas
+have to be overcome in the interests of more
+effective mitigation.
+On a practical level, the private sector, with its
+experience of risk identification, assessment and
+Enterprise Risk Management, has much to offer to
+governments in helping to integrate risk
+management into government procedures and to
+advance collaborative mitigation. Governments have
+much to contribute as well, principally by providing
+the framework and conditions to increase the
+marketization of risk and extend the limits of
+insurability.
+
+5. Looking to a better future
+The World Economic Forum and its partners in the
+Global Risk Programme have identified three core
+areas where risk mitigation may be improved through
+collaboration between the private and public sectors.
+As the Global Risk Programme unfolds in 2006 and
+beyond, exploring the characteristics of current and
+emerging risks to build common understanding,
+improving the allocation of resources and incentives
+to address them and building institutional and
+societal capacity and resilience, offer a challenging
+programme of work and a promising agenda of
+action.
+
+Global Risks 2006
+
+1/ Information: deepening insight and building the risk community
+The role of information in mitigating risk and in prompting swift recovery is crucial. There are essentially two
+elements: deepening insight into the characteristics of the risks and improving the flow of information
+between the different stakeholders. The first may deepen understanding, the second is crucial to improving
+responsiveness.
+Companies, individuals and governments often perceive risk events – and their interconnectedness – as
+creating negative externalities. Improving insight should allow for greater internalization of risks and help to
+improve the risk communities on which risk mitigation depends for its legitimacy and support. In particular,
+companies and governments need to invest in deepening insight into “unknown” and “unknowable” risks –
+to help shift them to the “known” and “unknown” categories respectively.
+Better understanding of the vulnerable interconnections in the global system which can act as amplifiers of
+risk events is critically important in addressing the problem of conflation. Companies, governments and
+academic institutions need to improve identification of the points in complex causal chains where
+intervention can either reduce the probability of a risk materializing or reduce its impact severity if it does.
+Enhancing the flow of information between stakeholders is a key. There are several elements to this:
+• Top-down surveillance of threats at the global level (such as satellite monitoring of the environment);
+• Effective dissemination of information from the bottom-up (such that transparency allows for the quick
+responses needed to contain, for example, SARS or avian flu);
+• Early-warning mechanisms (for example, to provide early warning of future earthquake-induced tsunamis
+in the Indian Ocean);
+• Appropriate mechanisms to inform the public about risk (such as the Centers for Disease Control and
+Prevention – http://www.cdc.gov – of the US Department of Health and Human Services) to prevent
+“infodemics” and create appropriate expectations of risk;
+• Exchanges on global best practice (including through trade associations), and advice that can be shared
+between governments and businesses on their risk assessments and mitigation strategies.
+In general, innovative and flexible organizations are better able to manage the flow of knowledge effectively
+in their environments and to produce better and simpler metrics for cost-benefit analyses. In some cases,
+the private sector is ahead of the public sector in its mitigation of risks; harnessing private sector expertise
+in risk mitigation is a key to improving the discussion on mitigating global risk.
+
+Example: As an example of potential private sector input into improving insight into the global risk
+landscape, in 2005 Swiss Re collaborated with the UN Development Program and the Harvard Medical
+School to produce Climate Change Futures: Health, Ecological and Economic Dimensions, a report,
+available at: www.swissre.com. The World Economic Forum, as the prime international multistakeholder
+platform, was closely involved in preparing a briefing for the Gleneagles G-8 Summit’s on climate change
+issues, providing a number of opportunities for the interaction of governments and business leaders.
+
+11
+
+Global Risks 2006
+
+2/ Resources: reordering priorities, improving allocation and providing private sector incentives
+Resources are scarce – in business as in government. Insight into global risks can help reallocate
+resources to those areas where risk mitigation is likely to be most effective. But managing resources,
+providing economic incentives and releasing resources for risk management will often depend upon
+cooperation between the private and public sectors.
+The private sector can play a much stronger role in risk mitigation if the framework is set correctly. Where
+governments offer to cap insurance losses (as with the US Terrorism Risk Insurance Act), the ability of
+insurers to take on a part of global risk is increased. Where certain types of insurance are made
+compulsory, risk costs can be spread effectively throughout society and free-riding can be prevented.
+Where elements of risk can be marketized – such as carbon trading in conjunction with government limits
+on carbon emissions – the private sector can offer flexible responses to risk issues. In many developing
+countries, financial services companies and the private sector are relatively weak – improving their ability to
+take on risk will broaden risk mitigation capacity. The development of microfinance solutions may offer
+another promising way to mitigate the financial consequences of major risk events more efficiently.
+Many businesses are already taking a lead in providing the resources for risk mitigation to reduce future
+risk. These range from Google’s commitment to developing a duplicate internet backbone and Toyota’s
+investment in the Prius, to responses by a number of pharmaceutical companies to HIV/AIDS, and joint
+governmental, business, NGO and community efforts to offer disaster relief and recovery aid, following the
+December 2004 tsunami and the 2005 Pakistan earthquake.
+New financial instruments such as the securitization of insurance risks or extreme weather derivatives for
+extreme events (such as unusually cold winters or hot summers) may point to another expanding class of
+risk mitigation measures where the private sector can take on a considerably stronger role.
+Governments may seek to avoid the “moral hazard” associated with the impression that they will always
+provide a back-stop in disaster situations, thereby discouraging sensible risk mitigation strategies through
+a combination of regulatory and insurance-based measures.
+
+Example: The World Economic Forum’s private-public partnership and associated Initiatives – including
+the Global Risk Network, the Global Health Initiative and the Disaster Response Network – see Forum
+members and partners investing time and resources into developing improved understanding and
+delivering tangible mitigation measures.
+
+12
+
+Global Risks 2006
+
+3/ Institutions: building business and societal resilience
+Key public elements of the international governmental architecture of risk mitigation already exist (the UN
+institutions, the World Bank, international financial services corporations and others). These elements need
+to be reinforced and built on, with a greater involvement of the international business community in helping
+to understand and mitigate global risk.
+At the national and local level, governments may be able to learn from business ERM models in improving
+the management of risk portfolios and integrating private sector risk management techniques into national
+administration. In many emerging markets, the key requirement is to build good governance structures
+which will reduce financial volatility, improve the consistency of risk expectations and build confidence in
+the ability of the state to respond to risk events – and also help economic development. In many
+developed countries, the interplay between building business resilience and state resilience may require a
+more permanent dialogue between business and governments in order to understand perceptions of risk
+and to help build best practice from both sectors.
+
+Improving information flows and understanding
+about global risks and increasing the global capacity
+for pre-emption, management and mitigation depend
+upon an effective multistakeholder approach, which
+the World Economic Forum is uniquely placed to
+facilitate and will pursue in 2006 through the Global
+Risk Programme.
+
+A Global Risk Network will be established to take
+this forward. The collaborative recasting of the
+institutional global risk mitigation landscape will only
+take place within an approach that recognizes the
+systemic nature of many global risks and the need
+for a holistic response to the challenge of mitigation.
+
+13
+
+Appendix
+
+1. Global Risks
+The issues of global concern have been grouped
+in five classes – economic, geopolitical,
+environmental, societal and technological. The
+criteria used to determine what constitutes a global
+risk can be found on-line at www.weforum.org.
+Economic
+•
+•
+•
+•
+•
+•
+
+Oil prices/energy supply
+Asset prices/Indebtedness
+US Current Account deficit and US dollar
+Coming fiscal crises
+China
+Critical infrastructures
+
+Environmental
+•
+•
+•
+•
+
+Tropical cyclones
+Earthquakes
+Climate change
+Loss of ecosystem services
+
+Technological
+•
+•
+•
+•
+
+Convergence of technologies
+Nanotechnology
+Electromagnetic fields
+Pervasive computing
+
+Societal
+
+Geopolitical
+
+•
+•
+•
+•
+•
+
+• Terrorism
+• European dislocation
+• Current and future hotspots
+
+Regulation
+Corporate governance
+Intellectual Property rights
+Organized crime
+Global pandemics
+
+2. Assessment
+
+Likelihood Key
+
+The Global Risk Programme adopted a futureoriented, scenario-based approach in two time
+horizons: the short-term to the end of 2006, and
+the long-term to 2015. Two brief scenarios were
+developed for each risk in each horizon. The basecase describes the likely evolution of the risk along
+its current trend lines, while the worst-case
+represents the most pernicious plausible outcome.
+
+Score
+
+Numerical
+Probability
+
+Qualitative
+Assessment
+
+1
+2
+3
+4
+
+Below 1%
+1-10%
+10-20%
+Above 20%
+
+Low
+Moderate
+High
+Very High
+
+The risk defined by each scenario was assessed in
+terms of the likelihood of the scenario occurring
+and the severity of the impact if it does. In
+addressing likelihood, actuarial principles were
+applied where sufficient data existed, though in
+many cases only qualitative assessments based on
+expert opinion were possible.
+In assessing severity, three indices were considered:
+asset damage, human impact and impact on
+aggregate global GDP growth. The highest of the
+potential impacts was used in each case.
+
+14
+
+• Slow and chronic diseases (industrialized world)
+• Epidemic disease (developing world)
+• Liability regimes
+
+Severity Key
+Score
+
+Value
+
+Destruction of assets/economic damage
+1
+US$ 10-50 billion
+2
+US$ 50-250 billion
+3
+US$ 250 billion - 1 trillion
+4
+over US$ 1 trillion
+Lost human lives
+1
+2
+3
+4
+
+under 100
+100–10.000
+10.000-1 million
+over 1 million
+
+Growth impact (% of global GDP)
+1
+less than 0.2
+2
+0.2-0.7
+3
+0.7-1.5
+4
+over 1.5
+
+Summary descriptors
+A more extensive description of the scenarios for each risk can be found at www.weforum.org
+
+Economic Risks
+
+Likelihood
+
+Severity
+
+3
+1
+
+1
+1
+
+2
+
+2
+
+3
+
+3
+
+Coming Fiscal Crises
+Short-term Base
+Short-term Worst
+Long-term Base
+Long-term Worst
+
+Fiscal deficits decline modestly
+Fiscal positions become
+unsustainable, risks of default
+Fiscal positions under pressure
+due to demographic
+g
+pressure
+Fiscal deficits seriously challenged
+by demographic
+g
+pressure
+
+Short-term Worst
+Long-term Base
+Long-term Worst
+
+Careful management of integration
+into gglobal economy
+Re-emergent protectionism in the rest
+of the world, hittingg China's exports
+Successful modernization and
+integration
+g
+Social and economic dislocation
+
+Short-term Worst
+Long-term Base
+Long-term Worst
+
+Current account deficit causes 20%
+depreciation of US$
+Current account deficit causes 40%
+depreciation of US$
+Gradual balancingg of accounts
+Unsustainable deficits impact ggrowth
+
+Short-term Base
+Short-term Worst
+Long-term Base
+Long-term Worst
+
+3
+
+1
+
+2
+
+2
+
+2
+
+2
+
+2
+
+3
+
+US Current Account Deficit
+Short-term Base
+
+2
+
+3
+
+1
+
+4
+
+3
+2
+
+3
+4
+
+Short-term Base
+
+Fraction of start-up hedge funds fail
+
+4
+
+Falls
+below
+threshold
+
+Short-term Worst
+Long-term Base
+Long-term Worst
+
+Individual large
+g hedge
+g funds fail
+Fraction of start-up hedge
+g funds fail
+Market crash hits several funds
+
+2
+3
+1
+
+1
+1
+2
+
+Earthquake: Japan
+Short-term Base
+Earthquake in densely populated
+area causes hundreds or thousands
+of deaths
+Short-term Worst
+Major
+j earthquake hits Tokyo
+Long-term Base
+Earthquake in densely populated
+area causes hundreds or thousands
+of deaths
+Long-term Worst
+Major
+j earthquake hits Tokyo
+
+Short-term Base
+Short-term Worst
+Long-term Base
+Long-term Worst
+
+12-month spike to US$ 80/bl
+12-month spike to US$ 100/bl
+Supply constraint leads to gradual
+price increase
+Steeper sustained price increases
+
+4
+1
+1
+
+3
+4
+2
+
+2
+1
+2
+
+1
+2
+1
+
+2
+
+2
+
+3
+
+1
+
+1
+3
+
+3
+1
+
+2
+
+3
+
+2
+
+3
+
+1
+2
+
+4
+3
+
+1
+
+4
+
+2
+
+3
+
+Short-term Base
+Short-term Worst
+Long-term Base
+
+European power outage
+g
+Transatlantic data blackout
+Attack on IT infrastructure
+Coordinated extensive attacks
+on wireless infrastructure using
+electromagnetic
+g
+pulses
+
+3
+1
+3
+1
+
+2
+3
+1
+3
+
+Earthquake in densely populated
+area causes hundreds of deaths
+Major earthquake hits San Francisco
+or Los Angeles
+g
+Earthquake in densely populated
+area causes hundreds of deaths
+Major earthquake hits San Francisco
+or Los Angeles
+g
+
+2
+
+2
+
+1
+
+2
+
+2
+
+2
+
+1
+
+2
+
+4
+3
+
+2
+3
+
+4
+
+2
+
+3
+
+3
+
+N/A
+
+N/A
+
+1
+2
+
+2
+2
+
+2
+
+3
+
+Environmental Degradation
+
+Critical Information Infrastructure (CII)
+Short-term Base
+Short-term Worst
+Long-term Base
+Long-term Worst
+
+Category
+g 3 typhoon
+Category
+g 5 typhoon hits major
+j city
+Severity and frequency of storms
+stays at 2005 level
+Category
+g 5 typhoon hits major
+j city
+
+Tropical Cyclones: North Atlantic Hurricane
+Short-term Base
+Category 3 hurricane hits modestly
+populated area
+Short-term Worst
+Category
+g 5 hurricane hits Miami
+Long-term Base
+Severity and frequency of storms
+stays at 2005 level
+Long-term Worst
+Severity and frequency of storms
+increases
+
+Oil Price Shock
+
+Long-term Worst
+
+Severity
+
+Earthquake: California
+
+Hedge Funds
+
+Short-term Base
+Short-term Worst
+Long-term Base
+
+Likelihood
+
+Tropical Cyclones: Typhoon East Asia
+
+China
+Short-term Base
+
+Environmental Risks
+
+Long-term Worst
+
+Continued loss of watershed areas
+Loss of watershed areas and
+severe weather events
+Limited mitigation of loss of
+watershed areas
+Extensive coastal degradation due to
+loss of ecosystem regulating
+g
+g services
+
+Climate Change: Severe Economic Damage
+Short-term Base
+Short-term Worst
+Long-term Base
+Long-term Worst
+
+No assets damaged in 12-month
+period
+Increased severe weather events
+Climate change causes irregular
+weather events
+Climate change causes extreme
+weather events
+
+15
+
+Summary descriptors
+
+Societal Risks
+
+Likelihood
+
+Severity
+
+Pandemics
+Short-term Base
+Short-term Worst
+Long-term Base
+Long-term Worst
+
+Long-term Base
+Long-term Worst
+
+Pathogenic avian virus H5N1 spreads,
+low human mortality
+Pathogenic avian virus H5N1 spreads,
+high
+g human mortality
+Pathogenic avian virus H5N1 spreads,
+radical advances in vaccine development
+Pathogenic avian virus H5N1 spreads,
+several recombinations appear
+
+2
+
+4
+
+Short-term Base
+
+2
+
+4
+
+Short-term Worst
+
+2
+
+2
+
+Long-term Base
+
+1
+
+4
+
+Long-term Worst
+
+Short-term Worst
+
+Long-term Base
+
+Long-term Worst
+
+New infections of 5m in 2006
+Rapid growth in incidence outside
+sub-Saharan Africa
+Incidence flattens, deaths remain high
+g
+Incidence flattens in sub-Saharan
+Africa but expands rapidly elsewhere
+
+4
+2
+
+4
+4
+
+3
+3
+
+4
+4
+
+Lifestyles and diet increase risk of
+obesity, cardiovascular disease,
+diabetes and cancers; antibiotic
+resistant bacteria cause new fatalities
+Antibiotic-resistant bacterial infections
+increase and lead to hospital avoidance
+and class actions
+Lifestyle changes reduce fatalities
+from obesity; pharmaceutical
+R&D produces new effective antibiotic
+Obesity becomes widespread; healthcare costs rise sharply; new multiresultant bacterial strain emerges
+with 30% lethality
+
+Long-term Base
+Long-term Worst
+
+16
+
+Gradual rise in piracy
+Legal enforcement of rights fails,
+public support for corporate IP rights
+weakens
+Gradual decline of IP
+Steep decline of IP
+
+10% capacity loss for insurers;
+US insurance costs triple
+25% capacity loss; suspension of
+US high-risk
+g
+insurance
+Decline of insurance; rise of
+deep-pocket liability in Europe and US
+Collapse of property and casualty
+insurance industry
+
+3
+
+1
+
+2
+
+2
+
+2
+
+2
+
+1
+
+3
+
+Short-term Base
+
+Little change in regulation,
+expectations, or economic activity
+
+4
+
+Falls
+below
+threshold
+
+Short-term Worst
+
+Regulatory pressures; rapid decrease
+in corporate activity
+Centrist future supports commercial
+freedom
+
+3
+
+2
+
+4
+
+Falls
+below
+threshold
+
+2
+
+2
+
+Long-term Base
+
+Long-term Worst
+4
+
+1
+
+Populist realignment undermines
+corporate activity
+
+Corporate Governance
+
+2
+
+Short-term Base
+
+Only small-scale governance failures
+
+4
+
+Falls
+below
+threshold
+
+Short-term Worst
+
+Major governance failure undermines
+confidence
+Only small-scale governance failures
+
+2
+
+2
+
+3
+
+Falls
+below
+threshold
+
+Major corporate governance
+failures
+
+3
+
+2
+
+4
+2
+
+1
+2
+
+3
+
+3
+
+1
+
+4
+
+2
+
+1
+
+2
+
+Long-term Base
+
+1
+
+3
+
+Long-term Worst
+
+Organized Crime: Counterfeiting
+Short-term Base
+Short-term Worst
+
+Intellectual Property Rights
+Short-term Base
+Short-term Worst
+
+Severity
+
+Regulation
+
+Chronic Diseases in Industrialized Countries
+Short-term Base
+
+Likelihood
+
+Liability Regimes
+
+Developing World Disease: Spread of HIV/AIDS
+and TB Epidemics
+Short-term Base
+Short-term Worst
+
+Societal Risks
+
+4
+2
+
+1
+1
+
+4
+2
+
+1
+2
+
+Long-term Base
+
+Long-term Worst
+
+Costs and benefits largely
+g matched
+Sharpening US/China dispute
+on rules of trade
+Rising deaths from counterfeit
+medicines and undermining
+of public trust
+Increased vulnerability of IT networks
+and aggregate
+gg g GWP reduction
+
+Summary descriptors
+
+Technological Risks
+
+Likelihood
+
+Severity
+
+Electromagnetic Fields (EMF)
+No new evidence of adverse health
+effects caused by EMF
+
+3
+
+Falls
+below
+threshold
+
+Short-term Worst
+
+Causal relationship between EMF
+and human health revealed
+Conflicting viewpoints about impact
+of EMF on human health
+
+1
+
+1
+
+2
+
+Falls
+below
+threshold
+
+Causal relationship between EMF
+and human health revealed
+
+1
+
+Long-term Worst
+
+3
+
+Nanotechnology
+Short-term Base
+
+No new evidence of adverse health
+effects caused by nanoparticles
+
+Short-term Worst
+
+Causal relationship between nano1
+particles and human health revealed
+Risks managed, widespread consumer 2
+acceptance
+
+Long-term Base
+
+Long-term Worst
+
+Widespread adoption followed
+by proven health impacts
+
+3
+
+1
+
+Falls
+below
+threshold
+
+No adverse public reactions to radio
+frequency identification device (RFID)
+tagged
+gg items
+
+Short-term Worst
+
+RFID-tagged products trigger
+1
+massive public protests
+Risks managed, widespread consumer 2
+acceptance
+Pervasive computing applications
+promote perceived "Big Brother"
+environment
+
+Long-term Worst
+
+No emergent effects 1
+No emergent effects
+Managed implementation of
+converging technologies
+Elimination of privacy reduces
+social cohesion and weakens
+ability to share risks
+
+Long-term Worst
+
+3
+2
+3
+
+1
+3
+1
+
+2
+
+3
+
+Continuation of conflict over
+nuclear programme
+g
+Open nuclear defiance
+Nuclear compromise
+Aggressive
+gg
+nuclear posture
+
+3
+
+1
+
+1
+3
+2
+
+3
+1
+3
+
+Tenuous stability and partial
+economic recovery
+Civil war
+Tenuous stability and partial
+reconstruction of infrastructure
+Disintegration
+g
+
+3
+
+2
+
+1
+2
+
+3
+2
+
+Short-term Base
+Short-term Worst
+Long-term Base
+Long-term Worst
+
+2
+
+3
+
+3
+1
+
+1
+2
+
+2
+
+1
+
+1
+
+3
+
+Stagnation
+g
+and reform resistance
+Economic crisis in large
+g member state
+Gradual decline of economic
+competitiveness
+Radical economic and political
+upheaval in Europe
+
+3
+2
+2
+
+2
+2
+2
+
+3
+
+2
+
+Fragile
+g status quo preserved
+North Korea tests nuclear weapon
+North Korea’s nuclear programme
+contained
+North Korea's nuclear test triggers
+arms race, internal disintegration
+g
+
+2
+1
+2
+
+1
+3
+1
+
+2
+
+3
+
+4
+
+1
+
+1
+
+4
+
+3
+
+1
+
+2
+
+4
+
+Hotspot: Iraq
+
+Falls
+below
+threshold
+
+Short-term Worst
+Long-term Base
+
+3
+
+Precarious stability
+Escalatingg violence
+Precarious stability, structural
+weakness remains
+Widespread violent conflict
+
+Hotspot: Iran
+
+Short-term Base
+
+2
+
+Falls
+below
+
+Long-term Worst
+
+Short-term Base
+Short-term Worst
+
+threshold
+
+1
+
+1
+Falls
+below
+threshold
+
+3
+
+Long-term Base
+Long-term Worst
+
+Long-term Worst
+3
+1
+
+Falls
+below
+threshold
+
+3
+
+Oil revenues preserve status quo
+Increased pressure on the
+Kingdom's
+g
+ggovernance structure
+Successful balancing of external
+and domestic challenges
+g
+Stability of the Kingdom severely
+undermined
+
+European Dislocation
+Short-term Base
+Short-term Worst
+Long-term Base
+
+Converging Technologies
+Short-term Base
+Short-term Worst
+Long-term Base
+
+Severity
+
+Hotspot: Saudi Arabia
+
+Short-term Base
+
+Long-term Worst
+
+Short-term Base
+Short-term Worst
+Long-term Base
+
+1
+
+Pervasive Computing
+
+Long-term Base
+
+Likelihood
+
+Middle East Stability
+
+Short-term Base
+
+Long-term Base
+
+Geopolitical Risks
+
+Hotspot: Korea
+Short-term Base
+Short-term Worst
+Long-term Base
+Long-term Worst
+
+International Terrorism
+Short-term Base
+Short-term Worst
+Long-term Base
+1
+
+Converging technologies is, for the moment, an “over the horizon” issue, not
+suited to the one-year short-term time frame used in this paper.
+
+Long-term Worst
+
+Attacks continue at 2004-5 frequency
+and intensity
+Simultaneous conventional attacks
+worldwide
+Terrorism continues to be a threat,
+yet is largely
+g contained
+Non-conventional attack in major
+j city
+
+17
+
+Contributors
+
+This report was prepared by the Global Risk Team at the World Economic Forum, in partnership with
+MMC (Marsh & McLennan Companies, Inc.), Merrill Lynch and Swiss Re and in association with the Risk
+Management and Decision Processes Center at the Wharton School of the University of Pennsylvania
+World Economic Forum, Global Risk Team
+Thierry Malleret, Senior Director
+Sven Behrendt, Senior Project Manager
+Charles Emmerson, Global Leadership Fellow
+Jesse Fahnestock, Global Leadership Fellow
+Sandrine Perrolaz, Team Coordinator
+Ilaria Frau, Senior Programme Manager
+supported by Sean Cleary, Strategic Adviser to
+the Executive Chairman
+Mercer Oliver Wyman,
+a Marsh & McLennan Company
+John Drzik, President, Mercer Oliver Wyman
+Christian Pedersen, Director, Mercer Oliver Wyman
+Roland Rechtsteiner, Director, Mercer Oliver Wyman
+Amy Richards, Consultant, Mercer Oliver Wyman
+Merrill Lynch
+Kevan Watts, Chairman, Merrill Lynch International
+David Bowers, Chief Global Investment Strategist
+Katherine Walker, Director, Global Markets and
+Investment Banking
+Andrew Todd, Vice-President, Marketing and
+Communications
+
+18
+
+SwissRe
+Christian Mumenthaler, Chief Risk Officer and
+Member of Executive Board, Swiss Re,
+Switzerland
+Rick Murray, Chief Claims Strategist, Swiss Re, USA
+Thomas Hess, Head, Economic Research
+& Consulting, Swiss Re, Switzerland
+Esther Baur, Head, Issue Management, Swiss Re
+Centre for Global Dialogue, Switzerland
+Catherine Burger, Head, Networks and Research,
+Swiss Re Centre for Global Dialogue, Switzerland
+Annabelle Hett, Head, Emerging Risk Management,
+Swiss Re, Switzerland
+The Wharton School
+Howard Kunreuther, Cecilia Yen Koo Professor of
+Decision Sciences and Public Policy
+Stephen J. Kobrin, Professor of Multinational
+Management
+Witold Henisz, Associate Professor of Management
+Erwann Michel-Kerjan, Senior Research Fellow
+
+Contributors
+
+The report has also benefited from the contributions of the following experts who participated
+in a series of workshops in Geneva, Switzerland; London, United Kingdom; New York, USA; Philadelphia, USA;
+and Rueschlikon, Switzerland:
+Steve Barnett, Senior Fellow, Jones Center, The Wharton School, University of Pennsylvania
+Mario Blejer, Director, Centre for Central Banking Studies and Advisor to the Governor, Bank of England
+Christopher Bunting, General Secretary, International Risk Governance Council
+John Colas, Managing Director, Mercer Oliver Wyman
+Simon Commander, Director, Centre for New and Emerging Markets, London Business School
+Patrick M. Cronin, Director of Studies, International Institute for Strategic Studies (IISS)
+Julian Dale, Consultant, Mercer Oliver Wyman
+Anoush Ehteshami, Head, School of Government and International Affairs, University of Durham
+Shirin Elahi, Project Leader, EPO Scenarios, European Patent Office (EPO)
+Paul R. Epstein, Associate Director, Center for Health and the Global Environment, Harvard Medical Center
+David Frediani, Executive Director, MMC International Marsh & McLennan Companies, Inc.
+Alexander Grawert, Director, Mercer Oliver Wyman
+Victor Halberstadt, Professor of Public Economics, Leiden University
+Scott Harington, Alan B. Miller Professor, Professor of Health Care Systems, The Wharton School, University of Pennsylvania
+Gabriela Holst, Senior Claims Officer, Swiss Re
+Bob Howe, Chief Risk Officer, Life and Health, Swiss Re
+Bridget M. Hutter, Director, Centre for Analysis of Risk and Regulation, London School of Economics and Political Science
+Kurt Karl, Head, Economic Research & Consulting New York, Swiss Re
+Andy Kuritzkes, Managing Director, Mercer Oliver Wyman
+Julianne Lee, Director, Special Projects and Associate Director, Corporate Affairs, London Business School
+Carol Leisenring, Co-Director, Wharton Financial Institutions Center, The Wharton School, University of Pennsylvania
+Robin Liebowitz, Global Head of Marketing, Mercer Oliver Wyman
+Simon Maxwell, Director, Overseas Development Institute
+Ivo Menzinger, Head, Sustainability & Emerging Risk Management, Swiss Re
+Robert Meyer, Professor of Marketing, The Wharton School, University of Pennsylvania
+Kunio Mikuriya, Deputy Secretary-General, World Customs Organization
+John Mutter, Deputy Director, The Earth Institute at Columbia University
+Neil Doherty, Frederick H. Ecker Professor of Insurance and Risk Management, Chairperson, Insurance and Risk Management, The
+Wharton School, University of Pennsylvania
+Martin Parry, Co-Chair, Working Group II (Impacts and Adaptation), Intergovernmental Panel on Climate Change, Hadley Centre, Met Office
+Danny Quah, Professor of Economics, London School of Economics and Political Science
+Walter V. Reid, Consulting Professor, Environment & Millennium Ecosystem Assessment, Stanford University
+Bud Ris, Chief Executive Officer and President, New England Aquarium
+Allan Rosenfield, Dean, Mailman School of Public Health, Columbia University
+Uriel Rosenthal, Professor of Government and Public Administration, Faculty of Social Sciences and Faculty of Law, Leiden University
+David Rothkopf, Chief Executive Officer, Garten Rothkopf
+Joanna Rubinstein, Dean, Health and Science Initiative, Columbia University
+Xavier Sala-i-Martin, Professor, Economics Department, Columbia University
+Reto Schneider, Team Leader, Risk Engineering Casualty Services, Swiss Re
+Ulrich Schweizer, Head, Group Cat Steering, Swiss Re
+Anthony Stevens, Director, Mercer Oliver Wyman
+John Stroughair, Director, Corporate Risk Consulting, Mercer Oliver Wyman
+Vaclav Smil, Professor of Geography, University of Manitoba
+Rolf Tanner, Head, Socio-Political Risk Management, Swiss Re
+Adair Turner, Senior Adviser and Vice-Chairman, Europe, Middle East and Africa, Merrill Lynch
+Jane Toothill, Vice President, Guy Carpenter Instrat
+Laura D. Tyson, Dean, London Business School
+Gary G. Venter, Managing Director, Guy Carpenter Inc
+Charles Vorosmarty, Director of the Complex Systems Research Center and the Water Systems Analysis Group, University of New
+Hampshire
+Robin Weiss, Professor of Viral Oncology, University College London
+Martin Weymann, Sustainability Advisor, Swiss Re
+Alex Wittenberg, Director, Corporate Risk Consulting, Mercer Oliver Wyman
+Keith Woolnough, Actuary, Swiss Re
+Hans Zimmermann, Head, Non Life Risk Management, Swiss Re
+Jonathan Zittrain, Professor of Internet Governance and Regulation, Oxford University
+
+19
+
+Global Risks: How likely, how severe?
+The following graphics provide an overview of the economic, environmental, technological, geopolitical, and
+societal risks that the Global Risk Programme has identified over a short- and long-term time horizon.
+Severity and likelihood assessments for individual base- and worst-case scenarios are based on indicators
+described in the Appendix of this publication.
+
+The Top Short–term Risks With the Highest Severity Ranking
+
+4
+
+(i) 40% fall of the US$
+(ii) Oil price spike
+to US$ 100
+(iii) Earthquake hits
+Tokyo
+(iv) Simultaneous
+conventional
+terrorist
+attacks
+worldwide
+
+(i, ii) Pathogenic avian
+virus H5N1 spreads
+high/low human
+mortality
+
+Rapid growth of HIV,
+TB infections outside
+sub-Saharan Africa
+
+The Top Long–term Risks With the Highest Severity Ranking
+(i) US: Unsustainable
+deficit impacts
+growth
+(ii) Non-conventional
+attack in major
+city
+
+(i) Earthquake hits Tokyo
+(ii) Pathogenic avian
+virus H5N1 spreads
+
+New HIV, TB infections
+of 5 million people
+
+4
+
+(i) Incidence of HIV, TB flattens
+in sub-Saharan Africa,
+but rapidly expands elsewhere
+(ii) Incidence of HIV,
+TB infections flattens,
+deaths remain high
+
+Oil price spike
+to US$ 80
+
+US: Gradual balancing
+of accounts
+
+3
+
+3
+Earthquake in densely
+pop. area in Japan
+
+(i) 20% fall of the US$
+(ii) Earthquake in densely
+pop. area in Japan
+
+2
+
+2
+Pathogenic avian virus
+H5N1 spreads, radical
+advances in vaccine
+development
+
+Terrorist attacks
+continue at 2004-05
+frequency and intensity
+
+1
+
+> Severity
+
+> Severity
+
+1
+
+1
+
+2
+
+3
+
+4
+
+1
+
+> Likelihood
+
+4
+
+4
+
+Unsustainable
+deficit impacts
+US growth
+
+4
+
+Transatlantic data
+blackout
+
+Oil price spike
+to US$ 80
+
+20% fall of US$
+
+Protectionism
+hits China’s
+exports
+
+2
+
+3
+
+European power
+outage
+
+2
+
+(i) Dislocation
+of China
+(ii) Sustained oil
+price increase
+
+Extensive attacks
+on wireless
+infrastructure
+
+Gradual balancing
+of US accounts
+
+Individual large
+hedge funds
+fail
+
+1
+
+2
+
+Fraction of hedge
+funds fails
+
+3
+
+(i) Fiscal positions
+under pressure
+(ii) Modernization and
+successful integration
+of China
+
+> Severity
+
+1
+
+> Severity
+
+1
+
+Fiscal positions
+seriously challenged
+
+Oil supply
+constraints lead
+to gradual price
+increase
+Market crash hits
+several hedge funds
+
+(i) Developed world fiscal deficits
+decline modestly
+(ii) Managed integration of China
+into world economy
+
+Developed world
+fiscal positions
+unsustainable
+
+> Likelihood
+
+3
+
+Economic Long–term Risks
+
+(i) 40% fall of US$
+(ii) Oil price spike
+to US$ 100
+
+3
+
+2
+
+> Likelihood
+
+Economic Short–term Risks
+
+20
+
+Terrorism continues
+to be threat,
+yet contained
+
+(i) Fraction of start-up hedge funds fail
+(ii) Attack on IT infrastructure
+
+4
+
+1
+
+> Likelihood
+
+2
+
+3
+
+4
+
+Environmental Short–term Risks
+
+4
+
+3
+
+2
+
+Environmental Long–term Risks
+
+EQ hits Tokyo
+
+EQ hits Tokyo
+
+4
+Loss of watershed
+areas and severe
+weather events
+
+EQ in densely pop.
+area in Japan
+
+Hurricane Cat 5 hits
+Miami
+
+3
+
+2
+EQ hits
+San Francisco
+or LA
+
+EQ in
+densely pop.
+area/CA
+
+(i) EQ in densely
+pop. area in CA
+(ii) Climate change:
+Irregular weather
+events
+
+1
+
+2
+
+> Severity
+
+1
+Hurricane Cat 3 hits
+pop. areas
+
+Typhoon East
+Asia Cat 3
+
+3
+
+East Asia:
+Severity/frequency
+of storms stays
+at 2005 levels
+
+4
+
+1
+
+> Likelihood
+
+> Likelihood
+
+EQ = Earthquake
+
+EQ = Earthquake
+
+Geopolitical Short–term Risks
+
+2
+
+Northern Atlantic:
+Severity/ frequency of storms
+stays at 2005 levels
+
+3
+
+4
+
+Geopolitical Long–term Risks
+
+Simultaneous
+conventional
+terrorist attacks
+worldwide
+
+Non-conventional
+terrorist attack
+in major city
+
+4
+
+Escalating violence
+in ME
+
+3
+
+3
+(i) Open nuclear
+defiance of Iran
+(ii) Civil war in Iraq
+(iii) NK tests nuclear
+weapon
+
+2
+
+Limited mitigation
+of loss of watershed
+areas
+
+Cat. 5 typhoon hits
+major East Asian city
+
+Continued loss
+of watershed areas
+
+No asset damage
+caused by climate
+change
+
+4
+
+Extensive coastal
+degradation
+
+EQ in densely
+pop. area in
+Japan
+
+(i) Typhoon East Asia
+Cat 5
+(ii) EQ hits San Francisco
+or LA
+(iii) Increased severe
+weather events
+
+1
+
+> Severity
+
+(i) Northern Atlantic:
+Severity/frequency
+of storms increases
+(ii) Climate change:
+Extreme weather
+events
+
+(i)
+(ii)
+(iii)
+(iv)
+
+Stability of
+Saudi Arabia
+severely
+undermined
+
+Widespread violent conflict in the ME
+Aggressive nuclear posture of Iran
+Disintegration of Iraq
+NK’s nuclear test triggers arms race,
+internal disintegration
+
+(i) Tenuous stability and partial
+economic recovery in Iraq
+(ii) Stagnation and reform
+resistance in Europe
+
+Economic crisis
+in large EU
+member
+states
+
+Radical economic
+and political upheaval
+in Europe
+
+2
+
+Increased pressure
+on Saudi Arabia’s
+governance
+structure
+
+(i) Tenuous stability
+in Iraq
+(ii) Gradual decline
+of Europe’s economic
+competitiveness
+
+Terrorist attacks
+continue at 2004-5
+frequency
+and intensity
+
+1
+
+> Severity
+
+Fragile status quo
+on Korean Peninsula
+preserved
+
+1
+
+(i) Precarious stability in the ME
+(ii) Continuation of conflict over
+Iran’s nuclear progr.
+(iii) Oil revenues preserve status quo
+in Saudi Arabia
+
+2
+
+3
+
+> Likelihood
+
+ME = Middle East
+NK = Democratic People’s Republic of Korea (North)
+
+> Severity
+
+1
+
+(i) Saudi Arabia balances
+successfully external
+and domestic challenges
+(ii) NK’s nuclear progr.
+contained
+
+4
+
+1
+
+2
+
+(i) Precarious ME stability
+(ii) Compromise on Iran’s nuclear progr.
+(iii) Terrorism continues to be threat,
+yet contained
+
+3
+
+> Likelihood
+
+ME = Middle East
+NK = Democratic People’s Republic of Korea (North)
+
+4
+
+Technological Short–term Risks
+
+Technological Long–term Risks
+
+4
+
+4
+
+3
+
+3
+
+(i) Health effects caused
+by EMF revealed
+(ii) Health effects caused
+by nano-particles revealed
+(iii) RFID-tagged products trigger
+massive public protests
+
+1
+
+> Severity
+
+No adverse
+reaction triggered
+by RFID-tagged
+items
+
+1
+
+2
+
+2
+
+1
+
+> Severity
+
+2
+
+(i) No health effects caused
+by EMF revealed
+(ii) No health effects caused
+by nano-particles revealed
+
+3
+
+(i) Conflicting viewpoints
+about impact of EMF
+on human health
+(ii) Nano-particle risks
+managed
+(iii) Risks of RFID-tagged
+products managed
+
+4
+
+1
+
+> Likelihood
+
+Managed
+implementation
+of converging
+technologies
+
+2
+
+3
+
+4
+
+> Likelihood
+
+Societal Short–term Risks
+
+Societal Long–term Risks
+
+(i, ii) Pathogenic avian virus H5N1
+spreads, low/high human mortality
+(iii) Rapid growth of HIV,
+TB infections outside
+Sub-Saharan Africa
+
+New HIV, TB infections
+of 5 million
+
+4
+
+Antibiotic resistant bacterial
+infections increase
+(ii) Liability regimes: 25% capacity
+loss for insurers
+(iii) Major corporate governance failure
+(iv) Sharpening US/China disputes
+over counterfeiting
+
+3
+Regulatory pressures,
+rapid decrease
+in corporate activity
+
+2
+Liability regimes:
+10% capacity
+loss for insurers
+
+Legal enforcement of
+IP rights fails
+
+(i) Lifestyle and diet
+increase risk of obesity
+cardiovascular disease
+diabetes and cancer
+(ii) Costs and benefits of
+counterfeit. largely
+matched
+(iii) Gradual rise
+in IP piracy
+
+1
+
+> Likelihood
+
+CG = Corporate Governance
+
+2
+
+(i) Obesity widespread,
+health-care costs rise
+sharply, new multiresistant bacterial
+strain emerges
+with 30% lethality
+(ii) Liability regimes
+result in collapse
+of property and
+casualty insurance
+industry
+Lifestyle changes
+reduce fatalities
+
+2
+
+3
+
+4
+
+> Severity
+
+(i) Little change in
+regulation,
+expectations, or
+economic activityy
+(ii) Small-scale
+corporate
+governance failurr
+
+(i) Incidence of HIV, TB infections flattens
+in sub-Saharan Africa, but rapidly expands
+elsewhere
+(ii) Incidence of HIV, TB infections flattens,
+deaths remain high
+
+Rising deaths from counterfeit
+medicines and undermining
+of public trust
+
+(i) Steep decline in IP
+(ii) Populist realignment
+undermines
+corporate activity
+
+Major corporate
+governance failure
+
+(i) Pathogenic avian
+virus H5N1 spreads,
+radical advances
+in vaccine development
+(ii) Decline of insurance,
+rise of deep-pocket
+liability in Europe, US
+
+1
+
+> Severity
+
+1
+
+(i) Pathogenic avian virus H5N1 spreads,
+several recombinations appear
+(ii) Counterfeiting increases vulnerability
+of IT networks and produces an aggregate
+reduction in GWP
+
+4
+
+(i)
+
+3
+
+(i) Health effects caused
+by EMF revealed
+(ii) Health effects caused
+by nano-particles revealed
+(iii) RFID-tagged products generate
+perceived “Big Brother” environment
+(iv) Elimination of privacy reduces
+social cohesion
+
+Gradual decline of IP
+
+Small-scale corporate
+governance failure
+
+1
+
+> Likelihood
+
+CG = Corporate Governance
+
+2
+
+Centrist future supports
+commercial freedom
+
+3
+
+4
+
+Global Risks: Likelihood and Severity
+Larger versions of these graphics are available online at:
+www.weforum.org
+
+The World Economic Forum is an independent
+international organization committed to improving
+the state of the world by engaging leaders in
+partnerships to shape global, regional and
+industry agendas.
+Incorporated as a foundation in 1971, and based
+in Geneva, Switzerland, the World Economic
+Forum is impartial and not-for-proﬁt; it is tied to
+no political, partisan or national interests.
+(www.weforum.org)
+
+

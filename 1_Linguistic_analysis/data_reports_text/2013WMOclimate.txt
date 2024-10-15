@@ -1,0 +1,2585 @@
+WMO statement on
+the status of the
+global climate in 2013
+
+WMO-No. 1130
+
+WMO-No. 1130
+© World Meteorological Organization, 2014
+The right of publication in print, electronic and any other form and in any language is reserved by WMO.
+Short extracts from WMO publications may be reproduced without authorization, provided that the complete
+source is clearly indicated. Editorial correspondence and requests to publish, reproduce or translate this
+publication in part or in whole should be addressed to:
+Chair, Publications Board
+World Meteorological Organization (WMO)
+7 bis, avenue de la Paix
+P.O. Box 2300
+CH-1211 Geneva 2, Switzerland
+
+Tel.: +41 (0) 22 730 84 03
+Fax: +41 (0) 22 730 80 40
+E-mail: Publications@wmo.int
+
+ISBN 978-92-63-11130-2
+WMO, in collaboration with Members, began issuing annual statements on the status of the global climate
+in 1993. This publication was issued in collaboration with the Hadley Centre of the UK Meteorological
+Office, United Kingdom of Great Britain and Northern Ireland; the Climatic Research Unit (CRU), University
+of East Anglia, United Kingdom; the Climate Prediction Center (CPC), the National Climatic Data Center
+(NCDC), the National Environmental Satellite, Data, and Information Service (NESDIS), the National
+Hurricane Center (NHC) and the National Weather Service (NWS) of the National Oceanic and Atmospheric
+Administration (NOAA), United States of America; the Goddard Institute for Space Studies (GISS) operated
+by the National Aeronautics and Space Administration (NASA), United States; the Japan Meteorological
+Agency (JMA), Japan; the European Centre for Medium-Range Weather Forecasts (ECMWF), United
+Kingdom; the Global Precipitation Climatology Centre (GPCC), Germany; the Global Snow Laboratory,
+Rutgers University, United States; the National Snow and Ice Data Center (NSIDC), United States; the
+Colorado Center for Astrodynamics Research, University of Colorado-Boulder, United States; the Polar
+Science Center, University of Washington, United States; the Commonwealth Scientific and Industrial
+Research Organization (CSIRO) Marine and Atmospheric Research, Australia; and the Vienna University
+of Technology, Austria. Other contributors are the National Meteorological and Hydrological Services
+or equivalent climate institutions of Argentina, Armenia, Australia, Belarus, Bosnia and Herzegovina,
+Brazil, Bulgaria, Canada, China, Cyprus, Czech Republic, Denmark, Estonia, Fiji, Finland, France, Germany,
+Guinea, Hungary, Iceland, India, Iran (Islamic Republic of), Ireland, Israel, Japan, Jordan, Kenya, Latvia,
+Lithuania, Luxembourg, Malta, Mexico, Montenegro, Morocco, Nigeria, Norway, Pakistan, Portugal,
+Republic of Moldova, Romania, Russian Federation, Serbia, Slovakia, Slovenia, South Africa, Spain,
+Sweden, Switzerland, Thailand, Tunisia, Turkey, Ukraine, United Kingdom, United Republic of Tanzania and
+United States. The WMO Regional Association VI (Europe) Regional Climate Centre on Climate Monitoring,
+the African Centre of Meteorological Applications for Development (ACMAD, Niamey), the Hong Kong
+Observatory (HKO), Hong Kong, China, the Australian Research Council (ARC) Centre of Excellence for
+Climate System Science, University of Melbourne, Australia, and the International Research Centre on
+El Niño (CIIFEN, Guayaquil, Ecuador) also contributed.
+
+Cover illustration: Praveen Agrawal / WFP
+NOTE
+The designations employed in WMO publications and the presentation of material in this publication do not imply the expression of any opinion whatsoever on the part of WMO concerning the legal status of any country, territory, city or area, or of its authorities, or concerning the delimitation of its
+frontiers or boundaries.
+The mention of specific companies or products does not imply that they are endorsed or recommended by WMO in preference to others of a similar
+nature which are not mentioned or advertised.
+The findings, interpretations and conclusions expressed in WMO publications with named authors are those of the authors alone and do not necessarily reflect those of WMO or its Members.
+
+Contents
+Foreword .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+2
+
+Preface  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+3
+
+Key findings  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+4
+
+Temperatures .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+4
+
+Rain, snow and ice  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+5
+
+Oceans . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+7
+
+Regional highlights .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+8
+
+Tropical cyclones .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+15
+
+Greenhouse gases and ozone-depleting substances  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+17
+
+Major weather and climate events around the world in 2013 .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+19
+
+Explaining the summer 2012/2013 and annual 2013 record warmth in Australia  .  .  .  .
+
+20
+
+Foreword
+The dramatic impact of climate variability and
+climate change continued to be felt all over the
+world throughout 2013. The WMO Statement
+on the Status of the Global Climate in 2013 provides a snapshot of global and regional trends
+in weather and climate over the past year and
+highlights some of the year’s most significant
+extreme events.
+The year 2013 tied with 2007 as the sixth warmest since global records began in 1850. Although
+the climate varies naturally from year to year,
+it is clear that the planet is experiencing an
+overall warming trend. Thirteen of the fourteen
+warmest years on record have all occurred in
+the twenty-first century, and each of the past
+three decades has been warmer than the last,
+culminating with 2001–2010 as the warmest
+decade on record. As highlighted by the Fifth
+Assessment Report of the Intergovernmental
+Panel on Climate Change, this steady warming
+is caused by rising levels of anthropogenic
+greenhouse gases in the atmosphere.
+We now have a better understanding of humaninduced climate change, and climate scientists
+can increasingly determine how large-scale
+pressure and temperature patterns influence
+the weather. The best known of these is the
+El Niño-Southern Oscillation (ENSO) in the
+Pacific Ocean, which affects weather patterns
+around the world through “teleconnections”. In
+addition to ENSO, the North Atlantic Oscillation,
+the Arctic Oscillation, jet streams and other
+recurring patterns also of ten explain why
+weather conditions are wetter, drier, warmer,
+cooler or stormier than average.
+
+2
+
+Weather forecasting, including the prediction of
+storms and other hazards, has greatly evolved
+in recent years. In October 2013, the events surrounding Cyclone Phailin, the second strongest
+tropical cyclone to strike India since modern
+records began, showed how improved forecasting, combined with government action to
+build national resilience and provide shelters,
+greatly reduces the loss of life. Nevertheless,
+extreme events can still cause fatalities and
+destroy property, so we must continue enhancing preparedness, strengthening early warning
+systems and implementing a multi-hazard
+approach to disaster risk reduction.
+The Statement draws on input from leading
+research institutions and from the National
+Meteorological and Hydrological Services of
+WMO Members. This summary has been published in all six official WMO languages in order
+to reach the broadest possible readership.
+However, I also strongly encourage interested
+readers to examine the more detailed underlying
+report, which is available on the WMO website.
+
+(M. Jarraud)
+Secretary-General
+
+Preface
+This Statement is based on datasets and information that were made available by WMO
+Members and partners for 2013 and assessed in
+their global and regional geographical context.
+Comparisons were made with climatological
+averages and records (historical background)
+whenever possible and appropriate.
+The global temperature assessment is based on
+three independent datasets that are maintained
+by the Met Office Hadley Centre and the Climatic
+Research Unit of the University of East Anglia
+(HadCRU), both in the United Kingdom; the
+National Climatic Data Center of the National
+Oceanic and Atmospheric Administration
+(NCDC–NOAA), based in the United States;
+and the Goddard Institute for Space Studies
+(GISS) operated by the National Aeronautics
+and Space Administration (NASA), also in the
+United States. The HadCRU dataset extends
+back to 1850, and the NCDC and GISS datasets
+(and hence the combined dataset) extend back
+to 1880. Other datasets have also been used
+for additional analysis.
+The content was developed and peer-reviewed
+by several experts affiliated with international
+and regional climate institutions, centres and
+programmes, and by the world’s National
+Meteorological and Hydrological Services
+(NMHSs), the main providers of the underlying observations and climate information.
+More than 50 NMHSs provided direct input
+
+to the Statement following the WMO call for
+contributions. Many others made their data
+and climate reports available on their websites,
+and these were accessed when necessary.
+When doubts arose as to facts and figures,
+WMO communicated with the relevant national
+source in order to verify the information before
+its inclusion in the Statement. The definition
+of the Regions is based on the WMO regional
+structure, as follows:
+•
+•
+•
+•
+•
+•
+
+Africa (Region I)
+Asia (Region II)
+South America (Region III)
+North America, Central America and the
+Caribbean (Region IV)
+South-West Pacific (Region V)
+Europe (Region VI)
+
+WMO Climate System Monitoring uses Essential
+Climate Variables (ECVs) as defined by the
+Global Climate Observing System. Some 50
+ECVs have been identified as fundamental for
+global observation. This Statement incorporates
+assessments of the status of the global climate
+and observed extremes detected using ECV
+data and products, including air temperature,
+precipitation, stratospheric ozone and long-lived
+greenhouse gases (atmospheric ECVs); snow
+cover, ice sheets and soil moisture (terrestrial
+ECVs); as well as sea ice, sea level rise, sea
+surface temperature and ocean acidification
+(oceanographic ECVs).
+
+3
+
+Key findings
+Figure 1. Global land air
+surface and sea surface
+temperature anomalies
+(°C) for 2013, relative to
+1961–1990
+(Source: Met Office
+Hadley Centre, United
+Kingdom, and Climatic
+Research Unit, University
+of East Anglia, United
+Kingdom)
+
+90N
+
+45N
+
+0
+
+45S
+
+90S
+180
+
+Figure 2. Annual global
+average temperature
+anomalies (relative to
+1961–1990) from 1850
+to 2013 from the Hadley
+Centre/CRU (HadCRUT4)
+(black line and grey
+area, representing
+average and 95 per cent
+uncertainty range), the
+NOAA National Climatic
+Data Center (red), and
+the NASA Goddard
+Institute for Space
+Studies (blue)
+(Source: Met Office
+Hadley Centre, United
+Kingdom, and Climatic
+Research Unit, University
+of East Anglia, United
+Kingdom)
+
+Global average temperature anomaly (°C)
+
+0.6
+
+–10
+
+90W
+
+–5
+
+–3
+
+–1
+
+0
+
+–0.5
+
+TEMPERATURES
+The year 2013 tied with 2007 as the sixth warmest since global records began in 1850. The
+global average surface temperature was 0.50°C
+±0.10°C (0.90°F ±0.18°F) above the 1961–1990
+average and 0.03°C (0.05°F) above the 2001–2010
+average. The past year was also warmer than
+both 2011 and 2012, which, though marked by
+cooling La Niña conditions, were 0.43°C and
+0.46°C above average, respectively.
+Warming El Niño and cooling La Niña events
+are major drivers of natural variability in the
+climate system. Neither condition was present
+during 2013, which was among the four warmest
+
+Met Office Hadley Centre and Climatic Research Unit
+NOAA National Climatic Data Center
+NASA Goddard Institute for Space Studies
+
+0.4
+0.2
+0
+– 0.2
+– 0.4
+– 0.6
+– 0.8
+1850
+
+4
+
+–0.2
+
+1900
+
+Year
+
+1950
+
+2000
+
+0
+
+90E
+
+0.2
+
+0.5
+
+1
+
+180
+
+3
+
+5
+
+10
+
+ENSO-neutral years on record. Thirteen of the
+fourteen warmest years on record, including
+2013, have all occurred in the twenty-first century. The warmest on record are 2010 and 2005,
+followed by 1998. El Niño conditions dominated
+the early months of 2010 and 1998, and weak
+El Niño-type conditions extended from 2004
+to the first half of 2005.
+To arrive at these figures, WMO takes an average
+of the three main global temperature datasets,
+which are managed separately and use different methodologies. Other datasets produce
+similar but slightly different results. A separate
+temperature analysis conducted by the Japan
+Meteorological Agency, for example, estimates
+that 2013 was the second warmest year on
+record. According to reanalysis data from the
+European Centre for Medium-Range Weather
+Forecasts, 2013 tied with 1998 as the fourth
+warmest since 1958.
+Because the capacity for heat absorption differs
+over land and over sea, the air over the land
+tends to warm up faster. Across the world’s
+land surfaces, the 2013 global air temperature
+was 0.85°C ±0.17°C above the 1961−1990 average and 0.06°C above the 2001−2010 average,
+the fourth highest on record. A very warm
+November–December period that ranked second
+behind 2006 contributed to this high temperature anomaly. Over the global ocean, the surface
+temperature for 2013 tied with 2004 and 2006 as
+
+0.4
+
+0.2
+
+0.0
+
+–0.2
+
+Figure 3. Global ranked
+land and ocean surface
+temperatures for the
+warmest 50 years. Inset
+shows global ranked
+surface temperatures
+from 1850. The size of the
+bars indicates the 95 per
+cent confidence limits
+associated with each
+year. Values are simple
+area-weighted averages
+for the whole year.
+(Source: Met Office
+Hadley Centre, United
+Kingdom, and Climatic
+Research Unit, University
+of East Anglia, United
+Kingdom)
+
+2010
+2005
+1998
+2003
+2002
+2013
+2007
+2006
+2009
+2012
+2004
+2001
+2011
+2008
+1997
+1995
+1999
+2000
+1990
+1991
+1988
+1996
+1994
+1987
+1983
+1981
+1989
+1993
+1980
+1992
+1944
+1973
+1986
+1977
+1979
+1953
+1878
+1963
+1941
+1982
+1984
+1880
+1958
+1940
+1969
+1961
+1962
+1943
+1985
+1942
+
+Temperature difference (°C)
+from 1961–1990 average
+
+0.6
+
+0.6
+0.4
+0.2
+0.0
+–0.2
+–0.4
+–0.6
+–0.8
+
+0
+
+50
+
+Rank
+
+100
+
+150
+
+2011–2013
+2001–2010
+1991–2000
+1971–1990
+1951–1970
+1931–1950
+1911–1930
+1850–1910
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Rank of hottest years to coldest
+
+the sixth warmest on record, at 0.35°C ±0.07°C
+above the 1961−1990 average.
+0.60
+
+In the southern hemisphere, summer was
+extremely warm, with monthly January temperature anomalies reaching +5°C in parts of
+Australia. Exceptional warm conditions were
+also present during the winter, with New Zealand
+experiencing its warmest winter on record. The
+beginning of austral summer 2013/2014 was
+very hot in parts of South America, with the
+December temperature reaching new record
+highs. As a result of the continued warmth
+
+El Niño
+
+La Niña
+
+Neutral
+
+0.50
+0.40
+Temperature anomaly (°C)
+
+The northern hemisphere’s weather patterns
+during early 2013 were largely influenced by
+the Arctic Oscillation. This brought coolerthan-average spring temperatures to much
+of Europe, the south-eastern United States,
+north-western Russian Federation and parts
+of Japan. The Arctic region, meanwhile, was
+considerably warmer than average, along with
+much of central and northern Africa, the eastern
+Mediterranean, southern Russian Federation
+and much of China. This so-called warm Arctic,
+cold continents pattern is characteristic of the
+Arctic Oscillation’s negative phase. The year
+2013 saw the most negative Arctic Oscillation
+on record for the month of March. A similar
+pattern with high pressure over Greenland and
+low pressure to the south re-emerged in late
+spring, once again causing cold Arctic air to
+surge into western and central Europe.
+
+0.30
+0.20
+0.10
+0.00
+-0.10
+-0.20
+-0.30
+1950
+
+1955
+
+1960
+
+1965
+
+1970
+
+1975
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+Year
+
+throughout the year across parts of the southern
+hemisphere, 2013 was the warmest year on
+record in Australia, second warmest in Argentina
+and third warmest in New Zealand. Modelling
+experiments have indicated that the odds of the
+record Australian hot summer occurring were
+increased fivefold by human-induced climate
+change (see page 20 and accompanying figure).
+
+RAIN, SNOW AND ICE
+Global precipitation during 2013 equalled the
+1961–1990 average of 1 033 mm, according
+to the National Oceanic and Atmospheric
+Administration (United States). Precipitation at
+
+Figure 4. January–
+December global land
+and ocean surface
+temperature anomalies
+(relative to 1961–1990)
+for the period 1950–
+2013; years that started
+with a moderate or
+strong La Niña already in
+place are shown in blue;
+years that started with
+a moderate or strong El
+Niño already in place
+are shown in red; other
+years are shown in grey.
+
+5
+
+Figure 5. Annual
+precipitation anomalies
+for global land areas for
+2013; gridded 1.0-degree
+raingauge-based in
+mm/month (relative to
+1951–2000)
+(Source: Global
+Precipitation Climatology
+Centre, Deutscher
+Wetterdienst, Germany)
+
+90N
+
+60N
+
+30N
+
+0
+
+30S
+
+60S
+
+90S
+180
+
+120W
+
+60W
+
+–70
+
+–50
+
+0
+
+–30
+
+–10
+
+the regional level, however, varied significantly.
+For example, wetter-than-average conditions
+were seen across most of Greenland, the
+southern Arabian Peninsula, central India and
+western China. Drier-than-average conditions
+were present over the western United States,
+much of northern Canada, northern Siberia and
+the eastern inland of Australia.
+Winter snow cover in North America has varied widely over the past few years. During
+the 2012/2013 winter, snow cover extent was
+500 000 km 2 above the 1981–2010 average,
+resulting in the fourteenth largest winter extent
+for the continent since records began in 1966.
+During the spring, North American snow cover
+was 830 000 km2 above average, making it the
+tenth largest spring extent for the continent
+and the largest since 1997.
+During the same period, snow cover extent across
+the Eurasian continent was 1.71 million km2 above
+the 1981–2010 average, the third largest winter
+extent on record for this region and the largest
+since 2003. In the spring, the continent’s snow
+cover contracted significantly to 430 000 km2
+below average, resulting in the fourteenth smallest extent on record for the season. In May,
+
+6
+
+60E
+
+10
+
+30
+
+120E
+
+50
+
+180
+
+70
+
+Eurasian snow cover dipped to 7.3 million km2,
+setting a new record low for that month.
+As further evidence of the rapid response of
+the Arctic cryosphere to increasing air temperatures, the northern hemisphere June snow
+cover is currently decreasing at a faster rate
+than Arctic summer minimum sea-ice extent,
+and at rates that exceed the projection of climate models. June 2013 snow cover across the
+hemisphere was the second lowest, greater
+only than the record low of 2012.
+Soil moisture is a key variable for monitoring the climate system because it strongly
+influences the exchange of water and energy
+bet ween the land sur face and the atmosphere. Very wet soil conditions resulting from
+hydrometeorological events were noticeable
+and had an impact on floods in a number of
+regions including eastern parts of the Russian
+Federation, north-eastern China, India, the
+Philippines and central Europe. On the other
+hand, annual soil moisture anomalies indicated
+dryness in the southern hemisphere, where
+Australia, South America and southern Africa
+experienced severe drought conditions during
+the first part of the year.
+
+Another way to assess the state of the Arctic
+sea ice is to estimate the age of the ice, given
+that first-year ice is the thinnest and most susceptible to melting. Ice that was four years of
+age and older decreased from 18 per cent of
+the ice cover in March 1984 to 2 per cent in
+March 2012. It increased slightly to 3 per cent
+in 2013. In March 1984, 56 per cent of the ice
+pack was composed of first-year ice, while in
+March 2013 first-year ice comprised 78 per cent
+of total ice cover at its peak.
+The Arctic reached its annual minimum seaice cover on 13 September, at 5.10 million km2
+or 18 per cent below the 1981–2010 average
+minimum, making it the sixth smallest annual
+minimum on record. All seven of the lowest
+Arctic sea-ice extents in the satellite record
+have occurred in the last seven years, beginning
+with 2007. September Arctic sea-ice extent has
+decreased at an average rate of 13.7 per cent
+per decade. The total minimum sea-ice volume,
+which combines measures of ice extent and
+model simulations of ice thickness, was higher in
+2013 than in 2010, 2011 and 2012, but lower than
+in 2007 and well below the 1979−2012 average.
+February marked the end of the Antarctic seaice melt season in 2013. The annual minimum
+extent of sea ice was reached on 20 February
+at 3.68 million km2. This was the second largest
+annual minimum sea-ice extent for Antarctica.
+In addition, Antarctic sea-ice extent reached a
+record maximum for the second year in a row.
+On 1 October, it was 19.57 million km2, 2.7 per
+cent higher than the 1981−2010 average.
+September Antarctic sea-ice extent has increased
+at an average rate of 1.1 per cent per decade.
+
+16
+Extent (millions of square kilometres)
+
+Arctic sea-ice extent reached its annual maximum on 15 March at 15.13 million km2. This
+was approximately 0.5 million km2 below the
+average 1981–2010 annual maximum, making
+it the sixth smallest maximum sea-ice extent
+since satellite records began in 1979. During
+the 2012/2013 growth season, Arctic sea-ice
+extent grew by 11.72 million km2, the largest
+seasonal increase on record; this growth can
+be explained by the record small sea-ice extent
+of September 2012. Arctic maximum sea-ice
+extent in March has decreased at an average
+rate of 2.6 per cent per decade.
+
+14
+12
+10
+8
+6
+4
+2
+
+2013
+2012
+1981–2010 average
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Month
+
+Scientists believe that changes in atmospheric
+circulation over the past three decades, which
+have weakened the prevailing winds that circle
+Antarctica, may be a factor. The increasing extent
+of the ice may also be linked to changing ocean
+circulation and a build-up of cold freshwater
+on the surface of the Southern Ocean due to
+increasing precipitation and melting land-based
+ice shelves.
+
+Figure 6. Arctic sea-ice
+extent in 2013, compared
+with 2012 and the
+1981–2010 average
+(Source: National Snow
+and Ice Data Center,
+United States)
+
+Melting at the surface of the Greenland ice sheet
+was much less dramatic in 2013 than in the
+record year of 2012. It peaked in late July, when
+satellites detected melting over 44 per cent of
+the surface. This coincided with record warmth
+in south-western Greenland (30 July saw a
+temperature of 25.9°C in Maniitsoq, the highest temperature ever recorded in Greenland).
+The last decade has experienced accelerated
+melting of the sea-ice cover and mass loss of
+the Greenland ice sheet.
+
+OCEANS
+The ocean acts as an effective buffer for the
+climate system by absorbing and storing a large
+amount of excess carbon and heat from the
+atmosphere. It has absorbed approximately one
+quarter of all the carbon dioxide (CO2) released
+into the atmosphere by humans since the start
+of the industrial revolution. This absorbed CO2
+forms a weak carbonic acid, which causes ocean
+
+7
+
+This range encompasses the observed rate of
+about 3 mm/yr for the 2001–2010 decade and is
+around double the observed twentieth century
+trend of 1.6 mm/yr.
+
+30°
+EQ
+30°
+60°S
+90°E
+
+−30
+
+−20
+
+−10
+
+180° 90°W
+
+0
+
+10
+
+0°
+
+20
+
+30
+
+mm/year
+
+Figure 7. Sea level trends
+for the period 2003–2013
+(Source: Commonwealth
+Scientific and Industrial
+Research Organization
+(CSIRO) Marine and
+Atmospheric Research,
+Australia)
+
+acidification. As a result, the pH of the ocean
+has decreased by 0.11, which corresponds
+approximately to a 30 per cent increase in
+acidity. Ocean acidification is already harming
+corals, shellfish and other marine life.
+While the rate at which surface air temperatures
+are rising has slowed in recent years, heat
+continues to be trapped in the Earth system,
+mostly as increased ocean heat content. About
+93 per cent of the excess heat trapped in the
+Earth system between 1971 and 2010 was taken
+up by the ocean. From around 1980 to 2000,
+the ocean gained about 50 zettajoules (10 21
+joules) of heat. Between 2000 and 2013, it added
+about three times that amount. Prior to 2000,
+most of the heat was trapped between the
+sea surface and a depth of 700 m. Since then,
+most of the heat has been stored at depths of
+700 m to 2 000 m. The increased uptake in this
+region may be due to changes in atmospheric
+and ocean circulation patterns in the tropical
+Pacific and to interactions with large-scale
+climate patterns such as ENSO and the Pacific
+Decadal Oscillation.
+Globally, sea level has risen by 19 cm since the
+start of the twentieth century, mostly because
+of the thermal expansion of the oceans and the
+melting of glaciers and ice caps. Since measurements began in 1993, sea level has been
+rising at about 2.9–3.2 mm/yr (based on two
+separate estimates, each with an uncertainty of
+±0.4 mm/yr), with some year-to-year variability.
+
+8
+
+Preliminary analyses indicate that the global
+average sea level reached a new record high in
+March. Some regions of the globe are experiencing greater sea-level rise than others (some
+are even experiencing declining sea levels) due
+to local variations in currents, land movements
+and ocean warming. The region of the Pacific
+Ocean near the Philippines has observed some
+of the highest rising sea-level rates over the past
+half century. This contributed to the enormous
+devastation in parts of the Philippine islands,
+when Typhoon Haiyan struck in November and
+caused a massive storm surge. 
+
+REGIONAL HIGHLIGHTS
+AFRICA
+The continent experienced an overall hot year,
+with 2013 ranking as the second warmest
+on record, behind 2010. The temperature in
+Vioolsdrif, South Africa, soared to 47.3°C on
+4 March – the hottest March temperature
+ever measured in Africa. In West Africa, the
+temperature in Navrongo, Ghana, reached
+43°C on 6 March, the warmest temperature
+ever measured in Ghana. Several temperature
+records were also broken in Kenya. Spring and
+October temperatures in Tunisia, which were
+
+Women collect water at the Chaquelane
+resettlement camp near the flood hit town of
+Chokwe, in southern Mozambique.
+
+AGNIESZKA FLAK / REUTERS
+
+60°N
+
+Ohangwena
+40 442
+Omusati
+Oshana
+45 665
+19 064
+
+Oshikoto
+42 858
+
+ANGOLA
+
+ZAMBIA
+Caprivi
+8 171
+
+Kavango
+80 720
+
+Kunene
+29 051
+
+330 925 people
+(13% of total population)
+in need of food assistance
+
+Otjozondjupa
+21 930
+
+109 000 children
+under 5 at risk of malnutrition
+
+BOTSWANA
+
+NAMIBIA
+Omaheke
+6 938
+
+Erongo
+10 916
+
+11 regions
+without water tanks
+for additional storage
+
+Figure 8. Map indicating
+the number of people
+facing food insecurity
+in Namibia in May 2013
+due to ongoing drought
+conditions
+(Source: United
+Nations Office for
+the Coordination of
+Humanitarian Affairs)
+
+Khomas
+4 928
+
+Windhoek
+
+Food-insecure population per region
+Kavango
+Omusati
+
+Hardap
+7 625
+
+Oshikoto
+
+Legend
+
+Ohangwena
+
+Food-insecure population
+
+Kunene
+Otjozondjupa
+
+ 10 000
+
+Oshana
+
+10 001 – 20 000
+
+Karas
+Erongo
+
+Karas
+12 619
+
+Caprivi
+
+20 001 – 30 000
+ 30 000
+
+Hardap
+
+SOUTH AFRICA
+
+Omaheke
+Khomas
+0
+
+20 000
+
+40 000
+
+60 000
+
+80 000
+
+Region boundaries
+
+100 000
+
+2.2°C and 4°C above average, respectively,
+contributed to one of the 10 warmest years
+in the country since 1950.
+Above-average precipitation occurred in
+northern Mali and adjacent areas in Algeria.
+Below-average precipitation was recorded
+along the Gulf of Guinea, from Côte d’Ivoire
+to Nigeria and over the southernmost parts of
+Ghana, Benin and Togo.
+Following nearly three decades of low seasonal
+rainfall and a second consecutive year of failed
+rains, Angola and Namibia suffered one of the
+worst droughts of the past 30 years. An estimated 1.5 million people in southern Angola
+faced food insecurity, as did nearly 800 000
+in Namibia. Historic drought conditions also
+affected La Réunion from May to September.
+In Mozambique, severe flooding that killed at
+least 113 people and displaced 185 000 occurred
+in January. Heavy rainfall between March and
+April led to flooding that damaged crops and
+displaced thousands of people throughout
+parts of southern Somalia and eastern Kenya.
+Heavy rains also fell in Sudan in August, causing
+
+Capital
+
+severe damage, killing 76 people and affecting
+some 500 000. Bamako, Mali, and Marrakech,
+Morocco were also affected by floods.
+
+ASIA
+Summer was extremely hot in many parts of Asia.
+Japan, for example, had its hottest summer on
+record, including a national record high of 41°C
+in Shimanto, Kochi Prefecture, on 12 August.
+Many daily maximum temperature records were
+broken in Hong Kong, China, in March and April,
+with some locations exceeding 40°C.
+China saw its fourth warmest year since national
+records began in 1961. The most severe heatwave since 1951 occurred in southern China
+between July and August, with temperatures
+over 40°C. The region also experienced severe
+drought conditions. Approximately 78 million
+people and over 8 million hectares of farmland
+were affected, with direct economic losses
+estimated at US$ 7.7 billion.
+In India, Nagpur recorded its all-time high temperature of 47.9°C on 22 May, while Amritsar
+observed its highest ever temperature of 48°C
+
+9
+
+United Kingdom
+
+Alaska, United States
+
+Wet conditions, resulting in
+the third wettest year in the
+96-year record for the state
+
+United States
+
+Coldest March since 1962 and May
+since 1996; overall, coldest spring
+since 1962; 20 cm or more of snow
+during 22–24 March in northern
+region; the region’s most significant
+late winter snow event since 1979
+
+Canada
+
+Improved drought conditions across
+the south-east and central regions
+but deteriorating conditions in
+the Far West; California’s driest
+year and fourth driest year on
+record in Oregon
+
+Torrential downpours on 19 June triggering
+floods that caused billions of dollars in damages
+across parts of southern Alberta; Canada’s
+Greenland
+costliest natural disaster
+Highest air temperature ever observed in
+Greenland recorded in Maniitsoq when
+Eastern Canada
+temperatures soared to 25.9°C on 30 July
+France
+Major storm on 21 December in
+Second coldest mean
+Extra-tropical storm
+the east, causing flight delays
+maximum temperature
+Widespread wind gusts reaching
+and highway accidents
+in May since 1950
+111–129 km/h across south-east
+England, the strongest autumn storm
+in the region since 2002
+
+Eastern North Pacific
+hurricane season
+Above-average activity:
+20 storms, 9 hurricanes
+
+Mexico
+
+For the first time since 1958, two tropical systems,
+Hurricanes Manuel (Eastern North Pacific) and Ingrid
+(North Atlantic), made landfall nearly simultaneously
+on 15 September. Copious rain led to flooding and landslides.
+
+Spain
+
+Tropical Storm Chantal
+
+7–10 July
+Maximum winds – 100 km/h
+Fastest-moving tropical cyclone
+observed in the deep Tropics
+(south of 20°N) in the Atlantic
+basin on record (1966–2013)
+
+More than triple the monthly
+average precipitation in March;
+wettest March since national
+records began in 1947
+
+Atlantic hurricane
+season
+
+Mali
+
+Flooding caused by heavy rains
+between 9–12 August in the Kidal
+and Segou regions, with torrential
+rains on 28 August provoking flash
+floods in Bamako
+
+Near-average activity:
+13 storms, 2 hurricanes
+No major hurricanes in the basin
+Ghana
+for the first time since 1994; lowest
+Temperatures reaching
+number of hurricanes since 1982
+43.0°C in Navrongo on
+6 March; the country’s
+El Niño-Southern Oscillation (ENSO)
+Brazil
+hottest temperature
+Neutral ENSO conditions persisted throughout the year.
+Below-average rainfall in the
+ever measured
+north-east in early 2013 and in
+for any month
+some locations the worst drought
+in the past half century
+Southern Africa
+Large rainfall deficit during
+much of the year in Botswana,
+Namibia and Angola, causing
+one of the worst droughts in
+Brazil
+30 years
+Heavy rains across parts of
+south-eastern states during
+December, triggering floods
+Cyclone maximum
+and landslides; record rainfall
+Argentina
+for the month in many states;
+wind legend
+Persistent heatwave during
+over 400 per cent of the average
+(km/h)
+mid-December in north and central
+December rainfall in the city of
+regions, with several locations
+Aimores; torrential downpours
+63 – 118
+observing new maximum, minimum
+resulting in 45 fatalities
+119 – 153
+and mean temperature records for
+December; warmth throughout the
+154 – 177
+year contributing to 2013 ranking as
+178 – 208
+the second warmest year on record
+209 – 251
+Global tropical cyclone activity
+behind 2012
+> 251
+Near-average activity: 94 storms,
+41 hurricanes/typhoons/cyclones
+
+Figure 9. Significant climate anomalies and events in 2013
+(Source: National Climatic Data Center, NOAA, United States)
+
+10
+
+Norway
+
+China and Russian Federation
+
+Second wettest December,
+behind 1975, since national
+records began in1900
+
+Warmest November and December since national records began
+in 1891; overall, the country’s sixth warmest year on record
+
+Central Europe
+
+The most intense and extended
+flooding in Danube and Elbe river
+catchments since at least 1950,
+caused by extreme precipitation
+
+Republic of Korea and Japan
+
+Middle East
+
+Rare snowstorm
+event in western
+Syrian Arab
+Islamic Republic
+Republic, Jordan
+of Iran
+and Israel in
+Moderate to extreme
+mid-December drought during
+August–September
+in Ghorveh and
+Hamedan
+
+Sudan
+
+Heavy rains throughout
+much of Sudan between
+1 and 4 August, spawning
+significant flooding
+
+Heavy rain in August in parts of eastern
+Russian Federation and north-eastern China;
+in China, Nankouqian Township received half
+its annual average total in a single day on
+16 August; in the Russian Federation, worst
+flooding in 120 years in more than 140 towns
+
+Russian Federation
+
+Warmest summers (June–August)
+on record; new national daily
+maximum temperature in Japan
+when temperatures rose to 41˚C
+in Kochi Prefecture on 12 August
+
+China
+
+One of the most severe heatwaves
+during July and August in southern
+region; daily maximum temperatures
+higher than 40°C recorded at more
+than 300 stations, the heat causing
+the death of over 40 people
+
+16–24 September
+Maximum winds – 260 km/h
+Made landfall in northern Philippines on 21 September,
+severely damaging the agriculture in the region and
+causing floods and landslides that claimed 30 lives
+
+4–14 October
+Maximum winds – 260 km/h
+Strongest storm in the North
+Indian basin since the Odisha
+Super Cyclone in 1999
+
+Typhoon Haiyan
+
+North Indian Ocean
+cyclone season
+Tropical Storm Haruna
+
+19 February–1 March
+Maximum winds – 164 km/h
+Made landfall in Madagascar on
+22 February and vacillated for
+7 days in the Mozambique channel
+
+South Africa
+
+South-West Indian Ocean
+cyclone season
+
+Temperatures rising to 47.3°C
+on 4 March in Vioolsdrif; the
+hottest March temperature
+recorded anywhere in Africa
+
+Above-average activity:
+31 storms, 13 typhoons;
+the most active season
+since 2004
+
+Typhoon Usagi
+
+Cyclone Phailin
+
+Below-average activity:
+5 storms, 3 cyclones
+
+Western North Pacific
+typhoon season
+
+Australian cyclone season
+
+3–11 November
+Maximum winds – 315 km/h
+Strongest tropical cyclone on record
+for any basin to make landfall; also
+the deadliest Philippine typhoon on
+record, killing over 6 200 people
+
+Below-average activity:
+10 storms, 4 cyclones
+
+Australia
+
+Warmest year on record; warmest
+December–February, third warmest
+June–August and warmest
+September–November contributing
+to overall record warmth
+
+Near-average activity:
+10 storms, 7 cyclones
+
+South-West Pacific
+cyclone season
+
+Well-below-average activity:
+5 storms, 4 cyclones
+
+New Zealand
+
+Third warmest year since national
+records began in 1909; also,
+fourth warmest July and warmest
+August, resulting in the warmest
+June–August (winter) period
+
+Antarctic sea-ice extent
+
+Second largest minimum sea-ice extent in the Antarctic during the melt season;
+during the growth season, largest sea-ice extent since records began in 1979
+
+TROPICAL CYCLONE CATEGORY
+Hurricane, cyclone and typhoon are different terms for the same weather phenomenon that is accompanied
+by torrential rain and maximum sustained wind speeds (near centre) exceeding 119 kilometres per hour.
+Such a weather phenomenon is referred to by the following name depending on the region:
+•
+
+Hurricane: Western North Atlantic, central and eastern North Pacific, Caribbean Sea and Gulf of Mexico;
+
+•
+
+Typhoon: Western North Pacific;
+
+•
+
+Cyclone: Bay of Bengal and Arabian Sea;
+
+•
+
+Severe tropical cyclone: Western South Pacific and South-East Indian Ocean;
+
+•
+
+Tropical cyclone: South-West Indian Ocean.
+
+11
+
+Federation. The Songhuajiang and Liaohe river
+basins in north-eastern China saw their heaviest
+floods since 1998. Massive flooding was also
+reported in eastern Russian Federation. More
+than 140 towns were affected by the worst
+flooding in 120 years.
+
+MOHSIN RAZA / REUTERS
+
+SOUTH AMERICA
+
+A boy jumps into a water canal to cool himself
+with others on a hot day in the eastern city of
+Lahore, Pakistan.
+
+on both 23 and 24 May. More than 2 700 people
+perished due to the heat. South-west Asian
+monsoon rainfall for the country as a whole was
+106 per cent of the average, but was characterized by regional variations. The monsoon had
+an early onset over all of India and brought the
+worst flooding and devastation in the past half
+century to regions near the India-Nepal border.
+North-western India received nearly double its
+average June rainfall; thousands of people were
+killed and many more went missing.
+
+Figure 10. Precipitation
+anomalies over South
+America during the
+active monsoon season,
+September 2012–
+May 2013
+(Sources: NOAA Climate
+Prediction Center, United
+States, and Instituto
+Nacional de Meteorologia
+and Centro de Previsão
+de Tempo e Estudos
+Climáticos, Brazil)
+
+12
+
+Pakistan saw its most severe heatwave in
+decades, with temperatures reaching 51°C in
+Larkana, the highest May temperature in the
+city since 1998. Cotton crops and rice paddies
+were damaged, and more than 100 people died.
+Punjab and Sindh provinces were inundated
+by floods due to heavy monsoon rains during
+most of August. The floods covered about
+200 000 km2, killing an estimated 250 people
+and affecting nearly 1.5 million.
+Northern East Asia had a cold period during its
+2012/2013 winter season, associated with negative Arctic Oscillation conditions and blocking
+patterns around eastern Siberia. Most of Siberia
+was 2°C−3°C below average, making this one of
+its coldest winters of the twenty-first century.
+From the end of July to mid-August, unusually
+heavy rain fell near the Amur river, which marks
+the border between China and the Russian
+
+Temperatures in South America were dominated
+by hot conditions in most parts of the continent,
+except for some limited areas in southern Brazil
+and the north-central and western parts of South
+America, which had near to colder than average
+temperatures. A warm October–December
+period – including the hottest December on
+record – contributed to the second warmest
+year in Argentina since records began in 1961,
+behind only the record warmth of 2012. In
+December, the most significant heatwave since
+1987 struck central and northern Argentina.
+North-eastern Brazil experienced its worst
+drought in 50 years. This followed the 2001–2010
+decade, when large parts of the Amazon Basin
+saw prolonged drought. The Brazilian Plateau,
+which is the core monsoon region in South
+
+10N
+
+EQ
+
+2000
+1600
+1200
+800
+600
+400
+200
+–200
+–400
+–600
+–800
+–1200
+
+10S
+
+20S
+
+30S
+
+40S
+
+50S
+
+60S
+80W
+
+60W
+
+40W
+
+America, experienced its largest rainfall deficit
+since records began in 1979; damages exceeded
+US$ 8 billion.
+On 2 April, La Plata, Argentina, received about
+300 mm of rainfall in just three hours. The
+torrential downpour led to flash floods that
+resulted in more than 50 fatalities, making
+this one of the worst weather disasters in the
+history of Argentina. Many states in Brazil also
+had extremely heavy rainfall during December,
+with at least seven cities setting new precipitation records. In south-eastern Brazil, the city
+of Aimores received more than four times its
+average rainfall for the month.
+
+Summer in Alaska was the second hottest on
+record, and October–December was the sixth
+warmest such period on record for the state.
+Mexico experienced a record warm July and
+August and a warm autumn.
+
+NORTH AMERICA, CENTRAL AMERICA AND
+THE CARIBBEAN
+
+In Canada, 2013 was the thirteenth driest year
+on record. Nevertheless, torrential downpours
+overwhelmed Calgary and vast areas of southern Alberta in June, forcing 100 000 people
+to evacuate their homes and causing close
+to US$ 6 billion in damage. The contiguous
+United States was wetter than average for the
+year, with some geographical variations. Two
+states, Michigan and North Dakota, experienced
+record wet conditions. Alaska observed its third
+wettest year on record and the wettest in the
+past 50 years.
+
+Temperatures across most of North America
+were above average during 2013, but were
+more moderate overall than in 2012. Winter was
+warmer than average in Canada and the United
+States, although spring in the contiguous United
+States was the coolest since 1996. Temperatures
+in the United States rebounded during the summer, and the warmth continued into September.
+
+A major drought that encompassed large parts
+of the central United States in 2012 and early
+2013 improved across much of the country.
+By the end of 2013, about 31 per cent of the
+country was experiencing drought, down from
+about 61 per cent at the beginning of the year.
+California had its driest year since records began
+in 1895; San Francisco received only 16 per cent
+
+S
+
+Drought not analyzed
+in shaded areas
+
+Intensity:
+D0 Abnormally dry
+D1 Drought – moderate
+D2 Drought – severe
+D3 Drought – extreme
+D4 Drought – exceptional
+
+Delineates dominant impacts
+
+L
+
+S = Short-term, typically < 6 months
+
+(e.g. hydrology, ecology)
+
+S
+
+L
+
+SL
+
+SL
+
+(e.g. agriculture, grasslands)
+L = Long-term, typically > 6 months
+
+L
+
+SL
+
+Drought impact types:
+
+L
+
+L
+L
+L
+
+SL
+
+SL
+L
+
+SL
+SL
+
+S
+
+L SL
+SL
+L
+
+L
+
+S
+
+SL
+S
+
+SL
+
+S
+
+Figure 11. Drought
+conditions over
+North America for
+the beginning of
+2013(Sources: NOAA
+National Climatic Data
+Center, in association
+with the United
+States Department of
+Agriculture, the NOAA
+Climate Prediction Center
+and the National Drought
+Mitigation Center, United
+States; Environment
+Canada and Agriculture
+and Agri-Food, Canada;
+the Comisión Nacional
+del Agua, and the
+Servicio Meteorológico
+Nacional, Mexico)
+
+13
+
+of its average annual rainfall since local records
+began in 1947. Very hot conditions, combined
+with strong winds and drought, contributed to
+the worst wildfire in Colorado history.
+The contiguous United States was hit by several
+late-season winter storms. In April, Bismarck,
+North Dakota received 44 cm of snow, setting
+a new calendar-day record. Duluth, Minnesota
+and Rapid City, South Dakota each had their
+snowiest month on record, with 129 cm and
+109 cm, respectively. El Reno, Oklahoma, was
+struck by a particularly powerful tornado: at
+4.3 km, it was the widest tornado ever observed
+in the United States.
+In the Caribbean, the Guadeloupe archipelago
+experienced strong drought conditions between
+January and March, and the lack of rain damaged sugar cane and banana crops. Martinique
+received exceptionally heavy rainfall in April.
+
+SOUTH-WEST PACIFIC
+
+Figure 12. Annual
+(1 January–
+31 December) average
+temperature deciles
+map for Australia for the
+period 1910–2013
+(Source: Australian
+Bureau of Meteorology)
+
+In Australia, 2013 was the warmest year since
+national records began in 1910, at 1.20°C above
+average and 0.17°C higher than the previous
+record in 2005. January was the hottest month
+ever observed in the country. The summer
+(December–February) and spring (September–
+November) were both the hottest on record,
+and the winter (June–August) was the third
+warmest. On 7 January, a new national average
+
+daily maximum temperature of 40.30°C was set.
+The temperature in Moomba, South Australia,
+reached 49.6°C, the highest recorded in the state
+since 1960. Hobart recorded its all-time high
+observed temperature of 41.8°C on 4 January,
+while the temperature in Sydney reached 45.8°C
+on 18 January, the hottest since records began.
+During the same month, a tropical low caused
+major flooding along much of the east coast of
+Queensland and northern New South Wales. In
+Queensland, five people were killed and 8 000
+residents were forced to evacuate as floods
+reached record heights.
+New Zealand experienced its warmest winter on
+record and its third warmest year overall since
+national records began in 1909. The northern
+and eastern parts of the country had their
+driest year on record and suffered drought,
+while other parts experienced near-record high
+annual rainfall.
+Drier-than-normal weather conditions since late
+2012 resulted in severe drought conditions in
+the northern Marshall Islands. This led to critical
+shortages of drinking water, damaged food
+crops and the declaration of a national state
+of disaster. Abundant rain fell in June over the
+south of Atuona in the Marquesas Islands of
+French Polynesia. On 5 June, the region received
+66.1 mm of precipitation in one hour. Heavy
+rains following an extra-tropical depression fell
+on New Caledonia during 1–3 July. A total of
+714 mm of rain fell in a 24-hour period, setting
+a new record.
+
+EUROPE AND THE MIDDLE EAST
+Temperature decile ranges
+
+10
+8–9
+
+Above average
+
+4–7
+
+Average
+
+2–3
+
+Below average
+
+1
+
+14
+
+Highest on
+record
+Very much
+above average
+
+Very much
+below average
+Lowest on
+record
+
+The year 2013 was the sixth warmest on record
+across Europe. Many regions were warmer than
+average at the start of 2013. The north-east
+of Iceland had its warmest January–February
+period on record. In Lithuania, February was 3°C
+warmer than average. However, the Jungfraujoch
+in the high mountains of Switzerland saw its
+coldest winter in the past 40 years.
+The north of the European part of the Russian
+Federation experienced the coldest March in
+the past half century, as temperatures plunged
+8°C −10°C below average in some areas. France,
+the Netherlands and the United Kingdom all had
+their coolest springs in decades. In Iceland, a
+
+Figure 13. Temperature
+anomalies over Europe
+during March 2013
+(Source: Deutscher
+Wetterdienst, Germany)
+
+°C
+< –4
+–4 – –3
+–3 – –2
+–2 – –1
+–1 –
+
+0
+
+0 –
+
+1
+
+1 –
+
+2
+
+2 –
+
+3
+
+3 –
+
+4
+
+>4
+
+new minimum record for May was set when the
+temperature fell to –21.7°C in the eastern inland.
+At the same time, the western Greenland coast
+had its record warmest March, and Norway and
+Sweden each observed one of their warmest
+months of May since their national records
+began.
+
+catchments since at least 1950, as more than
+400 mm of rain fell in some localized areas
+during 29 May–3 June. Austria observed its
+wettest May–June period since records began
+in 1858. Some rivers reached historical record
+heights; in Germany, Passau saw its highest
+water level since 1501.
+
+Summer was very hot for many European countries. Portugal endured one of its worst July
+heatwaves since 1941. The extended August
+heatwave in Austria set a new national record
+high of 40.5°C. On 8 August, many stations in
+Slovenia observed their highest temperatures
+on record, with several exceeding 40°C. On
+the same day in Slovakia, the temperature in
+Bratislava reached 39.4°C, the highest since
+observations began in 1850.
+
+During 10–15 December, a rare snowstorm hit
+parts of the Middle East. In Egypt, snow fell in
+Cairo for the first time in 112 years. The Syrian
+Arab Republic, Jordan and Israel also received
+unprecedented amounts of snow. Cold weather
+accompanied the storm. On 15 December, the
+temperature in Shoubak, Jordan, plummeted
+to –16°C, the lowest temperature ever recorded
+in the country.
+
+The beginning of autumn was also anomalously
+warm over Europe. Unusual warmth settled
+over the Russian Federation towards the end of
+2013. Following its record warmest November of
+5.3°C above the 1961–1990 average, the country
+observed its record warmest December, at 4.6°C
+above average. Moscow and Saint Petersburg
+broke their daily maximum temperature records
+on 25 December by 0.4°C and 1.4°C, respectively.
+Extreme precipitation in the Alpine region and
+in Austria, Czech Republic, Germany, Poland
+and Switzerland caused the most intense and
+extended flooding in the Danube and Elbe river
+
+An extra-tropical cyclone struck the United
+Kingdom on 28 October, the strongest autumn
+storm to hit the region since 2002. During
+4–7 December, an extra-tropical cyclone moved
+from west to east across northern Europe; the
+resulting storm surges, including in the United
+Kingdom and the Netherlands, were the worst
+in the past six decades. In Germany, the storm
+surge reached 4–6 m above mean sea level, but
+dykes were 8 m tall.
+
+TROPICAL CYCLONES
+Globally, there were 94 storms during 2013
+(wind speeds equal to or greater than 63 km/h).
+
+15
+
+15
+
+The number of storms was higher than in
+2012 (84 storms), 2011 (74 storms) and 2010
+(67 storms, the lowest number in the modern
+satellite era). It should be noted that the total
+number of storms does not necessarily correlate
+with the number of storms that affect inhabited
+land areas.
+The Atlantic Ocean basin experienced 13 named
+storms, just above the 1981–2010 average of
+12 storms, but below the recent decade of
+2001–2010, which saw an average of 15 storms
+per year. No storms attained major intensity
+(wind speed of 178 km/h). The intensity and
+duration of the season’s hurricanes were measured as 33 per cent of the average, the lowest
+value since 1994.
+
+NASA
+
+The Eastern North Pacific basin had above-average hurricane activity in 2013. There were
+a total of 20 storms, 9 of which intensified to
+hurricane status and 1 of which (Raymond )
+became a major hurricane. Two hurricanes from
+two separate basins (Ingrid in the North Atlantic
+and Manuel in the Eastern North Pacific) struck
+Mexico nearly simultaneously on 15 September.
+This unusual event, which had not occurred
+
+16
+
+16
+
+since 1958, displaced tens of thousands of
+residents and damaged some 22 000 homes
+in Guerrero state.
+The Wes tern Nor th Pacific Ocean basin
+recorded a total of 31 storms, above the
+1981−2010 average of 26 and well above the
+most recent decadal average (2001–2010) of
+23, making this the most active season since
+2004. Of these storms, 13 strengthened into
+typhoons. Typhoon Usagi (Odette) was one
+of the strongest cyclones globally to have
+formed in 2013, with 10-minute wind speeds
+reaching 204 km/h. In November, Typhoon
+Haiyan (named Yolanda in the Philippines)
+became one of the strongest storms on record
+to ever make landfall anywhere on the globe,
+with maximum 10-minute wind speeds reaching 230 km/h prior to landfall. Haiyan caused
+significant damage across South-East Asia, and
+the Philippines bore the brunt of the devastation. Storm surges of 5–6 m were reported in
+heavily populated low-lying areas of Tacloban
+and in the islands of Samar and Leyte. Damage
+caused by immediate surge and following
+inundation was the worst in the past several
+decades, with more than 6 200 deaths and
+
+Typhoon Haiyan approaching the Philippines on 7 November 2013
+
+about 14 million people affected, according
+to reports from the United Nations Office for
+the Coordination of Humanitarian Affairs. The
+Philippine National Disaster Risk Reduction
+and Management Council estimated that total
+damages exceeded US$ 850 million in that
+country alone.
+
+In the South-West Pacific Ocean basin, the
+2012/2013 tropical cyclone season was well
+below average, with 5 named tropical storms
+compared with the 1981–2010 average of 12 and
+the 2001–2010 decadal average of 10. Four of
+these storms attained severe tropical cyclone
+status, similar to the 1981–2010 average. Severe
+Tropical Cyclone Evan was the strongest storm
+in the basin during the season, killing 10 people
+and causing damages of over US$ 300 million
+in Samoa and Fiji alone.
+
+The North Indian Ocean basin recorded a
+slightly above-average season with five storms
+compared with the 1981–2010 average of four;
+three of these storms (Phailin, Lehar and Madi)
+evolved into very severe cyclonic storms.
+Phailin forced 1.1 million residents in Odisha
+and Andhra Pradesh states to be evacuated
+ahead of the storm, one of the largest such
+evacuations in the history of India.
+
+GREENHOUSE GASES AND OZONEDEPLETING SUBSTANCES
+The WMO Global Atmosphere Watch Programme
+reports that atmospheric levels of CO2, methane
+(CH4) and nitrous oxide (N2O) reached new highs
+in 2012. Data for 2013 have not yet been compiled. Globally averaged levels of CO2 reached
+393.1±0.13 parts per million (ppm), 41 per cent
+above pre-industrial levels (before 1750). In May
+2013, for the first time since observations began,
+daily average CO2 levels at several stations
+outside the Arctic exceeded the symbolic threshold of 400 ppm. (CO2 levels reach a seasonal
+maximum in the northern hemisphere spring,
+before vegetation growth and other processes
+start to absorb the CO2.)
+
+Ten tropical storms were observed in the SouthWest Indian Ocean basin during the 2012/2013
+tropical cyclone season. This is close to the
+long-term 1981–2010 average and the 2001–2010
+average of nine tropical storms. Seven of these
+storms reached tropical cyclone status, which
+is well above the average of four.
+The Australian basin recorded a near-average
+2012/2013 cyclone season, with 10 tropical
+storms compared with the 1981–2010 average
+of 11 and the most recent decadal average of 9.
+Four of these storms became severe tropical
+cyclones. The strongest cyclone of the season
+was Rusty, with a financial impact likely exceeding US$ 100 million.
+1850
+
+380
+370
+360
+350
+340
+330
+
+1985
+
+1990
+
+1995
+
+2000
+Year
+
+2005
+
+1750
+1700
+1650
+
+1995 2000 2005 2010
+Year
+
+2
+1
+
+1985
+
+1990
+
+1995
+
+2000
+Year
+
+2005
+
+2010
+
+320
+315
+310
+305
+
+2
+(b)
+
+15
+10
+5
+0
+-5
+
+(a)
+
+1980 1985 1990 1995 2000 2005 2010
+Year
+
+N2O growth rate (ppb/yr)
+
+3
+
+325
+
+300
+1985 1990
+
+20
+(b)
+
+CH4 growth rate (ppb/yr)
+
+CO2 growth rate (ppm/yr)
+
+4
+
+0
+
+1800
+
+1600
+
+2010
+
+330
+(a)
+
+N2O mole fraction (ppb)
+
+(a)
+
+390
+
+CH4 mole fraction (ppb)
+
+CO2 mole fraction (ppm)
+
+400
+
+Atmospheric concentrations of CH 4 reached
+a new high of 1 819±1 parts per billion (ppb)
+in 2012, or 160 per cent higher than the preindustrial level. Concentrations of N2O reached
+
+1985
+
+1990
+
+1995
+
+2000
+Year
+
+2005
+
+2010
+
+(b)
+1.5
+1
+0.5
+0
+1980 1985 1990 1995 2000 2005 2010
+Year
+
+Figure 14. Left: Globally
+averaged CO 2 mole
+fraction (a) and its
+growth rate (b) from
+1984 to 2012. Annually
+averaged growth rate
+is shown as columns
+in (b). Centre: Globally
+averaged CH 4 mole
+fraction (a) and its
+growth rate (b) from
+1984 to 2012. Annually
+averaged growth rate is
+shown as columns in (b).
+Right: Globally averaged
+N 2 O mole fraction (a)
+and its growth rate
+(b) from 1980 to 2012.
+Annually averaged
+growth rate is shown as
+columns in (b).
+
+17
+
+18
+
+325.1±0.1 ppb, which is 20 per cent above the
+pre-industrial level.
+As a result, the NOAA Annual Greenhouse Gas
+Index for 2012 was 1.32, representing a 32 per
+cent increase in total radiative forcing (relative
+to 1750) by all long-lived greenhouse gases
+since 1990. Rising concentrations of greenhouse
+gases are the main driver of climate change.
+While chlorofluorocarbons, halons and other
+harmful chemicals have been phased out
+under the Montreal Protocol on Substances
+
+that Deplete the Ozone Layer, these gases can
+remain in the atmosphere for many years.
+They deplete the stratospheric ozone layer
+that protects life on Ear th. The resulting
+Antarctic ozone hole contributes to changes
+in wind patterns and the regional climate in
+Antarctica. The Antarctic ozone hole reached a
+maximum of 23.1 million km2 on 15 September
+and 24 million km2 on 16 September. This is
+more than the seasonal maxima observed in
+2010 and 2012, but somewhat less than the
+24.4 million km2 seasonal maximum reached
+in 2011.
+
+Day number
+200
+30
+
+250
+
+300
+
+350
+30
+
+2013
+2012
+2011
+2006
+
+25
+
+25
+
+2004
+
+Area [ 106 km2]
+
+Figure 15. Daily area
+(million km 2 ) of the
+Antarctic ozone hole
+for 2013 compared with
+the two previous ozone
+holes (2012 and 2011).
+The plot covers the
+period from 1 July to 31
+December. Also shown
+for comparison are two
+years that experienced
+weak ozone holes (2004
+and 2002). The two
+largest ozone holes
+on record (in 2000 and
+2006) are also shown.
+The thick light grey line
+shows the daily ozone
+hole area averaged over
+1992–2012. The plot
+is produced at WMO
+and based on data
+from the Multi Sensor
+Reanalysis (MSR) of
+the Royal Netherlands
+Meteorological Institute
+until 2008 and on
+GOME-2 data from the
+EUMETSAT-operated
+Metop-A satellite from
+2009. More information
+about the MSR dataset
+can be found at http://
+www.atmos-chem-phys.
+net/10/11277/2010/acp10-11277-2010.pdf.
+
+2002
+
+20
+
+20
+
+2000
+1992–2012
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Month
+
+Nov
+
+Dec
+
+0
+
+MAJOR WEATHER AND CLIMATE
+EVENTS AROUND THE WORLD IN 2013
+•
+
+Typhoon Haiyan (Yolanda), one of the strongest storms to ever make landfall,
+devastated parts of the central Philippines.
+
+•
+
+Surface air temperatures over land in the southern hemisphere were very warm,
+resulting in widespread heatwaves; Australia saw record warmth for the year,
+Argentina its second warmest year and New Zealand its third warmest.
+
+•
+
+Frigid polar air swept across parts of Europe and the south-eastern United States.
+
+•
+
+Severe drought gripped Angola, Botswana and Namibia.
+
+•
+
+Heavy monsoon rains led to severe floods on the India-Nepal border.
+
+•
+
+Abundant rains and flooding impacted north-eastern China and eastern Russian
+Federation.
+
+•
+
+Heavy rains and floods affected Sudan and Somalia.
+
+•
+
+Major drought affected southern China.
+
+•
+
+North-eastern Brazil experienced its worst drought in the past 50 years.
+
+•
+
+The widest tornado ever observed hit El Reno, Oklahoma in the United States.
+
+•
+
+Extreme precipitation led to severe floods in the Alps and in Austria, the Czech
+Republic, Germany, Poland and Switzerland.
+
+•
+
+Israel, Jordan and the Syrian Arab Republic were struck by unprecedented
+snowfall.
+
+•
+
+An extra-tropical windstorm affected several countries in western and northern
+Europe.
+
+•
+
+Greenhouse gas concentrations in the atmosphere reached record highs.
+
+•
+
+The global oceans reached new record high sea levels.
+
+•
+
+The Antarctic sea-ice extent reached a record daily maximum.
+
+19
+
+Explaining the summer 2012/2013 and annual
+2013 record warmth in Australia
+Sophie C. Lewis and David J. Karoly, ARC Centre of Excellence for Climate System Science,
+University of Melbourne, Australia
+
+THE IMPORTANCE OF ATTRIBUTION SCIENCE
+In 2012, the World Climate Research Programme
+(WCRP), which is sponsored by WMO, the
+Intergovernmental Oceanic Commission of
+the United Nations Educational, Scientific and
+Cultural Organization and the International
+Council for Science, identified six grand challenges within the climate science community.
+The prediction and attribution of extreme events
+is one of these grand challenges. Extreme climate events that have large impacts on society,
+both physically and economically, are increasingly requiring prompt and credible scientific
+explanations.
+Today, there is a growing ability within the climate
+science community to untangle the complexities
+of understanding the natural and human-induced
+factors contributing to specific extreme weather
+and climate events. Recent analyses of various
+events show that the effects of natural weather
+and climate fluctuations played a key role in the
+intensity and evolution of many extreme events.
+However, for some events, the analyses revealed
+compelling evidence that human-caused climate
+change, due to the emission of heat-trapping
+gases, also contributed. Understanding the
+influences on such events helps us to better
+understand how and why extreme events are
+changing. In addition, calculating how the odds
+of a particular extreme event have changed provides a way to quantify the influence of climate
+change on these events.
+The Australia summer 2012/2013 area-averaged
+surface air temperature was the hottest since
+national records began in 1910. In addition to
+the summer, temperature records were also
+broken on daily and monthly timescales. Later
+in 2013, new national 12-month period temperature records were set in three consecutive
+months: for the period ending in August, then
+in September and once again in October. Lastly,
+a new calendar-year record was set at the end
+of 2013.
+Contributing fac tors to these record
+2013 Australian temperatures, including
+
+20
+
+human-induced climate change and natural
+variability associated with El Niño-Southern
+Oscillation (ENSO), were investigated using
+a suite of climate model simulations. Using
+nine state-of-the-art global climate models
+that participated in the WCRP Coupled Model
+Intercomparison Project Phase 5, changes in
+the probability of extreme Australian summer temperatures due to human influences
+were investigated. These nine models simulate well the observed probability distribution
+of Australian average summer and 12-month
+average temperatures since 1910.
+The probability of hot Australian summers was
+calculated for model experiments incorporating
+human influences (changes in the concentrations of greenhouse gases, aerosols and
+ozone in the atmosphere) and natural causes
+(solar radiation changes and emissions from
+volcanic eruptions), and this was compared
+with the results from a parallel set of experiments that included only natural causes. The
+comparison shows that human-induced climate
+change substantially increased the likelihood
+of the record-breaking Australian summer of
+2013; when human influences were included in
+model simulations, the probability of very hot
+summer temperatures across Australia, such
+as in 2013, increased at least fivefold. These
+types of extreme Australian summers become
+even more frequent in simulations of the future
+under further global warming.
+The recent record Australian summer was also
+notable because it occurred when ENSO conditions were neutral to weak La Niña; these
+conditions typically produce cooler temperatures across Australia. Prior to 2013, six of the
+eight hottest Australian summers occurred
+during El Niño years, but natural ENSO variations are very unlikely to explain the record
+2013 Australian heat.
+Using the same modelling approach, preliminary analysis of the Australian area-average
+temperature record for the calendar year
+2013 indicates that human-induced causes
+vastly increased the odds of setting a new
+
+temperature record. In the model experiments,
+it is virtually impossible to reach such a high
+temperature due to natural climate variations
+alone. In simulations with only natural causes
+considered, none of the 13 000 model years
+analysed exceed the previous hottest year
+in Australia, which was observed in 2005.
+Conversely, in simulations for the period
+2006 –2020 that include both natural and
+human-induced causes, such records occur
+approximately once every 10 years.
+In summary, comparing climate model simulations with and without human factors shows that
+the record hot Australian summer of 2012/2013
+was about five times as likely as a result of
+human-induced influence on climate and that
+
+the record hot calendar year of 2013 would
+have been virtually impossible without human
+contributions of heat-trapping gases, illustrating
+that some extreme events are becoming much
+more likely due to climate change.
+Attributing Australia’s record warm summer
+2012/2013 and record warm calendar year 2013
+to human influences – Sophie C. Lewis and David
+J. Karoly, ARC Centre of Excellence for Climate
+System Science, University of Melbourne,
+Australia. Adapted from: “Anthropogenic
+contributions to Australia’s record summer
+temperatures of 2013”, Geophysical Research
+Letters, 40 (14): 3705 –3709 (28 July 2013),
+available at http://onlinelibrary.wiley.com /
+doi/10.1002/grl.50673/abstract.
+
+Probability density
+
+Observations
+
+0.8
+0.6
+0.4
+
+1998
+
+Models
+natural +
+anthropogenic
+(2006–2020)
+
+2013
+
+Models
+natural
+
+0.2
+0
+−3
+
+−2
+
+−1
+
+0
+
+1
+
+2
+
+Temperature changes
+relative to 1911–1940
+
+3
+
+4
+
+Probability density
+functions for Australian
+summer temperature
+anomalies (relative
+to 1911–1940) for
+observations (dashed
+black, all years shown);
+model simulations
+considering only natural
+causes (green, all years
+shown); and model
+simulations considering
+both anthropogenic
+and natural causes
+(red, years 2006–2020
+shown). Vertical dashed
+lines show the observed
+2013 temperature
+anomalies for the
+2012/2013 Australian
+summer and the second
+hottest Australian
+summer on record
+(1997/1998).
+
+21
+
+For more information, please contact:
+
+World Meteorological Organization
+7 bis, avenue de la Paix – P.O. Box 2300 – CH 1211 Geneva 2 – Switzerland
+Communications and Public Affairs Office
+E-mail: cpa@wmo.int
+www.wmo.int
+
+JN 14223
+
+Tel.: +41 (0) 22 730 83 14/15 – Fax: +41 (0) 22 730 80 27
+
+
