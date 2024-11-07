@@ -3,8 +3,8 @@ import numpy as np
 import matplotlib.patches as mpatches
 
 # Define the categories and datasets for each plot
-categories = ["Positive words", "Negative words", "Uncertain words", "Litigious words", "Constraining words", "Readibility index"]
-names = ["WEF", "WMO", "BIS", "IMF", "FAO", "UNWWDR", "UNCTAD", "WIPO", "UNCHR"]
+categories = ["Positive\nwords", "Negative\nwords", "Uncertain\nwords", "Litigious\nwords", "Constraining\nwords", "Readability\nindex"]
+names = ["WEF", "WMO", "BIS", "IMF", "FAO", "UNWWDR", "UNCTAD", "WIPO", "UNHCR"] 
 mean_values = [
     [0.275190165, 0.105635829, 0.246361499, 0.195009096, 0.315539931, 0.375564686, 0.621030179, 0.620604976, 0.368387962],
     [0.711857208, 0.300490948, 0.308482968, 0.336202966, 0.354393232, 0.215423825, 0.082735449, 0.076684495, 0.293914863],
@@ -42,7 +42,7 @@ evolution_values = [
 fig, axs = plt.subplots(3, 3, figsize=(18, 18), subplot_kw=dict(polar=True))
 
 # Increase the spacing between subplots
-fig.subplots_adjust(hspace=0.5, wspace=0.5)  # Adjust values as needed
+fig.subplots_adjust(hspace=0.4, wspace=0.4)  # Adjust values as needed
 
 
 # Set the color-blind friendly colors
@@ -89,19 +89,28 @@ for idx, (row, col) in enumerate([(i // 3, i % 3) for i in range(9)]):
     
     # Set category labels and plot title
     ax.set_xticks(angles[:-1])
-    ax.set_xticklabels(categories)
+    ax.set_xticklabels(categories, fontsize=14)
+
+    # Adjust label positions to create extra space between labels and chart
+    labels = ax.get_xticklabels()
+    for label in labels:
+        label.set_position((label.get_position()[0] * 2, label.get_position()[1] * 2))  # Indented correctly
+
+    # Set the scale for each subplot from 0 to 1 with 0.2 interval lines
     ax.set_ylim(0, 1)
-    ax.set_yticks(np.arange(0, 1.1, 0.1))
-    ax.set_yticklabels([f"{i/10:.1f}" for i in range(11)], color="grey", size=8, verticalalignment='center')
+    ax.set_yticks(np.arange(0, 1.2, 0.2))  # Set ticks at 0.2 intervals up to 1.0
+    ax.set_yticklabels([f"{i/5:.1f}" for i in range(6)], color="grey", size=10, verticalalignment='center')
+
+
     ax.grid(True)
-    ax.set_title(names[idx], fontsize=14, pad=20)
+    ax.set_title(names[idx], fontsize=18, pad=20)
 
 # Add a single legend for the entire figure
 lines = [axs[0, 0].plot([], [], color=min_color, linewidth=1, linestyle='dashed', label="Minimum")[0],
          axs[0, 0].plot([], [], color=min_max_color, linewidth=1, linestyle='dashed', label="Maximum")[0],
          axs[0, 0].plot([], [], color=mean_color, linewidth=2, label="Mean")[0]]
 
-fig.legend(handles=lines, loc='upper center', bbox_to_anchor=(0.5, 0.95), ncol=3, fontsize=12)
+fig.legend(handles=lines, loc='upper center', bbox_to_anchor=(0.5, 0.95), ncol=3, fontsize=16)
 
 # Save the figure as a high-quality image (1000 DPI)
 plt.savefig("Spider chart.png", dpi=1000)
