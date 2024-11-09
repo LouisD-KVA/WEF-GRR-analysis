@@ -4,7 +4,7 @@ import matplotlib.patches as mpatches
 
 # Define the categories and datasets for each plot
 categories = ["Positive\nwords", "Negative\nwords", "Uncertain\nwords", "Litigious\nwords", "Constraining\nwords", "Readability\nindex"]
-names = ["WEF", "WMO", "BIS", "IMF", "FAO", "UNWWDR", "UNCTAD", "WIPO", "UNHCR"] 
+names = ["a) WEF", "b) WMO", "c) BIS", "d) IMF", "e) FAO", "f) UNWWDR", "g) UNCTAD", "h) WIPO", "i) UNHCR"]
 mean_values = [
     [0.275190165, 0.105635829, 0.246361499, 0.195009096, 0.315539931, 0.375564686, 0.621030179, 0.620604976, 0.368387962],
     [0.711857208, 0.300490948, 0.308482968, 0.336202966, 0.354393232, 0.215423825, 0.082735449, 0.076684495, 0.293914863],
@@ -109,6 +109,7 @@ for idx, (row, col) in enumerate([(i // 3, i % 3) for i in range(9)]):
 lines = [axs[0, 0].plot([], [], color=min_color, linewidth=1, linestyle='dashed', label="Minimum")[0],
          axs[0, 0].plot([], [], color=min_max_color, linewidth=1, linestyle='dashed', label="Maximum")[0],
          axs[0, 0].plot([], [], color=mean_color, linewidth=2, label="Mean")[0]]
+
 
 fig.legend(handles=lines, loc='upper center', bbox_to_anchor=(0.5, 0.95), ncol=3, fontsize=16)
 
