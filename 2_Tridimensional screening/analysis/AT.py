@@ -109,7 +109,7 @@ df['Color'] = df['AT Category'].map(at_colors)
 plt.rcParams.update({'font.size': 12})  # Increase the default font size globally
 
 # Create boxplots using matplotlib
-fig, ax = plt.subplots(figsize=(12, 8))
+fig, ax = plt.subplots(figsize=(12, 9))
 
 # Plot boxplots for Data Text and Data Survey
 for i, category in enumerate(at_names):
@@ -156,13 +156,21 @@ circle_inside_rect = Line2D([0], [0], marker='o', color='#1E90FF', markerfacecol
 plt.legend(handles=[cross_inside_rect, circle_inside_rect], loc='upper right', fontsize=12, frameon=False)
 
 # Add labels and title
-ax.set_xlabel('Anthropocene Traps', fontsize=12)
 ax.set_ylabel('Normalized proportion of screens (Z-score)', fontsize=12)
 
-plt.tight_layout()
+plt.tight_layout(pad=2.0)
+
+ax.text(
+    -2, 1,  # Adjust position slightly outside the plot bounds
+    "b)",  # Text to display
+    transform=ax.transData,  # Use data coordinates for positioning
+    fontsize=20,  # Font size
+    ha="left",  # Horizontal alignment
+    va="top",  # Vertical alignment
+)
 
 # Save the figure as a high-quality image (300 DPI)
-plt.savefig("AT.png", dpi=1000)
+plt.savefig("AT.png", dpi=1000, bbox_inches="tight")
 
 # Optionally, also display the plot
 plt.show()

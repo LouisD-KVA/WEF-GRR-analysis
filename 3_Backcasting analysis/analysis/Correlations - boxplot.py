@@ -60,7 +60,7 @@ subplot_positions = [
 ]
 
 # Plotting with uniform y-axis and specific colors for each category
-fig, axes = plt.subplots(2, 4, figsize=(14, 7), constrained_layout=True)
+fig, axes = plt.subplots(2, 4, figsize=(14, 8), constrained_layout=True)
 y_min, y_max = -1, 1  # Set the same y-axis limits for all subplots
 
 for category, row, col in subplot_positions:
