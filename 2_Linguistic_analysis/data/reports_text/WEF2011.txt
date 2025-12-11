@@ -1,0 +1,3582 @@
+Global Risks
+2011
+
+Sixth
+Edition
+An initiative of the Risk Response Network
+World Economic Forum
+in collaboration with:
+
+Marsh & McLennan Companies
+Swiss Reinsurance Company
+Wharton Center for Risk Management,
+University of Pennsylvania
+Zurich Financial Services
+
+World Economic Forum
+January 2011
+
+The information in this report, or on which this report is based, has been obtained from sources that
+the authors believe to be reliable and accurate. However, it has not been independently veriﬁed and
+no representation or warranty, express or implied, is made as to the accuracy or completeness of any
+information obtained from third parties. In addition, the statements in this report may provide current
+expectations of future events based on certain assumptions and include any statement that does not
+directly relate to a historical fact or a current fact. These statements involve known and unknown risks,
+uncertainties and other factors which are not exhaustive. The companies contributing to this report
+operate in a continually changing environment and new risks emerge continually. Readers are cautioned
+not to place undue reliance on these statements. The companies contributing to this report undertake
+no obligation to publicly revise or update any statements, whether as a result of new information, future
+events or otherwise and they shall in no event be liable for any loss or damage arising in connection with
+the use of the information in this report.
+
+World Economic Forum
+91-93 route de la Capite
+CH-1223 Cologny/Geneva
+Switzerland
+Tel.: +41 (0)22 869 1212
+Fax: +41 (0)22 786 2744
+E-mail: globalrisks@weforum.org
+www.weforum.org
+© 2011 World Economic Forum
+All rights reserved.
+No part of this publication may be reproduced or transmitted
+in any form or by any means, including photocopying and recording,
+or by any information storage and retrieval system.
+ISBN: 92-95044-47-9
+978-92-95044-47-0
+REF: 050111
+
+Figure 1 | Global Risks Landscape 2011:
+Perception data from the World Economic Forum’s Global Risks Survey
+
+Economic Risks
+
+Environmental Risks
+
+Geopolitical Risks
+
+Asset price collapse
+Extreme commodity price volatility
+Extreme consumer price volatility
+Extreme energy price volatility
+Fiscal crises
+Global imbalances and currency volatility
+Infrastructure fragility
+Liquidity/credit crunch
+Regulatory failures
+Retrenchment from globalization
+Slowing Chinese economy (<6%)
+
+Air pollution
+Biodiversity loss
+Climate change
+Earthquakes and volcanic eruptions
+Flooding
+Ocean governance
+Storms and cyclones
+
+Corruption
+Fragile states
+Geopolitical conflict
+Global governance failures
+Illicit trade
+Organized crime
+Space security
+Terrorism
+Weapons of mass destruction
+
+Societal Risks
+Chronic diseases
+Demographic challenges
+Economic disparity
+Food security
+Infectious diseases
+Migration
+Water security
+
+Technological Risks
+Critical information infrastructure
+breakdown
+Online data and information security
+Threats from new technologies
+
+Figure 2 | Risks Interconnection Map (RIM) 2011
+
+Contents
+
+Preface
+
+4
+
+Executive summary
+
+6
+
+Cross-cutting global risks
+Economic disparity and global governance failures
+
+10
+
+Risks in focus 1
+The macroeconomic imbalances nexus
+
+14
+
+Risks in focus 2
+The illegal economy nexus
+
+22
+
+Risks in focus 3
+The water-food-energy nexus
+
+28
+
+Risks to watch
+
+36
+
+Conclusion
+
+41
+
+Appendix 1
+Definitions and methodology
+
+42
+
+Appendix 2
+Survey data overview 2011
+
+44
+
+Appendix 3
+Common global risk response strategies
+
+48
+
+Appendix 4
+Guide to online global risks 2011 resources
+
+50
+
+References and further reading
+
+51
+
+Acknowledgements
+
+52
+
+Project team
+
+56
+
+Global Risks 2011 | 3
+
+Preface
+
+This report aims to enhance understanding of how a
+comprehensive set of global risks are evolving, how
+their interaction impacts a variety of stakeholders,
+and what trade-offs are involved in managing them.
+Global Risks 2011, Sixth Edition is a useful tool for
+policy-makers, CEOs, senior executives and thought
+leaders around the world. It aims to equip institutions
+to understand and respond to global risks and to
+embrace change as a source of innovation.
+Most importantly, I hope that focusing on the critical
+connections between key global risks, stakeholders
+and decision-makers will inspire all to engage
+collectively in efforts to improve the global system’s
+overall resilience.
+Since 2006 the World Economic Forum’s Global Risks
+report has provided a unique and timely analysis of
+the risks that are shaping the global environment.
+Underscored by an unprecedented pace of change,
+stakeholders from across business, government and
+civil society face a new imperative in understanding
+
+At the World Economic Forum Annual Meeting
+2011 in Davos-Klosters, the Forum will go beyond
+its current global risk work in launching the Risk
+Response Network (RRN). The RRN will build on the
+understanding embodied in Global Risks 2011, Sixth
+
+and managing emerging risks.
+
+Edition to provide a platform for our Partners and
+
+Global Risks 2011, Sixth Edition provides a high-
+
+to shape a more secure, innovative and resilient future.
+
+level overview of 37 selected global risks as seen
+by members of the World Economic Forum’s Global
+Agenda Councils and supported by a survey of 580
+
+constituents to collaborate in multistakeholder efforts
+
+I hope you find the report both informative and
+provocative.
+
+leaders and decision-makers around the world. The
+report also benefits from the expertise and thought
+leadership of the World Economic Forum’s Global
+Risk Partners: Marsh & McLennan Companies, Swiss
+Reinsurance Company, Wharton Center for Risk
+Management, University of Pennsylvania, and Zurich
+Financial Services.
+
+4 | Global Risks 2011
+
+Klaus Schwab
+Founder and Executive Chairman
+World Economic Forum
+
+The World Economic Forum’s Risk Response Network
+Global Risks 2011, Sixth Edition is a flagship product of the World Economic Forum’s new Risk Response
+Network (RRN).
+The RRN is a unique platform for global decision-makers to better understand, manage and respond to
+complex and interdependent risks. It will bring a rigorous approach to understanding the complexity of
+risks that face corporate, government and civil society leaders, and will provide tools enabling them to
+better mitigate risks and capture associated opportunities. It will combine:
+•
+
+The most compelling insights, drawn from the World Economic Forum’s communities and
+contributors, including active expert groups such as our Network of Global Agenda Councils and a
+formal network of the world’s top universities and private sector content providers;
+
+•
+
+The most relevant global decision-makers, brought together through a community of Risk Officers
+from top corporations, governments and international organizations;
+
+•
+
+The most suitable tools and services, including analytic tools and risk management processes to
+enable decision-makers to better understand key risks in depth and in context, to respond to them
+proactively and mobilize quickly and efficiently in times of crisis.
+
+This report lays the foundations for the RRN by highlighting three ways for leaders to improve their
+response to complex and interdependent risks:
+•
+
+Proactively address the causes, rather than the symptoms, of global risk, identifying effective
+points of intervention in underlying structures and systems – in particular with respect to global
+governance failures and economic disparities;
+
+•
+
+Devise coordinated response strategies to address the existence of difficult trade-offs and the
+threat of unintended consequences caused in part by increased interconnectedness;
+
+•
+
+Take a longer-term approach to assessment and response, particularly when seeking to manage
+global risks that emerge over decades rather than months or years.
+
+The RRN will build on these insights over the coming months by launching a series of initiatives and
+workstreams focused on a variety of global risks highlighted in this Report. We hope that you will find
+Global Risks 2011, Sixth Edition to be thought-provoking. But, more importantly, we hope many of you will
+join the World Economic Forum’s initiative to collectively better understand and respond to the new world
+of risk.
+
+Global Risks 2011 | 5
+
+Executive summary
+
+The world is in no position to face major,
+new shocks. The financial crisis has
+reduced global economic resilience,
+while increasing geopolitical tension and
+heightened social concerns suggest
+that both governments and societies
+are less able than ever to cope with
+global challenges. Yet, as this report
+shows, we face ever-greater concerns
+regarding global risks, the prospect of
+rapid contagion through increasingly
+connected systems and the threat of
+disastrous impacts.
+In this context, Global Risks 2011, Sixth
+Edition reveals insights stemming from
+an unparalleled effort on the part of the
+World Economic Forum to analyse the
+global risk landscape in the coming
+decade.1
+
+Two cross-cutting global risks
+Two risks are especially significant given their high
+degrees of impact and interconnectedness. Economic
+disparity2 and global governance3 failures both
+influence the evolution of many other global risks and
+inhibit our capacity to respond effectively to them.
+In this way, the global risk context in 2011 is defined by
+a 21st century paradox: as the world grows together, it
+is also growing apart.
+Globalization has generated sustained economic
+growth for a generation. It has shrunk and reshaped
+the world, making it far more interconnected and
+interdependent. But the benefits of globalization seem
+unevenly spread – a minority is seen to have harvested
+a disproportionate amount of the fruits. Although
+growth of the new champions is rebalancing economic
+power between countries, there is evidence that
+economic disparity within countries is growing.
+Issues of economic disparity and equity at both the
+national and the international levels are becoming
+increasingly important. Politically, there are signs of
+resurgent nationalism and populism as well as social
+fragmentation. There is also a growing divergence
+of opinion between countries on how to promote
+sustainable, inclusive growth.
+To meet these challenges, improved global governance
+is essential. But this is another 21st century paradox:
+the conditions that make improved global governance
+so crucial – divergent interests, conflicting incentives
+and differing norms and values – are also the ones
+that make its realization so difficult, complex and
+messy. As a result, we see failures such as the Doha
+Development Round of the World Trade Organization
+(WTO) and the lack of international agreement at the
+Copenhagen Conference on climate change. The G20
+is seen as the most hopeful development in global
+governance but its efficiency in this regard has not
+been proven.
+
+For more information see Appendix 2.
+Wealth and income disparities, both within countries and between countries
+3
+Weak or inadequate global institutions, agreements or networks
+1
+2
+
+6 | Global Risks 2011
+
+Executive summary
+
+Three important risks in focus
+
+Five risks to watch
+
+Beyond these two cross-cutting global risks, three
+important clusters of risks have emerged in this year’s
+analysis:
+
+Five risks have been designated as “risks to watch”,
+as survey respondents assessed them with high
+levels of variance and low levels of confidence while
+experts4 consider they may have severe, unexpected
+or underappreciated consequences:
+
+The “macroeconomic imbalances” nexus: A
+cluster of economic risks including macroeconomic
+imbalances and currency volatility, fiscal crises and
+asset price collapse arise from the tension between
+the increasing wealth and influence of emerging
+economies and high levels of debt in advanced
+economies. Savings and trade imbalances within and
+between countries are increasingly unsustainable while
+unfunded liabilities create extreme long-term pressure
+on fiscal positions. One way out of these imbalances
+would be coordinated global action but this is
+challenging given the conflicting interests of different
+states.
+The “illegal economy” nexus: This nexus examines
+a cluster of risks including state fragility, illicit trade,
+organized crime and corruption. A networked world,
+governance failures and economic disparity create
+opportunities for such illegal activities to flourish. In
+2009, the value of illicit trade around the globe was
+estimated at US $1.3 trillion and growing. These risks,
+while creating huge costs for legitimate economic
+activities, also weaken states, threatening development
+opportunities, undermining the rule of law and keeping
+countries trapped in cycles of poverty and instability.
+International cooperation – both on the supply side
+and on the demand side – is urgently needed.
+The “water-food-energy” nexus: A rapidly rising
+global population and growing prosperity are putting
+unsustainable pressures on resources. Demand for
+water, food and energy is expected to rise by 30-50%
+in the next two decades, while economic disparities
+incentivize short-term responses in production and
+consumption that undermine long-term sustainability.
+Shortages could cause social and political instability,
+geopolitical conflict and irreparable environmental
+damage. Any strategy that focuses on one part of
+the water-food-energy nexus without considering
+its interconnections risks serious unintended
+consequences.
+
+•
+
+Cyber-security issues ranging from the growing
+prevalence of cyber theft to the little-understood
+possibility of all-out cyber warfare
+
+•
+
+Demographic challenges adding to fiscal
+pressures in advanced economies and creating
+severe risks to social stability in emerging
+economies
+
+•
+
+Resource security issues causing extreme
+volatility and sustained increases over the long run
+in energy and commodity prices, if supply is no
+longer able to keep up with demand
+
+•
+
+Retrenchment from globalization through populist
+responses to economic disparities, if emerging
+economies do not take up a leadership role
+
+•
+
+Weapons of mass destruction, especially
+the possibility of renewed nuclear proliferation
+between states
+
+Effective risk response is not only about proactively
+reducing the downsides associated with global risks;
+it is also about seizing the opportunities for innovation
+and growth that may arise. Throughout this report, a
+series of risk response strategies are explored that can
+help stakeholders achieve both goals.
+
+Unless otherwise noted, in this report “experts” refers to the Global Agenda Council members and other contributors who are
+acknowledged at the end of this report. They provided input through various means, including participating in the Global Risks Survey,
+taking part in workshops, reviewing the report and providing individual advice and counsel.
+
+4
+
+Global Risks 2011 | 7
+
+Cross-cutting global risks
+Economic disparity and global
+governance failures
+
+Cross-cutting global risks:
+Economic disparity and global governance failures
+
+Economic disparity and global governance failures
+emerged from the Forum’s Global Risks Survey 2010
+as the two most highly connected risks and were
+perceived as both very likely and of high impact (see
+Figure 1, Global Risks Landscape, and Figure 2,
+Risks Interconnection Map, at the beginning of the
+report). They influence the context in which global risks
+evolve and occur in two critical ways: first, they can
+exacerbate both the likelihood and impact of other
+risks; second, they can inhibit effective risk response.
+
+Economic disparity
+and social fragmentation
+Definition: Wealth and income disparities, both within countries
+and between countries, threaten social and political stability as
+well as economic development.
+
+The Global Risks Survey identified economic disparity
+as one of the most important risks in the coming
+decade. The Forum’s Global Agenda Council survey
+also supports this finding, having ranked economic
+disparity as the second most important trend in terms
+of impact on the business community and as the most
+underestimated trend in terms of its impact.
+Economic disparity is tightly interconnected with
+corruption, demographic challenges, fragile states,
+global imbalances and asset-price collapse.
+Respondents perceived economic disparity as
+influencing chronic diseases, infectious diseases,
+illicit trade, migration, food (in)security, terrorism and
+weapons of mass destruction. They saw economic
+disparity as influenced by climate-change related risks
+and global governance failures. The data indicate that
+economic disparity and geopolitical conflict reinforce
+one another.
+Economic disparity plays out between and within
+countries. Ease of communication has made
+inequalities between countries more visible. Despite
+robust growth in some emerging economies, many
+countries remain trapped in a cycle of poverty with
+tremendous implications ranging from lack of access
+to basic social infrastructure such as good education,
+healthcare and sanitation to political fragility of the
+state.
+
+5
+
+Stakeholders also expressed concerns over evidence
+of rising economic disparity within countries, in
+advanced and emerging economies alike. Economic
+analysis by the OECD and others suggests that real
+income growth of the top income quintiles of the
+populations in Finland, Sweden, the United Kingdom,
+Germany, Italy, and the USA was twice as large as
+that of the bottom quintiles between the mid-1980s
+to mid-2000s.5 Income inequality as measured by the
+Gini Index over the past decade has also increased
+rapidly in emerging economies such as India, China,
+or Indonesia. While such studies are subject to
+methodological criticisms and there is disagreement
+over the findings, the risk of rising economic disparity,
+even in terms of perception alone, is concerning.
+Many factors may have contributed to this trend
+within countries, including the erosion of employment
+culture, the decline of organized labour, and failures of
+education systems to keep pace with the increasing
+demands of the workplace.
+Economic disparities are also seen as contributing to
+a broader process of global social fragmentation.
+Globalization has led to different groups within
+countries having divergent economic interests,
+undermining a sense of broader national solidarity.
+At the same time, transnational associations are
+becoming more important in individual and group
+identity, enabled by the internationalization of media
+and communication. Traditional forms of association
+have been eroded. Trust in institutions seems to have
+dropped.
+In part, it may be that vertically-integrated national
+societies are being replaced by more fluid,
+transnational societies. This naturally offers a range
+of opportunities for cross-cultural communication
+and community-forming unhindered by geography.
+However, it also creates tensions within countries that
+lead to global risks, and undermines governments’
+political capacity to respond to local manifestations of
+those risks.
+
+OECD (2008), Growing Unequal? Income Distribution and Poverty in OECD Countries
+
+10 | Global Risks 2011
+
+Cross-cutting global risks:
+Economic disparity and global governance failures
+
+Global governance failures
+Definition: Weak or inadequate global institutions, agreements
+or networks, combined with competing national and political
+interests, impede attempts to cooperate on addressing global
+risks.
+
+While risks are increasingly globalized and
+interconnected, global governance capacities are
+highly fragmented. Global governance failures
+create and exacerbate systemic global risks, Survey
+results showed strong interconnections between
+global governance failures and regulatory failures,
+corruption and economic disparity, with retrenchment
+from globalization and global governance failures being
+seen as mutually reinforcing.
+Global governance failures cited by experts include:
+UN climate change negotiations; the uncompleted
+Doha Development Round of trade negotiations; lack
+of progress on some of the Millennium Development
+Goals; the stalling of United Nations’ Security Council
+reform; and challenges to frameworks designed to
+prevent the proliferation of the capability of nuclear
+weapons. There is a growing sense of paralysis in
+responding to global challenges. The Washington
+Consensus is no longer accepted as the baseline
+model for economic development, but neither has it
+been replaced by an alternative set of unified values.
+The United States’ National Intelligence Council
+and the European Union’s Institute for Security
+Studies recently concluded that current governance
+frameworks will be unable to keep pace with looming
+global challenges unless extensive reforms are
+implemented. Increasingly, emerging economies
+feel that unfairly they have insufficient influence in
+international institutions as they are currently designed.
+Yet there is uncertainty over the ability and willingness
+of rising powers to shoulder a greater share of global
+responsibilities, as well as reluctance on the part of
+established powers to recognize the limits of their own
+power.
+
+It is uncertain whether global governance will muddle
+along with an increasingly ill-fitting institutional
+framework, whether we will find the capacity and will
+to embrace more agile structures enabled by global
+networks and new forms of collaboration, or whether
+the idea of coordinated global governance will be
+discarded entirely.
+Effective global governance is also held back by
+ineffective decision-making structures at the national
+level. Arguably, technological and social shifts
+have weakened the ability of leaders to implement
+internationally agreed commitments which are
+unpalatable in the short-term, as the cost of mobilizing
+interest groups has fallen. The difficulties in achieving
+an international climate change agreement, as
+well as resistance to internationally coordinated
+macroeconomic policy measures, are cases in point.
+A counterbalance would be a well-informed and
+well-mobilized global public opinion sharing norms
+and values of global citizenship, but this is not yet fully
+developed.
+
+Recognizing the importance of global
+governance failures, the World Economic
+Forum in 2009 launched the Global Redesign
+Initiative. Its purpose has been to stimulate
+a strategic thought process among all
+stakeholders about ways in which international
+institutions and arrangements should and could
+be adapted to contemporary challenges.
+A series of specific proposals on how some
+of the gaps and failures in international
+cooperation might begin to be addressed was
+presented for initial discussion with senior
+representatives of about 50 governments and
+20 international organizations at a special
+summit in Doha, Qatar, on 30-31 May 2010.
+The proposals are also available at:
+http://www.weforum.org/globalredesign
+
+Global Risks 2011 | 11
+
+Global Risks 2011 | 12
+
+Risks in focus 1
+
+The macroeconomic imbalances nexus
+
+Risks in focus 1:
+The macroeconomic imbalances nexus
+
+Risk description
+and impacts
+This cluster of three economic risks – global
+imbalances and currency volatility, fiscal crises
+and asset price collapse – is characterized by both
+internal imbalances (within countries) and external
+imbalances (between countries).
+Internal imbalances are produced by many factors,
+including government policies and private sector
+behavior and are influenced by the stage of economic
+development. Fiscal imbalances in advanced
+economies have widened because of government
+profligacy. They were exacerbated by the impact of the
+financial crisis. First, many governments were forced
+to set aside large packages to bailout failing banks
+and stabilize the financial system. Second, and more
+importantly, many governments provided large fiscal
+stimuli to mitigate the recessionary impact of the crisis.
+The combination of bailout and stimulus packages
+resulted in burgeoning deficits and expanding debtto-GDP ratios, particularly in advanced economies.
+Achieving fiscal consolidation while avoiding hampering
+the fragile recovery is a short-term challenge. However
+in the long-term, a key fiscal challenge will be
+financing the unfunded liabilities of current and future
+generations (see discussion below and Risk to Watch
+Demographic Challenges).
+
+These imbalances lead to two primary risks. First, they
+lead to slow growth, increasing accumulation of debt
+and fiscal pressures create risks of sovereign defaults
+in certain advanced economies which could also affect
+banking systems worldwide (and vice-versa). Second,
+such weakness creates the risk of excessive capital
+flows to emerging markets, increasing the bubble risk
+and potentially leading to asset price collapse. While
+global imbalances will continue to imply a net flow of
+capital from surplus to deficit countries, these risks
+arise when increases in gross flows of capital from
+advanced to emerging economies are not matched by
+the commensurate ability of economies to absorb such
+flows productively.
+Figure 3 shows how these risks are linked graphically,
+and Table 1 provides a non-exhaustive list of the direct
+and indirect impacts of these risks to stakeholders.
+These risks link strongly to other global risks. For
+example, fiscal pressures in advanced economies
+will accelerate the ongoing power shift towards Asia,
+increasing the risk of geopolitical tensions. All three
+risks could also exacerbate global governance failures
+as countries resort to zero-sum calculations and shortterm, populist solutions.
+
+Related to this point, external imbalances between
+countries are also of concern. At the heart of global
+imbalances is a mismatch between saving and
+investment. Deficit countries do not save enough
+relative to their investments, and surplus countries do
+not invest enough given their high savings. In principle,
+external imbalances are not bad. Capital will tend to
+flow to the most profitable use; in a globalized system,
+that includes cross-border capital flows. As long as
+the recipients of such flows put them to productive
+use (i.e. as long as the resulting investments generate
+revenue that is high enough to serve and amortize
+the debt incurred) no major problem arises.6 External
+imbalances become a problem if they contribute to an
+unsustainable accumulation of debt or, for countries
+that actively control their exchange rates, if they lead to
+an unsustainable accumulation of foreign reserves.
+
+Some prominent economists, including US Federal Reserve Chairman Ben Bernanke, have argued that global imbalances contributed
+materially to the recent global financial crisis by lowering the cost of debt and encouraging investors to search for higher yields in riskier
+assets such as the US housing market.
+
+6
+
+14 | Global Risks 2011
+
+Risks in focus 1:
+The macroeconomic imbalances nexus
+
+Figure 13 System diagram for risks associated with the macroeconomic imbalances nexus
+Figure
+
+Source: World Economic Forum
+
+Table 1
+
+Impact of risks related to macroeconomic imbalances (non-exhaustive)
+
+Table
+1
+Impacts
+
+Direct Impacts
+
+Indirect Impacts
+
+Impact on
+governments
+
+• Advanced economies: Tough budget
+decisions in balancing stimulus and austerity;
+debt defaults, rescheduling or rescue
+
+• Lack of political will to address other
+global challenges such as climate
+change
+
+• Emerging economies: Increased need to
+explore currency adjustment
+Impact on society /
+populations
+
+• Advanced economies: Low growth in
+face of severe austerity; inability to meet
+entitlement commitments
+• Emerging economies: Social adjustments
+through shift towards domestic demand
+rather than exports (need for redistribution
+and social security schemes to boost
+consumption and lower savings)
+
+Impact on business
+
+• Protectionist (trade and financial) pressures
+• Threat of collapse of banking system along
+with government finance; uncertainty
+
+• Welfare increases in China in the
+longer term as a result of greater
+reliance on domestic consumption
+once rebalancing takes place
+
+• Realignment of business models as
+global adjustments and retrenchment
+from globalization shift demand
+patterns
+
+Source: World Economic Forum
+
+Global Risks 2011 | 15
+
+Risks in focus 1:
+The macroeconomic imbalances nexus
+
+Major trends and
+uncertainties
+
+As Figure 4 shows, global imbalances increased
+significantly between 1996 and 2009. While the
+financial crisis acted to reduce these somewhat from
+recent highs, the IMF and others expect them to
+increase again in the future. Running sustained and
+large current account deficits requires capital inflows
+on the part of deficit countries. This implies an increase
+in public debt when accompanied by fiscal deficits.
+Figure 5 shows the long-run trends for government
+debt for G7 economies, including recent increases.
+
+4.0
+
+Figure 4 Global current account imbalances 1996-2009
+
+3.0
+
+% of World GDP
+
+2.0
+
+Discrepancy
+Oil exporters
+China and East Asia
+Germany + Japan
+ROW
+
+1.0
+0
+
+US
+
+-1.0
+-2.0
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+2001
+
+2000
+
+1999
+
+1998
+
+1997
+
+1996
+
+-3.0
+
+Source: IMF World Economic Forum Outlook, April 2010
+
+Figure 5 Average government debt ratios in G7 Economies,1950-2010 (PPP-weighted)
+
+120
+
+% of GDP
+
+100
+80
+60
+40
+20
+
+2010
+
+2005
+
+2000
+
+1995
+
+1990
+
+1985
+
+1980
+
+1975
+
+1970
+
+1965
+
+1960
+
+1955
+
+1950
+
+0
+Gross Debt
+Net Debt
+
+Source: Long-Term Trends in Public Finances in the G-7 Economies, IMF Staff Position Note SPN/10/13, 1 September 2010
+
+16 | Global Risks 2011
+
+Risks in focus 1:
+The macroeconomic imbalances nexus
+
+There is a high degree of risk and uncertainty regarding
+how much debt can be borne by the public sector,
+particularly in advanced economies, before the debt
+burden seriously impacts economic growth through
+increasing borrowing costs, politically unacceptable
+amortization payments, and the subsequent need for
+fiscal austerity. Based on a sample of 44 countries over
+a period of 200 years Kenneth Rogoff and Carmen
+Reinhart have found that there are distinct debt-toGDP thresholds where debt growth becomes nonlinear. Specifically, for public debt held by advanced
+and emerging economies they found this threshold
+to be approximately 90%.7 After this threshold, the
+burden of debt reduces median GDP growth by roughly
+one percentage point and average GDP growth by
+considerably more. Depending on which measures of
+debt are used, US public debt is either fast approaching
+or even just past this threshold, while many European
+countries are well beyond it. Further, if current spending
+and income trends continue, IMF analysis indicates that
+net government debt for G7 economies could rapidly
+increase to unprecedented levels.
+
+However, some economists argue that the standard
+debt-to-GDP ratios reported widely by official
+agencies fail to measure a country’s true long-term
+fiscal prospects. A more accurate measure of fiscal
+outlook is to factor in future liabilities not counted
+as current debt by calculating the net present value
+(NPV) of all future obligations relative to the NPV of
+all future income streams. Figure 6 summarizes such
+an IMF calculation for selected countries, with the
+average of the sample representing an NPV of 444%
+of GDP. While there are large uncertainties in these
+calculations, such analysis suggests that the impact
+of uncounted future liabilities is very large, and that the
+impact of age-related liabilities will dwarf short-term
+issues such as the cost of fiscal stimulus.
+
+Figure 6 Net present value of the impact on fiscal imbalance deficits of the financial crisis
+
+and ageing-related spending for selected countries
+
+800
+700
+
+NPV % of GDP
+
+600
+500
+400
+300
+200
+100
+
+CAN
+
+KOR
+
+ESP
+
+USA
+
+AUS
+
+Avergage
+
+GBR
+
+GER
+
+FRA
+
+MEX
+
+TUR
+
+ITA
+
+JAP
+
+0
+Aging
+Crisis
+
+Source: Fiscal Implications of the Global Economic and Financial Crisis, IMF Staff Position Note, SPN/09/13, 9 June 2009
+
+7
+
+Reinhart, Carmen M. and Kenneth S. Rogoff (2010), “Growth in a Time of Debt”, NBER Working Paper No. 15639, January 2010
+
+Global Risks 2011 | 17
+
+Risks in focus 1:
+The macroeconomic imbalances nexus
+
+Given the magnitude of uncovered future liabilities, the
+IMF and Bank of International Settlements analysis
+implies that without significant adjustments in the
+medium-term, almost all advanced economies face
+serious threats to fiscal solvency in the long-run.8
+This suggests that countries will have to embark
+on major fiscal consolidation exercises, increasing
+taxes or reducing spending, in order to cover the gap
+between expected future liabilities and expected future
+income. Experts argued that there is a distinct risk that
+politicians will not be able to muster the necessary will
+to prevent severe financial market turbulences and,
+ultimately, protect their countries against default.
+In light of the pressures of such fiscal and
+macroeconomic imbalances, discussions with
+experts highlighted three non-exclusive and negative
+scenarios whereby this cluster of risks produces
+severe challenges to the global financial and economic
+systems and beyond.
+In the first scenario, a combination of recessionary
+pressures and lack of market confidence in the shortterm and unfunded social obligations in the long-term
+could drive both fiscal and banking crises in selected
+advanced economies. In some countries, crises in
+public finances will mean a fall in value of government
+bonds, taking with them the value of assets invested
+by financial institutions. For countries with a higher
+proportion of private lending, as the threat of sovereign
+default rises, capital will flee banks that are seen
+to ultimately be reliant on public rescues. In either
+event, the direct impacts of fiscal crises are likely to
+be compounded by credit and banking crises with
+adverse systemic implications for the global financial
+system.
+
+In the second scenario, emerging markets experience
+an asset price collapse. Loose monetary policy and
+slow growth in advanced economies, together with
+high growth in emerging markets, is already attracting
+increasing gross capital flows to emerging economies
+and decoupling their stock markets from those of
+advanced economies. This could result in asset
+bubbles as rising equity markets leak into real estate
+prices. Although some emerging markets are trying to
+restrain these capital inflows, it would be difficult for all
+emerging markets simultaneously to resist the upward
+pressure on their currencies. Such asset bubbles,
+driven as they are by excess liquidity rather than
+increases in underlying value, could result in severe
+crashes, damaging both emerging markets and the
+world economy as a whole.
+The final scenario, although regarded by many as
+unlikely, is a repeat of the “stagflation” of the 1970s
+in advanced economies. This scenario sees loose
+monetary policy proving unable to stimulate economic
+activity, while supply-side restrictions for commodities
+and energy arise because of geopolitical conflict in the
+Middle East, or merely an outpacing of global supply
+by robust growth in the emerging world, leading to
+a loss of confidence in the ability of central banks
+in advanced economies and emerging countries to
+control inflation.
+
+See also IMF Country Report No. 10/248, 12 July 2010, Gokhale J, (2009) “Measuring the Unfunded Obligations of European Countries”,
+National Centre for Policy Analysis and Kotlikoff, L (2010), “A Hidden Fiscal Crisis?”, Finance and Development, September 2010
+
+8
+
+18 | Global Risks 2011
+
+Risks in focus 1:
+The macroeconomic imbalances nexus
+
+Levers and
+trade-offs
+Recognizing trade-offs in managing
+global imbalances
+Lack of agreement on how to reduce global
+imbalances makes it difficult to create joint
+responsibility at the international level. Diverging
+interests in the short-term are driven by both political
+and economic factors. While advanced economies see
+continuing imbalances as economically unsustainable,
+emerging economies running trade surpluses fear that
+adjustments involving currency appreciation would hurt
+employment in export sectors and potentially threaten
+social stability.
+Political leaders in advanced economies are under
+increasing pressure to seek short-term solutions – but
+uncoordinated actions, such as simultaneous currency
+depreciation by multiple countries, could create new
+risks. For all countries to attempt to devalue their
+currencies at the same time would only have negative
+impacts.
+There are three primary levers through which the risks
+described above could be addressed.
+
+Strengthening global coordination
+Although unlikely, experts consider that the G20 and
+IMF could play a key role in developing a stronger
+policy framework to discourage the build-up of
+unsustainable imbalances. Renewed leadership on
+promoting international exchange rate coordination is
+particularly important to avoid currency wars.
+However, even more powerful would be cooperation
+on meaningful growth policies that change the
+incentives for the use of income in both deficit and
+surplus countries. Both price and income adjustments
+are required to reduce imbalances, and successful
+adjustment must include debtor and creditor (or deficit
+and surplus) countries.
+
+Strengthening financial systems
+Weak financial systems are a likely source of
+risk in both advanced and emerging economies;
+strengthening regulation and institutions in general
+is a key point of intervention. Many proposals have
+been made in this regard, including the Basel III
+provisions, and implementation is now seen as of most
+importance. Possibilities for strengthening the global
+financial system through regulation include:
+•
+
+Better surveillance of the financial sector, including
+all systemically relevant players
+
+•
+
+Tighter capital and liquidity ratios for all banking
+institutions (including non-banks), with higher
+ratios for systemically relevant institutions
+
+•
+
+Risk retention for securitization (so-called “skin in
+the game”)
+
+•
+
+Improved transparency and counterparty risk
+management in “over-the-counter” derivative
+markets
+
+As outlined in the Forum’s Financial Development
+Report 2010, strengthening financial systems in
+emerging economies by developing capital markets
+and improving access to retail financial services could
+increase both domestic confidence and investment
+opportunities, both of which could stimulate
+consumption and help to offset global imbalances as
+well as reduce the risk of asset bubbles.
+
+Facilitating domestic transitions
+towards balanced economies
+While deficit countries will necessarily be required to
+take on far-reaching price and cost adjustments to
+enhance the competitiveness of their exports, surplus
+countries need to address weaknesses in private
+domestic consumption. This would not only increase
+the welfare of surplus societies, but also facilitate the
+necessary adjustments in deficit countries by raising
+their exports.
+Most importantly, advanced economies urgently need
+to recognize the rising challenge of fiscal stress caused
+by unfunded liabilities linked to ageing societies.
+To shift dependence from government-provided
+social insurance to private savings for pensions and
+healthcare services, states will require a combination of
+careful reform, financial innovation, and private sector
+solutions to gradually but significantly reduce the
+burden on public finances and offset the risk of future
+fiscal crises.
+
+Global Risks 2011 | 19
+
+Risks in focus 2
+The illegal economy nexus
+
+Risks in focus 2:
+The illegal economy nexus
+
+Risk description
+and impacts
+Illicit trade, organized crime and corruption are
+chronic risks that are perceived as highly likely to occur
+and of medium impact. As a highly interconnected
+nexus representing the illegal economy, however,
+experts see these risks as of central importance to
+the global risk landscape. As Figure 7 illustrates,
+both survey data and experts suggest that this nexus
+heavily influences three other important global risks
+– fragile states, terrorism and geopolitical conflict–
+which, in turn, have a significant and negative impact
+on global stability.
+There is a feedback loop between this nexus and
+economic disparity. Economic disparity provides an
+enabling environment for illicit trade, corruption and
+organized crime to grow in advanced and emerging
+economies. In turn, the proceeds reinforce the power of
+the privileged, while undermining economic development
+by raising the costs of doing legitimate business, thereby
+increasing inequalities both within and between countries.
+Table 2
+
+Similarly, while global governance failures have created
+a growing space for illegal activities, these activities
+have, in turn, tended to undermine efficient global
+governance.
+Although this nexus of risks is often seen as more
+pervasive in emerging economies, a significant
+proportion of the demand for illicit goods is generated
+in advanced economies. Illegal networks also use
+the international banking and real estate systems to
+facilitate their financial management, laundering money
+and hiding profits from tax authorities.
+The impacts of this nexus of risks can also spread
+far beyond emerging economies. For example, illicit
+trade of intellectual property-protected goods reduces
+incentives for innovation and investment. Trade in
+counterfeit medicines risks human health globally.
+Security risks arising from fragile states – terrorism and
+geopolitical conflict – may have broad consequences.
+And as Table 2 below shows, corruption in both
+emerging and advanced economies is a low-intensity
+transaction cost that stifles growth, distorts markets
+and undermines the rule of law.
+
+Impact of risks related to the illegal economy nexus (non-exhaustive)
+
+Table
+1
+Impacts
+
+Direct Impacts
+
+Indirect Impacts
+
+Impact on
+governments
+
+• Weakened institutions/undermining and
+corruption of the rule of law
+
+• Decreased regional investments
+• Shift of power to disruptive groups
+
+• Erosion of civil service function/capture of
+state institutions by corruption
+• Lack of continuity in policies affecting
+business
+• Small tax base/loss of revenue
+• Exodus of capital
+• Threats to political stability
+Impact on society /
+populations
+
+Impact on business
+
+• Erosion of trust in public institutions
+
+• Reduction in tourism
+
+• Potential for draconian responses that limit
+economic opportunity (stricter migration
+policies)
+
+• Destruction of biosphere through
+unregulated activities
+
+• Brain drain / skill depletion from emigration
+
+• Criminalization/marginalization of
+segments of the population
+
+• Increased transaction costs
+
+• Higher costs of capital
+
+• Lost legitimate sales
+
+• Pressure to participate in corrupt
+practices through perceived
+competitive disadvantage
+
+• Deterred/appropriated investments
+• Exposure to threats, bribes and reduced
+security of personnel
+Source: World Economic Forum
+
+22 | Global Risks 2011
+
+Risks in focus 2:
+The illegal economy nexus
+
+Figure 17 System diagram for risks associated with the illegal economy nexus
+Figure
+
+Source: World Economic Forum
+
+Major trends and
+uncertainties
+The negative effects of corruption, illicit trade,
+organized crime and fragility are easy to characterize
+but extremely difficult to quantify. The opaqueness of
+this nexus of risks has resulted in too little attention
+and too few resources devoted to mitigating it, and
+the significance of this nexus of risks has increased
+considerably in recent years – in part because of global
+governance failures, as informal networks engage in
+legal and regulatory arbitrage.
+Illicit trade is now thought to represent between 7 and
+10% of the global economy – in some countries, illicit
+trade is the major source of income. Table 3 below is
+one example of attempts to judge the market size of
+illicit trade of different goods based on public sources.
+It must be stressed that these numbers are extremely
+rough estimates and are the subject of significant
+debate; the Forum’s Global Agenda Council on Illicit
+Trade is currently developing a methodology to track
+effectively the global impact of these activities.
+It should be noted that even when flows of illicit
+goods and criminal activity are small relative to global
+markets, they can have an outsized effect on fragile
+states as the real value of such activity can dwarf
+national salaries and government budgets.
+
+The potential for this nexus of risks to cause contagion
+has arguably been demonstrated recently in Kyrgyzstan.
+Members of the Forum’s Global Agenda Councils
+argue that the undermining of state leadership and
+economic growth by corrupt officials and organized
+crime contributed significantly to social tensions
+which erupted in violent conflict in June 2010, causing
+widespread destruction, hundreds of civilian deaths and
+the displacement of 400,000 ethnic Uzbeks.
+Figure 31
+Table
+
+Rough estimated market size of illicit
+goods based on public sources
+(in USD billion)
+
+Counterfeit pharmaceutical drugs: 200
+Prostitution: 190
+Marijuana: 140
+Counterfeit electronics: 100
+Cocaine: 80
+Opium and heroin: 60
+Web video piracy: 60
+Software piracy: 50
+Cigarette smuggling: 50
+Human trafficking: 30
+Environmental crimes and natural resources trade: 20
+Logging: 5
+Art and cultural artefacts: 5
+Small arms: 1
+Source: Havocscope and experts
+
+Global Risks 2011 | 23
+
+Risks in focus 2:
+The illegal economy nexus
+
+Levers and
+trade-offs
+Recognizing trade-offs in responding
+to the illegal econnomy nexus
+Why has so little progress been made in mitigating
+this nexus of risks? One reason is that structures
+which enable illicit activities also benefit many people
+who would not consider themselves as engaging in
+criminal behaviour; for example, secrecy jurisdictions
+allow individuals and corporations to avoid tax.
+Increasing transparency and reducing illicit trade would
+undoubtedly involve increased costs and lower profits
+for many businesses. Similarly, there are large costs
+in shifting populations who currently rely on producing
+goods for illicit markets (such as poppy-farmers in
+Afghanistan) to other, legal activities.
+However, if global leaders appreciate the importance
+of this issue as a collective challenge, a number of
+measures could be employed.
+
+Increase the transparency of
+international financial and trade flows
+The global financial system allows the profits of
+illicit trade, organized crime and corruption to be
+transferred and hidden. This protects participants,
+deprives governments of tax revenue and shifts tax
+burdens from capital onto wages and consumption.
+Ensuring transparency of financial flows would reduce
+opportunities for money to be laundered or transferred
+out of emerging economies, as well as enabling more
+effective law enforcement.
+The Task Force on Financial Integrity & Economic
+Development recommends five steps to achieving
+greater transparency to ensure that financial flows can
+be tracked, verified and taxed:
+•
+
+Requiring beneficial ownership to be a matter of
+public record, to reveal the true owners of capital
+
+•
+
+Requiring multinational companies to undertake
+country-by-country reporting of all sales, profits
+and taxes
+
+•
+
+Requiring all trade pricing to be conducted under
+the OECD arms-length principle and with pricing
+declarations and online data available to customs
+authorities, to curtail trade mispricing that avoids
+taxes and duties
+
+•
+
+Implementing global automatic tax information
+exchange for all non-resident individuals,
+corporations and trusts
+
+•
+
+Harmonizing anti-money laundering laws globally
+to standardize the predicate offences for money
+laundering, reduce legal arbitrage and ensure
+enforcement can proceed across different
+jurisdictions
+
+Figure 1
+
+Improve global coordination with
+stronger multilateral frameworks
+Stronger links between international civil society and legal
+institutions in advanced economies would assist activists
+and law enforcement in emerging economies in tracking
+and halting flows of illicit capital out of fragile states. This
+was exemplified in the recent ruling by France’s Supreme
+Court allowing a judicial inquiry into complaints of alleged
+corruption and the removal of government assets filed
+against three African heads of state.
+Reducing variation in regulation and enforcement
+capacity would inhibit the capacity of illicit activities
+to shift to the least-vigilant jurisdictions. National laws
+containing extraterritorial provisions to hold companies
+liable for corruption, such as the US Foreign Corrupt
+Practices Act and the United Kingdom Anti-Bribery
+Bill, offer a potential illustration example of how
+regulations could be extended and harmonized across
+jurisdictions.
+
+24 | Global Risks 2011
+
+Transparency in physical movement of goods similarly
+needs to be increased, to track the movement
+of products that may constitute illicit trade or be
+associated with organized crime and corruption. More
+responsible monitoring of supply chains could have a
+large impact.
+
+Risks in focus 2:
+The illegal economy nexus
+
+Increased demand side intervention
+
+Reducing economic disparity
+
+Experts argue that a greater understanding of the
+human and economic impact of engaging in illicit trade
+would reduce demand for illicit goods in advanced
+economies. This implies a focus on education, ethics
+training and the construction of new norms.
+
+Economic disparity is an enabling environment for
+this nexus, as it provides the incentive for individuals
+to supply and consume the outputs of illicit trade,
+organized crime and corruption.
+
+Similarly, rather than viewing it as an end in itself to
+reduce illicit trade, organized crime and corruption,
+this goal could be reframed as a means to support
+economic growth and human security. Such a
+reframing could shift priorities and behaviour while
+driving greater cooperation among institutions.
+
+Reducing economic disparities is a major challenge;
+it must be faced at a structural level. An empirically
+reliable long-term strategy is to invest in universal
+education, equipping populations with the knowledge
+and skills to contribute fully to economic activity.
+Similarly, investments that attempt to correct for
+structural unemployment should be investigated.
+
+For certain elements of illicit trade, there may be a case
+for reducing the profits on offer to organized crime
+by bringing trade within the framework of the law, as
+proposed recently in California with the legalization of
+marijuana.
+For the corporate sector, reframing corruption from an
+issue of compliance to an issue of risk could increase
+vigilance in monitoring legal or reputational exposure.
+This requires a more precise assessment of the costs
+of this nexus to businesses and government tax
+bases.9 The Forum is convening private sector actors
+through its Partnering Against Corruption Initiative to
+clarify the business impacts of corruption and develop
+collective solutions with government and civil society.
+
+See for example Transparency International, the International Chamber of Commerce, the UN Global Compact and the World Economic
+Forum (2008) Clean Business is Good Business: The Business Case against Corruption http://www3.weforum.org/docs/WEF_PACI_
+BusinessCaseAgainstCorruption_2008.pdf
+
+9
+
+Global Risks 2011 | 25
+
+Risks in focus 3
+
+The water-food-energy nexus
+
+Risks in focus 3:
+The water-food-energy nexus
+
+Risk description
+and impacts
+Water security, food security and energy security
+are chronic impediments to economic growth and
+social stability. Figure 8 shows their interrelatedness:
+food production requires water and energy; water
+extraction and distribution requires energy; and energy
+production requires water. Food prices are also highly
+sensitive to the cost of energy inputs through fertilizers,
+irrigation, transport and processing.
+Economic growth and population growth are common
+drivers for all three risks, especially as improving
+living conditions in emerging economies results in
+more resource-intensive consumption patterns.
+Environmental pressures also drive resource insecurity
+– from climate shifts to extreme weather events that
+alter rainfall and affect crop production.
+
+Table 4
+
+Governance failures in terms of managing shared
+resources – such as trans-boundary water and energy
+sources and food trade agreements – create tensions
+that can lead to conflict, as seen recently in Yemen.
+Economic disparity also often exacerbates this nexus
+of risks as governments and consumers seek shortterm, unsustainable solutions to economic hardship
+such as growing high-value, water-intensive export
+crops in water-deprived regions.
+It is at the local level that most opportunities can be
+found for improving resource efficiency and managing
+trade-offs between energy, water and food production.
+However, at the global and regional levels there are few
+initiatives to raise awareness, share leading practices
+and motivate consumers in an integrated approach.
+Table 4 shows a non-exhaustive list of some of the
+direct and indirect impacts stemming from this nexus.
+
+Impacts of risks related to the water-food-energy nexus (non-exhaustive)
+
+Table
+1
+Impacts
+
+Direct Impacts
+
+Indirect Impacts
+
+Impact on
+governments
+
+• Stagnation in economic development
+
+• Increased social costs linked to
+employment and income loss as
+agriculture is negatively effected
+
+• Political unrest
+• Cost of emergency food relief
+• Significantly reduced agricultural yields
+
+• National security risks/conflict over
+natural resources
+
+• Threats to energy security
+Impact on society /
+populations
+
+• Increased levels of hunger and poverty
+
+• Migration pressures
+
+• Increased environmental degradation
+
+• Irreparably damaged water sources
+
+• Severe food and water shortages
+
+• Loss of livelihoods
+
+• Social unrest
+• Food price spikes
+Impact on business
+
+• Export constraints
+• Increased resource prices
+• Commodity price volatility as shortages
+ripple through global markets
+• Energy and water restrictions
+
+Source: World Economic Forum
+
+28 | Global Risks 2011
+
+• Lost investment opportunities
+
+Risks in focus 3:
+The water-food-energy nexus
+
+Figure 18 System diagram for risks associated with the water-food-energy nexus
+Figure
+
+Source: World Economic Forum
+
+Major trends and
+uncertainties
+Agriculture is the dominant water user, consuming
+more than 70% of total global water demand.
+Industrially produced meat is especially waterintensive, requiring up to 20,000 litres of water to
+produce a kilogram, compared to approximately 1,200
+litres to produce a kilogram of grain. Both population
+growth and increasing meat consumption in emerging
+economies will therefore have a tremendous impact on
+resource needs.
+As Figure 9 shows, over the next 10 years, the world
+population is expected to rise from the current 6.83
+billion to approximately 7.7 billion, with most of the
+growth in emerging economies. The United Nations
+Food and Agriculture Organization (FAO) projects a
+50% increase in demand for food by 2030, and the
+International Food Policy Research Institute (IFRI)
+expects a 30% increase in demand for water, with
+other estimates rising to over 40%. The International
+
+Energy Agency (IEA) forecasts that the world economy
+will demand at least 40% more energy by 2030;
+producing this energy will draw heavily on freshwater
+resources. For such increased demand for water, food
+and energy to be realized, significant and perhaps
+radical changes in water use will be required as well as
+new sources for food and energy production exploited.
+For food production, supply-related challenges may limit
+the ability of farmers to meet growth in demand. Already,
+major grain-producing areas – in China, India and the
+United States, for example – depend on unsustainable
+mining of groundwater. In some regions, such as
+North Africa and Australia, climate-related changes of
+precipitation have already critically reduced the levels
+of freshwater supply. In northeast China, one of the
+country’s main grain-producing regions, climate change
+could increase drought losses by over 50% by 2030.10
+Climate change is likely to be exacerbated by meeting
+the growing demand for energy. Over 75% of the
+global increase in energy use from 2007-2030 is
+expected to be met through fossil fuels, especially
+coal, and an estimated 77% of the power stations
+required to meet demand are yet to be built.
+
+The Economics of Climate Adaptation (ECA) Working Group (2009) Shaping Climate Resilient Development: A Framework for DecisionMaking
+
+10
+
+Global Risks 2011 | 29
+
+Risks in focus 3:
+The water-food-energy nexus
+
+Figure 19 World Population 1960-2050
+Figure
+
+10
+
+1000 million people
+
+9
+8
+7
+6
+5
+4
+3
+2
+1
+2050
+
+2045
+
+2040
+
+2035
+
+2030
+
+2025
+
+2020
+
+2015
+
+2010
+
+2005
+
+2000
+
+1995
+
+1990
+
+1985
+
+1980
+
+1975
+
+1970
+
+1965
+
+0
+
+Developed countries
+Developing countries
+Source: World Economic Forum Water Initiative, edited by D. Waughray (2010). Water Security: The Water-Food-Energy-Climate Nexus,
+based on United Nations Population Division, UN-DESA, UN Revision 2008
+
+30 | Global Risks 2011
+
+Risks in focus 3:
+The water-food-energy nexus
+
+Levers and
+trade-offs
+Recognizing trade-offs in the
+water-food-energy nexus
+Tough trade-offs will increasingly be needed between
+energy, food and water in terms of resource allocation
+and planning. The key challenge is to incorporate the
+complex interconnections of this nexus of risks into
+response strategies that are integrated and take into
+account the many relevant stakeholders. The Forum
+is working on such an approach with its innovative
+initiative WRG Phase 2, run in partnership with the
+Water Resources Group (See page 33: The Forum’s
+Water Initiative: Focusing on the Water-Food-Energy
+Nexus).
+Unintended consequences abound. For example,
+because of policy incentives designed to reduce
+vehicle emissions, by 2030 the IEA predicts that at
+least 5% of global road transport will be powered
+by biofuel – over 3.2 million barrels per day.
+However, producing those fuels could consume
+between 20-100% of the total quantity of water now
+used worldwide for agriculture. This is clearly an
+unsustainable trade-off. Another example is shale gas
+extraction, which promises access to new reserves of
+fossil fuels, but is highly water-intensive and may pose
+a risk to water quality.
+
+Integrated and multistakeholder
+resource planning
+The challenges associated with managing tradeoffs of food, energy and water resources rest with
+governments. Experts argue that meeting those
+challenges is undermined by the existence of
+separate administrative structures and policies for
+agriculture, water, energy and urban planning. The
+development of high-level commissions that cut across
+government departments, stakeholders and country
+representatives could improve public-sector-led
+governance, planning and information flows.
+A recent example of a regionally-focused, integrated
+approach is the Mekong River Commission’s Strategic
+Environmental Assessment. This document examines
+the cumulative risks and opportunities of hydropower
+projects in five separate countries. It explicitly
+considers the links between energy generation, water
+availability and food production, including second-and
+third-order impacts to ecosystems, social systems and
+economic development over a 15 year perspective.
+The Forum’s New Vision for Agriculture initiative,
+which is now being piloted through national-level
+partnerships in Tanzania and Vietnam, has developed
+a framework for multi-stakeholder collaboration to
+accelerate sustainable agricultural growth. In this
+model, the government’s national agriculture strategy
+provides the framework for focusing expertise and
+investments from diverse stakeholders to accelerate
+sustainable agricultural growth, thus multiplying efforts
+and reducing risk for all involved.
+
+Few governments are developing energy policy with
+a goal of not only enabling economic growth and
+reducing carbon emissions, but also ensuring water
+efficiency; the nature of this nexus, however, means
+pursuing multiple goals will become a necessity. Tradeoffs between the three resources, as well as tradeoffs between users in the form of resource rationing,
+will become an increasingly important issue, as will
+managing these trade-offs through a combination of
+market mechanisms and regulation.
+However, beware of false dichotomies. It is not
+necessary to trade biodiversity for economic growth,
+for example. Such trade-offs exist primarily when
+policy-makers and resource-users act in a shortterm, reactive and hurried fashion. To avoid these
+unnecessary trade-offs and tackle the necessary
+ones, the Forum has identified a number of response
+strategies for further exploration.
+
+Global Risks 2011 | 31
+
+Risks in focus 3:
+The water-food-energy nexus
+
+Regionally-focused infrastructure
+development
+
+Community-level empowerment
+and implementation
+
+Multistakeholder coordination on regional infrastructure
+investment could significantly enhance resilience
+with regard to food, water and energy security. For
+example, by investing in regional electricity grids, Gulf
+Cooperation Council countries increased the reliability
+of their power supply. Experience shows that countries
+with adequate levels of infrastructure, coupled with
+institutions which ensure that the scarcity value of
+water is reflected, can be extraordinarily adaptive.11
+
+Experts argued that policies which aim to manage food,
+energy or water resources are in many cases welldesigned; many of the barriers to sustainable resource
+use relate to implementation. As an example, lack of
+sanitary facilities impacts water security through the
+contamination of local water sources. However it may
+not be enough simply to build sanitation facilities without
+also addressing social norms on open defecation; to
+ensure that such facilities are used requires implementing
+cultural shifts as well infrastructure investment.
+Overcoming such barriers means engaging, empowering
+and incentivizing local actors at the community level to
+ensure that those actually using core resources are also
+the guardians of their sustainable consumption.
+
+Market-led resource pricing
+Resource pricing has a large role to play in managing
+demand for food, water and energy. Prices are kept
+artificially low by government subsidies or other
+regulation in many countries, thereby increasing
+demand. However, even if they were allowed to
+rise through market mechanisms, prices would not
+account for many of the negative externalities created
+by water, food and energy consumption. Both the
+cost of local impacts (such as the long-run social
+and environmental costs of resource exploitation)
+and global impacts (such as contribution to climate
+change through carbon emissions) should ideally be
+included in resource pricing. Without accurate pricing
+to reflect the full cost of resource use, it is likely that
+unsustainable decisions regarding resource use will
+continue.
+However raising the price of water has significant
+and negative social impacts in many regions. To
+account for these, market mechanisms must be
+managed progressively so as not to endanger social
+stability by disadvantaging poor consumers; the
+human cost of higher resource prices should be
+recognized by stakeholders and solved with careful
+planning. Further, increased resource prices will
+inevitably impact economic growth, as higher prices
+are passed on to consumers. Experts suggest that
+despite such challenges, efforts to create properlycosted systems are critical to the future sustainability
+of global prosperity, as the cost of severe shortages
+because of irreparable damage to water and food
+sources would far exceed the costs incurred through
+proactive resource management. In regions such as
+the Middle East and North Africa, market prices may
+also attract private investment in infrastructure that can
+better preserve the scarce resources currently being
+depleted.
+
+Technological and financial
+innovation for managing the nexus
+Further research and investment in transformative
+technologies and risk management tools that address
+the nexus as a whole are needed. Ensuring that such
+tools are locally appropriate and broadly adopted is key
+to their success. Many efficiency improvements require
+new operational management models and access
+to information. Innovations such as synthetic protein
+manufacturing, drip irrigation, and hybridization of crops
+to make them salt resistant could potentially maintain
+food security while simultaneously achieving water
+and energy efficiency, but require investment for both
+development and implementation.
+Innovative financial risk management initiatives also
+look promising, such as the development of “safety
+net” payments for Vietnamese rice farmers if yields fall
+below expected levels due to pests, diseases or weather
+events such as droughts, floods and typhoons. In the
+past, damages to agriculture due to weather or pests
+have resulted in losses of up to 5% of Vietnamese GDP;
+thanks to multi-stakeholder collaboration between
+agricultural banks, insurers and the national government,
+this scheme addresses multiple risks to help ensure food
+security on a national level, protecting the livelihoods
+of farmers and thus increasing the overall resilience of
+food production in the country. However, most of these
+instruments remain focused on a particular target such
+as yield or weather risk, and as such do not address
+regional risk management across sectors, or the ultimate
+risk of food supply. The interconnected nature of the
+challenge suggests that further work in integrating
+technical and financial solutions is needed.
+
+In southeast Australia, for example, a 70% reduction in water availability has had big effects on the composition of agriculture, but
+little impact on the overall economic value of agriculture.
+
+11
+
+32 | Global Risks 2011
+
+Risks in focus 3:
+The water-food-energy nexus
+
+The Forum’s Water Initiative:
+Focusing on the Water-Food-Energy Nexus
+The World Economic Forum has partnered with the Water Resources Group (“WRG”) on an innovative
+initiative under the guidance of the Global Agenda Council on Water Security. This initiative, known as WRG
+Phase 2, will engage governments who wish to work progressively on a water sector reform strategy; and
+then provide a supporting public-private approach. The initiative will follow the ACT process – undertaking
+Analysis to help Convene and build Coalitions to develop Transformational policies, programmes,
+projects and partnerships – aimed to create “proof points” that such a coordinated platform approach can
+work. There are two main steps to this process:
+•
+
+Step 1: Initial diagnostic. The initiative will create a comprehensive fact base on the national water
+supply and demand balance to 2030 and the economic implications of the options available to
+address any gaps;
+
+•
+
+Step 2: Country-level work. When invited by the government, the initiative will offer multidisciplinary
+support through a public-private advisory platform. This will help the government shape and test
+concepts and governance processes that seek to close identified future water volume gaps; to
+improve water resource management in a river basin, country or region; and to build this inform
+national into regional water adaptation planning.
+
+The outcome of the WRG Phase 2 will be a validated and unique public-private model and a financed
+global platform that can support governments who wish to catalyze change in their water sectors.
+An example of this initiative in action is the Forum’s ongoing work in Jordan, supported by the Jordanian
+Ministry of Planning and International Cooperation, and the Ministry of Water and Irrigation. Step one is
+underway, involving deep analysis and building cost-curves to understand the gaps between water supply
+and demand, and developing prioritized recommendations and sector strategies. Step two will build on
+recent work with the Jordan Business Alliance on Water, a collaboration catalysed at the 2009 World
+Economic Forum on the Middle East and involving the Jordanian government, Jordan Chamber of Industry,
+American Chamber of Commerce, USAID and GTZ.
+A special focus of the initiative is to build awareness and better understanding of the water-food-energyclimate nexus. This nexus represents the most important global dimension of the water crisis in terms of
+managing economic growth and other impacts connected to water scarcity. The Global Agenda Council
+on Water Security is a key supporter of the initiative, and will help the Forum develop deeper and more
+focused analysis of issues related to the water-food-energy nexus and the associated risks to growth.
+The WRG Phase 2 initiative aims to contribute a range of expert briefing documents into the Forum’s
+Risk Response Network as well as to relevant Government officials and other stakeholders facing the
+challenges of the water-food-energy nexus.
+For more information on this initiative, please see http://www.weforum.org/water
+
+Global Risks 2011 | 33
+
+Risks to watch
+
+Risks to watch
+
+Some risks in the global risk landscape saw low levels
+of confidence or strongly varying expert views as to
+likelihood and impact. For these very reasons, such
+risks may surprise or overwhelm us, and they have
+been designated as “risks to watch”.
+
+Cyber security
+Awareness is growing that the real world is vulnerable
+to security threats from the virtual world, but the
+complexity of “cyber security” issues is still not well
+understood and its risks could be underestimated.
+Cyber security encompasses online data and
+information security and critical information
+infrastructure breakdown, and ranges from petty
+online theft by disenfranchised youths to governmentled provocations with potentially catastrophic
+consequences.
+Four distinct global risk-related activities stand out:
+•
+
+Cyber theft has become a growing industry with a
+long tail, particularly in countries where economic
+disparity has recently been combined with access
+to global communication technologies. Actors in
+this field range from entrepreneurial individuals to
+shell corporations built with the hope of economic
+gains offset by acceptable risks. Interestingly, some
+assessments indicate that cyber thieves experience
+a substantially lower feeling of guilt than is apparent
+in other criminal activities.
+
+•
+
+Cyber espionage, whether by the private or
+public sector, has brought the age-old practice of
+intelligence-gathering into a new era. Particularly
+insidious, as has repeatedly been shown in the
+past two decades, is the use of such techniques
+not only by countries generally understood as
+enemies but also by friendly allies.
+
+•
+
+Cyber war is little understood by the general public
+and has stirred controversy among civilian and
+military leaders. While an open war in cyber space is
+possible, experts indicate that the interplay between
+cyber war and physical war poses a more likely risk
+for society, with aggression online not only serving
+but also potentially provoking conventional attacks.
+
+36 | Global Risks 2011
+
+•
+
+Cyber terrorism is perhaps even less understood
+and is fuelling concerns over the openness of
+the Internet, security and privacy. Many have
+inferred a high risk of cyber terrorist attacks
+from terrorist organizations’ extensive use of the
+Internet in recent years for doctrinal, recruitment,
+and operational communication purposes as well
+as some occurrences of cyber theft. However,
+these practices do not in themselves indicate any
+capacity for large-scale cyber terrorist attacks,
+and it should be noted that terrorist use of the
+Internet equally allows law enforcement agencies
+to gather valuable intelligence.
+
+In addition to these intentional or malevolent risks, a
+range of risks relate to design flaws in “smart” systems
+connected to the Internet. Data gathered for one
+benign purpose may be spread to other networks with
+unintended consequences, potentially leading to new
+machine-to-machine threats.
+Further contributing to confusion about cyber
+security’s landscape is the constant innovation in each
+of the above fields and potential new connections
+among them. Nevertheless, understanding the range
+of negative consequences is central to managing
+effective risk response. The pervasiveness of the
+Internet and importance of related technologies to
+everyday life and business means that should a major
+disruption occur, it is likely to have high impact globally.
+
+Risks to watch
+
+Demographic challenges and
+opportunities: population “cluster
+bombs”, global graying and
+demographic dividends
+Demographic change has major implications
+throughout the world, ranging from political instability
+in fragile states to enjoyment of a “demographic
+dividend” in emerging economies to fiscal crises in
+advanced economies. The most significant changes –
+which vary considerably by country – involve the rate
+of population growth, evolution of the age structure
+and the pace of urbanization. In addition to their
+effects on national income, shifts in these demographic
+indicators can have powerful implications for global
+income, economic inequality, environmental quality,
+social stability and migration.
+Ageing populations in many advanced economies
+add to fiscal stress as the ratio of the working
+age population to the elderly falls. Many emerging
+economies are also experiencing rapidly ageing
+populations as longevity increases, creating a new set
+of development challenges in the absence of adequate
+financing solutions.
+For certain developing countries, the population
+size and growth rate are creating intense and rising
+pressure on resources, public institutions and social
+stability. In countries where rapid population growth
+is combined with weak institutions, lack of economic
+opportunties, fragile ecosystems, gender inequality
+and severe urban crowding, the potential for large
+numbers of disaffected youth engaging in resourcebased conflict is a real risk. The Forum’s Global
+Agenda Council on Population Growth has identified
+14 countries encompassing 450 million people
+where high population growth is combined with
+water and other resource stresses. Such “population
+cluster bombs” could send myriad shock waves to
+neighbouring countries and regions.
+
+One example is Niger. With every woman having, on
+average, upwards of seven children, Niger’s population
+has gone from 3 million in 1960 to 16 million today
+and is projected to almost quadruple to 58 million
+in 2050. However, population growth has already
+outstipped the country’s ability to produce food. In the
+last decade, Niger has experienced several episodes
+of severe food insecurity and famine,including a famine
+that affected almost half the population in 2010.
+In addition, decreasing soil productivity and a high
+vulnerability to the effects of climate change mean that
+Niger’s ability to further increase food production will
+become even more strained. Already there are signs of
+increased inter-ethnic conflict over scarce resources.
+Implications could be felt more widely, especially since
+Niger has one of the most important uranium mines in
+Africa.
+Emerging economies that have reduced fertility rates
+are experiencing a “demographic dividend” as smaller
+family size means fewer dependents for each working
+adult and greater investment in each child. Realizing
+this potenial requires the development of so-called
+“21st century skills”12 among young people, and a
+supporting institutional environment with an emphasis
+on sectors and policies that improve employment
+prospects and the operation of financial markets.
+As well as national ownership, a strong global voice is
+needed to help address population issues. To this end,
+the World Economic Forum’s Global Agenda Council
+on Population Growth has called on the United Nations
+Population Fund (UNFPA) to reaffirm the world’s
+interest in global and national demographic dynamics,
+including rates of population growth, to reassert its
+leadership in the population and development arena,
+to rebalance its portfolio of activities and to subject its
+activities to periodic external review.
+
+21st century skills as viewed by experts include: good living and career skills related to global citizenship, civic responsibility, ethics,
+environmental awareness, health literacy, cross-cultural sensitivity and leadership. It also includes workforce readiness skills pertaining
+to creativity, innovation, entrepreneurship, critical thinking, communication, collaboration, ICT and media literacy. In addition, it
+includes basic skills in math, science, reading, geography and history.
+
+12
+
+Global Risks 2011 | 37
+
+Risks to watch
+
+Resource security
+Beyond the food-energy-water nexus addressed
+above, this cluster of risks involves extreme
+commodity price volatility and extreme energy
+price volatility. It is a relatively uncontroversial
+assertion that demand for natural resources will
+increase in the medium term because of a combination
+of population growth and projected increases in
+per-capita consumption. But there is uncertainty
+as to whether supply can keep pace. This leads
+some experts to argue that, in the long-term, the
+world should expect at best, sustained increases in
+commodity prices, and at worst, shortages of key
+resources.
+Empirically, entrepreneurs have responded to
+increased prices in the short-term with technological
+and process innovations that have lowered prices in
+the long-term. When adjusted for inflation, the price
+of most commodities actually declined from 1950 to
+2000 despite rapidly rising overall demand. Some
+experts, such as the late Julian Simon, have argued
+that such declines are likely to continue.13
+However there are two types of supply-side scarcity:
+as well as the “soft” temporary limits driven by
+inadequate past investment in production, there are
+the “hard”, natural limits of a resource’s availability.
+Such hard resource limits lead a number of experts
+to doubt whether technology and innovation can
+continue to increase the supply of core commodities
+at the required rate implied by population and
+economic growth in the long-term. They argue that
+the contribution of technological advancement to
+increased supply is slowing; that certain resources –
+such as water – have no easy substitutes; and that
+the unprecedented growth experienced in emerging
+economies in recent years might outpace the
+investment required to meet demand.
+Externalities also play a role in price increases: as
+the most accessible sources of commodities are
+exhausted, the technical and environmental challenges
+to their extraction are likely to rise, increasing costs
+either directly or through regulatory responses.
+
+13
+
+Julian Simon, The Ultimate Resource, 1981.
+
+38 | Global Risks 2011
+
+Sustained increases in commodity prices and
+shortages of key resources would have a negative
+impact on global economic growth. Further, should
+resulting price rises in finished goods be transferred
+to consumers, the poorest will likely be worst hit,
+increasing economic disparity and the interconnected
+risks that this implies.
+Increases in resource efficiency can help mitigate this
+situation. Behavioural changes on the part of both
+consumers and businesses can reduce demand.
+Removing perverse incentives for the inefficient use
+of some resources – hydrocarbon subsidies and
+underpriced water – can support these changes.
+Stronger rules on the stewardship of common, transborder resources – such as water or fisheries – may
+help prevent a generalization of the “tragedy of the
+commons”. And continued investment in technologies
+and infrastructure that increase the efficiency of
+resource extraction, distribution and use is also
+necessary.
+In the long-term, a model of truly sustainable
+consumption where private sector business models
+adopt resource limits as a driver of business innovation
+– as advocated by the Forum’s Driving Sustainable
+Consumption Initiative –, could shift this current set
+of risks to an opportunity for renewed growth and
+competitive advantage.
+
+Risks to watch
+
+Retrenchment from globalization
+
+Weapons of mass destruction
+
+As the power and capacity of the United States to
+lead diminishes, emerging economies are amassing
+increasing political, economic and military power. A
+key question in determining the scale and scope of
+retrenchment from globalization will be the extent to
+which emerging economies will be ready to embrace
+leadership for defending the open international system
+that facilitated their rise in the first place.
+
+There is no argument about the high potential impact
+of weapons of mass destruction (WMD) but a broad
+range of assessments do surround the likelihood of
+WMD materializing as a global risk. The chemical,
+biological, radiological, and nuclear (CBRN) risk could
+occur in two ways. One is through terrorist attacks. The
+other is through geopolitical conflict. Both are affected
+by global governance failures. While WMD covers a
+range of weapons of varying concern, the key WMD risk
+is felt by most experts to be that of nuclear proliferation,
+both among states and non-state actors, closely
+followed by the potential use of biological weapons.
+
+In many advanced economies strengthening
+political forces either directly or indirectly advocate
+retrenchment from globalization. Economic difficulties
+mean policy-makers are increasingly tempted to
+resort to protectionist measures and anti-globalization
+rhetoric. Some of the stimulus packages adopted
+during the financial crisis already entailed elements of
+protectionism. Countries with growing current account
+deficits will almost certainly continue to seek shortterm adjustments through protectionist or other traderestricting measures.
+Unemployment and unequal wealth distribution
+within both advanced and emerging countries also
+disenfranchises large parts of societies from the
+benefits of globalization. This may result in sociopolitical unrest and general socio-economic backlash
+against globalization. There are early signs of this
+risk in the rise of extremist parties in Europe (at both
+extremes of the political spectrum) and in the US (tea
+party) coupling arguments of economic nationalism
+with anti-immigration rhetoric. Similar sentiments are
+being heard in some emerging economies, such as in
+North Africa.
+While experts regard full retrenchment from
+globalization as a low-probability scenario, even
+marginal restrictions to global movements of goods,
+people and ideas could lead to economic loss as gains
+of trade and the benefits of global division of labour
+decrease. Such restrictions could simultaneously
+exacerbate other risks by limiting opportunities for
+countries to spread risks and share resources across
+borders.
+
+Regimes to restrict the spread of WMD have proven
+surprisingly effective, particularly in conjunction with the
+high capital and political costs associated with nuclear
+weapons in particular. The norm of non-use of nuclear
+weapons, in addition, has become well established.
+Contrary to widespread fears in the 1960s, only a
+handful of states currently carry nuclear arsenals. Some
+states such as South Africa and Libya have even gone
+so far as to renounce their nuclear ambitions altogether.
+More recently, the May 2010 Nuclear Non-Proliferation
+Treaty (NPT) Review Conference was broadly viewed as
+a marginal success, despite its shortcomings.
+Nonetheless, the dynamics of the nuclear status quo
+are unstable. While the expansion of nuclear-powered
+electricity generation does not pose a weapons
+proliferation risk per se, it is still likely to raise concerns
+regarding dual-use technologies, thereby highlighting
+imperfections in global energy governance. In parallel,
+delay in the ratification of the New START Treaty
+risks undermining the “reset” in relations between
+the Russian Federation and the United States and
+weakening the impetus of non-proliferation and arms
+reduction – as do recurring worries regarding North
+Korea’s nuclear status and the uncertainties surrounding
+Iran’s intentions on the matter. Meanwhile, technological
+barriers to manufacturing and delivering WMD have
+been falling, and illegal transfers of technology have
+occurred repeatedly, including in the nuclear realm.
+According to some experts, the risk of acquisition
+of WMD materials by non-state actors – and their
+willingness to use such tools – is considerable and
+could increase. While a fully-fledged nuclear programme
+is far beyond the capacity of any non-state actor, much
+nuclear material remains insecure. Perhaps even more
+significantly, the Forum’s community of experts argues
+that the use by terrorists of improvised radiological
+devices, the sabotage of commercial chemical plants
+and/or supply chains, and the possible occurrence of
+small-scale biological attacks rank high among risks to
+watch in the CBRN field.
+
+Global Risks 2011 | 39
+
+Conclusion
+
+As the different chapters of this report have shown,
+addressing global risks requires new capacities in
+terms of risk analysis as well as formal and informal
+risk response mechanisms at the global level. Three
+key features stand out to define the requirements of
+these capacities:
+•
+
+First, interconnections between risks require us
+to better understand the systems behind risks as
+well as the risk context. It is no longer sufficient to
+simply assess operational risks in the corporate
+context or national security challenges in the
+government context. Identifying the central nodes
+in risk interconnections is a crucial element of risk
+response. Analyses such as the one provided
+in this report that focus on risk interconnections
+therefore play an important role at focusing the
+debate on risk response.
+
+•
+
+Second, with global risks playing out both at
+the global and national levels and different
+stakeholders being affected in different ways,
+the world faces a significant challenge in
+coordinating national and global responses. By
+definition, none of the risks discussed in this
+report can be addressed by a single actor alone;
+we therefore need to continue efforts to create
+a common framework for assessing risks in a
+multistakeholder, collaborative environment.
+
+•
+
+Third, while in an increasingly turbulent global
+environment there is the temptation to always
+focus on the most recent risk event, it is
+important to take a long-term perspective to risk
+assessment and response. Many global risks
+could emerge over decades rather than months or
+years; this is one reason why this report maintains
+a ten-year outlook. Long-term commitment is
+required to ensure that the effectiveness of the
+response matches the magnitude of global risks.
+
+As such, addressing the two central risks in this
+report – economic disparity and global governance
+failures – could go a long way towards improving both
+the effectiveness of risk response and overall resilience
+at the global level. Both risks have strong impact on
+the three important clusters highlighted by this year’s
+risk perception survey. While many of the longer-term
+developments and effects of global risks are difficult
+to anticipate with a reasonable degree of certainty,
+investments in these central risks are certain to have
+positive effects on overall risk resilience.
+However even with the best analysis, we can never
+anticipate or prepare for all risks. In an increasingly
+connected world, there is a plethora of risks that
+are beyond the planning and assessment capacities
+of decision-makers and risk experts alike. To be
+prepared for these future challenges and to continue
+to seize opportunities in rapidly changing strategic
+environments, organizations and decision-makers
+must continue to invest in our ability to adapt and
+learn, thereby building more resilient systems. We
+hope that the Forum’s Risk Response Network will
+make a tangible and valuable contribution towards
+achieving this goal.
+
+Global Risks 2011 | 41
+
+Appendix 1:
+Definitions and methodology
+
+Defining global
+risks
+For a threat to be considered a “global risk” it
+must have global geographic scope, cross-industry
+relevance, uncertainty as to how and when it will
+occur, high levels of economic and/or social impact,
+and it must require a multistakeholder approach to risk
+response.
+•
+
+Global Scope: Risks that affect no less than three
+world regions on at least two different continents.
+While these risks may have regional or even local
+origin, their impact potentially can be felt globally.
+
+•
+
+Cross-Industry Relevance: Risks that affect three
+or more industries.
+
+•
+
+Uncertainty: Uncertainty about how the risk
+manifests itself within 10 years combined with
+uncertainty about the magnitude of its impact
+(assessed in terms of likelihood and severity).
+
+•
+
+Economic Impact: The risk has the potential to
+cause economic damage of US$ 10 billion or
+more.
+
+•
+
+Multistakeholder Approach: The complexity of the
+risk requires a multistakeholder approach for its
+mitigation. The risks are classified in five domains:
+economic, geopolitical, environmental, societal
+and technological risks.
+
+42 | Global Risks 2011
+
+Further, risks are not all equal. The 2010 report deals
+with two main types of risks:
+•
+
+“Creeping” or “chronic global risks” that manifest
+as long-term drains on economic or social activity
+but do not occur as major, time-bound events (in
+health, chronic disease is in this category);
+
+•
+
+“Acute” or “event-driven global risks” that have
+an identifiable onset when they occur (pandemics
+fall in this category).
+
+We define “resilience” as the ability of a system to
+reorganize under change and deliver its core function
+continually, despite the impact of external or internally
+generated risks.
+
+Appendix 1:
+Definitions and methodology
+
+Global risk report
+methodology and
+sources
+The insights portrayed in Global Risks 2011, Sixth
+Edition are based on:
+
+Workshops and discussions with leading
+experts:
+Eighteen workshops and numerous individual
+discussions with the Forum’s community of risk
+experts provided valuable context and insight into
+the survey data and form the basis for much of the
+analysis in this report. Please see acknowledgements
+for details of the experts involved.
+
+Collaboration with the Forum’s Risk Partners:
+World Economic Forum Global Risks Survey
+2010:
+The Global Risks Survey seeks the opinion of experts,
+business leaders and policy-makers on a selection
+of global risks tracked by the World Economic
+Forum. This is a perception survey which received
+approximately 580 valid responses across the 37
+global risks in five risk categories. Respondents were
+asked to assess risk likelihood and impact over a ten
+year time horizon (2010-2020) and also provided their
+level of confidence in their answers. Respondents
+also assessed risk interconnections by choosing up
+to six other risks they judged were related in some
+way to the risk being assessed. Respondents also
+had the option to add data on the dominant type of
+interconnection between risks. Data were analysed
+using a range of statistical techniques, both descriptive
+and analytical. For more information on the full risk set,
+please see our interactive website at:
+http://www.weforum.org/globalrisks2011.
+Note: the starting point for this report is a risk
+perception survey. An important point to note is how
+risks are perceived is not equivalent to the actual
+exposure faced by stakeholders. While drawing
+on perception data for insights into global risks, the
+Forum’s Global Risks reports explicitly look to combat
+perception biases, by taking a 10 year perspective,
+encouraging experts to engage in debate and
+challenge their own assumptions, and by specifically
+focusing on risk interconnectedness and the trade-offs
+involved in risk response. Finally, by highlighting how
+experts perceive risks, the Forum aims to improve
+multistakeholder awareness regarding both wellknown and less-understood risks in the hope that risk
+response will be served.
+
+The Forum benefited greatly from data, expertise
+and guidance from our four risk partners: Marsh &
+McLennan Companies, Swiss Reinsurance Company,
+Wharton Center for Risk Management, University of
+Pennsylvania and Zurich Financial Services.
+
+Outcomes of the Network of Global Agenda
+Councils:
+Comprising over 1,000 of the world’s leading experts
+across 72 key topics in the global arena, the Forum’s
+Network of Global Agenda Councils serves as an
+advisory board to the Forum and other interested
+parties, such as governments and international
+organizations. Input into this report from the councils
+included survey data from the Global Agenda Council
+Survey 2010 (600 respondents), data and insight
+drawn from council reports and proposals, the use of
+transcripts from council calls, output from the Summits
+on the Global Agenda and individual contributions by
+council members.
+
+Desk research and internal expert review:
+The World Economic Forum’s internal resources
+conducted an extensive research process. In addition,
+internal expert reviews were provided by 30 World
+Economic Forum topic experts.
+
+Global Risks 2011 | 43
+
+Appendix 2:
+Survey data overview 2011
+
+The Global Risks
+Landscape 2011
+Global Risks 2011, Sixth Edition draws on the insights
+of 580 expert respondents to the Forum’s Global Risks
+Survey across stakeholder groups and regions. The
+survey measured the perception of risk likelihood, risk
+impact and risk interconnections from 2010 to 2020
+for 37 global risks. A visualization of the results of this
+survey can be seen at the beginning of the report. The
+risks set is based on previous Global Risks reports
+as well as input from the Network of Global Agenda
+Councils and the Forum’s risk partners to reflect the
+evolving risk context.
+The Global Risks Landscape 2011 (Figure 1) reveals
+that respondents in general perceive event-driven
+risks as having higher impact than risks that are more
+chronic in nature and more distributed over time.
+This is a well-known bias in risk perception: there is
+a tendency to discount the impact of risks which are
+long-term and familiar, and the tendency to inflate the
+impact of risks which involve extreme “shocks”, such
+as fiscal crises and geopolitical conflict.
+There are three interesting exceptions to this
+observation. First, the risk of climate change; though
+defined explicitly as chronic in nature, ranked highest
+when likelihood and impact are combined. Two
+other “chronic” risks are seen as particularly likely
+and of high impact: economic disparity and global
+governance failures.
+The global risks perceived as having the highest
+combined impact and likelihood among those
+assessed appear in Table 5 below.
+For more information on the Global Risks Landscape
+2011, please go to:
+http://www.weforum.org/globalrisks2011
+
+44 | Global Risks 2011
+
+Figure 51
+Table
+
+Top 10 risks by likelihood and
+impact combined
+
+Ranking
+
+Likelihood x Impact
+
+1
+
+Climate change
+
+2
+
+Fiscal crises
+
+3
+
+Economic disparity
+
+4
+
+Global governance failures
+
+5
+
+Storms and cyclones
+
+6
+
+Extreme energy price volatility
+
+7
+
+Geopolitical conflict
+
+8
+
+Corruption
+
+9
+
+Flooding
+
+10
+
+Water security
+
+Source: World Economic Forum
+
+Appendix 2:
+Survey data overview 2011
+
+Risks
+Interconnection
+Map 2011
+A key feature of the Forum’s Global Risks Survey is its
+assessment of risk interconnections. Table 6 shows
+the top 10 risks in terms of average strength of these
+interconnections. The Risks Interconnection Map
+(RIM) 2011 (Figure 2), which provides a visualization of
+perceived interconnections and their strengths, can be
+found on the inside cover of this report and is further
+explored on http://www.weforum.org/globalrisks2011.
+Figure 61
+Table
+
+Top 10 risks in terms of average strength
+of interconnections
+
+Ranking
+
+Interconnection
+
+1
+
+Economic disparity
+
+2
+
+Global governance failures
+
+3
+
+Geopolitical conflict
+
+4
+
+Fragile states
+
+5
+
+Corruption
+
+6
+
+Food security
+
+7
+
+Regulatory failures
+
+8
+
+Climate change
+
+9
+
+Fiscal crises
+
+10
+
+Asset price collapse
+
+risk context, creating or exacerbating other global risks
+and inhibiting effective response. As such they are
+discussed separately.
+Interestingly, the distribution of their interconnections
+differs substantially. Global governance failures
+directly impact a large number of other risks, and are
+perceived predominantly as an influencer of other risks.
+Economic disparity, on the other hand, has stronger
+interconnections with a smaller set of risks and there is
+more evidence of perceived feedback loop dynamics.
+Further analysis of interconnections revealed three
+distinct clusters, which are analysed in the Risks in
+Focus section below. One cluster consists of global
+imbalances and currency volatility, asset-price
+collapse and fiscal crises. The second cluster links
+illicit trade, organized crime, corruption, and fragile
+states. A third cluster links climate change with
+water security, food security and extreme energy
+price volatility.
+Risks were defined by category, and it is interesting to
+observe that societal risks were the most influential on
+risks in other categories. While much media attention
+is paid to geopolitical and economic risk, social risks
+may in fact be of greater systemic concern.
+
+Source: World Economic Forum
+
+The data indicate that the most interconnected risks
+are economic disparity and global governance
+failures. This makes them central to the visualization
+of risk interconnections. It also makes them central to
+our understanding of global risk as it implies that they
+are particularly important in shaping the contemporary
+
+Global Risks 2011 | 45
+
+Appendix 2:
+Survey data overview 2011
+
+Differences in risk
+perception among
+respondents
+The Forum’s survey data show that perceptions on the
+37 global risks assessed in the survey vary significantly
+by stakeholder group and geography. Respondents
+tend to worry more about risks which are traditionally
+viewed as being in “their” domain: businesses indicate
+the highest level of concern about economic risks
+while governments and international organizations
+tend to perceive societal risks as the most concerning.
+Table 7 shows the major differences in perception
+across stakeholders and geographic groupings.
+
+Table 7
+
+Respondents from the BRIC countries tended in
+general to rate risks as lower in both likelihood
+and impact than those from OECD countries. This
+is surprising in that BRIC countries are at least as
+exposed to the downside of global risks as OECD
+countries, and for some risks, such as climate change,
+exposures may be far greater. The explanation may
+lie in a greater comfort with risk-taking in fast-growing
+economies.
+Economic disparities were viewed as similarly
+important by all types of stakeholders and across
+all geographies. Both North Americans and Asians
+considered environmental risks to be of the greatest
+aggregate concern while in Europe, societal risks rated
+the highest.
+
+Stakeholder and geographic differences in risk perception from the Global Risks Survey
+
+Respondent:
+
+Governments
+
+Business
+
+Academia
+
+International
+Organizations
+
+North
+America
+
+Europe
+
+Asia
+
+Most concerned
+about:
+
+Societal risks
+
+Economic risks
+
+Environmental
+risks
+
+Societal risks
+
+Environmental
+risks
+
+Societal risks
+
+Environmental
+risks
+
+Perception relative
+to other groups:
+
+Climate change
+(likelihood > others)
+
+Fiscal crises
+(impact > Int. Org)
+
+Climate change
+(impact > business)
+
+Climate change
+(likelihood > others)
+
+Global imbalances
+(> Europe)
+
+Global governance
+failures (> Asia)
+
+Global imbalances
+(> Europe)
+
+Fragile states
+(impact > others)
+
+Slowing Chinese
+economy
+(impact > Int. Org)
+
+Fragile states
+(likelihood > others)
+
+Climate change
+(impact > business)
+
+Regulatory failures
+(> Asia)
+
+Biodiversity loss
+(> others)
+
+Fragile states
+(likelihood > others)
+
+Consumer price
+volatility
+(impact > Asia)
+
+Demographic
+challenges
+(> North America)
+
+Retrenchment from
+globalization
+(> Europe)
+
+Geopolitical conflict
+(> academia,
+business)
+Illicit trade,
+organized crime,
+fragile states
+(> others)
+
+Consumer price
+volatility
+(> academia)
+Terrorism
+(likelihood > gov’ts)
+
+Illicit trade,
+organized crime
+and fragile states
+(> others)
+
+Food security
+(impact < others)
+
+Food security
+(likelihood > others)
+
+Retrenchment from
+globalization
+(> Europe)
+Terrorism (> Asia)
+Critical information
+infrastructure
+breakdown
+(> others)
+Regulatory failures
+(> Asia)
+Consumer price
+volatility (impact
+> Asia)
+Retrenchment from
+globalization
+(> Europe)
+Terrorism (> Asia)
+Critical information
+infrastructure
+breakdown
+(> others)
+
+Source: World Economic Forum
+
+46 | Global Risks 2011
+
+Consumer price
+volatility (likelihood
+> NorthAmerica
+
+Appendix 2:
+Survey data overview 2011
+
+Outliers in the risk landscape for further reflection
+Four risks are broadly perceived to be “outliers” in the Global Risks’ 2011 landscape, either because of
+high levels of uncertainty about their assessment or because the attributes of these risks are only now
+becoming visible. These risks are considered here because under certain circumstances they could move
+rapidly to the centre of the risk landscape.
+First, space security – the risk of economic damage and geopolitical tension from insufficient regulation of
+commercial and military activity beyond the earth’s atmosphere. This was the least familiar risk of the set,
+with respondents displaying very low levels of confidence in their responses because of a lack of technical
+knowledge or readily plausible scenarios. This led a number of experts to suggest this risk was being
+systematically underestimated. The Forum’s Global Agenda Council on Space Security is undertaking work
+in this area.
+The robustness of the Chinese economy since the global financial crisis means a slowing Chinese
+economy was this year perceived to be one of the least likely of the 37 global risks, a significant change
+from previous years. However, the potential impact is high, with Chinese growth currently fuelling a
+significant proportion of the world’s economic activity. A Chinese slowdown might also precipitate social
+instability domestically, leading to political instability that could threaten the entire region.
+Ocean governance is another outlier, ranking low in both likelihood and impact despite expert opinion
+that places the decline of fish stocks and disputes over marine territories as highly likely and of very high
+impact.
+A final outlier is threats from new technologies – unintended consequences for human, animal or plant
+life from the release of agents into the biosphere created by genetic engineering, synthetic biology or
+nanotechnology. Stakeholders rated this threat as of low impact and likelihood. However while experts
+interviewed concurred that numerous regulatory authorities in this area lower the risk’s likelihood, it was
+being underestimated in terms of impact.
+
+Global Risks 2011 | 47
+
+Appendix 3:
+Common global risk response strategies
+
+The focus of this report is on improving understanding
+of global risks, rather than analysing optimal risk
+response strategies– that is left to the ongoing
+discussions in the Forum’s Risk Response Network
+and beyond.
+
+Nevertheless, a generic framework for risk response
+is helpful when contemplating risk. Figure 10 depicts
+five broad, non-exclusive strategies that might be
+employed by a government, corporation or individual
+to reduce overall risk exposure.
+
+Figure 110 Generic risk response strategies
+Figure
+
+Source: Adapted from Cleary & Malleret’s “Resilience to Risk” and, Vernon L Grose’s “Managing Risk”
+
+The first and most obvious option is to seek to avoid
+the risk wherever possible. The second option is to
+mitigate the risk directly – to attempt to reduce the
+impact or likelihood of the risk at source. For example,
+a corporation facing climate change-related risks could
+lobby internationally to reduce carbon emissions.
+The third option is to adapt to the risk by preparing for
+its occurrence. Here, a corporation may strengthen
+buildings or prepare emergency response plans.
+Homeowners residing in flood-prone areas could
+elevate their structures or collaborate to put drainage
+systems in place.
+The fourth option involves transferring risk. For
+individuals and companies, risk could be transferred
+to a third party such as an insurer, or through more
+sophisticated hedging strategies (see below). The
+equivalent from a systemic perspective is to diffuse the
+risk, such that the second and third-order impacts are
+reduced. For example, ensure that the collapse of a
+single bank does not cause the collapse of interbank
+lending.
+
+48 | Global Risks 2011
+
+These options can all reduce the resulting impact of
+the risk on an organization or system. But the final step
+is also critically important – it involves accepting the
+residual risk, such that the organization or individual
+is well aware of the potential impact and can hold
+reserves or make other provisions to deal with the
+possible consequences.
+
+Appendix 3:
+Common global risk response strategies
+
+Catastrophe financing: the use of alternative risk transfer instruments
+The most common form of risk transfer, insurance, shifts exposure to insurers in a exchange for a premium.
+However this depends on insurers being able to profitably pool and absorb a range of risks through
+diversification over time and geography. This is becoming more difficult as disasters are increasingly
+regionally and temporally concentrated, thanks in part to development in hazard-prone areas. Of the 25
+most costly insured catastrophes in the past 40 years, two-thirds have occurred since 2001.
+The World Economic Forum’s Global Agenda Council on the Mitigation of Natural Disasters produced an
+analysis* of new forms of risk transfer which involve shifting parts of catastrophe risk exposure directly to
+financial markets. Alternative risk transfer (ART) instruments offer innovative financial solutions to meet the
+growing needs of financial coverage of catastrophic risks and permit investors to play a more direct role in
+that sphere.
+One example of such instruments is a catastrophe bond which enables a company, international
+organization or a government to issue bonds to protect them against predefined risks. Over 160 “cat
+bonds” have been issued to date around the world to protect against pandemics, terrorism and natural
+disasters. Another promising financial innovation is weather-index based micro-insurance for subsistence
+farmers in countries where traditional insurance is unavailable or unaffordable.
+With proper regulation and transparency, such alternative risk transfer instruments can provide additional
+capital and offer new ways to hedge catastrophe risks, protect individuals and reduce the systemic impact
+of future disasters.
+* Michel-Kerjan, Erwann “Hedging Against Tomorrow’s Catastrophes”, in Learning from Catastrophes,
+Kunreuther and Useem (Eds), Wharton School Publishing, 2010
+
+Global Risks 2011 | 49
+
+Appendix 4:
+Guide to online global risks 2011 resources
+
+Interactive website
+The Forum has prepared a series of interactive
+resources related to Global Risks 2011, Sixth Edition.
+This includes an online version of this report, a data
+explorer showing the results of the Global Risks
+Survey, videos, interviews, quotes, data narratives and
+an interactive version of the global risks barometer.
+Please go to http://www.weforum.org/globalrisks2011
+to explore this material.
+
+The global risks
+barometer
+The global risks barometer assesses the influencing
+factors, global impact and risk perceptions of
+the 37 risks in the five risk categories: economic,
+geopolitical, societal, environmental and technological
+at a global level. In Global Risks 2011, Sixth Edition,
+the influencing factors and global impact have been
+generated and refined though the 18 workshops with
+experts in each risk category. The risk perception
+characteristics, which include key interconnections,
+likelihood, severity, and variation in perception and
+Figure 111 Example
+
+confidence level are data extracted from the Global
+Risks Survey 2010.
+The barometer is designed to trigger discussions on
+global risks at multiple levels: at an individual risk
+level to understand the factors that influence the risk
+and its consequences described as global impact, in
+relationship with the highly interconnected risks to
+understand the directionality and the feedback loop
+with other risks, and at a systemic level as it has been
+illustrated in the Global Risk Landscape.
+The barometer is a living document for several
+reasons. First, the risks that have been captured at
+a global level do not necessarily play out at a local
+level in a similar manner hence there is a need for
+further discussion. Second, the risk characteristics
+evolve as the world moves on. Lastly, there are many
+interpretations on how the risks may be influenced and
+impacted; hence there is a broader need to continually
+improve the work.
+The full list of barometers, as illustrated in a dashboard
+format below (figure 11), is available at the World
+Economic Forum’s interactive website:
+http://www.weforum.org/globalrisks2011.
+Readers are encouraged to provide constructive
+contribution to further elaborate this living document
+that will feed into future Global Risks reports.
+
+of barometer “Asset Price Collapse”
+
+Figure 1
+
+low
+
+Asset price
+collapse
+Figure 1
+
+med
+
+high
+
+Perceived likelihood
+to occur in the next ten years
+
+Perceived impact
+in Billion US $
+
+A collapse of real and financial asset prices leads to the destruction of wealth, deleveraging, reduced household
+spending and impaired aggregate demand.
+
+Drivers and indicators
+Sharp increase and volatility in the prices of financial assets
+including mortgages, asset-backed securities and debt instruments
+Sharp increase and volatility in prices of real assets
+(commercial and private real estate)
+Excessive capital flows to emerging markets, inducing asset price
+bubbles
+New arbitrage opportunities, causing currency carry trades
+from low-to high-interest rate countries
+Changes in central bank policy frameworks which allocate more
+weight to overall financial stability rather than just price stability
+Policy shifts encouraging domestic consumption and creating
+further productive investment opportunities in emerging economies
+Greater transparency and stronger financial regulation regarding
+surveillance, capital and liquidity ratios, risk retention and counterparty
+risk management in over-the-counter derivative markets
+
+50 | Global Risks 2011
+
+Global impact
+Reversals of global economic
+growth as collapse in asset prices
+undermines consumer confidence
+and the allocative efficiency of the
+financial system (the current financial
+crisis reduced world output by
+roughly 2% and contracted advanced
+economies by roughly 4%).
+Possible collapse of banking
+systems as investors lose trust in
+financial markets and governance
+institutions.
+
+References and further reading
+Cleary, S. and Thierry Malleret (2006). Resilience to Risk
+Cottarelli C. and Andrea Schaechter (2010). “Long-Term Trends in Public Finances in the G-7 Economies”, IMF Staff
+Position Note SPN/10/13
+Economics of Climate Adaptation (ECA) Working Group (2009). Shaping Climate Resilient Development: A
+Framework for Decision-Making
+Gokhale, J. (2009). “Measuring the Unfunded Obligations of European Countries”, National Centre for Policy Analysis
+(NCPA) Policy Report No. 319
+Grose, V. (1987). Managing Risk
+International Monetary Fund (2009). “Fiscal Implications of the Global Economic and Financial Crisis”, IMF Staff
+Position Note SPN/09/13
+International Monetary Fund (2010). “United States: Selected Issues Paper”, IMF Country Report No. 10/248
+Kotlikoff, L. (2010). “A Hidden Fiscal Crisis?”, Finance and Development, September 2010
+Kunreuther and Useem (2010). Learning from Catastrophes
+Mekong River Commission (2010). Strategic Environmental Assessment
+OECD (2008). Growing Unequal? Income Distribution and Poverty in OECD Countries
+Reinhart, C. M. and Kenneth S. Rogoff (2010). “Growth in a Time of Debt”, NBER Working Paper No. 15639
+Simon, J. (1981). The Ultimate Resource
+Transparency International, International Chamber of Commerce, UN Global Compact and World Economic Forum
+(2008). Clean Business is Good Business: The Case against Corruption
+World Economic Forum (2010). Financial Development Report 2010
+World Economic Forum (2010). Global Redesign Initiative
+World Economic Forum (2009). The Future of the Global Financial System: A Near-Term Outlook and Long-Term
+Scenarios.
+World Economic Forum (2010). The Middle East and North Africa at Risk 2010
+World Economic Forum Water Initiative, edited by D. Waughray (2010). Water Security: The Water-Food-EnergyClimate Nexus
+
+Global Risks 2011 | 51
+
+Acknowledgements
+
+Global Risks 2011, Sixth Edition synthesizes the
+ideas and contributions of many individuals through
+workshops, interviews, group calls and research. The
+project team thanks everyone who took the challenge
+to think hard about global risks for their time, energy
+and insights. Without their courage, dedication,
+guidance and support, we would not have been able
+to successfully develop this report.
+
+Global Risks 2011, Sixth Edition Partners
+
+The project team would also like to thank all the
+business, public sector, academic and civil society
+leaders who participated in our interviews and
+workshops (in alphabetical order by last name with
+their affiliation at the time of participation):
+Abdulkhaleq Abdulla, UAE University
+Isabella Aboderin, The Oxford Institute of Ageing
+Kathrin Amacker, Novartis AG
+
+Marsh & McLennan Companies
+
+Peter Anderson, Faculty of Health, Medicine and Life
+Sciences, University of Maastricht
+
+Swiss Reinsurance Company
+
+Daniel Andris, Swiss Reinsurance Company
+
+Wharton Center for Risk Management, University of
+Pennsylvania
+
+Raymond Baker, Global Financial Integrity
+
+Zurich Financial Services
+With special thanks to the following representatives
+of the global risk partners for their contribution to the
+project team (in alphabetical order by last name):
+
+Beatrice Baldinger Pirotta, Swiss Reinsurance
+Company
+Judith Banister, Javelin Investments
+Braz Baracuhy, Permanent Mission of Brazil in
+Geneva
+
+Anwarul Hasan, Swiss Reinsurance Company
+
+Jane Barratt, International Federation on Ageing (IFA)
+
+Daniel Hofmann, Zurich Financial Services
+
+Katinka Barysch, Centre for European Reform (CER)
+
+Erwann Michel-Kerjan, The Wharton School,
+University of Pennsylvania
+
+Esther Baur, Swiss Reinsurance Company
+
+Lucy Nottingham, Oliver Wyman (Marsh &
+McLennan Companies)
+
+Bernard Belk, Swiss Reinsurance Company
+
+Gregory Renand, Zurich Financial Services
+Alex Wittenberg, Oliver Wyman (Marsh & McLennan
+Companies)
+Lisa Wyssbrod, Swiss Reinsurance Company
+And to the Steering Board for Global Risks 2011,
+Sixth Edition
+John Drzik, Oliver Wyman (Marsh & McLennan
+Companies)
+Robert Greenhill, World Economic Forum
+Howard Kunreuther, The Wharton School, University
+of Pennsylvania
+Axel Lehman, Zurich Financial Services
+Raj Singh, Swiss Reinsurance Company
+
+John Beard, World Health Organization (WHO)
+Simon Biggs, University of Melbourne
+Marcel F. Bischof, World Demographic and Ageing
+Forum
+David E. Bloom, Harvard School of Public Health
+Antoine Bommier, ETH Zurich
+Ian Bremmer, Eurasia Group
+David Bresch, Swiss Reinsurance Company
+John Briscoe, Harvard University
+Sharon Brown-Hruska, NERA (Marsh & McLennan
+Companies)
+Sharan Burrow, International Trade Union
+Confederation (ITUC)
+Robert Cailliau, European Organization for Nuclear
+Research (CERN)
+Richard Caplan, University of Oxford
+Irene Casanova, World Economic Forum
+Moncef Cheikh-Rouhou, HEC School of
+Management
+
+52 | Global Risks 2011
+
+Acknowledgements
+
+Jonathan Cohn, Oliver Wyman (Marsh & McLennan
+Companies)
+Andrew Crockett, JPMorgan Chase International
+Audrey Kurth Cronin, U.S. National War College
+Richard Danziger, International Organization for
+Migration (IOM)
+Michael Denton, Oliver Wyman (Marsh & McLennan
+Companies)
+Xiaoxin Ding, Marsh (Marsh & McLennan
+Companies)
+Steve Dobbs, Fluor Corporation
+Peter Draper, The South African Institute of
+International Affairs (SAIIA)
+Michael Drexler, Barclays PLC
+Evan Feigenbaum, Eurasia Group
+Stephen E. Flynn, Council on Foreign Relations
+David Frediani, Marsh & McLennan Companies
+
+Jo L. Husbands, The National Academy of Sciences
+Martin Indyk, The Brookings Institution
+Ralf Jacob, European Commission
+Emmanuel Jimenez, The World Bank
+Richard Jolly, Institute of Development Studies
+Robert Kagan, Carnegie Endowment for
+International Peace
+Alexandre Kalache, The New York Academy of
+Medicine (NYAM)
+Kurt Karl, Swiss Reinsurance Company
+Daniel Kaufmann, The Brookings Institution
+Frederick Kempe, The Atlantic Council of the United
+States
+Ilona Kickbusch, World Demographic and Ageing
+Forum
+Robert Korizek, Swiss Reinsurance Company
+
+Astrid Frey, Swiss Reinsurance Company
+
+Upmanu Lall, Department of Earth and
+Environmental Engineering, Columbia University
+
+Robert Friedman, Bloomberg News
+
+Axel Lehmann, Zurich Financial Services
+
+Bruno Gehrig, UBS AG
+
+Rosemary Leith, World Wide Web Foundation
+
+Bekele Geleta, International Federation of Red Cross
+and Red Crescent Societies (IFRC)
+
+Veronica Loke, Swiss Reinsurance Company
+
+David Gordon, Eurasia Group
+
+Ariela Lowenstein, Center for Research and Study
+of Aging
+
+Hans Groth, Pfizer Inc.
+
+Jacques Marcovitch, Universidade de São Paulo
+
+Lyric Hughes Hale, China Online
+
+Teruaki Masumoto, Tokyo Electric Power Company
+(TEPCO)
+
+Harry Harding, University of Virginia
+Sarah Harper, The Oxford Institute of Ageing
+David Harrison, NERA (Marsh & McLennan
+Companies)
+Katy Hartley, The Philips Center for Health & Wellbeing
+Sven Hoffmann, Advokatur Hoffmann
+James F. Hoge, Foreign Affairs Magazine
+Roman Hohl, Swiss Reinsurance Company
+Thomas Holzheu, Swiss Reinsurance Company
+Pervez Hoodbhoy, Department of Physics, Quaid-iAzam University
+
+Andreas C. Meier, World Demographic & Ageing
+Forum
+Johanna Mendelson Forman, The Center for
+Strategic and International Studies (CSIS)
+John Merkovsky, Marsh (Marsh & McLennan
+Companies)
+Jean-Pierre Michel, Geneva Medical School and
+University Hospitals
+Colin Milner, International Council on Active Ageing
+(ICAA)
+Ernst Mohr, University of St Gallen
+Nader Mousavizadeh, Oxford Analytica Ltd
+
+Dalmer Hoskins, U.S. Social Security Administration
+
+Rainer Münz, Erste Group Bank AG
+
+Irene Hoskins, International Federation on Ageing
+(IFA)
+
+Kevin X. Murphy, J.E. Austin Associates Inc. (JAA)
+Christoph Nabholz, Swiss Reinsurance Company
+
+Global Risks 2011 | 53
+
+Acknowledgements
+
+Edward Newburn, AARP
+
+Paul Twomey, Argo Pacific, Australia
+
+Herbert Oberhaensli, Nestlé
+
+Wang Feng, The Brookings Institution
+
+Michael Oborne, Organisation for Economic Cooperation and Development (OECD)
+
+Sean West, Eurasia Group
+Martin Weymann, Swiss Reinsurance Company
+
+Stuart Orr, Freshwater, WWF - World Wide Fund for
+Nature
+
+Urs Widmer, Swiss Reinsurance Company
+
+Hubert Österle, Institute of Information Management
+
+Barrie Wilkinson, Oliver Wyman (Marsh & McLennan
+Companies)
+
+Rick Perdian, Swiss Reinsurance Company
+Roland Rechtsteiner, Oliver Wyman (Marsh &
+McLennan Companies)
+Barbara Ridpath, International Centre for Financial
+Regulation
+Ashutosh Riswadkar, Zurich Financial Services
+Daniel Ryan, Swiss Reinsurance Company
+Ross Schaap, Eurasia Group
+Reto Schnarwiler, Swiss Reinsurance Company
+Reto Schneider, Swiss Reinsurance Company
+Stephan Schreckenberg, Swiss Reinsurance
+Company
+Ikram ul-Majeed Sehgal, Pathfinder G4S
+Dinesh Shah, Swiss Reinsurance Company
+Louise Shelley, George Mason University
+Alexandre Sidorenko, United Nations
+Steven Simske, Hewlett-Packard Company
+Matt Singleton, Swiss Reinsurance Company
+Amy Smithson, James Martin Center for
+Nonproliferation Studies, Monterey Institute of
+International Studies
+Alfonso Sousa-Poza, World Demographic and
+Ageing Forum
+Andreas Spiegel, Swiss Reinsurance Company
+Ursula M. Staudinger, Jacobs University Bremen
+Michael Szoenyi, Zurich Financial Services
+Sheana Tambourgi, World Economic Forum
+Rolf Tanner, Swiss Reinsurance Company
+Jonathan Tepperman, Eurasia Group
+Bruno Tertrais, Fondation pour la Recherche
+Stratégique (FRS)
+Torben Thomsen, Swiss Reinsurance Company
+
+54 | Global Risks 2011
+
+Angela Wilkinson, Smith School of Enterprise and
+the Environment (SSEE)
+Clark B. Winter Jr, SK Capital Partners
+Simon Woodward, Swiss Reinsurance Company
+Michele Wucker, World Policy Institute
+Kaspar Zellweger, Swiss Reinsurance Company
+Hania Zlotnik, United Nations
+We also would like to thank all the people who
+participated in the Global Risks Survey 2010.
+
+Acknowledgements
+
+In addition, the project team expresses its gratitude to
+the following colleagues from the World Economic
+Forum for their advice and support throughout the
+project:
+
+Founder and Executive Chairman
+Klaus Schwab
+
+Stephanie Badawi
+Jennifer Blanke
+Lisa Dreier* (ex officio)
+Margareta Drzeniek Hanouz
+Anne-Sophie Duprat
+Miroslav Dusek
+
+Managing Directors
+Robert Greenhill
+Lee Howell
+Adrian Monck
+
+Diana El-Azar
+
+Gilbert Probst
+
+Richard Elliott
+
+Jean-Pierre Rosso* (ex officio)
+
+Martina Gmür
+
+Richard Samans
+
+Antonio Human
+Viktoria Ivarsson
+Danil Kerimi
+
+Kevin Steinberg* (ex officio)
+Alois Zwinggi
+
+Ramya Krishnaswamy
+Rodolfo Lara Torres
+Rim Lemsyeh
+Cathy Li
+Patrick McGee
+Liana Melchenko
+Alex Mung
+Nathalie de Preux
+Michael Pedersen
+Miguel Perez
+Michele Petochi
+Serena Pozza
+Pengcheng Qu
+Florian Ramseger
+Florian Reber
+Carissa Sahli
+Masao Takahashi
+Samantha Tonkin
+Akira Tsuchiya
+Dominic Waughray
+Li Zhang
+* Employed by the World Economic Forum USA
+
+Global Risks 2011 | 55
+
+Project team
+
+The Global Risks 2011, Sixth Edition team includes the following individuals from the World Economic Forum
+(in alphabetical order):
+Andrew Bishop, Project Associate, Strategic Risk Foresight, Risk Response Network
+Nicholas Davis, Associate Director, Deputy Head of Strategic Risk Foresight, Risk Response Network,
+Co-Editor, Global Risks 2011, Sixth Edition, Nicholas.Davis@weforum.org
+Céline Devouassoux, Team Coordinator, Strategic Risk Foresight, Risk Response Network
+Elaine Dezenski, Senior Director, Head of Risk Initiatives, Risk Response Network
+Kristel Van der Elst, Director, Head of Strategic Risk Foresight, Risk Response Network, Co-Editor,
+Global Risks 2011, Sixth Edition, Kristel.vanderElst@weforum.org
+Chiemi Hayashi, Associate Director, Deputy Head of Risks in Depth, Risk Response Network
+Stephan Mergenthaler, Project Manager & Global Leadership Fellow, Strategic Risk Foresight,
+Risk Response Network
+Stéphane Oertel, Associate Director, Strategic Risk Foresight, Risk Response Network
+
+Writer:
+Charles Emmerson
+
+Editor:
+Nancy Tranchet, Associate Director, Editing, World Economic Forum
+
+Publication, design and layout:
+Kamal Kimaoui, Associate Director, Production and Design, World Economic Forum
+Yoren Geromin, Designer, Kissing Kourami
+
+Visualisation and digital content:
+Scott David, Information Design Consultant
+Michael Hanley, Editorial Director, Communications, World Economic Forum
+James MacKinnon, 50 Productions
+Moritz Stefaner, Freelance Information Visualizer
+
+56 | Global Risks 2011
+
+The World Economic Forum is an independent
+international organization committed to improving the
+state of the world by engaging business, political,
+academic and other leaders of society to shape global,
+regional and industry agendas.
+Incorporated as a not-for-profit foundation in 1971 and
+headquartered in Geneva, Switzerland, the Forum is
+tied to no political, partisan or national interests
+(www.weforum.org)
+
+

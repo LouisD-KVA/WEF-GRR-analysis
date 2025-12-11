@@ -1,0 +1,4694 @@
+WEATHER CLIMATE WATER
+
+WMO Statement on
+the State of the
+Global Climate in 2017
+
+WMO-No. 1212
+
+WMO-No. 1212
+© World Meteorological Organization, 2018
+The right of publication in print, electronic and any other form and in any language is reserved by WMO. Short
+extracts from WMO publications may be reproduced without authorization, provided that the complete source is
+clearly indicated. Editorial correspondence and requests to publish, reproduce or translate this publication in part
+or in whole should be addressed to:
+Chairperson, Publications Board
+World Meteorological Organization (WMO)
+7 bis, avenue de la Paix
+P.O. Box 2300
+CH-1211 Geneva 2, Switzerland
+
+Tel.: +41 (0) 22 730 84 03
+Fax: +41 (0) 22 730 81 17
+Email: publications@wmo.int
+
+ISBN 978-92-63-11212-5
+This publication was issued in collaboration with the African Center of Meteorological Applications for Development (ACMAD), Niger; Regional
+Climate Centre for the Southern South American Region (RCC-SSA); European Centre for Medium-Range Weather Forecasts (ECMWF), United
+Kingdom of Great Britain and Northern Ireland; Japan Meteorological Agency (JMA); Met Office Hadley Centre, United Kingdom; Climatic
+Research Unit (CRU), University of East Anglia, United Kingdom; Climate Prediction Center (CPC); the National Centers for Environmental
+Information (NCEI) and the National Hurricane Center (NHC) of the National Oceanic and Atmospheric Administration (NOAA), United States of
+America; National Aeronautics and Space Administration, Goddard Institute for Space Studies (NASA GISS), United States; Global Precipitation
+Climatology Centre (GPCC), Germany; National Snow and Ice Data Center (NSIDC), United States; Commonwealth Scientific and Industrial
+Research Organization (CSIRO) Marine and Atmospheric Research, Australia; Global Snow Lab, Rutgers University, United States; Regional Climate
+Centre for Regional Association VI, Climate Monitoring, Germany; Beijing Climate Centre, China; Tokyo Climate Centre, Japan; International
+Research Centre on El Niño (CIIFEN), Ecuador; Caribbean Institute for Meteorology and Hydrology, Bridgetown, Barbados; Royal Netherlands
+Meteorological Institute (KNMI), Netherlands; Institute on Global Climate and Ecology (IGCE), Russian Federation; All-Russia Research Institute
+for Hydrometeorological Information-World Data Center (ARIHMI-WDC), Russian Federation; Global Atmospheric Watch Station Information
+System (GAWSIS), MeteoSwiss, Switzerland; World Data Centre for Greenhouse Gases (WDCGG), Japan Meteorological Agency, Japan; World
+Glacier Monitoring Service (WGMS), Switzerland; World Ozone and UV Radiation Data Centre (WOUDC), Environment and Climate Change,
+Canada; Niger Basin Authority, Niger. Other contributors are the National Meteorological and Hydrological Services or equivalent of: Algeria,
+Argentina, Australia, Austria, Bangladesh, Belarus, Belgium, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Chile, China, Colombia, Costa
+Rica, Croatia, Cuba, Cyprus, Czechia, Denmark, Ecuador, Estonia, Fiji, Finland, France, Gambia, Georgia, Germany, Greece, Hungary, Iceland,
+India, Indonesia, Iran, Islamic Republic of, Ireland, Israel, Italy, Japan, Kenya, Latvia, Lithuania, Luxembourg, Malaysia, Mali, Malta, Mauritius,
+Mexico, Morocco, Netherlands, New Zealand, Nigeria, Norway, Oman, Pakistan, Paraguay, Peru, Philippines, Portugal, Republic of Korea,
+Republic of Moldova, Romania, Russian Federation, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, Thailand,
+The former Yugoslav Republic of Macedonia, Tunisia, Turkey, Turkmenistan, Ukraine, United Arab Emirates, United Kingdom, United Republic
+of Tanzania, United States, Uruguay.
+Various international organizations and national institutions contributed to this publication, including the Food and Agriculture Organization of
+the United Nations (FAO); Intergovernmental Oceanographic Commission of the United Nations Educational, Scientific and Cultural Organization
+(UNESCO); International Monetary Fund (IMF); International Organization for Migration (IOM); United Nations High Commissioner for Refugees
+(UNHCR); United Nations Office for Disaster Risk Reduction (UNISDR); United Nations Office for the Coordination of Humanitarian Affairs (OCHA),
+World Food Programme (WFP); World Health Organization (WHO); the Catholic University of Leuven, Belgium; the Centre for Research on the
+Epidemiology of Disasters (CRED); and Munich Re.
+Cover illustration: Landi Bradshaw Photography
+NOTE
+The designations employed in WMO publications and the presentation of material in this publication do not imply the expression of any opinion whatsoever on the part of WMO concerning the legal status of any country, territory, city or area, or of its authorities, or concerning the delimitation of its
+frontiers or boundaries.
+The mention of specific companies or products does not imply that they are endorsed or recommended by WMO in preference to others of a similar
+nature which are not mentioned or advertised.
+The findings, interpretations and conclusions expressed in WMO publications with named authors are those of the authors alone and do not necessarily reflect those of WMO or its Members.
+
+Contents
+Foreword .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+Executive summary  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+Key climate indicators .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Temperature  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Greenhouse gases  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+The Global Carbon Budget  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10
+The oceans in 2017  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  11
+The cryosphere in 2017 .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  13
+Major drivers of interannual climate variability in 2017  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  15
+Precipitation in 2017 .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+16
+
+Extreme events .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  17
+Climate risks and related impacts  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 29
+Agriculture and food security  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  29
+Health  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  32
+Population displacement  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+32
+
+Economic impacts .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+33
+
+Vector-borne diseases: Zika in the Americas  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 34
+
+GREENHOUSE
+GAS
+CONCENTRATIONS
+
+CONTINUE
+RISING
+
+2017:
+
+2013–2017:
+
+WARMEST
+
+WARMEST
+5 YEARS
+
+NON-EL NIÑO
+
+YEAR
+
+GLOBAL
+
+ON RECORD
+
+State of the
+Global Climate
+2017
+
+OCEAN HEAT
+CONTENT AT
+
+RECORD
+LEVELS
+
+SEA-LEVEL
+RISE
+CONTINUES
+
+ARCTIC AND
+ANTARCTIC
+
+OCEAN
+
+SEA ICE
+
+ACIDIFICATION
+CONTINUES
+
+WELL BELOW
+AVERAGE
+
+AGRICULTURE
+
+2ND YEAR OF
+
+MAJOR
+BLEACHING
+
+HEAVY RAINS
+
+TRIGGERED
+
+DEADLY
+LANDSLIDES
+
+IN SIERRA LEONE
+AND COLOMBIA
+
+MOST
+COSTLY
+
+HURRICANE
+SEASON
+ON RECORD
+
+2
+
+Food
+Orga and A
+g
+Unitnizationriculture
+ed N of t
+ation he
+s
+
+OF THE WORLD’S
+POPULATION FACES
+
+EXTREME
+HEATWAVES
+
+Climate risks,
+extreme events
+and related
+impacts
+2017
+
+United Nations High
+Commissioner for Refugees
+
+EXCEPTIONALLY
+
+ce
+s Offi of
+ationinationirs
+ed N
+Affa
+Unit e Coord
+n
+a
+ri
+for th
+anita
+Hum
+
+h
+alt n
+He tio
+rld niza
+Wo rga
+O
+
+IN THE GREAT
+BARRIER REEF
+
+FOR
++41 MILLION ACCOUNTED
+≈26%
+OF
+AFFECTED BY DAMAGES AND LOSSES
+FLOODS ASSOCIATED WITH
+CLIMATE-RELATED
+IN SOUTH ASIA
+DISASTERS
+≈30%
+
++892 000
+DROUGHT
+
+RELATED
+INTERNAL
+DISPLACEMENTS
+IN SOMALIA
+
+DESTRUCTIVE
+
+WILDFIRES
+AROUND THE
+WORLD
+
+Foreword
+For the past 25 years, the World Meteorological
+Organization (WMO) has published an annual
+Statement on the State of the Global Climate
+in order to provide authoritative scientific
+information about the global climate and
+significant weather and climate events
+occurring around the world. As we mark the
+25th anniversary, and following the entry into
+force of the Paris Agreement, the importance
+of the information contained in the WMO
+Statement is greater than ever. WMO will
+continue working to increase the relevance
+of the information it provides to the Parties to
+the United Nations Framework Convention on
+Climate Change through this Statement and the
+annual WMO Greenhouse Gas Bulletin. These
+publications complement the assessment
+reports that the Intergovernmental Panel on
+Climate Change (IPCC) produces every six to
+seven years.
+Since the inaugural Statement on the State
+of the Global Climate, in 1993, scientific
+understanding of our complex climate system
+has progressed rapidly. This is particularly
+true with respect to our understanding of
+mankind’s contribution to climate change,
+and the nature and degree of such change.
+This includes our ability to document the
+occurrence of extreme weather and climate
+events and the degree to which they can be
+attributed to human influences on the climate.
+In the past quarter of a century, atmospheric
+concentrations of carbon dioxide – whose
+rising emissions, along with those of other
+greenhouse gases, are driving anthropogenic
+climate change – have risen from 360 parts
+per million (ppm) to more than 400 ppm. They
+will remain above that level for generations
+to come, committing our planet to a warmer
+future, with more weather, climate and water
+extremes. Climate change is also increasingly
+manifested in sea level rise, ocean acidification
+and heat, melting sea ice and other climate
+indicators.
+The global mean temperature in 2017
+was approximately 1.1 °C above the preindustrial era, more than half way towards
+the maximum limit of temperature increase
+of 2 °C sought through the Paris Agreement,
+which further strives to limit the increase to
+1.5 °C above pre-industrial levels. The year
+2017 was the warmest on record without an
+
+El Niño event, and one of the three warmest
+years behind the record-setting 2016. The
+world’s nine warmest years have all occurred
+since 2005, and the five warmest since 2010.
+Extreme weather claimed lives and destroyed
+livelihoods in many countries in 2017. Fuelled
+by warm sea-surface temperatures, the North
+Atlantic hurricane season was the costliest ever
+for the United States, and eradicated decades
+of development gains in small islands in the
+Caribbean such as Dominica. Floods uprooted
+millions of people on the Indian subcontinent,
+whilst drought is exacerbating poverty and
+increasing migration pressures in the Horn of
+Africa. It is no surprise that extreme weather
+events are identified as the most prominent
+risk facing humanity in the World Economic
+Forum’s Global Risks Report 2018.
+Because the societal and economic impacts
+of climate change have become so severe,
+WMO has partnered with other United Nations
+organizations to include information in the
+Statement on how climate has affected
+migration patterns, food security, health and
+other sectors. Such impacts disproportionately
+affect vulnerable nations, as evidenced in a
+recent study by the International Monetary
+Fund, which warned that a 1 °C increase in
+temperature would cut significantly economic
+growth rates in many low-income countries.
+I would like to take this opportunity to express
+my gratitude to the National Meteorological
+and Hydrological Services of WMO Members,
+international and regional data centres and
+agencies, and climate experts from around
+the world for their contributions, and to United
+Nations sister agencies for their valuable input
+on societal and economic impacts. They have
+greatly assisted in ensuring that this annual
+Statement achieves the highest scientific
+standards and societal relevance and informs
+action on the Paris Agreement, the Sendai
+Framework for Disaster Risk Reduction and
+the United Nations Sustainable Development
+Goals.
+
+(P. Taalas)
+Secretary-General
+
+3
+
+Executive summary
+Global mean temperatures in 2017 were
+1.1 °C ± 0.1 °C above pre-industrial levels.
+Whilst 2017 was a cooler year than the recordsetting 2016, it was still one of the three
+warmest years on record, and the warmest not
+influenced by an El Niño event. The average
+global temperature for 2013–2017 is close
+to 1 °C above that for 1850–1900 and is also
+the highest five-year average on record.
+The world also continued to see rising sea
+levels, with some acceleration, and increasing
+concentrations of greenhouse gases. The
+cryosphere continued its contraction, with
+Arctic and Antarctic sea ice shrinking.
+The overall risk of heat-related illness or
+death has climbed steadily since 1980, with
+around 30% of the world’s population now
+living in climatic conditions that deliver deadly
+temperatures at least 20 days a year.
+There were many significant weather and
+climate events in 2017, including a very
+active North Atlantic hurricane season, major
+monsoon floods in the Indian subcontinent,
+and continuing severe drought in parts of east
+Africa. This contributed to 2017 being the year
+with the highest documented economic losses
+associated with severe weather and climate
+events. Extreme weather events continue to be
+rated by the World Economic Forum as amongst
+the most significant risks facing humanity, both
+in terms of likelihood and impact.1
+Massive internal displacement in the context
+of drought and food insecurity continues
+
+across Somalia. From November 2016 to
+December 2017, 892 000 drought-related
+displacements were recorded by the United
+Nations High Commissioner for Refugees
+(UNHCR).
+In August and September 2017, the three
+major and devastating hurricanes that made
+landfall in the southern United States and in
+several Caribbean islands in rapid succession
+broke modern records for such weather
+extremes and for loss and damage.
+The information used in this repor t is
+sourced from a large number of National
+Meteorological and Hydrological Services
+(NMHSs) and associated institutions, as
+well as Regional Climate Centres, the World
+Climate Research Programme (WCRP), the
+Global Atmosphere Watch (GAW) and Global
+Cryosphere Watch (GCW). Information has
+also been supplied by a number of other
+international organizations, including the
+Food and Agriculture Organization of the
+United Nations (FAO), the World Food
+Programme ( W FP), the World Health
+Organization (WHO), the United Nations
+High Commissioner for Refugees (UNHCR),
+the International Organization for Migration
+(IOM), the International Monetary Fund
+(IMF), the United Nations International
+Strategy for Disaster Reduction (UNISDR)
+and the Intergovernmental Oceanographic
+Commission of the United Nations
+Ed u c a t i o n a l, S c i e n t i f i c a n d C ul t ur a l
+Organization (IOC-UNESCO).
+
+Values of key climate indicators
+Indicator
+
+1
+
+4
+
+Time period
+
+Value
+
+Ranking
+
+Global mean surface-temperature 2017,
+annual mean
+anomaly (1981–2010 baseline)
+
++0.46°C
+
+Second-highest
+on record
+
+Global ocean heat content
+change, 0–700 metre layer
+
+2017,
+annual mean
+
+1.581 x 1023 J
+
+Highest on
+record
+
+Global mean CO2 surface mole
+fraction
+
+2016,
+annual mean
+
+403.3 parts
+per million
+
+Highest on
+record
+
+Global mean sea-level change
+since 1993
+
+2017, December
+
+8.0 cm
+
+Highest on
+record
+
+Arctic sea-ice extent summer
+minimum
+
+2017, September
+
+4.64 million
+km2
+
+Eighth-lowest
+on record
+
+World Economic Forum, 2018: The Global Risks Report 2018.
+
+Key climate indicators
+TEMPERATURE
+
+The world’s nine warmest years have all
+occurred since 2005, and the five warmest
+since 2010, whilst even the coolest year of
+the 21st century – 2008, 0.09 °C above the
+1981−2010 average – would have ranked as
+the second-warmest year of the 20 th century.
+The five-year mean temperature for 2013–
+2017, 0.4 °C above the 1981–2010 average (and
+1.0 °C above pre-industrial values), is also the
+highest on record. A five-year average gives
+a longer-term perspective on recent global
+temperatures whilst being less influenced
+than annual temperatures by year-to-year
+fluctuations such as those associated with
+the El Niño/Southern Oscillation (ENSO).
+
+2
+
+3
+
+4
+
+The conventional datasets used are those produced by the US
+National Oceanic and Atmospheric Administration (NOAA);
+the US National Aeronautics and Space Administration
+(NASA); and the Met Office, Hadley Centre/Climatic Research
+Unit (CRU), University of East Anglia (United Kingdom). The
+two reanalysis datasets used are the ERA-Interim dataset,
+produced by the European Centre for Medium-Range Weather
+Forecasts (ECMWF), and the JRA-55 dataset, produced by
+the Japan Meteorological Agency (JMA).
+For purposes other than comparison of temperatures with
+pre-industrial levels, this report uses 1981–2010 as a standard
+baseline period, as this is the period for which the widest
+range of datasets (especially satellite-based datasets) is
+available.
+For the purposes of this report, 1850–1900 is used as the
+baseline for pre-industrial temperatures. There is no appreciable difference between the temperature change derived
+from this baseline and that derived from other baselines
+used historically, such as 1880–1900.
+
+Global average temperature anomaly (°C)
+
+The year 2017 was one of the world’s three
+warmest years on record. A combination
+of five datasets, three of them using
+conventional sur face obser vations and
+two of them reanalyses, 2 shows that global
+mean temperatures were 0.46 °C ± 0.1 °C
+above the 1981–2010 average, 3 and about
+1.1 °C ± 0.1 °C above pre-industrial levels.4 By
+this measure, 2017 and 2015 were effectively
+indistinguishable as the world’s second and
+third warmest years on record, ranking only
+behind 2016, which was 0.56 °C above the
+1981−2010 average. The years 2015, 2016
+and 2017 were clearly warmer than any year
+prior to 2015, with all pre-2015 years being at
+least 0.15 °C cooler than 2015, 2016 or 2017.
+
+1.25
+1.00
+0.75
+
+JRA-55
+ERA-Interim
+HadCRUT.4.6.0.0
+GISTEMP
+NOAAGlobalTemp
+
+0.50
+0.25
+0.00
+‒0.25
+1860
+
+1880
+
+1900
+
+1920
+
+1940
+Year
+
+1960
+
+In the individual datasets, 2017 was secondwarmest in the two reanalysis datasets
+(ERA-Interim and JRA-55) and in the dataset
+from the US National Aeronautics and Space
+Administration (NASA), and third-warmest in
+the datasets from the US National Oceanic
+and Atmospheric Administration (NOAA) and
+the UK Met Office Hadley Centre/Climatic
+Research Unit (CRU). Differences between
+individual datasets primarily relate to different
+ways in which they analyse data-sparse areas,
+especially in the Arctic which has experienced
+some of the world’s strongest warming in
+recent years.
+
+1980
+
+2000
+
+Figure 1. Global mean
+temperature anomalies,
+with respect to the
+1850–1900 baseline, for
+the five global datasets
+(Source: UK Met Office
+Hadley Centre)
+
+Global temperatures were well above average
+throughout the year. The strongest anomalies
+were early in the year, with each of the months
+from January to March being at least 0.5 °C
+above the 1981–2010 average, and March
+0.64 °C above. For the remainder of the
+The world’s warmest years on record
+Year
+
+Anomaly in respect of the
+1981–2010 average (°C)
+
+2016
+
++0.56
+
+2017
+
++0.46
+
+2015
+
++0.45
+
+2014
+
++0.30
+
+2010
+
++0.28
+
+2005
+
++0.27
+
+2013
+
++0.24
+
+2006
+
++0.22
+
+2009
+
++0.21
+
+1998
+
++0.21
+
+2020
+
+5
+
+Figure 2. Surface-air
+temperature anomaly for
+2017, with respect to the
+1981-2010 average
+(Source: ERA-Interim
+data, European Centre
+for Medium-range
+Weather Forecasts
+(ECMWF) Copernicus
+Climate Change Service)
+
+‒10
+
+‒5
+
+‒3
+
+‒2
+
+‒1 ‒0.5
+
+year, monthly global temperature anomalies
+were between 0.3 °C and 0.5 °C, the smallest
+monthly anomaly being 0.34 °C in June.
+The year 2017 was clearly the warmest on
+record not influenced by an El Niño. Strong
+El Niño events, such as the one that occurred
+in 2015/2016, typically increase global mean
+temperatures by 0.1 °C to 0.2 °C in the year
+in which the event finishes, with a smaller
+increase in the event’s first year. In the case
+of the 2015/2016 event, global temperatures
+were strongly boosted from October 2015 to
+April 2016, having a substantial influence on
+both the 2015 and 2016 annual values. Neutral
+ENSO conditions prevailed for most of 2017,
+with a weak La Niña developing late in the year.
+Warmth in 2017 was notable for its spatial
+ex tent. The only land area of any size
+outside Antarctica that had annual mean
+temperatures in 2017 below the 1981–2010
+average in conventional surface analyses
+was a section of western Canada centred on
+the interior of British Columbia. Reanalysis
+
+0
+
+0.5
+
+1
+
+2
+
+3
+
+5
+
+10
+
+data also indicated some areas of belowaverage temperatures in parts of Africa where
+conventional data are sparse, including Libya
+and parts of the interior of southern Africa.
+Temperatures were 1 °C or more above
+average over most of the higher latitudes
+of Asia, including the Asian part of Russia,
+Mongolia and northern China. Other regions
+where 2017 temperatures were at least 1 °C
+above average included north-west Canada
+and Alaska, the southern half of the United
+States and parts of northern Mexico, and parts
+of eastern Australia. The largest anomalies,
+above 2 °C, were found at high northern
+latitudes, particularly in eastern Russia and
+north-west North America. Some coastal
+locations experiencing feedback from reduced
+sea-ice presence (such as Svalbard) were as
+much as 4 °C above average.
+Despite the widespread high temperatures,
+only limited regions had their warmest year
+on record in 2017. Of 47 countries reporting
+mean temperatures at the national scale,
+only Argentina, Mauritius, Mexico, Spain and
+
+Continental temperature anomalies
+Anomaly in respect of
+the 1981–2010 average (°C)
+
+2017 rank
+
+Existing record
+
+North America
+
++0.84
+
+6
+
++1.32 (2016)
+
+South America
+
++0.54
+
+2
+
++0.69 (2015)
+
+Europe
+
++0.73
+
+5
+
++1.18 (2014)
+
+Africa
+
++0.54
+
+4
+
++0.83 (2010)
+
+Asia
+
++0.88
+
+3
+
++0.92 (2015)
+
+Oceania
+
++0.51
+
+6
+
++0.73 (2013)
+
+Region
+
+6
+
+1900
+
+390
+380
+370
+360
+350
+340
+330
+
+1800
+1750
+1700
+1650
+
+2
+1
+
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+10
+5
+0
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+Uruguay had their warmest year on record.
+The Asian part of Russia also had its warmest
+year on record (the Russian Federation as a
+whole ranked fourth), as did five states in
+the southern half of the United States, and
+the eastern Australian states of New South
+Wales and Queensland.
+All continents had one of their six warmest
+years on record in 2017, with South America
+ranking second, Asia third, Africa fourth,
+Europe fifth, and North America and Oceania
+sixth5. Temperatures in Africa were at record
+levels through mid-year, with monthly records
+set in May, June, July and September, but it
+cooled considerably from October onwards.
+South America had its second-warmest
+summer and second-warmest winter on
+record, whilst Oceania had its warmest July.
+
+GREENHOUSE GASES
+
+315
+310
+305
+
+1985 1990 1995 2000 2005 2010 2015
+Year
+2
+
+15
+
+-5
+
+320
+
+300
+
+N2O growth rate (ppb/yr)
+
+3
+
+325
+
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+20
+CH4 growth rate (ppb/yr)
+
+CO2 growth rate (ppm/yr)
+
+4
+
+0
+
+1850
+
+1600
+
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+330
+N2O mole fraction (ppb)
+
+400
+
+CH4 mole fraction (ppb)
+
+CO2 mole fraction (ppm)
+
+410
+
+1.5
+1
+0.5
+0
+
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+from a global in-situ observational network
+for carbon dioxide (CO2), methane (CH4) and
+nitrous oxide (N2O).
+Global average figures for 2017 will not be
+available until late 2018. Real-time data from
+a number of specific locations, including
+Mauna Loa (Hawaii) and Cape Grim (Tasmania)
+indicate that levels of CO 2 , CH 4 and N 2 O
+continued to increase in 2017, but it is not
+yet clear how the rate of increase compares
+with that in 2016 or in previous years.
+In 2016, GHG concentrations reached new
+highs with CO2 at 403.3±0.1 parts per million
+(ppm), CH4 at 1853±2 parts per billion (ppb)
+and N 2 O at 328.9±0.1 ppb. These values
+constitute, respectively, 145%, 257% and
+122% of pre-industrial (before 1750) levels.
+
+The increase in CO2 from 2015 to 2016 was
+larger than the increase observed from 2014 to
+Increasing levels of greenhouse gases (GHGs) 2015 and the average over the last decade, and
+in the atmosphere are key drivers of climate it was the largest annual increase observed
+change. Atmospheric concentrations are in the post-1984 period. The El Niño event
+formed as a balance between emissions due contributed to the increased growth rate in
+to human activities and the net uptake from 2016, both through higher emissions from
+the biosphere and oceans. They are expressed terrestrial sources (e.g. forest fires) and
+in terms of dry mole fractions calculated decreased uptake of CO2 by vegetation in
+drought-affected areas. The El Niño event in
+2015/2016 contributed to the increased growth
+5
+Continental temperatures are as reported by NOAA, and
+are available at https://​w ww​. ncdc​. noaa​.gov/​sotc/​global​ rate through complex two-way interactions
+between climate change and the carbon cycle.
+-regions/​2 01801.
+
+Figure 3. Top row:
+Globally averaged mole
+fraction (measure of
+concentration), from
+1984 to 2016, of CO 2 in
+parts per million (left),
+CH 4 in parts per billion
+(middle) and N 2 O in parts
+per billion (right). The
+red line is the monthly
+mean mole fraction with
+the seasonal variations
+removed; the blue
+dots and line depict
+the monthly averages.
+Bottom row: The growth
+rates representing
+increases in successive
+annual means of mole
+fractions for CO 2 in parts
+per million per year
+(left), CH 4 in parts per
+billion per year (middle)
+and N 2 O in part per
+billion per year (right).
+(Source: WMO Global
+Atmosphere Watch)
+
+7
+
+PALEO AND CURRENT CONCENTRATIONS OF CO2
+The reconstruction of past climate provides
+an oppor tunity to learn how the Ear th
+system responded to high concentrations
+of atmospheric carbon dioxide (CO 2). To
+obtain information about the state of the
+atmosphere before instrumental records
+began, combinations of proxies are used
+in which physical characteristics of past
+environmental conditions are preserved.
+Tiny bubbles of ancient air captured in ice
+cores when new snow accumulating at the top
+solidified into ice, can be directly measured
+and give some insight into the composition
+of the atmosphere in the past.
+Direct measurements of atmospheric CO2 over
+the past 800 000 years (see figure) provide
+proof that over the past eight swings between
+ice ages (glacials) and warm periods similar to
+today (interglacials) atmospheric CO2 varied
+between 180 and 280 parts per million (ppm),
+demonstrating that today’s CO2 concentration
+of 400 ppm exceeds the natural variability
+seen over hundreds of thousands of years.
+Over the past decade, new high-resolution ice
+core records have been used to investigate
+
+how fast atmospheric CO2 changed in the past.
+After the last ice age, some 23 000 years ago,
+CO2 concentrations and temperature began to
+rise. During the period recorded in the West
+Antarctica ice core, fastest CO2 increases
+(16 000, 15 000 and 12 000 years ago) ranged
+between 10 and 15 ppm over 100–200 years.
+In comparison, CO2 has increased by 120 ppm
+in the last 150 years due to combustion of
+fossil fuel.
+Periods of the past with a CO2 concentration
+similar to the current one can provide estimates
+for the associated “equilibrium” climate. In
+the mid-Pliocene, 3–5 million years ago,
+the last time that the Earth’s atmosphere
+contained 400 ppm of CO2, global mean surface
+temperature was 2–3 °C warmer than today,
+the Greenland and West Antarctic ice sheets
+melted and even some of the East Antarctic
+ice was lost, leading to sea levels that were
+10–20 m higher than they are today. During
+the mid-Miocene (15–17 million years ago),
+atmospheric CO2 reached 400–650 ppm and
+global mean surface temperature was 3–4 °C
+warmer than today.
+RCP’s
++8˚C
+
+Atmospheric CO2 (ppm)
+
+2000
+
+1000
+900
+
+Leaf stomata
+
+800
+
+Alkenones
+
+Boron
+isotopes
+
+Ice cores
+
+700
+600
+500
+400
+
+2017
+
++1˚C
+
+300
+
+Pre-industrial
+200
+
+Million years ago
+
+1
+
+Thousand years ago
+
+2300
+
+2
+
+2200
+
+3
+
+2000
+
+4
+
+2100
+
+5
+
+1900
+
+10
+
+0
+1800
+
+20
+
+200
+
+30
+
+400
+
+40
+
+800
+
+50
+
+600
+
+Ice core data
+
+Year CE
+
+CE – Common Era
+
+Reconstructions of atmospheric CO 2 over the past 55 million years are generated from proxy data that include boron isotopes
+(blue circles), alkenones (black triangles) and leaf stomata (green diamonds). Direct measurements from the past 800 000 years
+are acquired from Antarctic ice cores and modern instruments (pink). Future estimates include representative concentration
+pathways (RCPs) 8.5 (red), 6 (orange), 4.5 (light blue), and 2.6 (blue). References for all data shown in this plot are listed in the
+extended online version (http://www.wmo.int/pages/prog/arep/gaw/ghg/ghg-bulletin13).
+
+8
+
+For CH4, the increase from 2015 to 2016 was
+slightly smaller than that observed from 2014
+to 2015 but larger than the average over the
+past decade. For N2O, the increase from 2015
+to 2016 was also slightly smaller than that
+observed from 2014 to 2015 and lower than
+the average growth rate over the past 10 years.
+
+OZONE
+The 2017 Antarctic ozone hole was relatively
+small by the standards of recent decades. This
+largely reflects local atmospheric conditions
+in 2017 and is not, in itself, indicative of a
+more sustained downward trend. Most ozone
+hole indicators show weak, non-significant
+downward trends over the last 20 years.
+The daily ozone hole area reached a
+maximum for the season of 19.6 million km2
+on 11 September. The first part of the season,
+
+up to the second week of September, saw the
+size of the Antarctic ozone hole at levels close
+to the 1979–2016 average. However, the polar
+vortex became unstable and elliptical in the
+third week of September, with temperatures
+at the polar cap (60–90°S) rising 5–7 °C above
+the long-term mean. This resulted in a rapid
+decrease in the size of the ozone hole before a
+small increase around the end of September.
+The average area of the ozone hole through
+the peak of the season (from 7 September to
+13 October) was 17.4 million km2. This is the
+smallest value since 2002 (12.0 million km2)
+and also smaller than in 2012, the lowest value
+in the 2003–2016 period (17.8 million km2). The
+average ozone hole area over the 30 worst
+consecutive days was 17.5 million km2. This
+is also the lowest value observed since 2002
+(15.5 million km 2 ) and again somewhat
+smaller than in 2012 (18.9 million km2).
+
+30
+1979‒2016
+2013
+2014
+2015
+2016
+2017
+
+Ozone hole area
+25
+
+Area [106 km2]
+
+20
+
+15
+
+10
+
+5
+
+0
+
+Jul
+
+Aug
+
+Oct
+
+Sep
+Month
+
+Nov
+
+Dec
+
+Figure 4. Area (millions
+of km 2 ) where the total
+ozone column is less
+than 220 Dobson units.
+The year 2017 is shown
+in red. The most recent
+years are shown for
+comparison as indicated
+by the legend. The
+smooth, thick grey line is
+the 1979–2016 average.
+The dark green-blue
+shaded area represents
+the 30 th to 70 th
+percentiles and the light
+green-blue shaded area
+represents the 10 th and
+90 th percentiles for the
+time period 1979–2016.
+The thin black lines
+show the maximum
+and minimum values
+for each day during the
+1979–2016 period. The
+plot is made at WMO
+on the basis of data
+downloaded from the
+Ozone Watch website
+at the US National
+Aeronautics and Space
+Administration (NASA).
+The NASA data are
+based on satellite
+observations from the
+Ozone Mapping and
+Profiler Suite (OMPS),
+Ozone Monitoring
+Instruments (OMI) and
+the Total Ozone Mapping
+Spectrometer (TOMS).
+
+9
+
+The Global Carbon Budget
+2
+
+4
+
+5
+
+6
+
+Accurately assessing carbon dioxide (CO 2)
+emissions and redistribution within the
+atmosphere, oceans, and land – the “global
+carbon budget” – helps us capture how humans
+are changing the Earth’s climate, supports the
+development of climate policies, and improves
+projections of future climate change.
+Carbon dioxide emissions from fossil fuels and industry
+have been growing for decades with pauses only during
+global economic downturns. For the first time, emissions
+stalled from 2014 to 2016 while the global economy
+continued to expand. Nonetheless, CO2 accumulated in
+the atmosphere at unprecedented rates close to 3 parts
+per million (ppm) per year in 2015 and 2016, despite
+stable fossil fuel emissions (figure, top). This surprising
+dynamic was caused by strong El Niño warming in 2015
+and 2016, when the land CO2 sink was less efficient in
+removing atmospheric CO2, and emissions from fires
+were above average (in 2015). Preliminary data for 2017
+show that emissions from fossil fuels and industry
+resumed growing at about 1.5% (0.7%–2.4%, leap year
+adjusted), from 36.2±2.0 billion tonnes of CO2 in 2016
+to a record high of 36.6±2.0 billion tonnes in 2017 – 65%
+higher than in 1990.
+Carbon dioxide emissions from change in land use were
+4.8±2.6 billion tonnes in 2016, accounting for 12% of
+all anthropogenic CO2 emissions, and are expected to
+remain stable or slightly lower for 2017 on the basis
+of initial observations using satellite data. Together,
+land use change and fossil fuel emissions reached an
+estimated 41.5±4.4 billion tonnes of CO2 in 2017.
+Of all anthropogenic CO2 emissions, only about 45%
+remained in the atmosphere on an annual average over
+the past decade: 25% were removed by the oceans and
+30% were removed by the terrestrial biosphere (figure,
+bottom). However, due to the strong El Niño conditions,
+the increase from 2015 to 2016 in atmospheric CO2
+1
+
+Global Carbon Project, Commonwealth Scientific and Industrial Research
+Organisation (CSIRO) Oceans and Atmosphere, Canberra, Australia
+
+2
+
+Tyndall Centre for Climate Change Research, University of East Anglia,
+Norwich, United Kingdom
+
+3
+
+Center for International Climate and Environmental Research (CICERO)
+– Oslo (CICERO), Oslo, Norway
+
+4
+
+College of Engineering, Mathematics and Physical Sciences, University
+of Exeter, United Kingdom
+
+5
+
+Department of Earth System Science, Woods Institute for the Environment
+and Precourt Institute for Energy, Stanford University, Stanford, United
+States
+
+6
+
+Max Planck Institute for Meteorology, Hamburg, Germany
+
+10
+
+concentration was 22.1±0.7 billion tonnes (54% of total
+emissions; 2.85 ppm) which is larger than the average for
+2007–2016. Ocean and terrestrial ecosystems removed
+9.5±1.8 billion tonnes of CO2 (23%) and 9.9±3.7 billion
+tonnes of CO2 (24%), respectively.
+There are substantial uncertainties in the quantification
+of the land and ocean carbon sinks on sub-decadal
+and decadal time scales, and in the reconstruction of
+cumulative emissions across centuries of the industrial
+era, particularly historical emissions from changes in
+land use.
+
+45
+Total emissions
+
+40
+Carbon dioxide (Gt CO2/yr)
+
+1
+
+3
+
+35
+30
+
+Fossil fuels
+and industry
+
+25
+
+Atmospheric increase
+
+20
+15
+10
+5
+0
+1980
+40
+30
+
+CO2 flux (Gt CO2/yr)
+
+Josep G. Canadell, 1 Corinne Le Quéré, 2
+Glen Peters , 3 Robbie Andrew, 3 Pierre Fridlingstein, 4
+Robert B. Jackson , 5 Tatiana Ilyina 6
+
+1990
+
+2000
+Year
+
+2010
+
+2017
+
+Sources
+
+20
+Fossil fuels and industry
+
+10
+
+Land-use change
+
+0
+
+Ocean
+Land
+
+‒10
+‒20
+‒30
+‒40
+
+Budget imbalance
+Atmosphere
+
+Sinks
+
+1900
+
+1920
+
+1940
+
+1960
+Year
+
+1980
+
+2000 2016
+
+Trends in anthropogenic CO 2 emissions and growth of atmospheric
+CO 2 , 1980–2017. Total emissions minus fossil fuel emissions equals
+emissions from change in land use (top). The historical global carbon
+budget, 1900–2016 (bottom) (Source: Global Carbon Project, http://www.
+globalcarbonproject.org/carbonbudget; Le Quéré, C. et al., 2018: The Global
+Carbon Budget 2017. Earth System Science Data, 10, 405–448); and March
+2018 updates).
+
+THE OCEANS IN 2017
+
+Figure 5. 5 December
+2017 monthly seasurface temperature
+anomalies (°C), showing
+temperatures 2.5°C or
+more above average in
+the southern Tasman
+Sea.
+(Source: Australian
+Bureau of Meteorology)
+
+TEMPERATURE
+
+For the second successive year, aboveaverage sea-surface temperatures off the
+east coast of Australia resulted in significant
+coral bleaching in the Great Barrier Reef,
+this time focused on central areas of the
+Reef rather than the northern areas affected
+in 2016. 6 Significant bleaching was also
+reported in other parts of the western tropical
+Pacific,7 including Micronesia and Guam,
+although global bleaching was less extensive
+than it had been in 2016. Later in the year,
+exceptionally warm sea-surface temperatures
+(generally 2 °C or more above average, and
+0.5 °C or more above previous records for the
+time of year) affected the southern Tasman
+Sea, coinciding with record high monthly
+temperatures in New Zealand (especially the
+South Island) and Tasmania. Whilst marine
+impacts of this event are still becoming
+apparent, there has already been a shift in
+the distribution of fish species, with snapper
+being caught off Fiordland (far south-west
+New Zealand) for the first time.
+
+6
+
+Australian Research Council (ARC) Centre of Excellence,
+Coral Reef Studies, https://​w ww​.coralcoe​.org​.au/​.
+
+7
+
+NOAA Coral Reef Watch, coralreefwatch.noaa.gov.
+
+2.5 2.0 1.5 1.0 0.5 0.0 ‒0.5 ‒1.0 ‒1.5 ‒2.0 ‒2.5
+
+Ocean heat content, a measure of the heat
+in the oceans through their upper layers,
+reached new record highs in 2017. Mean ocean
+heat content for 2017 for the 0–700 metre
+layer was 158.1 ZJ, 8 6.9 ZJ higher than the
+previous annual mean record set in 2015. The
+mean for the October–December 2017 quarter,
+163.4 ZJ, was also the highest quarterly
+value on record. The ocean heat content for
+the 0–2000 metre layer (233.5 ZJ) was also
+the highest on record, although records for
+this layer only extend back to 2005. Annual
+records for the 0–700 metre layer were also
+set for the northern hemisphere and for the
+Atlantic and Pacific Oceans, although the
+Indian Ocean had its lowest value since 2009.
+20
+
+15
+
+Heat content (1022 Joules)
+
+Global sea-surface temperatures in 2017
+were somewhat below the levels of 2015 and
+2016, but still ranked as the third warmest
+on record. The most significant sea-surface
+temperature anomalies were in the western
+tropical Pacific and the western and central
+subtropical South Indian Ocean. In both
+regions, sea-surface temperatures were
+widely 0.5 °C to 1.0 °C above the 1981–2010
+average, locally exceeding 1.0 °C above
+average in the Indian Ocean, and were
+generally at record-high levels. In contrast,
+temperatures were slightly below average
+over most of the eastern Indian Ocean and
+over the central and eastern equatorial Pacific,
+the latter being consistent with weak La Niña
+conditions which developed late in the year.
+They were also slightly below average in
+parts of the far southern Atlantic. The area of
+cool waters in the north-east Atlantic south
+of Iceland was less prominent than in most
+recent years.
+
+Figure 6. Global
+ocean heat content
+change (x 10 22 J) for
+the 0–700 metre layer:
+three-monthly means
+(red), and annual (black)
+and 5-year (blue)
+running means, from the
+US National Oceanic
+and Atmospheric
+Administration (NOAA)
+dataset.
+(Source: prepared by
+WMO using data from
+NOAA National Centers
+for Environmental
+Information)
+
+3-month average October–December 2017
+Yearly average to end of 2017
+5-year average 2012–2017
+
+10
+
+5
+
+0
+
+‒5
+
+‒10
+1950
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+2020
+
+Year
+
+8
+
+Data sourced from NOAA; 1 ZJ (zetajoule) = 10 21 J, a standard
+unit of energy.
+
+11
+
+100
+
+80
+
+ESA Climate Change Initiative (SL_cci) data
+AVISO+ near-real-time Jason-3 data
+
+70
+60
+Sea level (mm)
+
+Figure 7. Global mean
+sea-level time series
+(with seasonal cycle
+removed), January
+1993–January 2018,
+from satellite altimetry
+multi-missions. Data
+from AVISO
+(Source: CollecteLocalisation-Satellite
+(CLS) – Laboratoire
+d’Etudes en Géophysique
+et Océanographie
+Spatiales (LEGOS))
+
+50
+40
+30
+20
+10
+0
+–10
+1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019
+Time (year)
+
+SEA LEVEL
+The global mean sea level (GMSL) was
+relatively stable in 2016 and early 2017. This
+is because the temporary influence of the
+2015/2016 El Niño (during which the GMSL
+1993–2004
+Sea-level rise
+2.7 mm/yr
+
+Glaciers
+(0.71 mm/yr)
+
+Thermal
+expansion
+(0.94 mm/yr)
+
+Greenland
+(0.3 mm/yr)
+Antarctica
+(0.29 mm/yr)
+
+Land waters
+(0.25 mm/yr)
+
+Water vapour
+(–0.03 mm/yr)
+
+Total land ice: 47%
+
+2004–2015
+Sea-level rise
+3.5 mm/yr
+
+Glaciers
+(0.78 mm/yr)
+
+Thermal
+expansion
+(1.14 mm/yr)
+
+Water vapour
+(–0.03 mm/yr)
+
+Land waters
+Antarctica
+(0.23 mm/yr)
+(0.33 mm/yr)
+
+peaked in early 2016 at around 10 millimetres
+above the 2004–2015 trend) continued to
+diminish and the GMSL reverted to values
+closer to the long-term trend. However, most
+recent sea-level data indicate that the GMSL
+has been rising again since mid-2017.
+The pie charts show the contributions of
+individual components of the sea-level budget
+(expressed in percentage of the observed
+global mean sea level) for two periods,
+1993–2004 and 2004–2015.9 It clearly shows
+that the magnitude of almost all components
+has increased in recent years, particularly
+melting of the polar ice sheets, mostly in
+Greenland and to a lesser extent in Antarctica.
+Accelerated ice-mass loss from the ice sheets
+is the main cause of acceleration of the global
+mean sea-level rise, as revealed by satellite
+altimetry. This is even clearer when year-toyear fluctuations due to El Niño and La Niña
+as well as temporary cooling from the 1991
+Mt Pinatubo eruption are removed.10
+The bar chart (bottom) shows annual mean
+altimetry-based sea level (blue bars) and
+sum of thermal expansion and ocean mass
+component (red bars) for the years 2005
+to 2016. Black vertical bars are associated
+uncertainties. Thermal expansion is based
+on Argo data11 and ocean mass is derived
+from the Gravity Recovery and Climate
+Experiment (GRACE) (updates from Johnson
+and Chambers, 2013,12 Lutchke et al., 2013,13
+
+Greenland
+(0.82 mm/yr)
+
+Total land ice: 55%
+9
+
+Dieng, H. et al., 2017: New estimate of the current rate of
+sea level rise from a sea level budget approach. Geophysical
+Research Letters, 44, doi:​10​.1002/​2 017GL073308.
+
+10
+
+Nerem, R.S. et al., 2018: Climate-change-driven accelerated
+sea-level rise detected in the altimeter era. Proceedings of
+the National Academy of Sciences of the United States of
+America, published on line on 13 February 2018.
+
+25
+
+11
+
+Ibid.
+
+20
+
+12
+
+Johnson, G. C. and D. P. Chambers, 2013: Ocean bottom
+pressure seasonal cycles and decadal trends from GRACE
+Release-05: Ocean circulation implications. Journal of
+Geophysical Research, Oceans, Vol.118, 9:4228–4240, doi:​
+10 ​.1002/ ​jgrc​. 20307.
+
+13
+
+Luthcke, S. B. et al., 2013: Antarctica, Greenland and
+Gulf of Alaska land-ice evolution from an iterated GRACE
+global mascon solution. Journal of Glaciology, 59:613–631,
+doi:​10 ​. 3189/ ​2 013JoG12J147.
+
+Figure 8. Percentage
+
+50
+
+of individual
+contributions to global
+mean sea-level rise
+in 1993–2004 and
+2004–2015 (top); annual
+sea-level budget
+(2005–2016) (bottom)
+(Source: Dieng, H. et al.,
+2017: New estimate of
+the current rate of sea
+level rise from a sea
+level budget approach.
+Geophysical Research
+Letters, 44)
+
+45
+
+Observed global mean sea level
+Sum on thermal expansion and ocean mass
+
+40
+
+30
+
+15
+10
+5
+
+20
+10
+20
+11
+20
+12
+20
+13
+20
+14
+20
+15
+20
+16
+
+08
+20
+09
+
+07
+
+20
+
+06
+
+20
+
+20
+
+05
+
+0
+
+20
+
+Sea level (mm)
+
+35
+
+Time (year)
+
+12
+
+The ocean absorbs up to 30% of the annual
+emissions of anthropogenic CO 2 into the
+atmosphere, helping to alleviate the impacts
+of climate change on the planet. However,
+this comes at a steep ecological cost, as
+the absorbed CO 2 reacts in seawater and
+changes acidity levels in the ocean. More
+precisely, this involves a decrease in seawater
+pH together with closely linked shifts in the
+carbonate chemistry of the waters, including
+the saturation state of aragonite, which is the
+main form of calcium carbonate used by key
+species to form shells and skeletal material
+(e.g. reef-building corals and shelled molluscs).
+Observations of marine acidity in open ocean
+and coastal locations have revealed that
+present-day conditions are often outside
+pre-industrial bounds. In some regions, the
+changes are amplified by natural processes
+such as upwelling (where cold water that is
+rich in CO2 and nutrients rises from the deep
+toward the sea surface), resulting in conditions
+outside biologically relevant thresholds.
+Projections of future ocean conditions show
+that ocean acidification affects all areas of
+the ocean, while consequences for marine
+species, ecosystems and their functioning
+vary. Over the past 10 years, various studies
+have confirmed that ocean acidification is
+directly influencing the health of coral reefs;
+the success, quality and taste of aquacultureraised fish and seafood; and the survival and
+calcification of several key organisms. These
+alterations often affect species at lower trophic
+levels and have cascading effects within the
+14
+
+Watkins, M. et al., 2015: Improved methods for observing
+Earth's time variable mass distribution with GRACE using
+spherical cap mascons. Journal of Geophysical Research,
+Solid Earth, 120:2648–2671, doi:​10​.1002/​2 014JB011547.
+
+ppm
+
+Carbon Dioxide
+
+375
+350
+325
+300
+8.15
+8.10
+8.05
+8.00
+7.95
+7.90
+7.85
+7.80
+
+270
+260
+250
+240
+230
+220
+210
+
+CO2‒
+3 (μmol/kg)
+
+OCEAN ACIDIFICATION
+
+400
+
+pH
+
+Watkins et al., 201514). The sea-level budget is
+almost closed (i.e. the observed change can
+be almost fully accounted for by the known
+changes in the contributing components)
+within respective error bars, although since
+2012 the sum of contributions from thermal
+expansion and changes in ocean mass is
+generally slightly lower than the observed
+change in annual sea level. The plot also
+shows a clear increase of the mean sea level
+from one year to another.
+
+1980 1985 1990 1995 2000 2005 2010 2015
+
+Year
+
+food web, which are expected to result in
+increasing impacts on coastal economies.
+Further, ocean acidification does not impact
+marine ecosystems in isolation. Multiple
+other environmental stressors can interact
+with ocean acidification, such as ocean
+warming and stratification, de-oxygenation
+and ex treme events, as well as other
+anthropogenic per turbations such as
+overfishing and pollution.
+There has been a consistent trend in ocean
+acidification over time. Since records at Aloha
+station (north of Hawaii) began in the late
+1980s, seawater pH has progressively fallen,
+from values above 8.10 in the early 1980s to
+between 8.04 and 8.09 in the last five years.
+
+THE CRYOSPHERE IN 2017
+Sea-ice extent was well below the 1981–2010
+average throughout 2017 in both the Arctic and
+Antarctic. The winter maximum of Arctic sea
+ice of 14.42 million square kilometres, reached
+on 7 March, was the lowest winter maximum
+in the satellite record, 0.10 million square
+kilometres below the previous record low set
+in 2015. However, melting during the spring
+and summer was slower than in some recent
+years. The summer minimum of 4.64 million
+square kilometres on 13 September was the
+eighth-lowest on record, 1.25 million square
+kilometres above the 2012 record low. A slow
+
+Figure 9. Trends in
+surface (< 50 m) ocean
+carbonate chemistry
+calculated from
+observations obtained at
+the Hawaii Ocean Timeseries (HOT) Program in
+the North Pacific over
+1988–2015. The upper
+panel shows the linked
+increase in atmospheric
+(red points) and
+seawater (blue points)
+CO 2 concentrations. The
+bottom panel shows a
+decline in seawater pH
+(black points, primary
+y-axis) and carbonate
+ion concentration (green
+points, secondary
+y-axis). Ocean chemistry
+data were obtained from
+the Hawaii Ocean Timeseries Data Organization
+& Graphical System
+(HOT-DOGS).
+(Source: US
+National Oceanic
+and Atmospheric
+Administration (NOAA),
+Jewett and Romanou,
+2017)
+
+13
+
+25
+
+15
+
+15
+
+5
+
+5
+
+Percentage
+
+Percentage
+
+25
+
+–5
+–15
+
+–5
+–15
+
+–25
+
+–25
+
+–35
+
+–35
+
+–45
+
+1981 1984 1987 1990 1993 1996 1999 2002 2005 2008 2011 2014 2017
+
+–45
+
+1981 1984 1987 1990 1993 1996 1999 2002 2005 2008 2011 2014 2017
+
+Year
+
+Figure 10. (left)
+September sea-ice
+extent for the Arctic,
+and (right) September
+sea-ice extent for the
+Antarctic. Percentage
+of long-term average
+of the reference period
+1981–2010
+(Source: prepared by
+WMO using data from
+the US National Snow
+and Ice Data Center)
+
+14
+
+freeze-up during the autumn saw Arctic seaice extent once again at near record low levels
+for the time of year by the end of December.
+
+Year
+
+The glacial mass balance change has been
+negative in every year since 1988.
+
+The mass balance change (the estimated
+change of the mass of ice from one year
+to the next) of the Greenland ice sheet in
+the year from September 2016 to August
+2017 was well above the 1981–2010 average,
+due mainly to unusually heavy precipitation
+during autumn 2016. The mass balance
+change from September to December 2017
+was close to average. Although the overall
+ice mass increased, this was only a small
+departure from the trend over the past two
+decades, with the Greenland ice sheet having
+lost approximately 3 600 billion tons of ice
+mass since 2002.
+
+The northern hemisphere snow cover extent
+was near or slightly above the 1981–2010
+average for most of the year, most significantly
+in May (9% above average, 12 th highest on
+record). May snow cover extent was the
+highest since 1996, and the highest in Eurasia
+since 1985, with particularly strong anomalies
+in nor th-western Russia and nor thern
+Scandinavia, where May temperatures were
+well below average. Summer snow cover
+extent, which has been showing a strong
+downward trend, was close to the long-term
+average in 2017 for the first time in more than
+a decade, giving June, July and August the
+highest values since 2004, 2006 and 1998
+respectively. Similar to most recent years,
+autumn snow cover extent was above average,
+although not to the same extent as in 2016,
+with October and November both ranking 9 th
+highest. Snow cover extent returned to slightly
+below average in December. Contrasting
+precipitation anomalies during the 2016/2017
+winter saw alpine snow cover well below
+average in most of the European Alps, but at
+or near record high levels in Corsica.
+
+Mass balance change data for 2017 for
+glaciers outside major continental ice sheets
+are not yet available. For 2016, mass balance
+change, averaged across a set of 26 reference
+glaciers with data available at the time of
+writing, was approximately −900 mm water
+equivalent. This was a smaller decrease than
+in 2015, but close to the 2011–2016 mean.
+
+In the southern hemisphere, an extensive
+snow event in southern South America from
+14 to 21 June saw continental snow cover
+extent reach 750 000 square kilometres, the
+highest since satellite monitoring began in
+2005, whilst the alpine snowpack at high
+elevations in south-eastern Australia was
+the deepest since 2000.
+
+Antarctic sea-ice extent was at or near record
+low levels throughout the year. The summer
+minimum of 2.11 million square kilometres,
+recorded on 3 March, was 0.18 million square
+kilometres below the previous record set
+in 1997, whilst the winter maximum of
+18.03 million square kilometres, recorded
+on 12 October (the equal-latest maximum
+date on record), was second behind 1986.
+
+3
+
+MAJOR DRIVERS OF INTERANNUAL
+CLIMATE VARIABILITY IN 2017
+
+In contrast with 2016, which saw the later
+part of one of the strongest El Niño events
+of the last 50 years, a neutral phase of ENSO
+prevailed for most of 2017. The year began
+with conditions slightly cooler than average
+in the central and eastern equatorial Pacific,
+consistent with the borderline cool neutral/
+weak La Niña conditions which had existed
+in the last part of 2016. These cool anomalies
+had weakened by February, before becoming
+re-established later in 2017. By November,
+conditions had cooled to the point where a
+weak La Niña event had been declared by
+most agencies.
+Whilst there was no basin-wide El Niño in
+2017, there was a sharp warming near the
+South American coast early in the year, of a
+type more often seen during El Niño events.
+Temperatures near the coast of Ecuador and
+
+Oceanic Niño Index (ONI)
+
+1
+0
+–1
+–2
+–3
+1950
+
+1960
+
+1970
+
+1.5
+
+1980
+
+Year
+
+1990
+
+2000
+
+2010
+
+2020
+
+1
+Indian Ocean Dipole (IOD)
+
+There are several large-scale modes of
+variability in the world’s climate that influence
+conditions over large parts of the world on
+seasonal to interannual timescales. The El
+Niño/Southern Oscillation (ENSO) is probably
+the best-known of the major drivers of
+interannual climate variability. The equatorial
+Indian Ocean is also subject to fluctuations
+in sea-surface temperatures, although on a
+less regular basis than the Pacific. The Indian
+Ocean Dipole (IOD) describes a mode of
+variability that affects the western and eastern
+parts of the ocean. The Arctic Oscillation (AO)
+and North Atlantic Oscillation (NAO) are two
+closely related modes of variability in the
+atmospheric circulation at middle and higher
+latitudes of the northern hemisphere. In
+positive mode, the subtropical high-pressure
+ridge is stronger than normal, as are areas
+of low pressure at higher latitudes, such as
+the “Icelandic” and “Aleutian” lows, resulting
+in enhanced westerly circulation through
+mid-latitudes. In negative mode, the reverse
+is true, with a weakened subtropical ridge,
+weakened higher-latitude low pressure areas
+and an anomalous easterly flow through
+mid-latitudes. The Southern Annular Mode
+(SAM), also known as the Antarctic Oscillation
+(AAO), is the southern hemisphere analogue
+of the AO.
+
+2
+
+0.5
+0
+–0.5
+-1
+–1.5
+1 Apr 2012
+
+14 Aug 2013
+
+27 Dec 2014
+
+Date
+
+10 May 2016
+
+Peru were more than 2 °C above average
+in February and March, before declining in
+the following months. These warm coastal
+temperatures were associated with significant
+flooding, particularly in Peru (something
+which had been largely absent during the
+previous year’s El Niño), whilst there were
+also heavy rains and flooding in California
+to an extent which far exceeded that of the
+2015/2016 El Niño.
+The Indian Ocean Dipole was generally on
+the positive side of neutral for most of 2017,
+although the strength of the signal varied
+considerably between different datasets (the
+strongest cool signal in the eastern Indian
+Ocean was also south of the 10°S southern
+boundary of the area used to define IOD
+indices). The IOD state was associated with
+dry conditions in much of Australia between
+May and September, and with a return to
+average to above-average rains in the Horn
+of Africa late in the year after an extended
+period of drought.
+
+22 Sept 2017 4 Feb 2019
+
+Figure 11. The Oceanic
+Niño Index (ONI) (top)
+and Indian Ocean Dipole
+(IOD) index (bottom).
+(Source: prepared by
+WMO using data from
+the US National Oceanic
+and Atmospheric
+Administration (NOAA)
+Climate Prediction
+Center (ONI) and the
+Australian Bureau of
+Meteorology (IOD))
+
+15
+
+15
+
+2017, although they were not as strong as
+those that prevailed for most of 2015 and 2016.
+
+90ºN
+
+60ºN
+
+PRECIPITATION IN 2017
+
+30ºN
+
+There were fewer areas with large precipitation
+anomalies in 2017 than there had been in 2015
+or 2016, as the influence of the strong El Niño
+event of 2015/2016 ended.
+
+EQ
+
+30ºS
+
+60ºS
+
+90ºS
+180º
+
+120ºW
+
+60ºW
+0.1
+
+Figure 12. Annual total
+precipitation expressed
+as a percentile of the
+1951–2010 reference
+period for areas that
+would have been in the
+driest 20% (brown) and
+wettest 20% (green)
+of years during the
+reference period, with
+darker shades of brown
+and green indicating the
+driest and wettest 10%,
+respectively
+(Source: Global
+Precipitation Climatology
+Centre, Deutscher
+Wetterdienst, Germany)
+
+0.2
+
+0
+0.3
+
+0.4
+
+60ºE
+0.6
+
+0.7
+
+0.8
+
+120ºE
+
+180º
+
+0.9
+
+The Arctic Oscillation and North Atlantic
+Oscillation were both generally positive in
+their season of peak influence, January to
+March, with index values of +0.88 and +0.74
+respectively, although in both cases these
+values were less strongly positive than in
+the equivalent period of 2016. These positive
+index values were associated with generally
+above-average temperatures in the 2016/2017
+winter in most of Europe (despite a cold
+January) and eastern North America, and with
+dry winter conditions in the Mediterranean.
+Arctic Oscillation index values at the start of
+the 2017/2018 winter were near zero.
+The Southern Annular Mode had its first period
+of sustained negative values for over two
+years in late 2016 and early 2017, with the
+three-month SAM index for November 2016
+to January 2017 reaching −1.07, the strongest
+negative value since late 2013. Positive values
+then resumed for most of the remainder of
+140.0
+135.0
+
+Figure 13. Annual
+
+130.0
+125.0
+120.0
+Deviation, %
+
+precipitation for Norway
+in percentage of normal
+(Source: Norwegian
+Meteorological Institute
+(Met.no))
+
+115.0
+110.0
+105.0
+100.0
+95.0
+90.0
+
+The most extensive area with annual rainfall
+above the 90 th percentile in 2017 was in
+north-east Europe, extending from northern
+European Russia as far west as northern
+Germany and southern Norway. European
+Russia had its second-wettest year on record
+(as did Russia as a whole) and Norway its
+sixth-wettest. Autumn was especially wet in
+the Baltic region, with Estonia and Lithuania
+both having their wettest autumn on record
+and Latvia its second-wettest.
+Thailand had its wettest year on record, with
+national rainfall 27% above average. The
+south was especially wet with the east coast
+region 56% above average. However, the high
+rainfall was more evenly distributed through
+the year than it was in the previous record
+wet year of 2011. Even though that year’s
+extreme flooding was not repeated, there
+were significant local floods from time to time,
+particularly in the south of the country early
+in the year. Rainfall above the 90 th percentile
+also occurred in the Philippines, parts of
+eastern Indonesia and the interior of Western
+Australia.
+Other areas with annual rainfall above the 90th
+percentile included parts of inland southern
+Africa, scattered areas in the southern half
+of South America east of the Andes, and
+around the Great Lakes in North America.
+Michigan had its wettest year on record, with
+very wet conditions also in the Great Lakes
+and St Lawrence region of Canada. Rainfall
+significantly above average also affected many
+parts of Central America and the Caribbean
+islands, with the largest anomalies in those
+parts of the Eastern Caribbean that were most
+affected by hurricanes.
+
+85.0
+80.0
+75.0
+70.0
+65.0
+1900
+
+1910
+
+1920
+
+1930
+
+1940
+
+1950
+Year
+
+16
+
+16
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010 2017
+
+Dry conditions with rainfall below the 10th
+percentile were most widespread around the
+Mediterranean, extending east as far as the
+Islamic Republic of Iran. They were especially
+
+Monsoon season rainfall was generally fairly
+close to average in the Indian subcontinent
+(where all-India rainfall for June to September
+was 5% below average), although with local
+variations, including significantly aboveaverage totals in much of Bangladesh and
+parts of far eastern India. Monsoon season
+rainfall was also fairly close to average in the
+Sahel of west and central Africa, although
+flooding in late August from local heavy rains
+caused significant losses in Niger. Rainfall in
+2017 was also close to average over most of
+the more heavily populated parts of western
+and central Indonesia, in Singapore, in most
+of Japan (where an exceptionally wet October
+offset a dry first half of the year) and in northwestern South America.
+
+EXTREME EVENTS
+Ex treme events have many significant
+impacts in terms of casualties, other health
+effects, economic losses and population
+displacement.15 They are also a major driver
+of interannual variability in agricultural
+production.
+
+A DESTRUCTIVE NORTH ATLANTIC
+HURRICANE SEASON, BUT NEAR
+AVERAGE GLOBALLY
+There were 84 tropical cyclones around
+the globe in 2017,16 very close to the long15
+
+World Bank, 2017: A 360 degree look at Dominica post
+Hurricane Maria, 28 November, www​.worldbank ​.org/​en/​
+news/​feature/​2 017/​11/​2 8/​a​- 360 ​- degree​- look​-at​- dominica​
+-post​-hurricane​- maria
+
+16
+
+Consistent with standard practice, the 2017 value quoted
+here is the sum of the values from January to December
+2017 for northern hemisphere basins, and July 2016–June
+2017 for southern hemisphere basins.
+
+Number of global tropical cyclones
+
+prominent in southern Europe, from Italy
+westwards to Portugal, in north-western
+Africa and in south-west Asia, from eastern
+Turkey and the western Islamic Republic of
+Iran south to Israel. A small but significant
+area with rainfall below the 10 th percentile
+affected the far south-west of South Africa.
+Other major areas with rainfall below the
+10th percentile in 2017 included parts of
+central India and eastern Brazil, and the North
+American Prairies on both sides of the United
+States-Canada border.
+
+120
+100
+80
+60
+40
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+Year
+
+term average. A very active North Atlantic
+season was offset by near- or below-average
+seasons elsewhere. The North Atlantic had
+17 named storms, and the seventh-highest
+value of Accumulated Cyclone Energy (ACE)
+on record, including a record monthly value
+for September. The Northeast and Northwest
+Pacific basins both had a near-average number
+of cyclones but relatively few severe cyclones,
+leading to below-average ACE values in both
+basins.
+
+Figure 14. Total
+number of tropical
+cyclones globally, by
+year
+(Source: WMO)
+
+The 2016/2017 southern hemisphere season
+was below average on all measures,
+particularly in the first half of the season.
+Whilst the Australian region had a nearaverage number of cyclones, the south-west
+Indian Ocean and south-west Pacific (east
+of 160°E) were both well below average.
+The total hemispheric ACE was the lowest
+recorded since regular satellite coverage
+began in 1970.
+Three exceptionally destructive hurricanes
+occurred in rapid succession in the North
+Atlantic in late August and September. Harvey
+made landfall in south Texas as a category
+4 system, then remained near-stationary in
+the Houston area for several days, producing
+exceptionally prolonged extreme rainfall and
+severe flooding. An exceptional 1 539 mm of
+rain fell from 25 August to 1 September at a
+gauge near Nederland, Texas — the largest
+amount of rain ever recorded in a tropical
+cyclone in the United States — whilst the
+storm total rainfall was in the 900–1 200 mm
+range in much of metropolitan Houston.17 One
+17
+
+National Hurricane Center, 2018: National Hurricane Center
+Tropical Cyclone Report –Hurricane Harvey, https://​w ww​
+.nhc​.noaa​.gov/​data/​tcr/​A L092017​_ Harvey​.pdf.
+
+17
+
+Tyler
+
+HOUSTON
+
+Longview
+L o u i s iana
+
+Nacogdoches
+
+Waco
+
+Lufkin
+Killeen
+College
+Station
+T e x as
+
+Huntsville
+Conroe
+
+^Austin
+_
+
+Beaumont
+Houston
+
+Port Arthur
+
+Galveston
+Victoria
+
+Corpus
+Christi
+
+Ï
+Ð
+
+Kingsville
+
+Track with Storm Type
+* National Hurricane Center
+Preliminary Best Track
+
+Landfall:
+26 August 2017 around 0300 UTC
+
+Hurricane
+Tropical Storm
+
+0
+
+12.5 25
+
+50
+Miles
+
+Hurricane Harvey, 25–31 August 2017
+Annual Exceedance Probabilities (AEPs) for the Worst Case 4-day Rainfall
+Hydrometeorological Design Studies Center
+Office of Water Prediction, National Weather Service
+National Oceanic and Atmospheric Administration
+http://www.nws.noaa.gov/ohd/hdsc/
+Created 16 November 2017
+Rainfall frequency estimates are from preliminary NOAA Atlas 14, Volume 11, Version 1.
+Rainfall values come from 6-hour Stage IV data.
+
+Figure 15. Annual
+exceedance
+probabilities for the
+peak 4-day rainfall
+during Hurricane
+Harvey, showing that
+much of the area from
+east Houston to the
+Texas-Louisiana border
+had 4-day rainfalls with
+an annual exceedance
+probability less than
+1 in 1000. (Source:
+US National Oceanic
+and Atmospheric
+Administration (NOAA)
+
+study18 found that the maximum three-day
+rainfalls during Hurricane Harvey were made
+three times more likely by anthropogenic
+climate change.
+Harvey was followed by Hurricane Irma, in early
+September, and by Maria in mid-September.
+Both hurricanes peaked at category 5 intensity,
+with Irma maintaining that intensity for
+60 hours, which is longer than in any North
+Atlantic hurricane in the satellite era. Irma’s
+initial landfall, at near-peak intensity, led to
+extreme damage across numerous Caribbean
+islands, most significantly on Barbuda, which
+experienced near-total destruction, with only
+a few inhabitants having returned as of early
+2018. Other islands to experience major
+damage included Saint Martin/Sint Maarten,
+Anguilla, St Kitts and Nevis, the Turks and
+Caicos Islands, the Virgin Islands and the
+18
+
+18
+
+¯
+
+> 1/10
+1/50 - 1/10
+1/100 - 1/50
+1/200 - 1/100
+1/500 - 1/200
+1/1000 - 1/500
+< 1/1000
+
+Van Oldenborgh, G.J. et al., 2017: Attribution of extreme
+rainfall from Hurricane Harvey, August 2017. Environmental
+Research Letters, 12, 124009.
+
+southern Bahamas. Irma went on to track
+along the northern coast of Cuba, leading
+to extensive damage there, before making
+landfall in south-west Florida at category 4
+intensity.
+Hurricane Maria made initial landfall on
+Dominica at near-peak intensity, making it
+the first category 5 hurricane to strike the
+island, and leading to major destruction there.
+The World Bank estimates Dominica’s total
+damages and losses from the hurricane at
+US$ 1.3 billion or 224% of its Gross Domestic
+Product (GDP). The storm weakened slightly
+but was still a category 4 hurricane when
+it reached Puerto Rico. Maria triggered
+widespread and severe damage on Puerto
+Rico from wind, flooding and landslides.
+Power was lost to the entire island, and
+had only been restored to just over half the
+population three months after the hurricane,
+whilst water supplies and communications
+were also severely affected.
+All three of these hurricanes were assessed
+by the National Centers for Environmental
+Information (NCEI) as ranking in the top five
+for hurricane-related economic losses in
+the United States (alongside Katrina in 2005
+and Sandy in 2012), with estimated costs of
+US$ 125 billion for Harvey, US$ 90 billion for
+Maria and US$ 50 billion for Irma.19 Irma and
+Maria also led to substantial losses outside
+the United States. At least 251 deaths were
+attributed to the three hurricanes in the United
+States (including Puerto Rico and the US
+Virgin Islands) and 73 elsewhere. 20
+Other significant hurricanes during the 2017
+North Atlantic season, both in October,
+were Hurricane Nate, which was associated
+with significant flooding in Central America
+19
+
+The total losses reported by NCEI for these three hurricanes
+(central estimate US$265 billion) are higher than the assessment by Munich Re (US$215 billion, including losses outside
+the United States), but this difference is within the margin
+of uncertainty. It may also reflect differences in accounting
+for indirect economic losses.
+
+20
+
+Unless otherwise stated, casualty and economic loss data
+reported in this statement are sourced from the EM-DAT database, Centre for Research on the Epidemiology of Disasters,
+Université catholique de Louvain, Belgium, www.emdat.be.
+For the 2017 North Atlantic hurricane season, casualties and
+economic losses for the United States and its territories
+were as reported by NCEI.
+
+NORTH ATLANTIC HURRICANE SEASON 2017: INDUCED LOSS AND DAMAGE
+When Hurricane Irma made landfall, it hit Barbuda
+with maximum sustained winds of 295 km/h, record
+rainfall and a storm surge of nearly three metres.
+Deaths were limited to one but an estimated 90%
+of properties were damaged. This prompted the
+Prime Minister to order the complete evacuation
+of all residents as Hurricane Jose approached. It
+was three weeks before residents were permitted
+to return, and three months later only an estimated
+20% of the population had returned. The long-term
+impact remains to be seen, with damage and loss
+estimated at US$ 155 million, and recovery and
+reconstruction needs estimated at US$ 222.2 million1
+– together accounting for approximately 9% of the
+gross domestic product of Antigua and Barbuda.
+Hurricane Maria proved still more devastating for
+Dominica. Total damages and losses were estimated
+at US$ 1.3 billion or 224% of GDP, with significant
+par ts of the island’s rainforest damaged and
+destroyed. This has implications for the whole of
+1
+
+Post-Disaster Needs Assessment (PDNA) carried out with the support
+of the European Union (EU), the United Nations Development Programme
+(UNDP), the World Bank and the Caribbean Disaster Emergency
+Management Agency (CDEMA).
+
+(especially Costa Rica and Nicaragua),
+and Hurricane Ophelia, which became the
+easternmost hurricane on record to reach
+major (category 3) intensity, before crossing
+Ireland as a transitioning ex tratropical
+storm and leading to widespread damage.
+Ophelia’s broader wind field also contributed
+to destructive wildfires in Portugal.
+Whilst the number of severe cyclones in
+the Northwest Pacific in 2017 was low, a
+number of systems still brought widespread
+destruction and heavy casualties, mostly
+from flooding. The largest loss of life from a
+tropical cyclone in 2017 was in late December,
+when Typhoon Tembin (Vinta) crossed the
+island of Mindanao with a peak 10-minute
+wind speed of 36 m s −1 (70 kt), resulting in
+at least 129 deaths, 21 mostly from flooding.
+21
+
+Philippines Office of Civil Defense, Situation Report 25,
+7 February 2018.
+
+society: the losses incurred by the tourist sector
+alone are estimated at 19%, and 38% of housing was
+damaged. 2 Maria caused the longest blackout in the
+history of the United States in Puerto Rico, which
+affected 35% of the island’s population for at least
+three months – continued problems following the
+hurricane may see the privatization of the Puerto Rico
+Electric Power Authority (PREPA), the largest publicly
+owned corporation in the United States.3 The disaster
+prompted the Federal Emergency Management
+Agency to approve US$ 1.02 billion of assistance to
+the Individuals and Households Program and obligate
+US$ 555 million in Public Assistance grants.4
+
+2
+
+Government of the Commonwealth of Dominica, 2017: Post Disaster
+Needs Assessment – Hurricane Maria, September 18, 2017, https://
+reliefweb.int/sites/reliefweb.int/files/resources/dominica-pdna-maria.
+pdf
+
+3
+
+Attributed to the Governor of Puerto Rico.
+
+4
+
+Government of the United States of America, Department of Homeland
+Security, Federal Emergency Management Agency.
+
+Two separate events in Vietnam, an unnamed
+tropical depression in October and Typhoon
+Damrey (Ramil) in early November, were
+both associated with over 100 deaths from
+flooding. The heaviest economic losses were
+from Typhoon Hato (Isang) in August, which
+hit Hong Kong, Macau and neighbouring areas
+of China on 23 August, with an estimated
+US$ 6 billion in losses and at least 32 deaths.22
+It was the strongest impact in Macau for more
+than 50 years.
+The two most significant cyclones of the
+year in the North Indian Ocean were Cyclone
+Mora in late May, and Cyclone Ockhi in early
+December, both of which caused substantial
+casualties. The major impact of both cyclones
+was severe flooding and landslides associated
+with their respective precursor lows. Sri Lanka
+22
+
+Reports from the China Meteorological Administration and
+the government of the Macao SAR.
+
+19
+
+Chris B. Pye
+
+ST THOMAS, US VIRGIN ISLANDS
+Hurricane Irma destruction
+
+was badly affected by both cyclones, whilst
+Ockhi also had major impacts in southern
+India, including a great number of fishermen
+going missing at sea. The largest impacts
+from Northeast Pacific systems in 2017 were
+from flooding, with Tropical Storm Lidia
+leading to significant flooding in Mexico in
+August, and Tropical Storm Selma (the first
+recorded tropical cyclone to make landfall
+in El Salvador) doing likewise in El Salvador,
+Nicaragua and Honduras.
+Although the number of tropical cyclones
+in the south-west Indian Ocean was below
+average, there were two which had major
+impacts. Dineo, with maximum 10-minute
+winds of 39 m s −1 (75 kt), was the first to
+make landfall in Mozambique since 2008
+when it hit in early February. In addition to
+its effects in Mozambique, the subsequent
+overland low resulted in severe flooding in
+Zimbabwe and northern South Africa, and
+was the main contributor to the 246 floodrelated deaths reported in Zimbabwe during
+the 2016/2017 rainy season.23 Enawo, in early
+March, hit the east coast of Madagascar at
+near its peak intensity (10-minute winds of
+57 m s −1 (110 kt)). Enawo had major impacts
+23
+
+20
+
+United Nations Office for the Coordination of Humanitarian
+Affairs (OCHA), 2017: Zimbabwe Flood Snapshot, https://​
+reliefweb​.int/​sites/​reliefweb​.int/​files/​resources/​zimbabwe​
+_flood​_ snapshot​_ 3march2017​.pdf.
+
+on Madagascar, 24 with at least 81 associated
+deaths reported and extensive damage to
+houses, infrastructure and crops. Agricultural
+losses were estimated by the World Bank at
+US$ 207 million, mostly from the destruction
+of vanilla plantations.
+In the Southwest Pacific, Cyclone Debbie
+hit the east coast of Australia in late March,
+making landfall in the Whitsunday region
+with maximum 10-minute winds of 43 m s −1
+(80 kt) after earlier peaking at 49 m s−1 (95 kt),
+leading to extensive wind and flood damage.
+The system then tracked south and south-east
+as a tropical low, with widespread major
+flooding, especially on the east coast near the
+Queensland-New South Wales border. The
+remnant system then went on to be largely
+responsible for major flooding in much of the
+North Island of New Zealand in early April.
+Insured losses for Debbie in Australia were
+approximately US$ 1.3 billion, 25 the secondhighest on record for an Australian tropical
+cyclone. Cyclone Donna was the strongest
+May cyclone on record in the Southwest
+Pacific region, with peak 10-minute winds
+24
+
+World Bank, 2017: Estimation of Economic Losses from Tropical Cyclone Enawo, https://​reliefweb​.int/​sites/​reliefweb​.int/​
+files/​resources/​MG​-Report​-on​-the​-Estimation​-of​-Economic​
+-Losses​.pdf.
+
+25
+
+Insurance Council of Australia, media release 6 November
+2017.
+
+reaching 57 m s−1 (111 kt) on 8 May, with some
+damage reported, especially in Vanuatu.
+
+HIGH WINDS AND SEVERE LOCAL
+STORMS
+There were a number of destructive severe
+thunderstorms in 2017, with central and
+eastern Europe particularly affected during the
+spring and early summer. Winds, exceeding
+100 km/h during a thunderstorm resulted in
+widespread damage and at least 11 deaths
+in Moscow on 29 May. Other noteworthy
+storms included a severe hailstorm and
+tornado that affected the southern suburbs
+of Vienna on 10 July, a 165 km/h wind gust
+at Innsbruck on 30 July, a hailstorm with
+hailstones up to 9 cm in diameter in Istanbul
+on 27 July, and widespread thunderstorms
+that left 50 000 households without power
+in southern Finland on 12 August. Severe
+flash flooding affected parts of the Croatian
+coast on 11 September, with 283 mm of rain
+recorded in 12 hours at Zadar.
+For the first time since 2011, the United States
+had an above-average tornado season, with
+a preliminary annual total of 1 406 tornadoes,
+12% above the 1991–2010 average. However,
+the number of fatalities during the season
+(34) was below the long-term average. The
+most destructive storm of the season was
+a hailstorm that hit Denver on 8 May, with
+hailstones exceeding 5 cm in diameter.
+Insured losses from this event exceeded
+US$ 2.2 billion.
+A severe windstorm (known locally as Zeus)
+affected France on 6–7 March. Peak gusts
+reached 193 km/h at Camaret-sur-Mer in
+Brittany, and the storm was rated by MétéoFrance as the most significant windstorm in
+France since 2010. Later in the year, a storm in
+late October produced wind gusts exceeding
+170 km/h at high elevations and 140 km/h in
+the lowlands in Austria and Czechia, with
+11 deaths reported in total.
+
+occurred. 26 Exceptionally heavy rain was a
+major contributor to this disaster; Freetown
+received 1 459.2 mm in the period from 1
+to 14 August, about four times the average
+rainfall for this period. Another major landslide
+associated with heavy rainfall occurred in
+Mocoa, in southern Colombia, on 1 April,
+with at least 273 deaths reported.
+Many parts of the Indian subcontinent were
+affected by flooding during the monsoon
+season between June and September, despite
+overall seasonal rainfall being near average
+over the region. The most serious flooding
+occurred in mid-August, after extremely
+heavy rainfall over a region centred on eastern
+Nepal, northern Bangladesh and adjacent
+areas of northern and north-eastern India.
+Mawsynram (India), near the Bangladesh
+border, received 1 479 mm in the four days
+from 9 to 12 August. Daily totals in excess
+of 400 mm also occurred near the IndiaNepal border, and the Rangpur region of
+northern Bangladesh received 360 mm,
+approximately the average monthly total, on
+11–12 August. Across the period as a whole,
+more than 1 200 deaths were reported in
+India, Bangladesh and Nepal, 27 whilst more
+than 40 million people were affected. The
+World Health Organization (WHO) noted that
+in Bangladesh alone more than 13 000 cases
+of waterborne diseases and respiratory
+infections were reported over three weeks
+in August, 28 whilst extensive damage was
+reported to public health facilities in Nepal.29
+Earlier in the season, 292 deaths were reported
+in Sri Lanka in late May, principally in southern
+26
+
+International Organization for Migration (IOM), 2017 : Sierra
+Leone Flood Response. Situation Report, 28 August 2017,
+https://​r eliefweb​. int/​sites/​r eliefweb​. int/​fi les/​r esources/​
+SL​% 20Floods​% 20Sitrep​% 201​.pdf.
+
+27
+
+World Meteorological Organization, 2017: Rainfall extremes
+cause widespread socio-economic impacts, ht tps: //​
+public​.wmo​. int/​en/​media/​news/​r ainfall​- extremes​- cause​
+-widespread​-socio​- economic​- impacts.
+
+28
+
+International Federation of Red Cross and Red Crescent
+Societies (IFRC), 2017: South Asia flood crisis: Disease
+outbreaks, funding shortages compound suffering of flood
+survivors, https://​media​. ifrc​.org/​i frc/​press​-release/​south​
+-asia​- flood​- crisis​- disease​- outbreaks​-funding​- shortages​
+-compound​-suffering​- flood​-survivors/​.
+
+29
+
+World Health Organization (WHO), 2017: Nepal. Situation
+Report #5, https://​r eliefweb​. int/​sites/​r eliefweb​. int/​fi les/​
+resources/​w ho​_ sitrep​- 06sept2017​.pdf.
+
+FLOODING (NON-TROPICAL CYCLONE)
+AND ASSOCIATED PHENOMENA
+One of the most significant weather-related
+disasters of 2017, in terms of casualties,
+was a landslide in Freetown, Sierra Leone,
+on 14 August, in which at least 500 deaths
+
+21
+
+900
+
+y = –1.1842x + 564.74
+R2 = 0.0374
+
+800
+Annual rainfall (mm)
+
+700
+600
+500
+400
+300
+200
+
+0
+
+1951
+1953
+1955
+1957
+1959
+1961
+1963
+1965
+1967
+1969
+1971
+1973
+1975
+1977
+1979
+1981
+1983
+1985
+1987
+1989
+1991
+1993
+1995
+1997
+1999
+2001
+2003
+2005
+2007
+2009
+2011
+2013
+2015
+2017
+
+100
+
+Year
+
+Figure 16. Annual
+rainfall for Cape Town,
+South Africa, 1951–2017.
+(Source: South African
+Weather Service)
+
+and western parts of the country, due to
+heavy rains from the precursor low to Cyclone
+Mora. Ratnapura received 384 mm of rain in
+24 hours on 25/26 May. Some 650 000 people
+were affected in some way by the floods,
+but the rains did little to alleviate significant
+drought in northern and eastern parts of Sri
+Lanka. 30 Cyclone Mora also had significant
+impacts in Bangladesh and Myanmar.31 Heavy
+rains flooded thousands of hectares of crop
+and damaged poultry sheds, fishing nets
+and boats, severely eroding the livelihoods
+of communities that depend on agriculture
+and fisheries in the affected rural districts.
+Flooding affected many parts of Peru in
+March, af ter sustained heav y rains. At
+least 75 deaths 32 were reported, and over
+625 000 people were affected, including more
+than 70 000 who lost their homes. The Food
+and Agriculture Organization of the United
+Nations reported that there were significant
+crop production losses,33 particularly maize, in
+the main producing regions of Lambayeque,
+Piura and Ica. Flooding of this type typically
+
+22
+
+affects Peru during the late phase of El Niño
+events. Whilst there was no Pacific-wide El
+Niño during 2017, sea-surface temperatures
+near the Peruvian coast in March were 2 °C
+or more above average, values which would
+be more typical of an El Niño year than of
+a neutral year such as 2017. Major flooding
+occurred mid-year in parts of southern China,
+especially within the Yangtze River basin. The
+heaviest rain fell in the provinces of Hunan,
+Jiangxi, Guizhou and Guangxi. Peak totals
+during the period from 29 June to 2 July
+were in excess of 250 mm. Fifty-six deaths
+were reported and economic losses were
+estimated at more than US$ 5 billion. 34
+
+DROUGHT
+The drought that affected significant parts of
+east Africa during 2016 continued into 2017.
+In the March to May rainy season, seasonal
+rainfall was at least 20% below average
+over most of Somalia, Kenya and southern
+Ethiopia, and more than 50% below average
+over most of the northern half of Kenya and
+parts of Somalia. There was some easing
+of conditions late in the year, with near- to
+above-average rainfall over most of the region
+in the October–December period. Reports for
+Somalia indicated that 6.7 million people were
+experiencing food insecurity as of October,
+this declined to 5.4 million by the end of
+December as crop and pasture conditions
+improved. 35
+Drought worsened significantly during 2017 in
+the Cape Province of South Africa. Following
+below-average rainfall in 2015 and 2016, Cape
+Town had its driest year on record in 2017 with
+a total of 285 mm (47% below the 1981–2010
+average). The three-year period 2015−2017
+was also the driest on record (36% below
+average). The dry conditions led to local water
+supplies becoming severely depleted, with no
+significant recovery as of early 2018. However,
+generally average to above-average rainfall
+further north in southern Africa during the
+2016/2017 rainy season led to an improvement
+
+30
+
+Food and Agriculture Organization of the United Nations (FAO)
+and World Food Programme (WFP), 2017: Special Report.
+FAO/WFP Crop and Food Security Assessment Mission to
+Sri Lanka, http://​w ww​.fao​.org/ ​3 /​a‑i7450e​.pdf.
+
+31
+
+International Federation of Red Cross and Red Crescent
+Societies (IFRC), 2017: Emergency appeal revision. Bangladesh: Cyclone Mora, http://​reliefweb​.int/​sites/​reliefweb​
+.int/ ​files/​resources/ ​MDRBD019 ​_ RevEA ​.pdf.
+
+32
+
+From information supplied by the United Nations Office for
+Disaster Risk Reduction (UNISDR).
+
+34
+
+From information supplied by the China Meteorological
+Administration.
+
+33
+
+Food and Agriculture Organization of the United Nations
+(FAO), 2017: GIEWS – Global Information and Early Warning
+System. Country Brief: Peru, http://​w ww​.fao​.org/​giews/​
+countrybrief/​country​.jsp​?code​= ​P ER.
+
+35
+
+Food and Agriculture Organization of the United Nations
+(FAO), 2018: FSNAU-FEWS NET Technical Release, 29
+January 2018, http://​w ww​.fsnau​.org/​in​-focus/​f snau​-fews​
+-net​-technical​-release​-january​-29​-2018.
+
+in conditions there, with the total number of
+people experiencing food insecurity declining
+from 40 million at the peak of the 2014–2016
+drought to 26 million in late 2017. 36
+Many parts of the Mediterranean region
+experienced significant drought in 2017, as
+did parts of central Europe. In the first part
+of 2017, the most severe anomalies were in
+Italy, which had its driest January to August
+on record (and went on to have its driest
+year, with annual rainfall 26% below the
+1961–1990 average). Further north, Bratislava
+(Slovakia) had its driest December to August
+on record and southern Moravia (Czechia) its
+second-driest January to August. Later in
+the year the focus of the dry conditions was
+on south-west Europe. Spain had its driest
+autumn on record, the Provence-Haute AlpesCôte d’Azur region in south-east France had
+its driest May to November, whilst Portugal
+had its driest April to December and its thirddriest year (its four driest having all occurred
+since 2004). Autumn was also very dry in
+Morocco. The eastern Mediterranean was
+also badly affected by drought, including
+the eastern half of Turkey, Cyprus and most
+of Israel. The coastal plain of Israel had its
+driest year on record.
+Drought also affected a region of central North
+America on both sides of the United StatesCanada border. Particularly affected were
+the states of North Dakota and Montana, and
+the Prairie provinces of Canada, with areas
+of severe drought identified on both sides
+of the border. 37 After a period of prolonged
+drought, the 2016/2017 winter rainfall season
+brought heavy rains to much of California,
+and the Sierra Nevada snowpack was 66%
+above average, the heaviest since 1998.
+Large-scale evacuations were required in
+the state’s north in February because of the
+risk of failure of the Oroville Dam. However,
+dry conditions resumed in the second half
+of the year, contributing to numerous major
+wildfires.
+
+36
+
+37
+
+World Food Programme (WFP), 2018: Poor Rains and Crop
+Infestation Threaten Deeper Hunger Across Southern Africa.
+Media release, 9 February 2018.
+National Oceanic and Atmospheric Administration (NOAA),
+2017: North American Drought Monitor, December 2017.
+
+Although rainfall deficit was not particularly
+extreme during 2017, near-average to belowaverage rainfall resulted in a continuation of
+multi-year drought in many parts of Brazil
+north of 20°S, and in central Chile (where
+2017 was the wettest year since 2008, but
+still drier than the long-term average). In the
+Asia-Pacific region, abnormally dry conditions
+were reported in the Korean Peninsula in
+the first half of 2017, whilst New Caledonia
+experienced significant drought, especially
+later in the year.
+
+HEATWAVES, A REGULAR FEATURE
+OF 2017
+There were numerous significant heatwaves
+around the world during 2017, in both the
+southern and northern hemisphere summers.
+Southern South America experienced
+extreme heat on several occasions during
+the 2016/2017 summer. The heat peaked
+in late January, when numerous Chilean
+stations had their hottest days on record,
+including Santiago (37.4 °C) and Curico
+(37.3 °C) on the 25 th, and Chillan (41.5 °C)
+and Concepcion (34.1 °C) on the 26th. The heat
+extended eastwards into Argentine Patagonia
+where Puerto Madryn reached 43.4 °C on
+27 January, the highest temperature ever
+recorded so far south. It was also a notably
+hot summer in much of eastern Australia,
+where Moree had 54 consecutive days of
+35 °C or above from 28 December 2016 to
+19 February 2017, the longest such sequence
+on record in New South Wales. Numerous
+locations, including Moree (47.3 °C), Dubbo
+(46.1 °C), Scone (46.5 °C), Bathurst (41.5 °C)
+and Williamtown (45.5 °C) had their highest
+recorded temperature on 11–12 February.
+Extreme heat affected south-west Asia at the
+end of May. The temperature at Turbat, in the
+far south-west of Pakistan, reached 54.0 °C
+on 28 May, a national record for Pakistan
+and (if confirmed)38 an equal record for Asia.
+During this event, sites in the Islamic Republic
+of Iran, Oman and the United Arab Emirates
+also exceeded 50 °C.
+
+38
+
+This observation, and another of 54.0 °C at Mitribah
+(Kuwait), are currently being reviewed by a WMO evaluation
+committee.
+
+23
+
+NASA
+
+SNOW IN THE ALGERIAN SAHARA (AIN SEFRA REGION)
+
+There were numerous heatwaves during
+the European summer, particularly in the
+Mediterranean region. The most significant
+affected Turkey and Cyprus in late June
+and early July, the western Mediterranean
+(especially Spain and Morocco) in mid-July,
+and Italy and the Balkans in early August.
+All-time records were set in all three events,
+including Antalya, Turkey (45.4 °C on 1 July);
+Cordoba (46.9 °C on 13 July), Granada (45.7 °C
+on 12 July) and Badajoz (45.4 °C on 13 July)
+in Spain; and Pescara (41.0 °C on 4 August),
+Campobasso (38.4 °C on 5 August) and Trieste
+(38.0 °C on 5 August) in Italy.
+The south-western United States had a very
+hot summer. Death Valley had the highest
+monthly mean temperature (41.9 °C) on
+record for an American station in July. Later
+in the season, record-high temperatures
+occurred in coastal California in early
+September, including San Francisco (41.1 °C
+on 1 September). Eastern China was another
+area to experience extreme summer heat, with
+records set at Shanghai (40.9 °C on 21 July)
+and at the Hong Kong Observatory (36.6 °C
+on 22 August, associated with offshore flow
+during Typhoon Hato).
+
+SIGNIFICANT COLD PERIODS IN 2017
+Whilst 2017 saw above-average annual mean
+temperatures over almost all inhabited land
+areas, there were still some noteworthy cold
+events during the year.
+
+24
+
+January was a cold month over much of
+central and south-east Europe. Several
+countries experienced their coldest January
+since 1987, with monthly mean temperatures
+more than 5 °C below average in places. The
+cold also extended to parts of northern Africa
+with snowfalls in some elevated parts of the
+Algerian Sahara.
+A major late-season storm then affected the
+region on 20–21 April. Moldova was the hardest
+hit, with heavy falls of snow and freezing rain
+– exceptional for the time of year – causing
+extensive forest and agricultural damage.
+Following the storm, severe late-season frosts
+contributed to significant agricultural losses,
+estimated by Munich Re at EUR 3.3 billion, 39
+across many countries, including Switzerland,
+Austria, Ukraine, Romania, and Slovenia. The
+losses were exacerbated in many areas by
+unusually early development of crops due
+to an unusually warm March.
+Extreme cold affected parts of Argentina in
+July. Bariloche fell to −25.4 °C on 16 July,
+4.3 °C below its previous record. Very low
+overnight temperatures also occurred in parts
+of south-eastern Australia in the first few
+days of July, with record lows set at locations
+including Sale, Deniliquin and West Wyalong.
+39
+
+Munich Re, 2018: Spring frost losses and climate change –
+not a contradiction in terms, 29 January 2018, https://​w ww​
+.munichre.​ com/ ​topics​-online/​en/ ​2 018/ ​01/​spring​-frost​?ref​=​
+social​&​ref​= ​F acebook​&​t id​= ​NatCat2017​% 20Review.
+
+17
+13
+10
+7
+3
+0 °C
+–3
+–7
+–10
+–13
+–17
+
+At the end of the year, a significant cold spell
+affected the north-eastern United States and
+eastern Canada, with temperatures remaining
+significantly below average for two weeks or
+more. The cold spell was more notable for its
+persistence than its intensity, with a number
+of locations setting or approaching records for
+the longest continuous period below certain
+thresholds: one example was Boston, which
+had a record seven consecutive days with
+maximum temperatures of 20 °F (−6.7 °C)
+or below from 27 December to 2 January.
+
+GLOBAL ASSESSMENT OF TEMPERATURE
+EXTREMES
+W hils t a f ull y glob al a s s e s s men t of
+temperature extremes for 2017 is not yet
+possible, the GHCNDEX dataset40 of extreme
+temperature indices can be used to assess
+values over those parts of the world for which
+there is coverage. For minimum temperatures,
+the main areas of coverage are Europe, North
+America, Australia and parts of Russia; for
+maximum temperatures, coverage also
+extends to much of Asia (except the south
+and south-west) and South Africa. There
+is little or no coverage in South or Central
+America, or in Africa outside South Africa.
+
+Figure 17. Temperature
+anomalies for the
+period 26 December
+2017–5 January 2018
+(relative to 1981–2010)
+showing the intense cold
+wave in eastern North
+America.
+(Source: European
+Centre for Mediumrange Weather
+Forecasts (ECMWF)
+Copernicus Climate
+Change Service)
+
+occurred locally on 25% or more of days in
+parts of southern Queensland (Australia) and
+the Iberian Peninsula, and on 20% or more
+of days in much of eastern Australia, central
+Asia and southern Europe. Only western
+Canada and parts of north-west Russia had
+values below 10%. Warm nights were not as
+prevalent as warm days, with the average
+global frequency (15.7%) below the average
+of the last 10 years.
+Cold days, with maximum temperatures
+below the 10th percentile, occurred on 6.2% of
+days, the third-lowest value on record, whilst
+cold nights, with minimum temperatures
+below the 10th percentile, had the fifth-lowest
+value (5.7%). Cold extremes, both by day and
+night, were particularly uncommon in 2017
+in north-western Europe, with values in a
+region stretching from the United Kingdom
+to Germany below 3% for cold days and 4%
+for cold nights. Values above 10% were found
+only in parts of Australia for cold nights, and
+in central Canada for cold days, although
+
+Figure 18. Percentage
+of days in 2017 with
+daily maximum
+temperatures above the
+90 th percentile, from the
+GHCNDEX dataset
+(Source: University
+of New South Wales
+Climate Change
+Research Centre,
+Australia )
+
+GHCNDEX TX90p ANN Avg 2017-2017
+unit: % of days
+
+Over the areas that do have coverage,
+maximum temperatures above the 90 th
+percentile occurred on an average of 16.7%
+of days, the third-highest value on record
+after 2015 (18.5%) and 2016 (17.8%). They
+40
+
+Donat, M.G. et al., 2013: Global Land-Based Datasets for
+Monitoring Climatic Extremes. Bulletin of the American
+Meteorological Society, 94:997–1006. This dataset uses
+a 1961–1990 baseline for the calculation of percentile
+thresholds.
+
+10 12 14 16 18 20 22 24 26 28 30 32
+
+25
+
+much of the northern United States and
+southern Canada had a frequency of cold
+days between 8% and 10%.
+
+HEAT AND DROUGHT CONTRIBUTE TO
+NUMEROUS DESTRUCTIVE WILDFIRES
+Extreme heat and drought contributed to
+many destructive wildfires in various parts of
+the world in 2017. Whilst a return to near- or
+above-average rainfall contributed to reduced
+fire activity (compared with recent years)
+in various tropical regions, numerous midlatitude regions had severe fire seasons.
+Chile had the most significant forest fires in its
+history during the 2016/2017 summer, when
+exceptionally dry conditions during 2016 were
+followed by extreme heat in December and
+January. Eleven deaths were reported, and a
+total of 614 000 hectares of forest were burnt –
+the highest seasonal total on record and eight
+times the long-term average.41 There were
+also significant fires during the 2016/2017
+southern hemisphere summer in various parts
+of eastern Australia (especially eastern New
+South Wales) and in the Christchurch region
+of New Zealand, whilst the southern South
+African town of Knysna was badly affected
+by fire in June.
+It was a ver y active fire season in the
+Mediterranean region. The worst single
+incident took place in central Portugal in
+June, where 64 people died in a fire near
+Pedrogao Grande. There were further major
+fire outbreaks in Portugal and north-western
+Spain in mid-October (exacerbated by strong
+winds associated with the circulation of
+Hurricane Ophelia), with a further 45 deaths
+reported. The area burned in Portugal in the
+period from January to October42 was more
+than five times the 2007–2016 median. Other
+significant fires were reported, including in
+Croatia, France and Italy.
+It was also an active fire season in western
+North America, both in the United States
+and Canada. A wet winter, which allowed
+
+26
+
+41
+
+From information supplied by the Chilean Directorate of
+Meteorology.
+
+42
+
+Portuguese Institute for Nature Conservation and Forests,
+http://​w ww​.icnf​.pt/​portal/​florestas/​dfci/​Resource/​doc/​rel/​
+2017/​8 ​-rel​-prov​-1jan​- 30set​-2017​.pdf.
+
+the heavy growth of ground fuels, followed
+by a dry and hot summer, provided ideal
+conditions for high-intensity fires, the worst
+of which occurred north of San Francisco in
+early October. At least 44 people died, the
+worst loss of life in a wildfire in the United
+States since 1918. Insured losses from the fire
+were assessed as at least US$ 9.4 billion,43 the
+worst for a wildfire anywhere in the world,
+even surpassing the 2016 Fort McMurray
+fires in Canada. Total economic losses for the
+2017 California fire season were assessed at
+US$ 18 billion. A further fire north-west of
+Los Angeles in December became California’s
+largest fire in modern history, and indirectly
+resulted in 21 deaths in flash floods and debris
+flows when heavy rains fell on the burnt area
+in early January.44
+The total area burned in the contiguous United
+States in 2017 was 53% above the 2007−2016
+average, 45 just short of the record set in
+2015, whilst the area burned in the western
+provinces of Canada was also far above
+average, with over 1.2 million hectares burned
+in British Columbia, about eight times the
+2006–2015 seasonal average. 46 Long-lived
+fires in British Columbia and the north-west
+United States also contributed to heavy
+smoke pollution across the region.
+A significant tundra fire occurred in August
+in the Disko Bay area, on the central west
+coast of Greenland.
+
+THE INFLUENCE OF ANTHROPOGENIC
+CLIMATE CHANGE ON EXTREME EVENTS
+Determining the extent, if any, to which
+anthropogenic climate change has influenced
+the occurrence of extreme events has been
+an active area of research in recent years.
+
+43
+
+California Department of Insurance, media release of
+6 December 2017, http://​w ww​.insurance​.ca​.gov/​0 400​-news/​
+0100​-press​-releases/​2 017/​release135​-17​.cfm.
+
+44
+
+National Centers for Environmental Information (NCEI),
+National Climate Reports for December 2017 and January
+2018.
+
+45
+
+National Interagency Coordination Center, Wildland Fire
+Summary and Statistics – Annual Report 2017 https://​w ww​
+.predictiveservices​.nifc​.gov/​intelligence/​2 017​_ statssumm/​
+intro​_ summary17​.pdf.
+
+46
+
+British Columbia Wildfire Service, http://​bcfireinfo​.for​.gov​
+.bc​.ca/​hprScripts/​W ildfireNews/​S tatistics​.asp.
+
+CALIFORNIA, UNITED STATES
+
+Such analyses are now routinely published
+in the peer-reviewed literature, many of them
+as part of an annual report prepared as a
+supplement to the Bulletin of the American
+Meteorological Society (BAMS).
+The most-recently published BAMS report
+included 27 analyses of extreme events that
+occurred in 2016 (some of them multiple
+analyses of the same event), and found
+that anthropogenic climate change was a
+significant driver of the frequency of the
+event concerned in 21 of the 27 cases. In
+particular, of 15 analyses that assessed
+ex treme temperature events (either on
+land or in the ocean), 13 found that their
+probability had been significantly influenced
+by anthropogenic climate change in the
+“expected” direction (that is, that a warm
+event had become more likely or a cold
+event less likely). One counter-example of
+interest was a frost event in south-western
+Australia in September 2016, where it was
+found that anthropogenic climate change
+had significantly increased the chance of the
+circulation anomalies which were the primary
+driver for the event (notwithstanding the
+background warming signal). As in previous
+years, anthropogenic signals were found
+less consistently for extreme precipitation
+events, with such signals being found (in
+
+NASA
+
+October wildfires
+
+three different analyses) for extremely high
+rainfall in eastern China during the summer
+of 2016, but not for extreme precipitation
+events in other parts of the world.
+Given the timeframes involved, few studies
+of 2017 events have yet been published in the
+peer-reviewed literature. One exception is
+an assessment of the extremely high rainfall
+associated with Hurricane Harvey. The WMO
+Expert Team on Climate Impacts on Tropical
+Cyclones also found 47 that, whilst there is
+no clear evidence that climate change is
+making the occurrence of slow-moving, landfalling hurricanes more or less likely, it is
+probable that anthropogenic climate change
+made rainfall rates more intense, and that
+ongoing sea-level rise exacerbated storm
+surge impacts. Assessments of recent events
+– most of which use methods that have been
+documented in the peer-reviewed literature,
+although the assessments themselves are
+not – are regularly published shortly after
+the event through a variety of channels, and
+it is likely that many of these events will be
+documented in the peer-reviewed literature
+in due course.
+47
+
+WMO expert team statement on Hurricane Harvey, https://​
+public​.wmo​. int/​en/​media/​news/ ​w mo​- expert​-team​-statement​-hurricane​-harvey.
+
+27
+
+ATTRIBUTION OF EXTREME CLIMATE EVENTS
+
+Answering this question has become a very active
+area of research in the last few years. Whilst a range
+of approaches has been used, the most common is to
+use climate models. The approach consists in running
+these models with all known climate forcings, both
+anthropogenic and natural, and with natural forcings
+only. Comparing the probability of the event in question
+using the two sets of model runs allows the attribution
+of the event to anthropogenic versus natural factors.
+This is often expressed as the Fraction of Attributable
+Risk (FAR), which is the probability that the event was
+the result of anthropogenic influence on climate as
+opposed to natural variability.
+Many of these studies have found that the probability
+of the extreme event has been influenced by human
+activity, either directly, or indirectly through, for example,
+affecting the likelihood of occurrence of an unusual
+circulation anomaly which triggered the extreme event;
+sometimes in conjunction with other influences such
+as the El Niño/Southern Oscillation (ENSO). Of a set of
+131 studies published between 2011 and 2016 in the
+Bulletin of the American Meteorological Society, 65%
+found that the event’s probability was significantly
+affected by anthropogenic activities.
+The strongest anthropogenic influence has been
+found on temperature extremes: the likelihood of
+warm extremes increases and that of cold extremes
+decreases. This is especially true for events considered
+over large areas and over a long period of time, such as
+a season or a year. As an example, it was found that the
+2016 record-breaking global mean temperature would
+have been almost impossible without human activity.1
+Because there is a higher level of “natural” variability
+at individual locations and over shorter timescales, it is
+more difficult to find a significant human signal in the
+occurrence of short-term extremes at specific places,
+although studies of that type are also starting to emerge.
+It has been more difficult to identify anthropogenic
+influence in the attribution of precipitation extremes.
+1
+
+Knutson, T.R. et al., 2017 : CMIP5 model-based assessment of anthropogenic
+influence on record global warmth during 2016. Bulletin of the American
+Meteorological Society, 99:S11-S15.
+
+28
+
+Whilst some studies have found that the probability
+of some extreme precipitation events was increased,
+most often indirectly, by climate change, for many
+other studies the results have been inconclusive. This
+is because the underlying long-term climate signal
+in extreme precipitation is less clear than it is for
+temperature and, because extreme precipitation events
+typically occur on shorter spatial scales than extreme
+temperature events.
+At present, attribution studies are mostly carried out
+in research mode and the most common platform for
+publishing these studies is through the traditional
+peer-reviewed literature. This is mostly done through
+an annual supplement to the State of the Climate
+repor t published in the Bulletin of the American
+Meteorological Society. Such studies usually appear
+several months following the occurrence of the event
+under consideration.
+For some types of extremes, especially extremes defined
+using standard indices, such as national mean monthly
+temperature, methods have been developed which
+allow an assessment of the FAR for the event in close to
+real time. At present, most such reports are published
+through other channels than the National Meteorological
+and Hydrological Services (NMHSs) such as blogs,
+university or NGO websites, or the media. Operational
+attribution services under the auspices of NMHSs or
+Regional Climate Centres are in their infancy, although
+many individual NMHS scientists have contributed to the
+studies that are currently being published. Nevertheless,
+it is expected that there will be substantial progress
+in this area in the next few years due to the increased
+demand from governments, the public and the media
+for these services on quasi-real time.
+
+0.1
+Probability
+
+A common question when an extreme climate event
+happens is “was this event caused by climate change?”.
+Scientists address this question in a different way: “Was
+the chance of this event happening affected by human
+influences on the climate, and if it was, by how much?”.
+
+HistoricalNat
+RCP8.5
+
+0.08
+
+FAR
+Threshold
+
+0.06
+0.04
+0.02
+0
+‒3
+
+‒2
+
+‒1
+
+0
+
+1
+
+2
+
+3
+
+Central England Temperature anomaly (°C)
+
+Probability distribution of annual mean Central England Temperature under
+natural (blue) and RCP 8.5 (brown) model simulations as of 2006, with the
+2006 value (the highest on record) shown as a black dashed line (Source:
+Andrew King, University of Melbourne, Australia)
+
+Climate risks and related impacts
+Climate-related extreme events and disasters
+take a heavy toll on human well-being and
+on various sectors of national economies.
+The year 2017 was particularly severe for
+disasters with high economic impacts.
+Munich Re assessed total disaster losses
+from weather and climate-related events in
+2017 at US$ 320 billion, 48 the largest annual
+total on record (after adjustment for inflation).
+
+AGRICULTURE AND FOOD
+SECURITY
+Exposure and vulnerabilit y to ex treme
+events can destroy agricultural assets and
+infrastructure, causing serious damage to
+the livelihoods and food security of millions
+of people. A concern for the World Food
+Programme (WFP) is that more than 80% of the
+world’s food-insecure people live in countries
+with degraded environments prone to natural
+hazards. When climate-related events occur,
+the situation of already-vulnerable people can
+quickly deteriorate into food and nutrition
+crises. Problems of acute food insecurity
+and malnutrition tend to be magnified where
+natural hazards such as droughts and floods
+compound the consequences of conflicts.49
+The disruption of agricultural production in
+rural areas of developing countries affects the
+already fragile livelihoods of the poorest and
+most vulnerable people in particular. A review
+carried out by FAO found that agriculture
+(crops, livestock, fisheries, aquaculture and
+forestry) accounted for 26% of all the damage
+and loss associated with medium to largescale climate-related disasters. 50
+
+48
+
+Munich Re, 2018: Hurricanes cause record losses in 2017 –
+The year in figures. Release of 4 January 2018. The losses
+quoted by Munich Re include both insured and non-insured
+losses, but may calculate indirect economic losses (e.g.
+business interruption) in a different way than some other
+sources.
+
+49
+
+Food and Agriculture Organization of the United Nations
+(FAO), International Fund for Agricultural Development
+(IFAD), United Nations Children's Fund (UNICEF), World Food
+Programme (WFP) and World Health Organization (WHO),
+2017: The State of Food Security and Nutrition in the World
+2017 – Building resilience for peace and food security. FAO,
+Rome, http://​w ww​.fao​.org/​3 /​a​-I7695e​.pdf.
+
+50
+
+Food and Agriculture Organization of the United Nations
+(FAO), 2017:The Impact of Disasters on Agriculture – Assessing the information gap, http://​w ww​.fao​.org/​3 /​a-​ i7279e​.pdf.
+
+In the Horn of Africa, rainfall deficits led to the
+failure of the 2016 rainy season, followed by
+a harsh January–February 2017 dry season,
+and a poor March–May rainy season. As a
+result, the number of food-insecure people
+rose significantly in Eastern Africa. 51 The
+most affected areas include southern and
+south-eastern Ethiopia, northern and coastal
+Kenya, almost all of Somalia, south-eastern
+areas of South Sudan and north-eastern
+areas of Uganda. In Somalia, as of June 2017,
+more than half of the cropland was affected
+by drought, and herds had reduced by 40 to
+60% since December 2016 due to increased
+mortality and distress sales.
+
+Figure 19. Number of
+severely food-insecure
+people in Kenya,
+Somalia and Ethiopia
+(Source: Horn of Africa:
+Humanitarian Impacts
+of Drought – Issue 9,
+20 August 2017 (OCHA))
+
+In Ethiopia, prolonged drought jeopardized
+crop production and caused a reduction in the
+availability of pasture, severely constraining
+the purchasing power of pastoral households.
+In drought-affected areas of Kenya, according
+to the Vegetation Condition Index (VCI), as of
+May 2017 drought was associated with a sharp
+increase in staple crop prices coupled with
+declining livestock prices and consequent
+erosion of livelihoods and threat to food
+security.52
+
+51
+
+United Nations Office for the Coordination of Humanitarian
+Affairs (OCHA), 2017: Horn of Africa: Humanitarian Impacts
+of Drought, 9 (10 August 2017), https://​reliefweb​.int/​report/​
+somalia/​horn​-africa​-humanitarian​-impacts​- drought​-issue​
+-9​-10​-aug​-2017.
+
+52
+
+Food and Agriculture Organization of the United Nations
+(FAO), 2017: Global Information and Early Warning System
+on Food and Agriculture (GIEWS). Special Alert No. 339.
+Region: East Africa, http://​w ww​.fao​.org/​3 /​a​- i7537e​.pdf.
+
+29
+
+DATA FOR MONITORING IMPACTS OF CLIMATE-RELATED EXTREME
+EVENTS AND DISASTERS
+At the Seventy-first Session of the United
+Nations General Assembly1 and the Fortyeighth Session of the United Nations
+Statistical Commission, 2 the data and
+indicators for the measurement of progress
+in achieving the global targets of the Sendai
+Framework for Disaster Risk Reduction
+2015–2030 and of the 2030 Agenda for
+Sustainable Development were adopted.
+This enabled integrated monitoring and
+reporting by countries of progress in
+managing disaster and climate risk and
+the corollary impacts, using multi-purpose
+datasets and common indicators.
+Data are currently available in most countries
+to allow some degree of measurement
+of the impact of climate-related extreme
+events and disasters – including via the
+growing number of national disaster
+loss accounting systems – as detailed in
+the Sendai Framework Data Readiness
+Review 2017.3 However, considerable work
+is required if countries are to be able to
+monitor the agreed indicators in the manner
+anticipated by the two intergovernmental
+wor k  group s – the Op en - ende d
+In ter gover nme n t al E x p er t Wor 
+Group on Indicators and Terminology
+Relating to Disaster Risk Reduc tion
+(OIEWG) and the Inter-agency and Expert
+Group on Sustainable Development Goal
+Indicators (IAEG-SDGs). Many countries are
+confronted with challenges related to data
+availability, accessibility and quality, which
+will need to be addressed if data are to be
+sufficiently consistent and comparable to
+allow meaningful measurement of progress
+and impact.
+
+30
+
+1
+
+Resolution (A/RES/71/276) approving the Report of the
+Open-ended Intergovernmental Expert Working Group
+on Indicators and Terminology relating to Disaster Risk
+Reduction (A/71/644).
+
+2
+
+Report of the Inter-agency and Expert Group on Sustainable Development Goal Indicators – Note by the
+Secretary-General (E/CN.3/2017/2).
+
+3
+
+United Nations Office for Disaster Risk Reduction
+(UNISDR): Sendai Framework data readiness review
+2017 – Global summary report, https://www.preventionweb.net/publications/view/53080.
+
+Work is ongoing with the international
+statistical community to address some
+of these challenges. The outcomes of the
+Expert Group on Disaster-related Statistics
+will be presented at the Seventy-fourth
+Session of the Economic and Social
+Commission for Asia and the Pacific. They
+include the development of the disasterrelated statistical framework (DRSF) to
+monitor the achievement of the global
+targets of the Sendai Framework and the
+Sustainable Development Goals.
+Established by the Conference of European
+Statisticians of the United Nations Economic
+Commission for Europe, the Task Force on
+Measuring Extreme Events and Disasters
+is clarifying the role of official statistics
+in providing data related to ex treme
+events and disasters, as well as possible
+support of national statistical offices to the
+implementation of the Sendai Framework
+and the 2030 Agenda.
+Countries are supported in systematic
+data entry and reporting by the Sendai
+Framework Monitoring system, an online
+monitoring facility which became available
+on 1 March 2018, and which is supported
+by detailed guidance on metadata and
+c omput a tional me thodologie s . T he
+integration of monitoring and reporting
+with The Paris Agreement will be discussed
+at the Thirteenth Meeting of the United
+Nations Framework Convention on Climate
+Change (UNFCCC) Adaptation Committee.
+
+In the Philippines, over the las t t wo
+decades, 15 times more infants have died
+in the 24 months after typhoons than in the
+typhoons themselves. Of those infants, 80%
+were girls.53 In Ethiopia, children born in an
+area affected by disasters are 35.5% more
+likely to be malnourished and 41% more likely
+to be stunted.54
+Over the last three years, agricultural
+production and related livelihoods were
+heavily compromised by recurrent and intense
+floods in many countries. In Malawi, the 2015
+floods resulted in more than US$ 60 million
+in damage and losses to crops, livestock,
+fisheries and forestry assets, and production
+flows. More than 37% of the total economic
+impact of the 2015 floods in Myanmar occurred
+in the agricultural sector.55
+In 2017, several flood events affected the
+agricultural sector, especially in Asian
+countries. Heavy rains in May 2017 triggered
+severe flooding and landslides in southwestern areas of Sri Lanka. The adverse
+impact of floods on crop production further
+aggravated the food security conditions in
+the country already stricken by drought.56 In
+July 2017, localized floods in south and central
+Myanmar contributed to losses in paddy crop,
+stored food and livestock, and affected at
+least 200 000 people in the Magway, Sagaing,
+Bago and Ayeyarwady regions and Mon State.
+It was the third consecutive year in which
+severe floods affected Myanmar during the
+monsoon season.
+
+53
+
+Anttila-Hughes, J. and S. Hsiang, 2013: Destruction, Disinvestment, and Death: Economic and Human Losses Following
+Environmental Disaster. Available at SSRN: http://​ssrn​.com/​
+abstract​= ​2 220501.
+
+54
+
+Intergovernmental Panel on Climate Change (IPCC), 2007:
+Fourth Assessment Report, https://​w ww​. ipcc​.ch/​report/​
+ar4/​.
+
+55
+
+Government of Myanmar. (2015). Myanmar. Post-disaster
+needs assessment of floods and landslides, July–September 2015, http://​documents​.worldbank​. org/​curated/​
+en/​6 46661467990966084/​M yanmar​- Post​- disaster​- needs​
+-assessment​- of​- floods​- and​- landslides​- July​- September​
+-2015.
+
+56
+
+Food and Agriculture Organization of the United nations (FAO)
+and World Food Programme (WFP), 2017: Special Report.
+FAO/WFP Crop and Food Security Assessment Mission to
+Sri Lanka, http://​w ww​.fao​.org/​3 /​a​- i7450e​.pdf.
+
+Population affected (in millions) due to floods in
+Bangladesh, India and Nepal,
+as of 24 August 2017
+Country
+
+Total number of
+people affected
+
+Bangladesh
+
+6.9
+
+India
+
+32.1
+
+Nepal
+
+1.7
+
+Source: United Nations Office for the Coordination of
+Humanitarian Affairs (OCHA)
+
+Excess precipitation in late March and early
+April 2017 triggered floods in north-eastern
+agricultural areas of Bangladesh, affecting
+crop production in the Sylhet, Dhaka and
+Mymensingh divisions in particular. 57 The
+monsoon season in South Asia brought
+the worst flooding in the region for years.
+Between June and August 2017, flooding
+in Nepal, Bangladesh and northern India
+affected millions of people and caused death
+and displacement across the three countries.
+The end of the climate anomalies associated
+with the 2015/2016 El Niño, both on land and
+in the ocean, resulted in improved agricultural
+and fisheries production in some areas.58 More
+normal rainfall patterns have contributed
+to two successive record-breaking global
+cereal harvests since 2015. World wheat
+production hit an all-time high in 2016 and
+is expected to remain at near-record levels
+in 2017, mainly due to larger crops in India
+and the Russian Federation. More abundant
+rains since mid-2016 in India, Thailand and
+the Philippines have increased rice output
+to a level that marked recoveries in these
+countries. As a result, world rice production
+reached a fresh peak in 2016 and was expected
+to expand further in the 2017 season. As to
+annual oilcrops, global production recovered
+swiftly in 2016/2017, actually posting a new
+record, and is anticipated to grow modestly
+57
+
+Food and Agriculture Organization of the United nations
+(FAO), 2017: GIEWS – Global Information and Early Warning
+System. Country Brief: Bangladesh, http://​w ww​.fao​.org/​
+giews/​countrybrief/​country​.jsp​?code​= ​BGD.
+
+58
+
+Food and Agriculture Organization of the United Nations
+(FAO), 2017: Food Outlook – Biannual Report on Global Food
+Markets, November 2017, http://​w ww​.fao​.org/​3 /​a​-I8080e​
+.pdf.
+
+31
+
+in 2017/2018. Conversely, the recovery in
+palm oil production was more gradual and
+is expected to revert to its usual growth rate
+only in 2018. There was also a strong recovery
+in the Anchoveta fishery off the Pacific coast of
+South America as sea-surface temperatures
+in the region reverted to near average.
+
+HEALTH
+The global health impacts of heatwaves
+depend not only on the overall warming trend,
+but also on how heatwaves are distributed
+across the area where people live. Recent
+research shows that the overall risk of heatrelated illness or death has climbed steadily
+since 1980, with around 30% of the world’s
+population now living in climatic conditions
+that deliver potentially deadly temperatures
+at least 20 days a year.59 Between 2000 and
+2016, the number of vulnerable people
+exposed to heatwave events has increased
+by approximately 125 million.60
+In cholera-endemic countries, an estimated
+1.3 billion people are at risk, while in Africa
+alone about 40 million people live in cholera
+“hotspots”. 61 These cholera “hotspots”
+have been identified across most endemic
+countries facing recurrent and predictable
+cholera outbreaks, often coinciding with the
+rainy season. The World Health Organization
+has recognized that large cholera outbreaks in
+Figure 20. The change
+175
+Change in exposure to heatwaves
+(millions per year)
+
+in exposure (in people
+aged over 65 years) to
+heatwaves from 2000
+to 2016 relative to the
+heatwave exposure
+average from 1986 to
+2008
+(Source: World Health
+Organization (WHO))
+
+150
+125
+100
+75
+50
+
+eastern and central, and later southern Africa
+were likely aided by El Niño-driven weather
+conditions that accelerated transmission
+across the region starting in mid-2015, with
+control efforts still underway in several
+countries in 2017. Flood events are also often
+associated with outbreaks of water-borne
+diseases or those linked to poor sanitation,
+as was reported in Bangladesh during the
+August 2017 floods.
+
+POPULATION DISPLACEMENT
+One of the adver se consequences of
+climate variability and change is population
+displacement. Most such displacement
+is internal and linked to sudden onset of
+extreme weather events. However, slow
+onset phenomena, such as droughts,
+desertification, coastal erosion and sea-level
+rise, can also lead to internal and cross-border
+displacement. These slow-onset events can
+act as a threat multiplier by, for example,
+exacerbating conflict which, in turn, can
+contribute to population displacement.
+In 2016, weather-related disasters displaced
+23.5 million people.62 As in previous years,
+the majority of those internal displacements
+were associated with floods or storms and
+occurred in the Asia-Pacific region. The most
+striking example of displacement due to major
+climate events is from Somalia, where it was
+reported that 892 000 people were displaced
+internally, mostly in the first half of 2017.63 Of
+the displaced people who were surveyed,
+approximately 90% indicated that drought was
+the primary reason for displacement, while the
+remaining 10% gave reasons closely related
+to drought or cited drought as a contributing
+factor, such as food or livelihood insecurity.64
+
+25
+0
+
+62
+
+Internal Displacement Monitoring Centre (IDMC), 2017:
+Global Report on Internal Displacement 2017, http://​w ww​
+.internal​- displacement ​. org/​global​- report/​grid2017/​pdfs/​
+2017​- GRID​.pdf.
+
+63
+
+Office of the United Nations High Commissioner for Refugees
+(UNHCR), 2018: Somalia. UNHCR Emergency Response at
+31 December 2017, https://​r eliefweb​. int/​r eport/​somalia/​
+somalia​-unhcr​- emergency​-response​- 31​- december​-2017.
+
+64
+
+As of 23 June, 687 906 Somali IDPs interviewed by the
+UNHCR-led Protection & Return Monitoring Network
+(PRMN) indicated that drought was the primary reason for
+displacement, while 72 688 IDPs indicated that drought was
+a contributing factor, https://d​ ata2.​ unhcr.​ org/e​ n/d​ ocuments/​
+download/ ​5 8290.
+
+‒25
+2000 2002 2004 2006 2008 2010 2012 2014 2016
+Year
+
+32
+
+59
+
+Mora C. et al., 2017: Global risk of deadly heat. Nature Climate
+Change, 7. DOI:​10​.1038/​nclimate3322.
+
+60
+
+Watts N. et al., 2017: The Lancet Countdown on Health
+and climate change: From 25 years of inaction to a global
+transformation for public health. Lancet, 30 October 2017.
+
+61
+
+World Health Organization (WHO), 2017: Weekly epidemiological record, No. 22, 2 June 2017, http://​apps​.who​. int/​
+iris/​bitstream/​10665/​2 55611/​1/ ​W ER9222​.pdf​?ua​=​1.
+
+Figure 21. The effect
+of a 1 °C increase in
+temperature on real per
+capita output at the grid
+level.
+(Sources: Natural
+Earth; ScapeToad;
+United Nations World
+Population Prospects:
+The 2015 Revision; World
+Bank Group Cartography
+Unit; and IMF staff
+calculations)
+
+4.23
+3.58
+2.93
+2.28
+1.63
+0.98
+0.33
+-0.32
+-0.97
+-1.62
+-2.27
+
+ECONOMIC IMPACTS
+The International Monetary Fund (IMF) World
+Economic Outlook published in October 201765
+indicates that increases in temperature have
+uneven macroeconomic effects. Adverse
+consequences are concentrated in regions
+with relatively hot climates, where a
+disproportionately large number of lowincome countries are located. In these
+countries, a rise in temperature lowers per
+capita output, in both the short and medium
+term, by reducing agricultural output,
+suppressing the productivity of workers
+exposed to heat, slowing investment and
+damaging health.
+The analysis confirms the existence of a
+statistically significant nonlinear effect of
+temperature on per capita economic growth.
+65
+
+In countries with high average temperatures,
+an increase in temperature dampens economic
+activity, whereas it has the opposite effect in
+much colder climates.
+For the median emerging market economy,
+a 1 °C increase from an average annual
+temperature of 22 °C lowers growth in the
+same year by 0.9%. For a median low-income
+developing country, with an annual average
+temperature of 25 °C, the effect of a 1 °C
+increase in temperature is even larger: growth
+falls by 1.2%. Countries whose economies
+are projected to be significantly adversely
+af fected by an increase in temperature
+produced only about 20% of global GDP in
+2016; however, they are currently home to
+nearly 60% of the global population and are
+projected to be home to more than 75% by
+the end of the century.
+
+International Monetary Fund, 2017: World Economic Outlook,
+October 2017. Seeking Sustainable Growth: Short-Term Recovery,
+Long-Term Challenges, https://​w ww​.imf​.org/​en/​Publications/​
+WEO/​Issues/ ​2 017/ ​0 9/​19/​world​-economic​- outlook​- october​
+-2017.
+
+33
+
+Vector-borne diseases:
+Zika in the Americas
+Ángel G. Muñoz,1 Rachel Lowe, 2
+Anna M Stewart-Ibarra, 3 Joy ShumakeGuillemot, 4 Madeleine Thomson1
+4
+
+Vector-borne diseases are highly climate
+sensitive and favourable climate conditions
+can trigger and amplify disease transmission.
+Warm temperatures increase virus replication
+rates and drive the development of juvenile
+mosquitoes, adult feeding and egg laying
+behaviour. Rainfall excess and deficit have
+similar outcomes in terms of mosquito
+proliferation, as containers such as domestic
+pots, tires, drums and tanks tend to create
+suitable breeding sites in both cases.
+The emergence of the Zika virus (ZIKV)
+epidemic, mainly carried by the Aedes
+mosquito in Latin America and the Caribbean in
+2014–2016, occurred during a period of severe
+drought and unusually high temperatures
+developed since at least 2013 (see top and
+middle panels of the figure). These conditions
+have been shown to be associated with a
+cross-timescale combination of signals
+including the 2015/2016 El Niño event, decadal
+variability and climate change (Muñoz et al.,
+2016a,b).
+A common approach to assess the potential
+ris k of transmis sion of Ae de s - b orne
+epidemics is via the estimation of the basic
+reproduction number, R0, which is in general
+a function of environmental variables, such
+as air temperature, and ento-epidemiological
+parameters (Mordecai et al, 2017). Using
+an R0 model which considers the two most
+common Aedes mosquitoes in Latin America
+and the Caribbean, a recent study (Muñoz
+et al., 2017) showed that high temperatures
+enhanced the risk of transmission during the
+2014–2016 ZIKV epidemic, and that neither El
+Niño nor climate change can be independently
+blamed for this event. While the potential
+
+34
+
+1
+
+International Research Institute for Climate and Society,
+Earth Institute, Columbia University, New York.
+
+2
+
+Centre for the Mathematical Modelling of Infectious Diseases
+and Department of Infectious Disease Epidemiology, London
+School of Hygiene & Tropical Medicine, London.
+
+3
+
+Department of Public Health and Preventive Medicine,Upstate Medical University, Syracuse, New York.
+
+4
+
+WHO-WMO Joint Office for Climate and Health, WMO,
+Geneva.
+
+risk of transmission signal (black curve in
+the bottom panel of the figure) is consistent
+with long-term temperature increase due to
+global warming and with inter-annual climate
+variability modes (filled red/blue curve shown
+in bottom panel of the figure) such as El Niño,
+other non-climatic factors come into play to
+explain the 2014–2016 ZIKV epidemic.
+In fact, in addition to suitable climate conditions,
+the rapid transmission that occurred in the
+initial Brazilian outbreak appears to have been
+aided by a combination of factors including a
+massive susceptible population, alternative
+non-vector transmission, and a highly mobile
+population (Lowe et al., 2018). Furthermore,
+the occurrence of shocks such as natural
+disasters can also exacerbate population
+vulnerability. This was observed following
+the major earthquake in coastal Ecuador
+in April 2016, which seemingly enhanced
+the ZIKV transmission in that region where
+suitable hot and dry local climate conditions
+were already present (Sorensen et al., 2017).
+Currently, local ZIKV transmission and the
+associated and resulting fetal malformations
+and neurological disorders continue to
+be monitored and recorded in the region
+and worldwide. Predictions of the timing
+and magnitude of outbreaks of multiple
+arboviruses, including ZIKV, can be improved
+using a combination of climate forecasts
+and sero-prevalence survey data (Lowe et
+al., 2017). For example, real-time seasonal
+climate forecasts have been used to produce
+dengue early warnings for Brazil (Lowe et
+al., 2014, 2016), and the use of the R0 model
+mentioned above and state-of the-art climate
+forecasts provided by the North American
+Multi-Model Ensemble (NMME) project
+could have successfully predicted the recent
+epidemic at least 1–3 months in advance for
+several high-risk ZIKV zones, including its
+epicenter in Northeast Brazil (Muñoz et al.,
+2017, Epstein et al., 2017).
+
+300
+200
+
+20ºN
+10ºN
+
+0
+
+100
+
+EQ
+10ºS
+
+–200
+
+40ºS
+
+4 –300
+
+50ºS
+
+2013
+
+2014
+
+2015
+
+30ºN
+20ºN
+
+2
+
+warmer
+than
+normal
+
+30ºS
+
+10ºN
+
+0
+
+less rain
+than
+normal
+
+–100
+
+20ºS
+
+10ºS
+
+EQ
+
+colder
+than
+normal
+
+–2
+
+20ºS
+30ºS
+40ºS
+50ºS
+–4
+
+Temperature anomaly
+[ºC]
+
+Rainfall anomaly
+[mm]
+
+more rain
+than
+normal
+
+Annual rainfall
+anomalies (top panel)
+and temperature
+anomalies (middle
+panel) in 2013, 2014 and
+2015; anomalies are
+computed with respect
+to the climatological
+period 1981–2010.
+Standardized anomalies
+of R 0 (bottom panel;
+units in standard
+deviations). The
+total potential risk
+of transmission
+(black curve) shows
+an upward trend
+consistent with climate
+warming and cannot be
+explained only by the
+contribution of El Niño
+and other year-to-year
+climate modes (filled
+curve): a combination
+of climate signals has
+been driving the risk
+of transmission in the
+region. Black boxes
+indicate the sector of
+analysis (After Muñoz
+et al., 2016b, 2017).
+
+30ºN
+
+2013
+
+120ºW
+
+100ºW
+
+2014
+80ºW
+
+60ºW
+
+40ºW
+
+120ºW
+
+2015
+
+100ºW
+
+80ºW
+
+60ºW
+
+40ºW
+
+120ºW
+
+100ºW
+
+80ºW
+
+60ºW
+
+40ºW
+
+R0 standardized anomalies (σ)
+
+0.8
+0.6
+0.4
+0.2
+0
+–0.2
+–0.4
+–0.6
+1950
+
+1960
+
+1970
+
+References
+Epstein, H. et al., 2017: A Menace Wrapped in a Protein: Zika
+and the Global Health Security Agenda. New York, Columbia
+University, doi: 10.13140/RG.2.2.25050.85443.
+Lowe, R. et al., 2018: The Zika virus epidemic in Brazil: From
+discovery to future implications. International Journal of
+Environmental Research and Public Health, 15(1): 96
+Lowe, R. et al., 2014: Dengue outlook for the World Cup in
+Brazil: An early warning model framework driven by realtime seasonal climate forecasts. The Lancet Infectious
+Diseases, 14 (7): 619–626.
+Lowe, R. et al., 2016: Evaluating probabilistic dengue risk
+forecasts from a prototype early warning system for Brazil.
+eLIFE 5:e11285.
+Lowe, R. et al., 2017: Climate services for health: Predicting the
+evolution of the 2016 dengue season in Machala, Ecuador.
+The Lancet Planetary Health 1 (4):e142–e151.
+Mordecai, E. A. et al., 2017: Detecting the impact of temperature
+on transmission of Zika, dengue, and chikungunya using
+
+1980
+
+1990
+
+2000
+
+2010
+
+2017
+
+mechanistic models. PLOS Neglected Tropical Diseases,
+11(4):e0005568. doi: 10.1371/journal.pntd.0005568.
+Muñoz, Á. G. et al., 2016a: The Latin American and Caribbean
+Climate Landscape for ZIKV Transmission. IRI Technical
+Report 2016-001. New York. doi: 10.7916/D8X34XHV.
+Muñoz, Á. G. et al., 2016b: Analyzing climate variations at
+multiple timescales can guide Zika virus response measures.
+Gigascience, 5(1), 41.
+Muñoz, Á. G. et al., 2017: Could the recent Zika epidemic have
+been predicted?’ Frontiers in Microbiology, 8: 1291, https://
+www.frontiersin.org/articles/10.3389/fmicb.2017.01291/full.
+Sorensen, C. J. et al., 2017: Climate variability, vulnerability, and
+natural disasters: A case study of Zika virus in Manabi, Ecuador following the 2016 earthquake. GeoHealth, 1(8):298–304,
+doi:10.1002/2017GH000104.
+
+35
+
+For more information, please contact:
+
+World Meteorological Organization
+7 bis, avenue de la Paix – P.O. Box 2300 – CH 1211 Geneva 2 – Switzerland
+Communication and Public Affairs Office
+Tel.: +41 (0) 22 730 83 14/15 – Fax: +41 (0) 22 730 80 27
+Email: cpa@wmo.int
+
+38
+
+JN 18331
+
+public.wmo.int
+
+

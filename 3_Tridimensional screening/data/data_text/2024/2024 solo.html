@@ -1,0 +1,429 @@
+<!DOCTYPE html><html><head>
+    <meta charset="utf-8">
+    <title>Orange Report</title>
+
+    <style>
+    html, body, table {
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 13px;
+        margin:0px;
+        padding:0;
+        border:0 none;
+    }
+
+    h1, h2 , h3, h4, h5 {
+       padding: 1px;
+       font-size:100%;
+    }
+
+    h1 {
+        color: white;
+        background-color: black;
+        padding: 4px;
+        margin-top: 12px;
+        margin-bottom: 6px;
+    }
+
+    h2 {
+        border-bottom: 1px solid black;
+        padding-left: 2px;
+    }
+
+    ul, table, p {
+        padding: 10px;
+    }
+
+    table {
+        margin-left: -6px;
+    }
+
+    span.timestamp {
+        position: absolute;
+        right: 40px;
+        color:#ddd;
+    }
+
+    div.selected, div.normal {
+        margin: 5px;
+    }
+
+    div.selected {
+        background: #ddd;
+    }
+    @media print{
+        div.selected {
+            background: inherit;
+        }
+        ::-webkit-input-placeholder {
+            color: transparent;
+        }
+    }
+
+    div.content {
+        margin-left: 15px;
+    }
+
+    th, td {
+        text-align: left;
+        padding: 2px 6px 2px 6px;
+    }
+
+    th {
+        font-weight: bold;
+    }
+
+    @media screen {
+        td, th {
+            white-space: nowrap;
+        }
+    }
+
+    .caption {
+        text-align: center;
+        font-size: 90%;
+    }
+
+    img {
+        display: block;
+        margin: auto;
+        max-height: 20cm;
+    }
+
+    span.legend-square {
+        width: 1em;
+        height: 1em;
+        margin-right: 6px;
+        display: inline-block;
+    }
+
+    span.legend-item {
+        margin-right: 24px;
+    }
+
+    textarea {
+        border: 1px solid silver;
+        font-style: italic;
+        width: 100%;
+        height: 4em;
+    }
+
+    .textwrapper {
+        padding: 15px;
+    }
+
+    div.normal textarea:invalid {
+        display: none;
+    }
+
+    div.selected textarea {
+        display: block;
+    }
+
+    @media print{
+        section.section, img {
+            page-break-inside: avoid;
+        }
+    }
+    </style>
+    <script>
+    function scrollToId(id) {
+        var sel_el = document.getElementById(id);
+        if (sel_el != undefined) {
+            sel_el.scrollIntoView();
+            return true;
+        }
+        return false;
+    };
+
+    function setSelectedId(id) {
+        var sel_el = document.getElementsByClassName('selected')[0];
+        if (sel_el != undefined && sel_el.id != id) {
+           sel_el.className = 'normal';
+        }
+        sel_el = document.getElementById(id);
+        if (sel_el != undefined) {
+            sel_el.className = 'selected';
+            return true;
+        }
+        return false;
+    };
+    </script>
+
+</head><body onload="(function (id) {     setSelectedId(id); scrollToId(id); }(&quot;5016518368&quot;));">
+
+ 
+
+<div id="5446545264" class="normal" onclick="pybridge._select_item(this.id)"><section class="section"><h1>Collocations <span class="timestamp">Thu Feb 22 24, 10:50:38</span></h1><div class="content">
+<h2>Collocations</h2><ul><b>N-grams:</b> Bigrams<br><b>Method:</b> Likelihood ratio<br><b>Frequency:</b> 1<br></ul><table>
+<tbody><tr><th></th><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">Collocation</th>
+<th style="color:black; background:transparent; text-align:left; vertical-align:middle;">Score</th>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">1</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">global risks</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">1769.800</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">2</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">economic downturn</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">1185.506</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">3</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">risks report</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">994.906</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">4</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">extreme weather</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">845.563</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">5</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">weather events</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">700.052</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">6</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">adverse outcomes</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">686.313</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">7</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">cyber insecurity</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">655.798</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">8</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">climate change</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">651.548</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">9</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">interstate armed</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">645.331</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">10</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">misinformation disinformation</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">638.690</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">11</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">treaties agreements</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">632.633</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">12</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">armed conﬂict</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">611.786</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">13</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">economic forum</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">610.125</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">14</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">involuntary migration</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">577.542</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">15</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">organized crime</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">565.668</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">16</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">supply shortage</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">514.370</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">17</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">labour shortage</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">501.330</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">18</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">earth systems</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">480.365</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">19</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">source world</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">462.366</td>
+</tr><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">20</th>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">environmental geopolitical</td>
+<td style="color:black; background:transparent; text-align:right; vertical-align:middle;">448.128</td>
+</tr></tbody></table></div></section>
+
+<div class="textwrapper"><textarea placeholder="Write a comment..." oninput="this.innerHTML = this.value;pybridge._add_comment(this.parentNode.parentNode.id, this.value);"></textarea></div></div><div id="5016518368" class="selected" onclick="pybridge._select_item(this.id)"><section class="section"><h1>Word Cloud <span class="timestamp">Thu Feb 22 24, 10:50:45</span></h1><div class="content">
+<div style="position: relative; height: 461px;"><span style="position: absolute; display: block; font: 31.7993px / 31.7993px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 255.861px; top: 218.28px; width: 83.2779px; height: 31.7993px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(221, 170, 17);">global</span><span style="position: absolute; display: block; font: 31.7993px / 31.7993px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 216.528px; top: 190.28px; width: 133.943px; height: 31.7993px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(102, 34, 153);">economic</span><span style="position: absolute; display: block; font: 31.7993px / 31.7993px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 287.121px; top: 246.28px; width: 62.7572px; height: 31.7993px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(119, 136, 119);">risks</span><span style="position: absolute; display: block; font: 31.7993px / 31.7993px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 234.909px; top: 253.28px; width: 48.1817px; height: 31.7993px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(221, 170, 17);">risk</span><span style="position: absolute; display: block; font: 31.4753px / 31.4753px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 242.81px; top: 162.41px; width: 81.3793px; height: 31.4753px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(102, 34, 153);">report</span><span style="position: absolute; display: block; font: 27.9535px / 27.9535px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 345.026px; top: 219.819px; width: 86.9483px; height: 27.9535px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(119, 136, 119);">climate</span><span style="position: absolute; display: block; font: 26.8266px / 26.8266px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 188.574px; top: 227.269px; width: 63.8527px; height: 26.8266px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(221, 170, 17);">world</span><span style="position: absolute; display: block; font: 23.0231px / 23.0231px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 285.21px; top: 270.791px; width: 94.5809px; height: 23.0231px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(102, 34, 153);">downturn</span><span style="position: absolute; display: block; font: 22.1778px / 22.1778px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 228.055px; top: 292.129px; width: 124.89px; height: 22.1778px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(119, 136, 119);">development</span><span style="position: absolute; display: block; font: 20.91px / 20.91px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 351.186px; top: 198.136px; width: 67.629px; height: 20.91px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(221, 170, 17);">change</span><span style="position: absolute; display: block; font: 20.91px / 20.91px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 350.395px; top: 247.136px; width: 55.2094px; height: 20.91px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(102, 34, 153);">public</span><span style="position: absolute; display: block; font: 19.783px / 19.783px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 194.821px; top: 247.587px; width: 37.3579px; height: 19.783px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(119, 136, 119);">year</span><span style="position: absolute; display: block; font: 19.2195px / 19.2195px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 330.436px; top: 170.812px; width: 109.127px; height: 19.2195px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(221, 170, 17);">technologies</span><span style="position: absolute; display: block; font: 19.2195px / 19.2195px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 202.157px; top: 149.812px; width: 106.687px; height: 19.2195px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(102, 34, 153);">respondents</span><span style="position: absolute; display: block; font: 18.9378px / 18.9378px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 125.729px; top: 177.925px; width: 112.542px; height: 18.9378px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(119, 136, 119);">technological</span><span style="position: absolute; display: block; font: 18.9378px / 18.9378px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 141.015px; top: 205.925px; width: 74.9701px; height: 18.9378px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(221, 170, 17);">shortage</span><span style="position: absolute; display: block; font: 18.656px / 18.656px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 167.47px; top: 272.538px; width: 64.0592px; height: 18.656px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(102, 34, 153);">societal</span><span style="position: absolute; display: block; font: 18.5152px / 18.5152px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 322.642px; top: 146.594px; width: 54.7165px; height: 18.5152px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(119, 136, 119);">supply</span><span style="position: absolute; display: block; font: 18.5152px / 18.5152px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 138.525px; top: 223.594px; width: 51.9508px; height: 18.5152px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(221, 170, 17);">labour</span><span style="position: absolute; display: block; font: 18.2334px / 18.2334px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 384.098px; top: 265.707px; width: 43.8046px; height: 18.2334px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(102, 34, 153);">years</span><span style="position: absolute; display: block; font: 17.9517px / 17.9517px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 259.155px; top: 314.819px; width: 69.69px; height: 17.9517px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(119, 136, 119);">research</span><span style="position: absolute; display: block; font: 17.6699px / 17.6699px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 215.919px; top: 132.932px; width: 65.1612px; height: 17.6699px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(221, 170, 17);">systems</span><span style="position: absolute; display: block; font: 17.5291px / 17.5291px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 411.562px; top: 244.988px; width: 51.8755px; height: 17.5291px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(102, 34, 153);">survey</span><span style="position: absolute; display: block; font: 17.2473px / 17.2473px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 368.409px; top: 294.101px; width: 61.1817px; height: 17.2473px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(119, 136, 119);">inﬂation</span><span style="position: absolute; display: block; font: 17.1065px / 17.1065px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 152.47px; top: 245.157px; width: 31.0605px; height: 17.1065px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(221, 170, 17);">also</span><span style="position: absolute; display: block; font: 16.8247px / 16.8247px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 178.418px; top: 294.27px; width: 42.1649px; height: 16.8247px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(102, 34, 153);">crime</span><span style="position: absolute; display: block; font: 16.6838px / 16.6838px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 291.829px; top: 126.326px; width: 60.3428px; height: 16.6838px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(119, 136, 119);">weather</span><span style="position: absolute; display: block; font: 16.543px / 16.543px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 339.335px; top: 315.383px; width: 49.3292px; height: 16.543px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(221, 170, 17);">critical</span><span style="position: absolute; display: block; font: 16.543px / 16.543px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 269.356px; top: 336.383px; width: 105.289px; height: 16.543px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(102, 34, 153);">environmental</span><span style="position: absolute; display: block; font: 16.4021px / 16.4021px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 186.014px; top: 315.439px; width: 68.9712px; height: 16.4021px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(119, 136, 119);">countries</span><span style="position: absolute; display: block; font: 16.2612px / 16.2612px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 373.328px; top: 185.996px; width: 30.3446px; height: 16.2612px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(221, 170, 17);">new</span><span style="position: absolute; display: block; font: 15.9795px / 15.9795px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 163.929px; top: 158.108px; width: 36.1429px; height: 15.9795px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(102, 34, 153);">state</span><span style="position: absolute; display: block; font: 15.8386px / 15.8386px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 381.368px; top: 151.165px; width: 42.2648px; height: 15.8386px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(119, 136, 119);">forum</span><span style="position: absolute; display: block; font: 15.8386px / 15.8386px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 423.226px; top: 200.165px; width: 56.5488px; height: 15.8386px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(221, 170, 17);">national</span><span style="position: absolute; display: block; font: 15.8386px / 15.8386px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 354.482px; top: 130.165px; width: 33.0358px; height: 15.8386px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(102, 34, 153);">debt</span><span style="position: absolute; display: block; font: 15.416px / 15.416px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 436.397px; top: 221.334px; width: 23.2053px; height: 15.416px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(119, 136, 119);">top</span><span style="position: absolute; display: block; font: 15.2751px / 15.2751px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 233.075px; top: 116.39px; width: 51.8493px; height: 15.2751px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(221, 170, 17);">conflict</span><span style="position: absolute; display: block; font: 15.2751px / 15.2751px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 122.079px; top: 270.39px; width: 42.8424px; height: 15.2751px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(102, 34, 153);">power</span><span style="position: absolute; display: block; font: 15.2751px / 15.2751px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 177.484px; top: 137.39px; width: 30.0329px; height: 15.2751px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(119, 136, 119);">high</span><span style="position: absolute; display: block; font: 15.2751px / 15.2751px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 291.756px; top: 109.39px; width: 39.4872px; height: 15.2751px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(221, 170, 17);">cyber</span><span style="position: absolute; display: block; font: 15.1343px / 15.1343px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 438.574px; top: 263.446px; width: 46.8527px; height: 15.1343px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(102, 34, 153);">human</span><span style="position: absolute; display: block; font: 14.9934px / 14.9934px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 428.257px; top: 277.503px; width: 46.485px; height: 14.9934px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(119, 136, 119);">source</span><span style="position: absolute; display: block; font: 14.8525px / 14.8525px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 99.4578px; top: 256.559px; width: 53.0843px; height: 14.8525px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(221, 170, 17);">director</span><span style="position: absolute; display: block; font: 14.5708px / 14.5708px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; left: 392.881px; top: 137.672px; width: 54.239px; height: 14.5708px; white-space: nowrap; transform: rotate(0deg); transform-origin: 50% 40%; color: rgb(102, 34, 153);">extreme</span></div><table>
+<tbody><tr><th style="color:black; background:transparent; text-align:left; vertical-align:middle;">Weight</th>
+<th style="color:black; background:transparent; text-align:left; vertical-align:middle;">Word</th>
+</tr><tr><td style="color:#000000; background:#b3d7ff; text-align:right; vertical-align:middle;">625</td>
+<td style="color:#000000; background:#b3d7ff; text-align:left; vertical-align:middle;">global</td>
+</tr><tr><td style="color:#000000; background:#b3d7ff; text-align:right; vertical-align:middle;">507</td>
+<td style="color:#000000; background:#b3d7ff; text-align:left; vertical-align:middle;">economic</td>
+</tr><tr><td style="color:#000000; background:#b3d7ff; text-align:right; vertical-align:middle;">495</td>
+<td style="color:#000000; background:#b3d7ff; text-align:left; vertical-align:middle;">risks</td>
+</tr><tr><td style="color:#000000; background:#b3d7ff; text-align:right; vertical-align:middle;">312</td>
+<td style="color:#000000; background:#b3d7ff; text-align:left; vertical-align:middle;">risk</td>
+</tr><tr><td style="color:#000000; background:#b3d7ff; text-align:right; vertical-align:middle;">197</td>
+<td style="color:#000000; background:#b3d7ff; text-align:left; vertical-align:middle;">report</td>
+</tr><tr><td style="color:#000000; background:#b3d7ff; text-align:right; vertical-align:middle;">172</td>
+<td style="color:#000000; background:#b3d7ff; text-align:left; vertical-align:middle;">climate</td>
+</tr><tr><td style="color:#000000; background:#b3d7ff; text-align:right; vertical-align:middle;">164</td>
+<td style="color:#000000; background:#b3d7ff; text-align:left; vertical-align:middle;">world</td>
+</tr><tr><td style="color:#000000; background:#b3d7ff; text-align:right; vertical-align:middle;">137</td>
+<td style="color:#000000; background:#b3d7ff; text-align:left; vertical-align:middle;">downturn</td>
+</tr><tr><td style="color:#000000; background:#b3d7ff; text-align:right; vertical-align:middle;">131</td>
+<td style="color:#000000; background:#b3d7ff; text-align:left; vertical-align:middle;">development</td>
+</tr><tr><td style="color:#000000; background:#b3d7ff; text-align:right; vertical-align:middle;">122</td>
+<td style="color:#000000; background:#b3d7ff; text-align:left; vertical-align:middle;">change</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">122</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">public</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">114</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">year</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">110</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">technologies</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">110</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">respondents</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">108</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">technological</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">108</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">shortage</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">106</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">societal</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">105</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">supply</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">105</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">labour</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">103</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">years</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">101</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">research</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">99</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">systems</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">98</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">survey</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">96</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">inﬂation</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">95</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">also</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">93</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">crime</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">92</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">weather</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">91</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">critical</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">91</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">environmental</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">90</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">countries</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">89</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">new</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">87</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">state</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">86</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">forum</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">86</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">national</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">86</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">debt</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">83</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">top</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">82</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">conflict</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">82</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">power</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">82</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">high</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">82</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">cyber</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">81</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">human</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">80</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">source</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">79</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">director</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">77</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">extreme</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">77</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">disinformation</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">77</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">states</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">76</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">geopolitical</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">76</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">armed</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">75</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">related</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">75</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">united</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">70</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">economies</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">70</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">energy</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">69</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">international</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">68</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">likely</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">68</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">social</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">67</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">chapter</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">67</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">severity</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">67</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">potential</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">66</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">example</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">65</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">misinformation</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">65</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">markets</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">64</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">events</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">64</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">adverse</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">63</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">executive</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">62</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">outcomes</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">61</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">time</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">59</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">security</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">58</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">insecurity</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">57</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">earth</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">57</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">information</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">57</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">unemployment</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">56</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">decade</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">56</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">financial</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">55</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">interstate</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">54</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">including</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">54</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">grps</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">54</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">political</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">54</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">migration</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">54</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">conﬂict</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">54</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">agreements</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">53</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">impacts</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">53</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">erosion</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">53</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">level</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">52</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">data</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">52</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">income</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">52</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">illicit</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">51</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">natural</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">51</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">business</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">51</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">shortages</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">50</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">key</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">50</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">longer</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">50</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">growth</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">49</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">local</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">49</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">infrastructure</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">49</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">categories</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">49</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">content</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">48</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">nuclear</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">47</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">rise</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">47</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">one</td>
+</tr><tr><td style="color:black; background:transparent; text-align:right; vertical-align:middle;">47</td>
+<td style="color:black; background:transparent; text-align:left; vertical-align:middle;">action</td>
+</tr><tr><th></th><td colspan="2"><b>+ 100 more</b></td></tr>
+            </tbody></table></div></section>
+
+<div class="textwrapper"><textarea placeholder="Write a comment..." oninput="this.innerHTML = this.value;pybridge._add_comment(this.parentNode.parentNode.id, this.value);"></textarea></div></div></body></html>

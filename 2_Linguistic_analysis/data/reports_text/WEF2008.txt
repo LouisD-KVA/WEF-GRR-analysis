@@ -1,0 +1,4215 @@
+COMMITTED TO
+IMPROVING THE STATE
+OF THE WORLD
+
+Global Risks 2008
+A Global Risk Network Report
+
+A World Economic Forum Report
+in collaboration with
+
+Citigroup
+Marsh & McLennan Companies (MMC)
+Swiss Re
+Wharton School Risk Center
+Zurich Financial Services
+
+World Economic Forum
+January 2008
+
+The information in this report, or on which this report is based, has been obtained from sources that the authors believe to
+be reliable and accurate. However, it has not been independently verified and no representation or warranty, express or
+implied, is made as to the accuracy or completeness of any information obtained from third parties. In addition, the
+statements in this report may provide current expectations of future events based on certain assumptions and include any
+statement that does not directly relate to a historical fact or a current fact. These statements involve known and unknown
+risks, uncertainties and other factors which are not exhaustive. The companies contributing to this report operate in a
+continually changing environment and new risks emerge continually. Readers are cautioned not to place undue reliance on
+these statements. The companies contributing to this report undertake no obligation to publicly revise or update any
+statements, whether as a result of new information, future events or otherwise and they shall in no event be liable for any
+loss or damage arising in connection with the use of the information in this report.
+This work was prepared by the Global Risk Network of the World Economic Forum.
+World Economic Forum
+91-93 route de la Capite
+CH-1223 Cologny/Geneva
+Switzerland
+Tel.: +41 (0)22 869 1212
+Fax: +41 (0)22 786 2744
+E-mail: globalrisks@weforum.org
+www.weforum.org
+© 2008 World Economic Forum
+All rights reserved.
+No part of this publication may be reproduced or transmitted
+in any form or by any means, including photocopying and recording, or by any
+information storage and retrieval system.
+
+REF: 090108
+
+Contents
+
+Introduction
+
+4
+
+Focus on Emerging Issues in Global Risk
+
+6
+
+Assessing Global Risks in 2008
+
+20
+
+Networked World, Networked Risks
+
+25
+
+Financial Markets, Risk Transfer and Risk Mitigation
+
+30
+
+Structuring Mitigation at the State and International Level:
+Taking the Country Risk Officer Forward
+
+36
+
+Conclusion
+
+39
+
+Appendix 1: Taxonomy of Global Risk: Trends, Issues of Concern, Risks
+
+41
+
+Appendix 2: Risk Assessments
+
+45
+
+Contributors
+
+52
+
+Participants
+
+53
+
+3
+
+Introduction
+
+Over the last year, a series of risk issues – from the
+liquidity crisis in the financial markets to the
+emerging concerns over the long-term security of
+food supply – have focused global attention on the
+fragility of the global system. An awareness of risk
+and risk management is increasingly viewed as a
+prerequisite for effective control in both the private
+and public sectors.
+This year will be no different. Uncertainty about the
+short- and medium-term future is as high as it has
+been for a decade. Economically, the uncertainty
+centres on how the global economy will respond to
+the spreading liquidity crunch of 2007. The
+mispricing of financial risk, a central theme of Global
+Risks 2007, may have further to unwind.
+Geopolitically, uncertainty is focused on the
+
+4
+
+possibility of an escalation in tensions with Iran and
+concerns over the long-term integrity of the states of
+Iraq and Afghanistan.
+The result of uncertainty could be inaction in dealing
+with other, less immediate, global risks. Action to
+mitigate climate change, for example, may be put in
+danger should the global economy weaken
+substantially – even though many of the political,
+economic and investment decisions which will shape
+the future path of global climate will need to be
+made in the next five years. Proactive management
+of globalization to ensure its long-term sustainability
+may be derailed by the prevailing currents of
+uncertainty. But inaction on long-term risks will only
+weaken the global capacity to manage future
+challenges.
+
+Under conditions of global stress, one core question
+of global risk management will become more salient
+than ever: who owns the risk? Without a shared
+understanding of ownership, achieving the trade-offs
+which may be necessary to mitigate global risk
+equitably and sustainably will be extremely difficult.
+Without clarity on who is responsible for managing
+global risk, turning aspirations into actions will be
+impossible. Without frameworks which connect
+ownership of risk with the responsibility to mitigate it,
+and which share the upside and downside of risk
+among stakeholders efficiently, the market
+mechanisms for managing risk will fail to improve
+our aggregate global resilience in the face of
+inevitable risk events. And without leadership from
+the business and political communities on all of
+these issues, we may find our global future shaped
+more by risk events than by our power to anticipate,
+manage and mitigate them.
+The present report looks at global risks from a range
+of different perspectives.
+The first part of the report focuses on four emerging
+issues that are shaping the global risk landscape:
+systemic financial risk, food security, supply chains
+and the role of energy. On systemic financial risk, we
+put current market turmoil in the historical context
+and ask how the transformation of the global
+financial system over the last two decades may
+require us to rethink our expectations and
+understanding of systemic risk in the future. On food
+security, we discuss how the subject has moved
+from the periphery of the global risk landscape to its
+centre, and ask whether the world is ready to cope
+with the various trade-offs that the new food
+economy is generating. On supply chains, we
+investigate a potentially hidden set of vulnerabilities
+in the global economy to supply chain disruptions.
+Finally, on energy, we outline the emergence of a
+range of energy-related risks and ask if the world
+can move towards secure and sustainable energy.
+
+The second part of the report presents our collective
+assessment of global risks in 2008, based on a
+revised taxonomy of risk, and building on the
+assessments of past years. In the third part, we look
+at the methodological hurdles around the
+representation of interconnectedness and
+demonstrate how risk “squeezing” and
+homogenization of risk are changing the way we
+perceive risk globally. In the fourth part of the report,
+we examine the role of financial markets as tools of
+risk transfer and risk mitigation for an increasingly
+broad range of global risks. Finally, in the fifth part,
+we take forward our discussions on the construction
+of risk mitigation coalitions and country risk
+management, establishing a set of principles for
+country risk management which the Global Risk
+Network will develop in 2008-2009.
+The Global Risk Network, part of the World
+Economic Forum since 2005, will continue to
+generate discussion and dialogue between the
+corporate and public sectors. In 2008-2009, the
+World Economic Forum and partners of the Global
+Risk Report – Citigroup, Marsh & McLennan
+Companies, Swiss Re, the Wharton School Risk
+Center and Zurich Financial Services – will broaden
+the participation of the global business and policy
+community.
+
+5
+
+1. Focus on Emerging Issues in Global Risk
+
+In Global Risks 2008, the Global Risk Network has
+focused on four emerging issues which may
+fundamentally shape not only the year ahead, but
+the decades to come. These issues – systemic
+financial risk, food security, supply chains and the
+role of energy – are all central to the functioning of
+the world economy and to the well-being of global
+society. The risks associated with them cannot be
+eliminated. But they can be better understood and
+better managed.
+Systemic financial risk is the most immediate and,
+from the point of view of economic cost, the most
+severe. The financial conditions of the past decade
+have allowed for an exceptional period of economic
+growth and stability. But, with so many potential
+consequences of the 2007 liquidity crunch
+unresolved, the outlook for the future is more uncertain
+at the beginning of 2008 than it was a year ago.
+A recession in the United States cannot be excluded
+in the year ahead, and economists are divided on
+whether domestic-led growth in Asian markets can
+drive the global economy. In Europe, the impact of
+economic uncertainty may be highly divergent. The
+role of the financial sector in the United Kingdom
+leaves it particularly vulnerable to financial turmoil,
+while large current account deficits in some central
+and eastern European economies may prove
+increasingly unsustainable in 2008. The resilience of
+the export-led growth of other major European
+economies may also be brought into question if
+disruption in the financial markets spreads more
+widely. Over the much longer term, the dollar may
+find itself under increasing pressure as the global
+reserve currency, undermining the geopolitical
+position of the US and foreshadowing the end of a
+hegemonic period in global economic history.
+Food security, at the nexus of a number of issues
+from energy security to climate change and water
+scarcity, may be emerging as one of the major risks
+of the 21st century. Long- and short-term drivers –
+population growth, changing lifestyles, climate
+change and the growing use of food crops for
+biofuels – may be shifting the world into a period of
+more volatile and sustained high prices. The
+consequences, particularly for the most vulnerable
+communities, may be harsh.
+
+6
+
+Extended supply chains, which have allowed global
+economic integration to flourish in the last two
+decades, may be concealing increased vulnerability
+of the global system to disruptive risks. Geographic
+concentrations of risk in economically efficient zones
+of production may have improved global welfare, but
+are businesses and governments prepared for the
+consequences of a risk event in these concentrated
+areas?
+Finally, this section looks at some of the problems
+associated with managing the long-term future of
+energy, particularly perceived risks to energy security
+and risks from global climate change.
+What emerges from discussions is a common
+problem: the growing misalignment of risk bearers
+under conditions of globalization. In financial
+markets, the atomization of risk has generally
+allowed far greater participation in the risk economy
+and vastly improved financial diversification, but it
+may also have resulted in a systemic underappreciation of risk. For the food economy, shifts
+towards policies perceived to improve domestic
+energy security – such as an increased use of
+biofuels – and risks associated with water and
+climate change may be shifting power and
+resources to crop producers and some developed
+economies at the expense of global equity. In global
+supply chains, dangerous accumulations of risk may
+not be recognized and, yet, may threaten a systemic
+crisis should one part of the supply chain fail. Finally,
+the mismatch between incentives for fundamental
+changes in the global energy economy – between
+developed and developing countries and between
+different elements of the private and public sectors –
+is complicating the emergence of global solutions.
+This underscores the necessity to improve
+understanding of how risks interconnect, how we
+can build coalitions to manage risk, and how the
+different trade-offs between risk mitigation solutions
+can be appropriately identified. Our main conclusion
+is the need for the governance of globalization to
+enhance efficiency, ensure equity and manage a
+global risk environment which is both more complex
+and more challenging than ever before.
+
+A. Systemic financial risk: do we
+understand it, can we mitigate it?
+
+What is systemic financial risk?
+In general terms, the manifestation of systemic
+financial risk involves a system-wide financial
+crisis, typically accompanied by a sharp decline in
+asset values and economic activity. In all cases,
+systemic financial risk involves the spread of
+instability throughout the financial system as a
+whole with results that are sufficient to affect the
+real economy.
+Manifestations of systemic financial crisis are
+relatively rare. In the past 20 years, systemic
+financial risk events have included the equity crash
+of October 1987 (“Black Monday”), the Japanese
+asset price collapse of the 1990s, the Asian
+financial crisis of 1997 and the Russian default
+of 1998 (which led to the demise of the LongTerm Capital Management (LTCM) hedge fund).
+Each of these episodes was characterized by an
+abrupt loss of liquidity, discontinuous market
+moves, extreme volatility, sharp increases in
+correlations and contagion across markets, and
+systemic instability. While the pathways of
+contagion of systemic financial risk are often well
+understood in retrospect, and the conditions for
+a systemic financial risk event may be well
+identified ahead of crisis, the precise triggering
+event is rarely predicted. Systemic risk is an
+inherent element of the global financial system.
+The increasing complexity of financial markets, and the
+rate at which financial markets are evolving, make the
+task of avoiding and managing systemic financial risk
+extremely difficult. Increasing global interconnectedness
+has multiplied the possible pathways for the
+contagion of financial risk. Layers of leverage may
+have increased the possibility for magnification of
+risk. Financial innovation, in the form of complex
+financial instruments, may ultimately contribute to
+the opacity of systemic risk. At the same time,
+however, the increasing importance of the financial
+sector in the real economy has made the question of
+systemic financial risk more important than ever.
+
+This section of the report discusses the key drivers,
+characteristics and impacts of systemic financial
+risk, which private financial institutions,
+governments, regulatory authorities and central
+banks will need to integrate into their approaches to
+markets if they are to identify and survive the next
+systemic financial crisis.
+
+Mispricing risk: the underlying
+seeds of crisis
+At the beginning of 2007, the economic mood was
+generally positive. The consensus pointed to a year
+of continued strong global economic growth. Risk
+premiums were at historically low levels. In
+hindsight, the widespread complacency with
+respect to the true nature of risk served only to
+confirm the weakness of financial markets in
+predicting systemic crisis.
+But there were identifiable “weak signals” which
+suggested the potential for financial crisis. An asset
+price collapse was the top risk identified in Global
+Risks 2007. Warnings voiced by the Bank of
+International Settlements were ignored, while a
+Global Risk Network briefing issued in January 2007
+warned that a global re-appreciation of risk could be
+expected, with three major challenges to the global
+economy: a housing recession, the beginning of a
+liquidity crunch and high oil prices.
+All three were realized over the course of 2007. First,
+the US housing recession, which began in late 2006,
+has accelerated, with new housing construction at
+its lowest level since the early 1990s and house
+prices down nationally. Second, the world has
+experienced a crunch in global liquidity, affecting
+
+7
+
+even essentially solvent financial institutions, and
+raising the prospect of tightening credit as banks are
+forced to readjust their capital ratios. Finally, the
+dollar price of oil rose to an all-time high, close to
+the inflation-adjusted peak of the early 1980s.
+But if an eventual global re-appreciation of risk was
+foreseeable in early 2007, the timing and precise
+nature of the trigger event was not.
+In early 2007 many expected that any systemic
+crisis would be the consequence of an unwinding of
+global economic imbalances – notably the US
+current account deficit. The actual trigger for the
+current systemic crisis was the collapse of a critical
+segment of the US mortgage business – the subprime mortgage market. It was widely thought in
+early 2007 that the main threats to financial stability
+would come from leveraged hedge funds. But it
+turned out to be problems related to complex
+security structures and off-balance-sheet vehicles
+created by the banking sector that have generated
+the systemic elements to the current crisis.
+Predicting what will happen is easier than predicting
+when and how events will unfold.
+
+supervisors and central banks. Financial crises may
+never be avoided. But their frequency and severity
+may be significantly reduced.
+Is the financial system now more stable and
+resilient? Some recent experiences – such as the
+relatively benign Y2K rollover, the very short-lived
+market disruption following the events of 9/11, and
+the relatively muted effects of more recent spikes in
+the dollar price of oil – have led experts to conclude
+that markets are now more resilient to exogenous
+shocks. But many would argue that the overall
+resilience of the global financial system will only
+become fully evident under conditions of severe
+stress over the next year.
+
+A system transformed
+Over the last 20 years, financial markets have
+undergone a revolution, driven by deregulation, a
+rapid pace of financial innovation, global financial
+integration and the increasing role of the financial
+sector in the economy.
+The salient features of the transformation can be
+summarized in six points.
+
+Liquidity crunch: history repeats itself?
+The meltdown of the US sub-prime mortgage
+market and the growing prospect of a global credit
+crunch dominated financial markets in the second
+half of 2007. An abrupt evaporation of liquidity and
+dramatic repricing of risk led to widespread financial
+instability, ultimately threatening the viability of
+smaller financial institutions even in well-regulated
+markets such as Germany and the United Kingdom.
+The US Federal Reserve has projected direct losses
+related to sub-prime of US$ 150 billion; non-subprime financial losses may be considerably greater.
+As in past systemic financial crises, complacency in
+credit standards – driven by perverse incentives and
+moral hazard – lowered risk premiums to
+unsustainable levels. The periodic underpricing of
+risk in financial markets may be structural and to
+some extent unavoidable. But few systemic financial
+crises are entirely dissimilar to earlier episodes. This
+suggests room for improvement in the management
+of crisis including better early warning systems and
+more coordinated and forceful action by market
+
+8
+
+• Deregulation: The process of deregulation has
+deeply affected the financial markets of advanced
+economies by removing barriers to entry;
+reducing artificial borders between types of
+financial institutions; increasing cross-border
+competition; encouraging the emergence of large,
+complex financial institutions; and spurring
+financial innovation.
+• Financial innovation: There has been an
+explosion in derivative and structured products.
+Such innovations have allowed for more efficient
+allocation of financial resources. Many argue that
+this has helped strengthen the global financial
+system by better apportioning risk. However,
+innovation raises challenges in terms of evaluating
+risk, correctly identifying ultimate bearers of risk and
+assessing whether they can manage it. Rating
+asset classes without market history has put rating
+agencies in a crucial position in global markets.
+Regulators may not have the capacity to monitor
+the range of risks within the financial system. And
+even as Basel II comes into force, regulation may
+not be evolving as fast as market innovation.
+
+• Rise of alternative capital pools: The rise of
+hedge funds, private equity and sovereign wealth
+funds has changed the balance of the global
+financial system. Hedge funds are sometimes
+highly leveraged (with consequently higher risk
+profiles) with shorter investment time horizons
+than standard investors, operating under
+conditions of reduced disclosure and oversight.
+Private equity firms, while often investing for the
+longer term, are similarly unburdened by
+regulatory oversight, and sometimes highly
+leveraged. Sovereign wealth funds, which have
+become particularly important as rising oil prices
+and global economic imbalances have massively
+increased the foreign reserves of certain
+countries, present a new set of challenges,
+including relative lack of transparency over
+investment strategies, concern over possible
+political intervention and potential large-scale
+market moves.
+• Financial services convergence: The borders
+between different types of financial institutions are
+becoming blurred, increasing risk transfer between
+them. Banks are supplying capital for insurance
+risks, while both banks and reinsurers are using
+insurance-linked securities (see page 32) to
+transfer insurance risks to the capital markets.
+• Role of non-bank institutions and
+intermediaries: The increased role of market
+intermediaries may have widened the offering of
+structured financial products to investors. But not
+all intermediaries are subject to consolidated riskbased capital frameworks or the full complement
+of supervisory constraints. The originate-todistribute (OTD) model may have lowered
+underwriting standards while the growing
+importance of credit rating agencies – which play
+a key role in pricing risk but which do not hold it
+themselves – may raise similar challenges with
+respect to incentives.
+• Shift to multipolar currency regime: While the
+US dollar remains the global reserve currency and
+is likely to remain so for years to come, over time
+the creation of the euro and the growing
+importance of emerging country currencies will
+lead to a weakening of the dollar’s dominance,
+with consequences for the global management of
+central banks’ reserve holdings and the resolution
+of currency alignments.
+
+What are the implications of these changes
+for the nature of systemic financial risk?
+When considering the implications of these changes
+for systemic financial risk, three major observations
+stand out:
+• Risk ownership has been decentralized: The
+growth of securitization and risk transfer has led to
+risks being disaggregated and spread to diverse
+owners. This demands a shift in emphasis from
+the widely studied and understood “bank run”
+model of systemic risk to a new “market-based”
+model, where financial crises manifest themselves
+in markets rather than institutions; though of
+course institutions must still be monitored.
+• Risk transmission has become more
+important: Increasing interconnectedness has
+multiplied the points of potential failure and
+increased the significance of systemic linkages.
+Behavioural dynamics are critical. One example of
+the importance of risk transmission is the carry
+trade where there is potential for large, abrupt
+reversals of cross-border capital flows which
+could trigger systemic crisis.
+• Risk management is critical: Complexity has
+increased the need for effective risk management.
+At the enterprise level, there is rising adoption of
+enterprise risk management. At the national and
+international level, increasing attention is paid to
+financial and political coordination.
+On balance, these developments appear to have
+increased the financial system’s capacity to assume
+and distribute risk, and they also appear to have
+made it more stable. More risk is apportioned to
+market participants who have indicated a willingness
+to absorb risk. But, as recent developments
+highlight, this appears only to be true under “normal”
+market conditions. The complexity and near infinite
+feedback loops of the modern financial system have
+exposed it to a small risk of very large systemic
+shocks. Some analysts postulate that the financial
+system may indeed be more pro-cyclical if the
+growing dispersion of risk is not coupled with a
+better understanding of the driving factors of risk
+segmentation and diversification.
+
+9
+
+Anatomy of a Systemic Financial Crisis
+
+A triggering shock – either
+real or financial – initiates
+a decline in asset prices
+
+Apprehension
+
+Panic/contagion
+
+Liquidity evaporates as
+crowded trades and asset fire
+sales overrun arbitrageurs
+(limits of arbitrage)
+
+Fear/repricing
+of risk
+
+Credit crunch as escalation
+of credit concerns leads to
+position liquidations, margin
+calls and de-leveraging
+
+Note: Whatever the proximate cause of a systemic financial crisis, the anatomy of apprehension, fear and contagion is common to most.
+Source: World Economic Forum
+
+Hence, we may be facing a paradox: while the
+financial system has been made more efficient and
+stable in normal times, it is now also more prone to
+excessive instability in really bad times. At the same
+time, the increased importance of the financial sector in
+the global economy means that the impact of financial
+instability on the real economy has also increased.
+
+Pathways to catastrophic failure
+All the trends above can be observed in the recent
+turmoil in financial markets.
+The ensuing liquidity freeze and broad-based asset
+write-downs indicate that many existing risk models
+were inadequate, failing to reflect the dynamic
+
+Open questions on systemic financial risk
+• What types of systemic propagation mechanisms might result in a small shock becoming a major
+financial crisis?
+• How can negative or self-reinforcing feedback loops (such as bank runs) be interrupted or short-circuited?
+• What is the role of central banks in an environment where lending activities are performed by many
+unregulated market participants?
+• To what extent does the mandate to forestall and defuse financial crises introduce moral hazard and
+underinvestment in management of market and liquidity risks?
+• What potential avenues for cross-pollination exist to identify useful concepts and mitigation models from
+other domains?
+• What role will the emerging giants of China and India play in the international financial system?
+• Will market-driven, regulatory and supervisory approaches be sufficient, or is more regulatory oversight
+required? And how could private sector initiatives supplement these?
+• What is the role of credit rating agencies in financial stability, if any?
+
+10
+
+complexity and unpredictable nature of financial
+crises. Statements to the effect that 10-standard
+deviation events were occurring several days in a
+row demonstrate how much is still to be learned
+about the underlying distributions, and so-called
+“tail” events, which refer to the extremes of a
+probability distribution.
+
+It may not make sense to attempt to eliminate risks
+which ultimately represent a source of opportunity as
+well as hazard. Rendering the global financial system
+as flexible and resilient as possible by improving
+early indicators, enforcing more stress testing,
+enhancing understanding of tail risk and requiring
+better contingency planning may be more effective.
+
+New thinking may be urgently required.
+
+Ultimately, strategies to deal with systemic financial
+risk must reflect the fundamental shift in the global
+financial system to a market-driven model. There is
+considerable scope for increased public and private
+sector collaboration on stress testing, liquidity
+management, risk assessment and prevention. One
+example is the formation of the Counterparty Risk
+Management Policy Group in the wake of the
+collapse of Long-term Capital Management, which
+has helped to reduce risks stemming from hedge
+fund leverage.
+
+Conventional wisdom emphasizes, in equal
+measure, the two components of risk: likelihood and
+severity. This naturally drives risk ratings,
+prioritization and corrective actions focused both on
+prevention (i.e. reducing likelihood of the event) and
+mitigation (i.e. reducing severity of the event).
+But changes in the financial markets, while providing
+many benefits, have also created new and
+unforeseen risks which may be more susceptible to
+exogenous shocks (such as geopolitical risk) or
+internal factors (such as speculative bubbles). Many
+of these risks are unpredictable, making prevention
+and mitigation impossible.
+
+11
+
+B. Food security: the emerging risk of
+the 21st century?
+In 2007, prices for many staple foods reached
+record levels. The price of corn in late 2007 was
+50% higher than 12 months previously. The price of
+wheat was double. Global food reserves are at their
+lowest in 25 years and, as a result, world food
+supply is vulnerable to an international crisis or
+natural disaster.
+Food security has emerged as a major risk, marked
+by both local and global consequences, trade-offs
+between different mitigation priorities and a
+disproportionate impact on poorer communities.
+Embedded in a web of other global risks, there is
+considerable uncertainty as to whether food
+insecurity in 2007 is the result of short-term
+conditions which have existed in various times
+throughout history, or whether a more fundamental
+change is taking place, with a range of underlying
+trends bringing food from the sidelines to the centre
+of the global risk discussion in years to come.
+
+What is food security?
+According to the Food and Agriculture Organization
+(FAO), food security is achieved when all people, at
+all times, have physical and economic access to
+sufficient, safe and nutritious food to meet their
+
+dietary needs and food preferences for an active
+and healthy life. Food security, similar to energy
+security, is not only about avoiding physical
+disruptions to supply, but also about ensuring supply
+at a price which allows economic activity and wellbeing to flourish.
+
+Impacts are global and varied
+In the past, food security generally concerned the
+least developed countries, particularly those in
+conflict and those facing uncertain weather patterns.
+But, more recently, concerns about sustainable food
+security have spread to developed countries which
+have not generally considered themselves exposed
+to food insecurity. For example, the United Kingdom
+has historically relied on the depth of international
+markets to ensure food supplies at a reasonable
+
+Food Security: At the Nexus of a Range of Global Risks
+
+More frequent and
+severe heatwaves
+
+Oil and gas prices
+
+Food security
+Interstate and
+civil wars
+
+Reduction in Chinese
+economic growth
+
+Declining quality and
+quantity of water
+Source: World Economic Forum
+
+12
+
+Rising Food Prices, Unequal Impacts
+(food weighting within consumer price index, percent)
+80
+Bangladesh
+70
+Nigeria
+60
+Afganistan
+
+50
+40
+
+Kenya
+
+Russia
+
+30
+20
+10
+
+India
+
+China
+
+Brazil
+US
+
+UK
+
+0
+0
+
+1
+
+2
+
+3
+4
+5
+Per capita income (in log)
+
+6
+
+7
+
+8
+
+Note: Poor people tend to spend relatively more of their income on food, and therefore suffer more when food prices go up.
+Source: International Monetary Fund
+
+price, but this model may be put under stress in the
+future. In 2007, food and drink prices rose at their
+fastest rate in 14 years, at 4.7%. In the US, food
+prices were up 4.4% year-over-year at the end of
+2007 – double the rate of non-food, non-energy
+inflation – partially due to increased acreage devoted
+to corn to make ethanol.
+China and India are also exposed to pressures on
+global food security, and their domestic experiences
+may have global economic consequences. In China,
+average incomes have barely risen while food prices
+have soared: by 17.6% overall, 70% for pork
+products, 30% for vegetables and 34% for cooking oil.
+Combined with the sharply rising dollar price of oil, high
+food prices in China could increase global inflation.
+Beyond the potential economic consequences of
+rising food prices is the well-established relationship
+between food prices and political stability. In 2007,
+surging prices of basic foods caused domestic
+unrest in a number of different countries. In March,
+thousands of Mexicans demonstrated against the
+four-fold increase in the price of flat corn. In
+
+September, Italians organized a one-day strike
+against rising pasta prices. In October, in West
+Bengal (India), food riots erupted as a result of
+disputes over food rationing.
+In some countries, particularly where the success of
+government has been historically linked to
+administrative control of basic supplies,
+governments have intervened to limit the political
+consequences of rising food prices. The Russian
+government acted to control prices of staple foods
+ahead of the December 2007 parliamentary
+elections. In Egypt, which experienced political
+upheaval in the wake of price increases of bread in
+1977, subsidies to bread producers have been
+increased to mitigate the impact of rising global
+wheat prices. In China, soybean import duties have
+been reduced, subsidies to farmers have been
+boosted to encourage agricultural production –
+particularly of pork and milk – and plans are to
+provide support for low-income urban residents
+against food price increases.
+
+13
+
+The drivers: population, biofuels
+and climate change
+Global population and changes in lifestyle
+The United Nations has predicted the global population
+will rise above 9 billion by 2050, placing additional
+pressure on the global food supply. But these
+pressures are sharply accentuated by an increasing
+demand in developing countries for protein-rich foods
+which require more grain (and water) to produce, and
+by the increasing constraint of available agricultural
+land. Annual per capita consumption of meat in
+China has increased from 10 kilograms in 1950 to
+40 today. Over the same time period, the availability
+of arable farmland per head of global population has
+declined from one acre to half that. Many experts
+believe that for these reasons increases in the price
+of food are likely to be sustained.
+Food or fuel: how biofuel production may
+impact food security
+The use of crops to manufacture biofuels is
+increasing globally – often with support of
+governments aiming to reduce carbon emissions or
+to reduce dependence on imported sources of
+energy. Biofuels are on course to consume up to
+30% of the US corn crop by 2010.
+Over the long term, the growing importance of
+biofuels has prompted fears that the dynamics of
+the energy economy will be introduced into global
+food markets, dramatically increasing price volatility,
+particularly of staple foods. But, even over the short
+term, the use of crops for biofuels raises a number
+of complex trade-offs common to the management
+of many global risks.
+The first of these concerns global equity: any shift
+from food production to biofuel production has
+different consequences for different communities.
+Crop exporters may benefit, as may communities
+where food expenditure is a minor part of overall
+expenditure. But others may suffer, from crop
+importers − including agricultural communities which
+import grain as feed for animals – to poorer
+communities where food purchased on the open
+market is a major component of overall expenditure.
+
+14
+
+The second concerns the trade-off between global
+efficiency and perceptions of energy security: while
+global efficiency would best be served by a marketdetermined allocation of crop resources globally to
+food and biofuels based on price and relative
+environmental efficiency, concerns over energy security
+may undermine the attractiveness of global
+collaboration. Not all techniques for manufacturing
+biofuels are equally efficient in terms of reducing
+aggregate carbon emissions. It is often a perceived
+national security imperative, rather than a global
+imperative to reduce carbon emissions, which is
+driving the frameworks in which biofuels are being
+produced.
+Climate change
+Climate change alone is forecast to increase the
+number of undernourished people globally by between
+40 million and 170 million in 2100, according to
+forecasts by the Intergovernmental Panel on Climate
+Change (IPCC). Climate change may affect agricultural
+production by increasing the severity of weather
+events, by increasing the volatility of weather and by
+shifting rainfall patterns. Changing rainfall patterns
+could mean that in just over a decade, raindependent areas of South Asia and Africa could be
+producing half their current agricultural yield.
+
+The result: uncertainty
+The consequences of all these trends for
+perpetuating the escalation of food prices are
+difficult to predict. Some experts expect higher food
+prices to be sustained. Others believe that markets
+will gradually readjust to shortages as higher prices
+make it profitable again to grow crops for food.
+Policy-makers may have to return to thinking about
+food as a strategic asset and begin to modify food
+policies. Given the amount of uncertainty, the
+resilience of the world’s food system will be severely
+tested in the next few years.
+
+C. Hyper-optimization and supply
+chain vulnerability: an invisible
+global risk?
+Economic globalization has transformed the
+operational structures of both business and
+government. Outsourcing – particularly of
+manufacturing but increasingly of standard business
+services – has been a major driver of global
+prosperity by allocating scarce global resources to
+businesses and geographies with a comparative
+advantage to produce particular goods and services
+most efficiently. Improvements in technology and
+global logistics, and reductions in trade barriers have
+all facilitated the integration of previously separate
+regional economies. As a result, international and
+intra-regional trade has expanded at a faster rate
+than the global economy over the last 20 years.
+But, as the global economy has become more
+integrated, vulnerability to disruption of the supply
+chains which hold the global economy together may
+have increased. Resilience is no longer just about
+internal management.
+
+A global issue
+All companies and governments dependent on
+external suppliers are exposed to the risks of
+disruption in their supply chain. But the extent and
+complexity of current global supply chains mean that
+the problem of supply chain management is not
+limited to a single enterprise or industry: even a
+relatively small supply chain disruption caused by a
+global risk event may ultimately have consequences
+across the global economic system.
+The economic optimization of supply chains, with
+the geographic concentration of risk as a frequent
+corollary, has enhanced the systemic vulnerability to
+a supply chain failure. In September 1999, global
+semiconductor prices nearly doubled following an
+earthquake in Taiwan, China, a key centre for supply.
+Supply chains frequently appear to disperse risk
+between multiple parties, but they can also, as in this
+case, lead to an unrecognized aggregation of risk.
+Effective preparation and management of supply
+chains may prevent the contagion of global risks and
+limit the consequences of a localized risk event. But
+
+mismanagement of supply chains may result in them
+serving as a transmission mechanism of global risk,
+amplifying the disruptive impacts of a local risk event
+at the systemic level and producing consequences
+far beyond the corporate sector. A crisis in the
+supply chain of a private sector manufacturer of
+vaccines, for example, could rapidly develop into a
+public health crisis, particularly in the context of the
+ongoing global risk of pandemics and infectious
+diseases. Building a culture of supply chain risk
+management across public and private sectors may
+be a first step to broader global risk mitigation.
+However, despite their importance both at the level
+of individual enterprises and at the level of the global
+economic system, vulnerabilities to the supply chain
+are generally poorly understood and managed. This
+is partly because the risks in the supply chain are
+obscured, as enterprises and governments may be
+indirectly exposed to a global risk disruption through
+a complex range of sub-supplier arrangements. But
+in some measure this is due to the range of possible
+global risk disruptions – from geopolitical risk to a
+natural catastrophe to pandemics. A US- or
+European-based company which sources key
+components from Asia will indirectly face risks that
+they may never encounter domestically, as well as
+very different cultural approaches to the management
+of risk. Conversely, a recent survey conducted by
+Marsh Inc. on 62 companies based in Asia found
+that only 21% had full business continuity plans to
+protect against business interruption arising from
+events such as natural disasters or terrorist attacks.
+Given the complexity and interdependency of global
+risks, developing a realistic and effective risk
+management and mitigation strategy can be
+daunting. However, there are measures that can be
+taken to better understand the volatility of supply
+chains and to reduce the impact of global risk
+transmission through supply chains at the enterprise
+and national level.
+At the enterprise level, the first step is to understand
+the value added in each stage of the supply chain
+and to assess the risk to delivery of this value. A
+risk-return perspective – based on profit, revenue or
+reputational considerations – will support
+management prioritization and deliver the greatest
+return on investment. A thorough view of the supply
+
+15
+
+chain, from sourcing of raw materials to customer
+fulfilment, will provide a clearer view of key
+vulnerabilities and risk concentrations. This should
+be coupled with an assessment of how these affect
+the supply chain in terms of recovery time or extra
+cost implications.
+A comprehensive assessment and/or quantification
+of the risk in the supply chain will facilitate evaluation
+and prioritization of proposed risk transfer, financing
+and mitigation strategies. For example, a certain
+level of loss that could arise from one of these risks
+may be acceptable given the firm’s balance sheet
+and risk appetite. Hence, no risk mitigation is
+required. It is also possible that the risk level could
+be increased, e.g. by reducing the buffer inventory,
+thus facilitating cost savings. If the risk is
+unacceptable however, then a firm could opt to
+
+increase buffer inventory, arrange alternative or
+back-up suppliers in different countries, or work with
+suppliers to improve their own business continuity
+and resiliency planning and thus the firm’s own
+supply chain integrity. Whichever option is chosen, it
+should be influenced by understanding the riskreturn of different options, and the corporate
+strategy and risk appetite of the business.
+But, ultimately, effective management of global risks
+requires a collaborative and coordinated approach in
+public-private partnership at an international level.
+Given the macroeconomic and microeconomic
+impact of supply disruptions arising from a range of
+global risks, improved dialogue and policy on these
+risks is crucial to the effective management of the
+global economy. This could also be facilitated by a
+forum of country risk officers, suggested on page 36.
+
+Managing Global Supply Chains: External and Internal Management
+
+Note: Identifying critical dependencies in the supply chain, vulnerabilities to disruption and the risk threshold of the organization is the first step to
+managing global supply chains. But there are both internal responses and proactive external responses which need to be considered. Less traditional
+external management of risks may ultimately be more efficient.
+Source: Marsh & McLennan Companies (MMC)
+
+16
+
+D. Energy and global risk:
+interconnected risks, disconnected
+incentives?
+Energy is a key input to the global economy, but its
+safe, secure and sustainable provision is increasingly
+problematic. At the nexus of a number of different
+global risks – including climate change, economic and
+some geopolitical risks – current and future policy
+decisions about energy will inevitably shape the
+overall global risk landscape. But the incentives in
+place to reform the global energy economy in a way
+which reduces global risk holistically are not in place.
+
+Outline of the risks
+Last year saw an increase in oil prices close to the
+inflation-adjusted peak of the 1980s. There is
+considerable uncertainty in the long term over supply
+and demand. But over the 10-year horizon of this
+report there are few reasons to believe that energy
+prices will fall significantly – and there are several
+reasons to believe that energy prices may rise.
+
+In the immediate term, the tightness of global
+markets has accentuated vulnerability to a supply
+interruption. Over the next 10 years, the International
+Energy Agency has identified the risk of a far sharper
+supply-side crunch as investment in updating energy
+infrastructure fails to keep pace with demand.
+Capital expenditure required is estimated at US$
+11.6 trillion to 2030, but uncertainty over future
+returns and future regulatory frameworks around
+greenhouse gas emissions has meant that such
+investment may not be forthcoming. The
+International Energy Agency has predicted a 37%
+rise in demand for oil to 116 million barrels per day
+(bpd) by 2030, but investment in exploration has
+fallen and many experts suggest that oil production
+is unlikely to exceed 100 million bpd.
+The global economy has demonstrated remarkable
+resilience to increases in energy prices since 2004.
+But the limits of resilience may be close to being
+reached. The easiest gains in energy efficiency are
+likely to already have been realized. Moreover, the
+financial conditions which have prevailed in recent
+years – abundant liquidity, itself a partial
+
+Matrix of Impacts of Global Risk Events on the Oil and Gas Industry
+Economic cost
+Reduction in GDP ($bn)
+1 100
+Long
+
+China slowdown
+
+O&G supply disrupted
+
+Pandemic
+contagious by air
+
+900
+Short
+
+Short
+
+Climate change
+
+700
+Health major crises
+500
+
+Blockade only - long
+
+300
+
+Iran – US war
+Blockade only - short
+
+SARS spreads
+US$ crisis
+
+Multiple 100
+attacks
+-100
+
+Terrorist attack
+Air single attack
+
+-300
+
+Industry gain
+
+Oil & Gas industry cost
+Profit pool reduction
+
+Industry loss
+
+Note: Assessments of impact are derived from a number of different global risk scenarios developed for the oil and gas industry by Marsh &
+McLennan Inc.
+
+17
+
+consequence of financial surpluses in energyexporting countries resulting from high prices – have
+changed. Not only has the risk of higher energy
+prices increased but, potentially, the vulnerability of
+the global economy.
+At the same time, the objectives of secure,
+reasonably priced energy and reductions in
+emissions of greenhouse gases (GHG) seem both
+out of reach and in conflict.
+Coal, the only cheap, widely available fossil fuel, is
+linked with carbon emissions which will be
+unsustainable environmentally without carbon
+capture and storage technologies. The world’s major
+oil reserves are located in regions of geopolitical
+instability. Gas, the cleanest fossil fuel, is difficult to
+transport and is increasingly viewed as a political
+bargaining chip by some major supplier states.
+Nuclear power, probably the best option for carbonneutral energy from the perspective of currently
+available and easily scaleable technologies,
+continues to cause anxiety given problems of waste
+disposal, fear of nuclear accidents and questions on the
+desirability of the global spread of nuclear technologies.
+Public policy has focused on green technologies
+such as wind power and biofuels. But these
+technologies come with their own problems, notably
+scalability. As discussed above, the use of crops for
+biofuels may promote greater insecurity for other
+crucial resources: food and water.
+Globally, energy supplies are less secure even as
+emissions of greenhouse gases continue to rise.
+And the global risks continue to be strongly on the
+downside.
+
+Can the world move towards secure and
+sustainable energy?
+Such an outcome is possible, but it requires policymakers to confront their constituencies with difficult
+trade-offs and requires a major shift in thinking about
+risk and how dialogue on risk sharing can be
+established. One key issue, highlighted elsewhere in
+the current report, is the inherent mismatch between
+those who bear risk and reward. Without alignment of
+interests and alignment of risk and reward, building
+complex coalitions to manage global risks will be difficult.
+
+18
+
+The disparity between the impact of global risks on
+different sectors of society and the economy can be
+seen with reference to the impact of an oil price
+shock. At the simplest and most immediate level,
+such a shock would essentially be positive for oil
+and gas producers, but negative for the broader
+global economy.
+The matrix shows an analysis of the impact of a
+number of risk events using the oil and gas sector
+as an example. Results for the electricity sector show
+a similar pattern of disparate impact. One striking
+output from the graph below is the aggregate GDP
+cost of a disruption of oil or gas supply – reflected in
+the overall Global Risk rating of a steep rise in oil or
+gas prices as one of the most salient risks for 2008
+– compared to the potential (short-term) benefits for
+the oil and gas industry. The mismatch between
+gains and losses at the industry/aggregate level, as
+well as the national/international level makes risk
+management extremely complex.
+But many of the more interesting impacts are
+subtler: for example, the power sector in both
+Europe and the US is delaying investments
+necessary to replace an ageing fleet of power
+stations because of uncertainty on future regulation
+to reduce greenhouse gas emissions.
+Underinvestment today increases the likelihood of
+future power shortages, and consequently of future
+high prices for electrical power.
+Meanwhile, failure to develop a clear holistic policy
+approach to management of both energy security
+and reducing carbon emissions may end up
+threatening both objectives. At present, the
+European Union appears to be drifting into high
+dependence on gas from a single source, high
+investment in renewable energy technologies that
+may not offer the scalability necessary to achieve
+ambitious targets of reductions in carbon emissions,
+and a highly differentiated approach to nuclear
+power. Should the current situation continue, it is
+almost inevitable that the European Union will be
+vulnerable to future energy shortages and will fail to
+achieve its stated goals for reductions in carbon
+emissions. The situation in the US, while different, is
+no better: high investment in biofuel production may
+bring its own risks, while dependence on foreign
+energy supplies continues.
+
+The next few years will be crucial for determining a
+long-term global strategy on many of these issues,
+as a successor agreement to the Kyoto protocol is
+negotiated, as major investment decisions will have
+to be made on energy infrastructures in producer
+countries, as political changes may drive shifts in
+energy policy in the developed world, and as the
+emerging economies of Asia become increasingly
+attached to particular energy sources.
+Better dialogue is needed at all levels – between
+emerging and developed countries and between the
+corporate sector and the government and regulators
+– so that the current misalignments of incentives can
+be addressed effectively. Energy security has two
+sides, and both producers and consumers have
+much to gain from predictability. Similarly, to unlock
+investment and innovation in cleaner energy, longterm economic viability must be assured by forwardlooking regulatory frameworks and, ultimately, an
+economic price for carbon. Whether or not such
+policy changes are forthcoming at the global and
+national level, individual companies and the energy
+industry need to improve their capacity to link their
+own risk management and strategic decisions.
+
+19
+
+2. Assessing Global Risks in 2008
+
+The global risk landscape at the beginning of 2008
+is broadly similar to the risk landscape at the
+beginning of 2007. Many of the risks have remained
+stable in terms of the ratings ascribed to them by
+the Global Risk Network for likelihood and severity. A
+number of risks have been sharpened in definition,
+others have been disaggregated and one new risk –
+food security – has been identified. The taxonomy of
+
+Economic risks: The main shift between the
+outlook in early 2007 and the outlook in early 2008
+has been a major re-appreciation of risk over the
+course of 2007 as many of the mismatches
+highlighted in Global Risks 2007 have begun to
+unwind. The trade-weighted exchange rate of the
+US dollar has fallen, and the risks of a further
+sharp fall have edged up. Oil prices have continued
+to rise to close to inflation-adjusted peaks –
+
+risk, separating trends of issues of concern from
+risks themselves, has allowed for a more granular
+approach to assessment. (This is available in
+Appendix 2 of the current report.) The graphics on
+the following pages should be read in conjunction
+with a description of what has and has not changed
+over the past year.
+
+increasing vulnerability to a supply-side shock – but
+the world has demonstrated remarkable resilience
+in absorbing higher prices. From a relatively positive
+picture of the stability of the world economy in early
+2007, the world is entering 2008 under conditions
+of considerable economic uncertainty. The
+possibility of a US recession has undoubtedly
+increased, but there is considerable debate as to
+how this would impact global prosperity.
+
+ECONOMIC
+• Rising and volatile prices create significant
+shortages for poor people globally (those
+whose consumption basket is more than 50%
+food).
+• Oil or gas prices rise steeply due to a major
+supply disruption (decreased global supply of
+10% for several months).
+• An abrupt, major fall in the value of the US
+dollar with impacts throughout the financial
+system.
+
+• Domestic social/political issues combine to slow
+Chinese growth to 6% or less (sustained over
+time).
+• Declining fiscal positions force multiple
+governments of wealthy countries to raise
+taxes, leading to economic stagnation.
+• House and other asset prices collapse in the
+US, United Kingdom and continental Europe,
+reducing consumer spending and creating a
+recession.
+
+Geopolitical risks: Geopolitical risks remain
+broadly divided into three categories: geoeconomic, structural shifts and regional instability.
+On the geo-economic side the main risks are
+associated with a potential retrenchment from
+globalization, whether from growing protectionism
+in the developed world or from political pressures
+in the developing world. Political risk has returned
+to the management of the global economy in a
+major way in recent years, and that trend looks set
+to continue. In terms of structural shifts, the
+pressures for change on the post-1945 model of
+
+global governance will continue to complicate
+moves to improve global governance of global
+risks, either in terms of security or management of
+financial imbalances. Finally, the focal points of
+global geopolitical risk – Afghanistan, Iran and Iraq
+– are likely to continue to engage the world in
+2008. The possibilities for positive game-changing
+developments, such as peace between Israelis
+and Palestinians, are always present. But few
+experts predict that the geopolitical picture will
+change significantly for the better in 2008.
+
+20
+
+GEOPOLITICS
+• International terrorists mount multiple attacks
+with conventional and chemical (but not
+nuclear) weapons, causing significant economic
+and human losses and exacerbating the
+retrenchment from globalization.
+• Collapse of the Non-Proliferation Treaty (NPT)
+leads to multiple states simultaneously pursuing
+nuclear technologies and weaponization, with
+associated increase in geopolitical tensions
+dragging on the global economy.
+• US/Iran conflict.
+• US/Democratic People’s Republic of Korea
+conflict.
+• Nation building in Afghanistan fails, providing
+haven for international terrorist groups and
+triggering the decline of the Pakistani state.
+• Disorder in the Horn of Africa worsens as
+multiple states descend into conflict and offer
+haven for terrorist groups.
+• A fragile Latin American regime collapses
+suddenly, spreading political and economic
+uncertainty throughout the region.
+
+• Penetration of organized crime in the global
+economy increases significantly over a 10-year
+period, weakening state authority, worsening
+the investment climate and slowing growth.
+• Multiple developed economies take steps
+(tariffs, WTO disputes) which slow existing trade
+and further undermine talks on increased global
+integration.
+• Multiple significant emerging economies
+advance policies that harm foreign direct
+investment and slow the engine of global
+growth.
+• Worsening conflict in the Occupied Territories
+claims thousands of lives over a 10-year period,
+and exacerbates geopolitical tensions and
+economic decline throughout the region.
+• All forms of violence in Iraq – sectarian,
+insurgent, terrorist – worsen and claim
+thousands of lives. Failure to achieve peace
+destabilizes the region on an ongoing basis.
+
+Environmental risks: The main shift in
+understanding of environmental risk has been
+increased awareness of the potential
+consequences of climate change. The geophysical
+factors behind an assessment of likelihood and
+
+severity of both tropical storms and earthquakes
+have not changed. In 2007, the world has
+experienced two “near misses” in terms of
+potential economically catastrophic inland flooding
+in northern Europe and eastern China.
+
+ENVIRONMENT
+• Extreme weather events linked to climate
+change will impact businesses and society at
+large (e.g. multiple tropical cyclones make
+landfall along the Gulf Coast, India, Bangladesh
+or China over a 10-year period).
+• More frequent and severe heatwaves and
+droughts have harsh impact on agricultural
+yields around the world.
+• Declining quality and quantity of water in several
+major watersheds leads to water shortages and
+increased prevalence of water-borne disease.
+• Natural catastrophe: Category 5 tropical
+cyclone hurricane hits an economic centre such
+as Tokyo or southern Florida.
+
+• Natural catastrophe: A strong earthquake hits
+an economic centre such as Tokyo, Los
+Angeles or San Francisco.
+• Natural catastrophe: A strong earthquake or
+seaquake (followed by a strong tsunami) hits a
+developing country such as China, India or
+Indonesia.
+• Natural catastrophe: Extreme inland flooding of
+the Mississippi, Yangtze, Thames or Rhine
+rivers causes direct economic and human
+losses and serious disruption downstream.
+
+21
+
+Societal risks: Increasing “globalization of risk”
+(see pages 27-29) may mean that the distinction
+between infectious diseases in the developing
+
+world and chronic diseases in the developed world
+may be less operable, while the recognition of
+economic costs of both is rising.
+
+SOCIETY
+• A pandemic disease jumps from the animal
+population to humans, with high mortality and
+transmission rates.
+• Incidence of infectious disease continues to rise
+in Africa and rises dramatically in Russia and
+South-East Asia (TB and HIV/AIDS).
+
+• Chronic diseases are widespread in the
+developed world.
+• US liability costs increase at four times the rate
+of GDP growth, and spread rapidly to Europe
+and Asia. Capacity for global insurance is
+reduced, undermining investment and growth.
+
+Technological risks: Increasing human exposure
+to nanotechnology will increase severity should an
+event occur, but this has to be balanced against
+the multiple opportunities created by
+nanotechnology. The constant interplay of risks
+within the critical information infrastructure
+(complexity of systems, number of vulnerabilities,
+failure to effectively patch security holes, use of
+
+common – versus custom – applications) makes
+predicting specific attacks difficult, but there is
+increasing risk of attacks in general due to lack of
+resources devoted to cyber-security and constant
+probing of systems. In 2007, a growing number of
+electronic espionage attacks was considered to
+have been driven by foreign state authorities.
+
+TECHNOLOGY
+• Attack or system failure in critical information
+infrastructure (CII) creates a domino effect,
+shutting down IT-dependent applications in
+power, water, transport, banking and finance,
+and emergency management.
+
+22
+
+• Studies reveal health impairment due to
+exposure to widely used nanoparticles (paint,
+cosmetics, healthcare). Primary impact on
+public health and secondary impact on
+investment in a range of nanotechnologies.
+
+250 billion - 1 trillion more than 1 trillion
+50-250 billion
+10-50 billion
+
+Severity (in US$)
+
+The 26 Core Global Risks: Likelihood with Severity by Economic Loss
+
+Retrenchment from
+globalization (developed)
+
+Asset price collapse
+
+Slowing Chinese economy (6%)
+Oil and gas price spike
+Pandemic
+Infectious disease,
+Transnational crime CII breakdown
+developing world
+and corruption
+Chronic disease, developed world
+Middle East instability
+Heatwaves
+& droughts
+Liability
+regimes
+Major fall in US$
+Interstate & civil wars
+Retrenchment from globalization (emerging)
+Food insecurity
+Fiscal crises in
+advanced economies
+Extreme climate change related weather
+Emergence of
+NatCat:
+Failed & failing states
+nanotechnology risks
+Extreme
+inland
+International terrorism
+flooding
+Loss of freshwater
+
+NatCat:
+NatCat:
+
+Cyclone
+Earthquake
+
+2-10 billion
+
+Collapse of NPT
+
+below 1%
+
+1-5%
+
+5-10%
+
+10-20%
+
+above 20%
+
+Likelihood
+
+Note: Some risks were disaggregated for the purpose of assessment in Appendix 2 to the current report. For ease of visual representation they have
+been shown aggregated on the current graphics.
+
+23
+
+200,000-1,000,000 more than 1,000,000
+
+Infectious disease, developing world
+Food insecurity
+Pandemic
+
+NatCat:
+
+Interstate & civil wars
+
+Earthquake
+
+Chronic disease, developed world
+
+40,000-200,000
+
+Failed & failing states
+NatCat:
+
+8,000-40,000
+
+NatCat: Extreme
+inland flooding
+
+Cyclone
+Middle East instability
+
+Extreme climate change
+Loss of
+related weather
+freshwater
+International terrorism
+Heatwaves & droughts
+Collapse of NPT
+CII breakdown
+Emergence of
+nanotechnology risks
+Transnational crime
+and corruption
+
+1,600-8,000
+
+Severity (in no. of deaths)
+
+The 18 Core Global Risks: Likelihood with Severity by Number of Deaths
+
+below 1%
+
+1-5%
+
+5-10%
+
+10-20%
+
+above 20%
+
+Likelihood
+
+Note: Some risks were disaggregated for the purpose of assessment in Appendix 2 to the current report. For ease of visual representation they have
+been shown aggregated on the current graphics.
+
+24
+
+3. Networked World, Networked Risks
+
+None of the global risks identified and assessed in
+this report manifest in isolation. Many are
+interconnected, not necessarily in a direct causative
+relationship, but often indirectly, either through
+common impacts or mitigation trade-offs. At each
+stage of the process of managing global risks, from
+identification and assessment to mitigation, an
+understanding of interconnectedness enhances the
+approach taken.
+1. Risk identification – identifying indirect
+exposures and potential tight couplings to
+exogenous risk events (shocks)
+2. Risk assessment – accommodating the reality of
+risk conflation whereby risks are rapidly
+transmitted across geographical, industry and
+company boundaries
+3. Risk mitigation – moving from managing risk in
+isolation (ring fencing) to addressing the
+transmission channels of risk (which may require
+collaborative action) as well as considering
+second and third order effects
+Understanding the interconnected nature of global
+risks is methodologically and conceptually complex.
+Yet, if an understanding of interconnectedness is to
+be integrated into prioritization and decision-making
+at the level of government, business and
+international organizations, representing complexity
+is crucial. Bringing together expert views on how to
+think about interconnectedness is an ongoing
+mission of the Global Risk Network to exchange
+ideas and methodologies.
+One approach, pursued for the Global Risks 2007
+report and continued in this report, was to build a
+picture of correlation of core global risks through an
+ongoing survey of independent experts. In 2007, this
+resulted in a matrix of correlation between the core
+global risks.
+The approach has both strengths and limitations.
+First, the matrix measures strength of correlation,
+rather than pathways of causation. Correlation can
+tell us that risks manifest together, but it does not
+tell us how and why. As a result, correlation may
+provide as much “noise” as “signal”. Second, the
+matrix provides a useful measure of “static”
+interconnectedness, providing an overview of
+potential linkages between risks, but not an
+
+“Interdependence is the defining issue
+of the 21st century.”
+Tony Blair, Prime Minister of the United Kingdom
+(1997-2007); Member of the Foundation Board of the
+World Economic Forum (January 2007)
+
+understanding of their dynamic interactions over
+time. Third, the correlation approach only considers
+positive correlations, excluding negative correlations
+(such as the potentially negative correlation between
+risks related to climate change and the risk of
+sustained high oil prices) which may also inform the
+appropriateness of mitigation policies.
+For the 2008 report, the Global Risk Network
+considered the application of social network analysis
+to understand correlation between global risks,
+constructing a network diagram with nodes denoting
+individual global risks and ties showing the strength
+of correlation between the risks. Rather than treating
+risks as discrete units of analysis, the focus is on
+how the structure and ties affect risk transmission.
+There are three dimensions of risk rendered by the
+map: the size of the nodes denotes the severity of
+
+25
+
+the risk; the thickness of connecting lines reflects
+the strength of correlation; and the spatial proximity
+of the nodes is based upon similarity in risk
+correlations. The last dimension ensures that risks
+with similar bivariate correlations are clustered close
+together, reducing the ratio between “noise” and
+“signal” compared to the correlation matrix
+produced for Global Risks 2007.
+
+The correlation map highlights the different ways in
+which risks can be interconnected, adding to the
+understanding of assessment and potentially
+providing input into stress test simulations and
+scenario processes. The correlation map may also
+provide a proxy for understanding some of the
+mechanisms of risk transmission. A secondary
+analysis of “pivotal nodes” was conducted, based
+on Monte Carlo simulation techniques, which
+identified the risks that are most critical to the
+diffusion of global risk through the system. On the
+
+Social Networking Diagram of Global Risks
+
+Note: The sizes of the nodes in the social networking diagram indicate the assessment of the risk itself. The thickness of lines represent strength of
+correlation, while proximity of the nodes represents similarity of correlations
+Source: Witold Henisz, Associate Professor of Management, The Wharton School, University of Pennsylvania, USA, based on expert assessments of
+correlation (October 2007).
+
+26
+
+basis of the responses to the current survey, the top
+four risks are food (in)security, an abrupt fall in the
+US dollar, international terrorism and a US/Iran
+conflict.
+
+to identify potential coalitions of actors around global
+risk issues and how a forum of country risk officers
+could provide a mechanism for coordinating the
+mitigation of global risks.
+
+In 2008-2009 the Global Risk Network will work to
+expand an understanding of correlation and
+causation by bringing together experts on these
+issues from public and private sectors.
+
+Risk squeezing
+
+The globalization of risk
+Interdependency implies that we are all vulnerable to
+disruptions in the global flow of people, capital and
+technology. But there are at least two additional
+elements to the globalization of risk which may
+broaden our understanding of the mechanics of
+interconnectedness in the global risk environment.
+The first is risk “squeezing”: the transfer of negative
+externalities of a production process, such as
+environmental and human costs, from one area to
+another. In recent years, this has happened on a
+massive scale as a result of economic globalization,
+raising a number of dilemmas for effective and
+equitable global governance of risk. The first is that
+shifting production to less regulated geographies
+may, in itself, increase the aggregate negative
+externalities associated with that production. The
+second is that the transfer of risk may, in any case,
+be an illusion if the negative externalities affect the
+global system as a whole, or if other costs may be
+re-imported in other forms. The globalization of
+capital has so outpaced the globalization of
+governance that returns to capital have been
+decoupled from environmental and other costs.
+The second is risk “homogeneity”. For example,
+chronic diseases, such as heart disease, cancer and
+diabetes, traditionally considered to be problems of
+the developed world, are becoming common in
+developing countries. As lifestyles become
+increasingly convergent globally, the trend towards
+similar risk profiles is likely to continue. Another
+example is global pandemics. One consequence of
+this growing risk homogeneity is that the case for
+common and coordinated global mitigation action
+has strengthened. In section 5 of the current report,
+we look at how a region-at-risk model may be used
+
+High labour and social costs, and tougher
+environmental legislation in the developed world,
+coupled with historic reductions in barriers to
+international trade, have moved economic
+production from a national to a global basis. Supply
+chains have become more complex – see section 1
+– and the full exploitation of differences in
+comparative advantage has unlocked global
+economic growth.
+One result has been a delocalization of risk. Even as
+primary risks in production are reduced in one
+location, those risks may be “squeezed” to new
+centres of production where costs, standards and
+conditions are lower. Some of the effects of risk
+squeezing may remain in geographies of production,
+posing an ethical dilemma at the heart of
+globalization.
+But other effects of risk squeezing may have wider
+global consequences.
+First, and most clearly, risk squeezing simply
+displaces the original source of risk, but without
+mitigating the systemic consequences of risk and,
+occasionally, worsening both the underlying risk and
+aggregate systemic vulnerabilities to it. One clear
+example of this is in environmental matters:
+improving environmental regulation may reduce
+environmental costs in the near term, but if
+regulation pushes production to a less-regulated
+geography which is less equipped to deal with its
+consequences, then the aggregate long-term
+impacts may be worse.
+For example, developed country measures to reduce
+carbon emissions will not be meaningful in the
+absence of global frameworks and action. Yet the
+lack of a global price for carbon means that
+economic incentives to enhance carbon efficiency or
+produce in more carbon-efficient geographies are
+not there.
+
+27
+
+But the principle of risk squeezing in the
+environmental context also applies to air and water
+pollution. While air and water quality have improved
+drastically in recent decades in developed countries,
+quality elsewhere has been declining – calling into
+question the long-term, risk-adjusted sustainability of
+economic growth. Moreover, some of these problems
+are easily exported. A toxic spill in a river from a
+factory in China could pollute agriculture through
+irrigation, enter into the production of goods for
+global export, and even threaten the water supply of
+a major Russian city. Environmental degradation may
+ultimately lead to political unrest, both locally and
+across borders. Such a problem requires, at a
+minimum, a bilateral agreement and frequently global
+standards of production or pollution control.
+Second, as semi-finished or finished products are
+exported, the effects of “risk squeezing” may be felt
+in less obvious and less controllable ways, with
+major consequences in importing countries. In 2007,
+the discovery of toxic chemicals in children’s toys,
+made in China for an American brand name, made
+consumers aware of health risks in imported
+
+products which they had previously not considered.
+The companies involved suffered both a reputational
+hit and major economic losses.
+Third, the perception of lack of transparency in
+production processes and supply chains may
+undermine popular support for globalization. The
+argument for consumer protection can lead to
+outright economic protectionism, going far beyond
+the genuine risks and beyond the original product or
+geographic source of risk.
+
+Risk homogeneity
+While specific vulnerabilities will remain,
+interconnectedness, globalization and the spread of
+similar economic and social structures may generate
+a degree of homogeneity of risk at the global level.
+One example of this is in health risks. Just as
+globalization has increased the commonality of
+habits and lifestyles, so has it raised the
+homogeneity of the risks associated with those
+lifestyles. Non-communicable diseases, such as
+
+Projected Deaths by Major Cause and Income Group, All Ages, 2005
+14 000
+
+Total deaths (000)
+
+12 000
+
+10 000
+
+8 000
+
+6 000
+
+4 000
+
+2 000
+
+0
+
+Low income
+countries
+
+Lower middle
+income countries
+
+Upper middle
+income countries
+
+High income
+countries
+
+Communicable diseases, maternal and perinatal conditions, and nutritional deficiencies
+Chronic diseases*
+Injuries
+Note: *Chronic diseases include cardiovascular diseases, cancers, chronic respiratory disorders, diabetes, neuropsychiatric and sense organ
+disorders, musculoskeletal and oral disorders, digestive diseases, genito-urinary diseases, congenital abnormalities and skin diseases.
+Source: © Copyright World Health Organization (WHO), 2007. All Rights Reserved.
+
+28
+
+cardiovascular disease, cancer and diabetes which
+are traditionally associated with a Western lifestyle,
+have rapidly become prevalent in the developing
+world as lifestyles have moved more towards urban
+and less physically active jobs. Ironically, as people
+live longer, they are now suffering from these
+diseases. Another negative habit is the increased
+use and consumption of tobacco, alcohol and
+unhealthy foods. Companies confronted with taxes
+and regulations against these products in the
+developed world now target new consumers in the
+developing world. Finally, global travel patterns have
+made the risk of a pandemic homogenous across
+the world. All countries are equally vulnerable to a
+pandemic that originates in one country.
+
+The policy conclusion: global cooperation
+is required
+To address externalities at the golobal level and the
+increased homogeneity of global risks, international
+cooperation is a necessity. One potential forum for
+such cooperation would be an annual meeting
+between country risk officers where they could
+review global risks and mitigation strategies.
+Problems between individual countries could be
+dealt with on a bilateral basis.
+
+According to the World Health Organization, chronic
+diseases are worst in low- and middle-income
+countries where 80% of non-communicable disease
+deaths occur, and are now widely considered –
+against the perceptions of many developed
+countries – to be the poor nation’s major health
+problem, with the notable exception of African
+countries, where deaths from infectious disease
+remain higher.
+
+29
+
+4. Financial Markets, Risk Transfer and Risk Mitigation
+
+Financial markets are increasingly seen as a major
+tool of the transfer and mitigation of an increasing
+variety of global risks. Insurance and reinsurance
+have traditionally been the key to management and
+mitigation of risk, and the principles which allow for
+maintaining both economic efficiency and social
+equity will be key to maintaining the healthy role of
+insurance and reinsurance in the future (see box on
+page 34) on insurance and risk mitigation lessons
+derived from the US experience of natural
+catastrophe insurance).
+The growth of financial markets has opened up the
+possibility of using markets to help mitigate nontraditional risks (see box on this page) the possible
+use of financial markets to reduce the risks from
+nuclear non-proliferation). Also, the rapid emergence
+of a new market in insurance-linked securities is
+helping to cover peak risks, which cannot be
+currently covered adequately by traditional insurance
+and reinsurance. In some cases, financial markets
+are principally acting as a vehicle of risk transfer. In
+other cases, accurate pricing of risk may be helping
+to drive mitigation of the primary risk.
+This section of the report explores some of those
+developments and asks how effective they can be in
+the future. The first part reviews a proposal of how
+financial markets may help mitigate a non-traditional
+risk: nuclear proliferation. The second describes how
+the expansion of insurance-linked securities and
+other financial instruments are being used to
+increase risk transfer, diversify risk into capital
+markets and increase the pool of capital available for
+insurance. A final part examines how an in-depth
+study of insurance dealing with natural catastrophes
+in the US may have broader application to how we
+think about the management of global risks.
+
+Energy, security and nuclear
+non-proliferation: How private
+markets can help
+The nuclear renaissance
+Concerns over climate change and long-term
+energy security have put nuclear power firmly back
+on the 2007-2008 global agenda. As a noncarbon-based energy source with a muchimproved safety record since the Three Mile Island
+and Chernobyl disasters, nuclear technology has a
+number of attractions in an era of uncertainty.
+Many of the nuclear power plants planned or
+currently under construction – a total of over 300 –
+are in countries that already have a functioning
+nuclear industry: Europe, the US, China, India and
+Russia. But a growing number of non-nuclear
+technology states are exploring the nuclear power
+option: Turkey, Vietnam and Egypt, among others.
+The problem is that nuclear power relies on access
+to enriched uranium. Some countries exploring a
+national capacity for nuclear energy fear that they
+could be blocked in the future by the six states
+which currently produce enriched uranium on a
+commercial basis: France, Germany, the
+Netherlands, Russia, the United Kingdom and the
+US. To avoid this, they may decide to build their
+own uranium enrichment facilities. But were this to
+happen, the international structures governing
+nuclear technologies would be shattered, and the
+risks of wider proliferation would rise dangerously.
+The economic/security trade-off
+Given that the same process used to enrich
+uranium for fuel in power plants can also produce
+weapons-grade nuclear material, the only way to
+reduce the risk of proliferation of weapons-grade
+material is to dissuade states from building new
+enrichment facilities.
+
+30
+
+But, were the international community to credibly
+ensure reliable supplies of uranium-based fuel for
+power generation for all countries, the incentive for
+any one country to build new enrichment facilities
+would be removed.
+Turning the risk of the spread of nuclear
+technologies into an opportunity to create a
+sustainable framework for the production of safe,
+clean and secure electrical power should be a
+major objective of global policy. The innovative use
+of financial markets may offer a way to achieve it.
+The innovation: “insure to assure”
+The International Atomic Energy Agency (IAEA)
+and governments have been grappling with this
+dilemma for years. Various mechanisms to assure
+states’ access to enriched uranium without
+political interference have been considered. But
+some fear that any IAEA solution remains
+susceptible to political pressure from producer
+members.
+A truly innovative concept has been proposed by a
+joint team from the Wharton Business School and
+Harvard’s Kennedy School: “insure to assure.” The
+proposed solution – complementary to the efforts
+of the IAEA and others – would create a
+partnership between financial industries and
+governments to create the world’s first international
+nuclear fuel insurance fund.
+The fund would operate as follows: Premiums,
+collected from all member countries, would be
+deposited in a mutual insurance company (MIC)
+which, in turn, would use some of the money to
+build a cash reserve and to purchase supply
+options. Residual funds would go to a consortium
+of insurers and reinsurers that would provide
+layered financial protection to all participating
+
+countries. The IAEA member governments would
+serve as a financial backstop for the consortium. In
+the event of a fuel disruption, the MIC would
+exercise its options and work with fuel suppliers,
+energy producers and transporters to arrange
+timely fuel delivery or alternative electricity
+purchases off the energy grid (if available). The
+insurance consortium would compensate member
+countries and others involved in replacing fuel for
+any loss of efficiency as previously contractually
+agreed.
+The concept is based on a key principle of
+mitigating global risks: while everyone is looking to
+ensure energy security through energy
+independence, the “insure to assure” concept
+might help improve energy security by creating a
+clear framework for “energy interdependence.”
+There are a number of classic global risk questions
+on the financial market response to nuclear
+proliferation – among them issues on moral hazard
+and joint liability – and certainly this concept could
+not be expected to be effective in the absence of a
+concerted policy in other areas and trust in the
+integrity of the system. However, the power of
+financial markets, as a complement to other
+measures, is often under-appreciated.
+Implementation: nuclear and beyond
+The proposal, which is now being studied by
+different stakeholders, would bring together two
+worlds that rarely talk to one another: the worlds of
+international security and international finance. As
+it stands, the proposal only deals with nuclear fuel
+supplies, but there is no reason why a larger
+mutual insurance company could not help turn
+wider global energy interdependence from a
+source of perceived vulnerability to a source of
+systemic coherence and security.
+
+31
+
+Insurance-linked securities: how much can
+financial markets diversify risk?
+
+The market in insurance-linked securities initially
+developed in response to insurers’ capital
+requirements in covering four traditional “peak” risks:
+windstorms in Europe, earthquakes in Japan,
+hurricanes in the US and earthquakes in California.
+After Hurricane Andrew in 1992 the price of
+catastrophe risk coverage rose considerably and
+coverage became increasingly scarce. Insurancelinked securities covering catastrophe – so-called
+“cat” bonds – provided additional capital to the
+insurance industry, helping it to manage catastrophe
+risk and prepare for the next major event. Presently,
+catastrophe bonds are issued to cover a range of
+non-peak risks, from Mexican earthquakes to floods
+in the United Kingdom.
+
+The process of pooling risks and dividing that pool
+into portions sold to a wide range of investors on the
+secondary market – known as securitization – has
+expanded massively in recent years. Securitizations
+now account for one-third of the US fixed income
+market. Transactions that were once considered
+highly innovative are now mainstream.
+More recently securitization has spread to insurance,
+as insurers have transferred their risks to capital
+markets through securities’ issues. The result has
+been a diversification of risk for insurers and an
+increase in the pool of capital available to cover
+insurance risks. The use of financial markets to raise
+insurance capital is not without potential drawbacks:
+systemic risk could eventually be created by
+insurance-linked securities. However, these potential
+constraints on securitization are far into the future.
+Currently, the relatively small size of the insurancelinked securities market and a growing understanding
+and sophistication of insurance-linked securities
+suggest considerable scope for financial market
+diversification of an increasingly broad set of risks.
+
+Subsequent transactions have further broadened
+insurance-linked securities. In January 2006, Swiss
+Re securitized US$ 252 million of credit risk linked to
+claims and reserves on its credit reinsurance
+business for underwriting years 2006 through 2008.
+Catastrophe securitizations – or mortality bonds –
+can also be used by insurers and reinsurers to
+hedge against the risk of increased death rates
+caused by a major global risk (such as a pandemic
+or a major terrorist attack). In all of these cases,
+
+Typical Cat Bond Structure
+
+1 The Sponsor enters into
+a financial contract with
+a Special Purpose Vehicle (SPV)
+
+Investments
+
+3
+
+Investment
+earnings
+
+1
+
+2
+
+Premium
+
+Notes
+
+SPONSOR
+
+SPV
+Contingent
+claim payment
+Investment
+earnings
+
+4
+
+32
+
+Investors
+Cash
+proceeds
+
+Scheduled
+interest
+
+Swap
+Counterparty
+
+Source: Swiss Re
+
+2 The SPV hedges the financial
+contract by issuing Notes to
+investors in capital markets
+
+Principal
+& interest
+
+Financial guarantee
+
+5
+
+Note
+Guarantor
+
+3 Proceeds from the securities
+offering are invested in high
+quality securities and held in
+a collateral trust
+4 Investment returns are
+swapped to a LIBOR-based
+rate by the Swap Counterparty
+5 In some transactions, principal
+and interest on the Notes may
+be guaranteed by a Note
+Guarantor
+
+Other insurance-linked financial
+instruments
+
+securitization improves the diversification of risk and,
+therefore, the risk-bearing capacity of the insurance
+system. As securitization grows more cost effective,
+insurers will be able to increasingly share cost benefits,
+contributing further to the risk transfer market.
+
+Besides insurance-linked securities, a wide variety of
+derivatives and other financial instruments are now
+being used to transfer insurance risks. The market for
+weather derivatives is large, growing rapidly and fairly
+well known. Most of these derivatives pay out when
+the weather is exceptionally warm, or exceptionally
+cold. They are also promoted in emerging markets
+to reduce agricultural income volatility. In addition,
+the market for over-the-counter industry loss
+warranties is growing. These instruments provide
+protection against US hurricanes and are triggered
+
+Insurance-linked securities have grown considerably
+in recent years in terms of depth, breadth and
+overall market capacity (see figure below). For
+investors, insurance-linked securities are attractive
+as they provide an investment in a specific insurance
+risk with potentially low correlations with equity and
+credit markets, and with a reduced counterparty risk
+because some funds can be held in trust.
+
+Significant Increase in Market Depth and Breadth
+# investors outside of (re)insurance
+
+# of sponsors securitized
+41
+
+150
+24
+50
+11
+20
+
+3%
+8
+5%
+14
+15%
+32
+
+# of risks securitized
+
+max annual expected loss
+
+Note: The increasing threshold of annual expected loss, the range of different risks being securitized and the number of sponsors involved in
+securitization of insurance-linked securities indicate the growing maturity of insurance-linked securities, and the market appetite for them
+Source: Swiss Re
+
+Total ILS outstanding, by year
+
+Total non-life bonds outstanding, by year
+
+billions US$
+
+35
+
+15000
+
+30
+12000
+25
+9000
+
+20
+15
+
+6000
+
+10
+3000
+0
+
+5
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+0
+
+1997
+
+1998
+
+Issued
+Issued
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+Outstanding
+
+Outstanding
+
+Note: New issuance in 2007 (to November) had already exceeded that of 2006. Total non-life bonds outstanding totalled approximately US$ 14
+billion. Fourth quarter 2007 also saw over US$ 600 million of extreme mortality cover placed. Total bonds outstanding exceeded US$ 34 billion
+Source: Swiss Re
+
+33
+
+when insurance industry losses for a particular
+hurricane are high. Also in the US, the Chicago
+Mercantile Exchange and the New York Mercantile
+Exchange are attempting to establish exchangetraded derivatives that provide protection against
+hurricane losses. Finally, there are a wide variety of
+customized derivatives, providing protection against
+losses from earthquakes and typhoons in Japan,
+earthquakes in Turkey, excess mortality losses, aviation
+peril, etc. All of these instruments are arranged by
+(re)insurers, brokers and banks for companies and
+insurers, with protection provided by capital markets –
+often hedge funds that specialize in insurance risks.
+
+Applying the “5i” framework to financial
+risk transfer instruments
+Applying the “5i” framework of risk mitigation to
+insurance-linked securities yields an analysis of the
+strengths, weaknesses and requirements of
+insurance-linked securities in global risk mitigation.
+• Insight: Broader and deeper markets should
+motivate a more sophisticated understanding of
+the drivers and impacts of risks – for example,
+the inclusion of capital market investors in a
+pandemic risk transfer might heighten awareness
+of the correlation between extreme mortality risks
+and economic risks.
+• Information flow: Broadening of markets should
+improve the quality and flow of information about
+risks – and should encourage transparency in the
+reinsurance industry.
+• Incentives: Accurate pricing of risk transfer
+instruments should, in principle, act as an
+incentive for ex-ante mitigation measures and
+even, where appropriate, risk avoidance.
+• Investment: Using financial markets increases
+the pool of investment available to indemnify the
+consequences of global risks.
+• Institutions: Financial markets require strong
+public institutions to allow the market to flourish.
+These institutions and financial markets are in a
+symbiotic relationship. Efficient financial regulation
+and a secure legal environment for insurancelinked securities is a prerequisite to their expanded
+use, and to help improve global risk mitigation.
+Should transaction costs prove too high, the range
+and scope of the market will be constrained.
+
+34
+
+Insurance and risk transfer:
+lessons from natural catastrophe
+insurance in the US
+Natural catastrophes have had a greater nominal US
+dollar impact on insurers over the past 15 years than
+in the entire history of insurance. Hurricane Katrina
+alone cost insurers and reinsurers an estimated
+US$ 45 billion, while losses paid by private insurers
+due to major natural catastrophes in 2005 totalled
+US$ 83 billion.
+A significant part of the increase in natural
+catastrophe damage is due to increased
+construction in hazard-prone areas in recent
+decades, but there may be a longer-term driver as
+well: global warming may be resulting in increasing
+frequency of severe storms in certain parts of the
+world. While new construction in hazard-prone
+areas could be easily reduced by government
+regulation, the inertia effect of historical carbon
+emissions means that global warming will continue
+for decades, even if the future rate of warming
+may eventually be slowed and reversed by
+concerted international action.
+Yet, insurance can help manage the impact of this
+risk in two important ways: directly, by providing
+financial protection to businesses and individuals
+against losses from catastrophic events and
+indirectly, by encouraging risk mitigation measures
+through lower premiums for those who invest in
+risk-reducing measures. In principle, insurance, by
+basing its prices on the risk of losses, can provide
+a strong incentive for improved risk management.
+In addition to serving an important social function,
+insurance can create the conditions for efficient
+economic allocation of resources. Often, however,
+the politics and economics of insurance clash.
+Insurance will only be provided if premiums reflect
+actuarial risk: the insured damage resulting from a
+specific event, weighted by the probability of that
+
+event occurring. Natural disasters cannot be
+prevented, though reducing climate change in the
+future could limit the increases in intensity and
+frequency of some natural catastrophes. Actuarial
+risk to individual properties can be reduced by
+fortifying them, and aggregate risk can be lowered
+by decreasing construction in vulnerable zones.
+Developing guiding principles
+Two guiding principles for using insurance and
+other financial instruments to effectively mitigate
+risk have been developed by the Wharton Risk
+Management and Decision Processes Center in
+the context of a research project on “Managing
+Large-Scale Risks in a New Era of Catastrophes”.
+• Principle 1 – Premiums Reflecting Risk:
+Insurance premiums should be based on risk,
+to provide signals to individuals as to the
+hazards they face and to encourage them to
+engage in cost-effective mitigation measures to
+reduce their vulnerability to catastrophes.
+• Principle 2 – Dealing with Equity and
+Affordability Issues: Any special treatment given
+to residents currently residing in hazard-prone
+areas (e.g. low-income homeowners) should
+come from general public funding and not
+through insurance premium subsidies.
+Mitigation
+Economic analysis of case studies in four hurricanevulnerable US states revealed that a range of
+physical mitigation measures – such as storm
+shutters, roof anchors and safety film on windows
+– could reduce insured losses from a severe
+hurricane considerably (by up to 61% in Florida).
+But property owners rarely make these voluntary
+investments because they believe that
+catastrophes will not happen to them, and
+
+because the economic incentives to invest are
+suppressed by artificially low premiums.
+In a survey of those living along the US Atlantic
+and Gulf Coasts, undertaken in the spring of 2006,
+83% of respondents had taken no steps to fortify
+their homes with relatively inexpensive measures,
+even after the devastating 2004 and 2005
+hurricane seasons.
+Lessons for global risk management?
+What lessons can be drawn from US natural
+catastrophe insurance to understand the role of
+insurance in managing global risks?
+• First, understanding the nature of the risk and
+quantifying it is the prerequisite for insurance.
+• Second, there is a need for new risk transfer
+instruments such as catastrophe bonds and
+other financial instruments, which can
+supplement traditional reinsurance, to enable
+insurers to protect themselves against
+catastrophic losses and reduce the need for
+government intervention.
+• Third, insurers need to be able to charge a
+premium that reflects the risk they assume and
+which rewards those who undertake mitigation
+measures. Government intervention to artificially
+suppress premiums may have unintended
+consequences, including reducing the
+economic sustainability of insurance by skewing
+incentives. However, government codification of
+mitigation measures may help.
+• Finally, the way in which equity concerns are
+met is vital. It would be more efficient to provide
+insurance vouchers and mitigation grants to
+low-income groups in the US living in natural
+catastrophe zones, than to mandate artificially
+low insurance premiums. Similarly, addressing
+equity issues at a level should not be done in a
+way which reduces the ability to leverage
+financial markets to mitigate risk.
+
+35
+
+5. Structuring Mitigation at the State and International
+Level: Taking the Country Risk Officer Forward
+
+In Global Risks 2007, the Global Risk Network
+introduced the concept of the country risk officer as
+a public sector equivalent to corporate risk officers in
+the private sector, who are growing in importance.
+Given the complexity and correlations of risk, possible
+trade-offs across government department silos, and
+the agreed need for better communication between
+the public and private sector, managing risk on a
+portfolio basis is as important in government as it is
+in the private sector. More importantly, identifying a
+common language of risk and risk assessment across
+the public and private sectors may make it easier in
+the future for both to cooperate in mitigation initiatives.
+For Global Risks 2008, the Global Risk Network
+convened an informal group of experts to explore
+the country risk officer concept, to understand its
+limits and its strengths and to begin to understand
+what principles of best practice could be developed
+to guide country risk management.
+It was concluded that the country risk officer was
+not necessarily a single role to be held by one
+individual – it might be a committee, a process, or
+multiple coordinated positions. Much would depend
+on the specific political and economic structures in
+which the concept of country portfolio risk
+management is applied – a centralized system such
+as the United Kingdom or a federal system such as
+Germany or Switzerland would necessitate very
+different structures to achieve a similar objective.
+It was also agreed that, while an individual country
+risk officer in one country might vastly improve
+understanding and coordination of risk on the
+national level, many global risks require an inherently
+international response. A forum of national country
+risk officers might be one way of achieving common
+assessment, trust and institutional confidence to
+enable much improved management of global risks
+when they manifest across international borders.
+Currently, government bodies play a four-part role in
+risk management at the national level.
+• Action: from identification of risks to crisis
+management and risk communication
+• Regulation: the use of legislation to help prevent
+the emergence of risks and to protect against the
+consequences of risks should they arise
+
+36
+
+• Economic continuity: the use of measures
+(such as release of financial reserves or strategic
+energy reserves) which ensure economic
+robustness in the face of a wide range of risk
+events
+• Insurance: acting as an insurer of last resort
+
+Global risk, government and business:
+different incentives, different goals,
+common opportunities
+The incentives for business and government in
+risk mitigation are different:
+• Doing business involves taking risk;
+government largely avoids risk.
+• While businesses aim to maximize profit and
+shareholder value, both relatively easily
+measured metrics, governments seek to
+satisfy a much broader set of stakeholders,
+with far more complex trade-offs.
+• Government assessments of global risk are
+necessarily idiosyncratic in that they consider
+stakeholder concerns differentially – but they
+must obtain broad legitimacy to be
+considered as a basis for action.
+However, opportunities exist for collaboration
+between government and business on
+developing and sharing common methodologies.
+
+The group established five principles of country risk
+management which could be applied across the
+spectrum of governments to guide country risk
+officers, whether the officer is an individual, a
+coordinating committee or takes some other
+institutional form.
+• Accountability: The need for accountability of
+risk assessment is seen as a fundamental
+condition of the legitimacy of assessment as a
+basis for concerted government action both
+vertically (within departments of government) and
+horizontally (across branches of government).
+Clarity of accountability would increase the
+incentives for effective mitigation measures.
+• Integrated assessment: Establishing common
+procedures across government departments to
+assess risks, cross-disciplinary scenarios and the
+
+language of risk would provide a basis not only
+for better crisis management but also for defining
+more effective prevention and mitigation of global
+risks. Too often positive externalities are overlooked
+and negative externalities are exaggerated by lack
+of an integrated assessment of risk.
+• Devolved implementation: Integrated
+assessment should not imply centralized
+implementation. Devolved implementation of risk
+mitigation strategies should allow flexible and
+adaptive responses to common risks.
+• Separation of analysis and policy: The case
+for devolved implementation is strengthened by
+the argument in favour of separation of analysis
+and policy. Analysis is better kept within a
+separate structure, so as to prevent bureaucratic
+pressures impinging upon independence of
+analysis.
+
+Region at risk: A basis for identifying
+international risk mitigation coalitions?
+An additional institutional innovation suggested in
+Global Risks 2007 was the creation of an “avantgarde of relevant governments and companies
+around different global risks.” The report argued
+that the urgency, complexity and multiple tradeoffs in global risks require structures which can
+respond flexibly, assemble quickly and achieve
+legitimacy through success. “A process of
+gradually expanding alliances rather than a
+proposition requiring permanent consensus” may
+offer a better way forward.
+But, even under conditions of extreme
+interdependency, the problem of mobilizing
+collective action to mitigate global risks remains.
+One strategy to activate coalitions to mitigate
+global risks may lie in an improved understanding
+of national risk exposures and identifying clusters
+of countries that are exposed to the same risks in
+similar orders of magnitude.
+
+• Disclosure and transparency (if possible):
+Governments are constantly caught between
+pressure to disclose risk assessments and the
+need to keep some assessments confidential so
+as to avoid panic, protect sources and maintain
+resilience. But even the maintenance of
+confidential information can create the conditions
+for incomplete or inaccurate information leading
+to an “infodemic” situation in a crisis, where the
+consequences of popular reaction to a perceived
+risk far outweigh the risk itself. The development
+of much more granular risk communication
+strategies will ensure a culture of maximum
+disclosure and transparency, while safeguarding
+against information overload.
+
+The region at risk model, which will be developed
+in 2008-2009, will achieve this by drilling down
+into the frequencies and severities of global risk at
+the national level, gathering expert input on
+country risk exposures, and creating a framework
+which is compatible with the global approach
+taken in previous Global Risk reports.
+Individual countries can then be represented by a
+specific set of risks, and an aggregate risk
+measure can be derived that allows for crosscountry comparisons. Cross-correlations, which
+account for different causal relationships among
+the various global risks, complete the country
+model. The more interesting features will derive
+from the model’s capability to integrate a wealth of
+data, account for cross-correlations among risks,
+analyse specific vulnerabilities, identify country
+clusters, engage in what if scenarios and,
+ultimately, point to potential coalitions of countries
+to mitigate risk.
+
+37
+
+The country risk officer: an example
+from the United Kingdom
+As discussed above, the country risk officer is not
+necessarily a single individual. It may equally be a
+cross-government process, a secretariat, a
+function within different ministries, or a
+combination of all three. The common principles
+for effective country risk management identified
+above may take a variety of institutional forms.
+One of the pioneers in coordinated risk
+management is the United Kingdom, which set up
+the Civil Contingencies Secretariat (CCS) in 2001
+initially to improve the effectiveness of post-crisis
+management, but increasingly to play a more
+forward-looking role in identifying and assessing
+potential risks to national resilience. The CCS
+provides a single framework for government
+actions to absorb, respond to and recover from
+disruptive challenges, but serves a number of
+different functions: establishing the risk landscape
+facing the United Kingdom, improving consistency
+across government in terms of assessment and
+management of risks, clarifying roles and
+responsibilities and providing a basis for effective
+performance management.
+One of the key problems within government in
+terms of risk management in general has been the
+existence of either horizontal disconnects between
+levels of government, or vertical disconnects
+between departments of government. In some
+countries the response to interconnectedness of
+global risks has been to merge existing
+government departments with existing operational
+responsibilities, with varying degrees of operational
+success. The CCS, in contrast, is a relatively new
+and relatively small entity at the centre of the
+United Kingdom government (the Cabinet Office)
+designed to act as a focal point within government
+for identification, assessment and management of
+risk, and as an entry point for dialogue with the
+private and voluntary sectors, as well as with the
+public sector at local, regional and national level.
+
+38
+
+The keystone of national risk management in the
+United Kingdom has become the annual national
+assessment process on an all-hazards basis to
+identify, describe and quantify risks which may
+impact the resilience of the country, looking
+forward over a five-year period. Identification,
+analysis and prioritization of risks are placed ahead
+of measuring capability gaps, so as to avoid a
+retroactive fitting of risk identification on existing
+government structures. The widest possible range
+of government agencies is involved in identification
+and description of the national risk landscape, so
+as to ensure a comprehensive list of risks and
+enhance a common understanding of global risks
+facing the country.
+At the assessment stage, the same method is
+used to measure the severity of all risks while two
+approaches can be taken to quantify the likelihood
+depending on whether the risk is considered a
+natural hazard and, therefore, more amenable to
+objective measurement on a historical or scientific
+basis, or a threat of malicious harm for which
+objective assessments have to be blended with
+more subjective judgement. In both cases,
+however, the end result is an estimation of the
+likelihood and severity of plausible worst-case
+scenarios which allow for comparison and
+prioritization across risk categories. The highest
+rated risks are then considered in terms of their
+generic and specific consequences and whether,
+at the local, regional or national level, government
+plans, infrastructure, equipment, legislation, supplies,
+doctrine and training are adequate to manage and
+mitigate them. The CCS coordinates capability
+enhancements where this is not the case.
+This approach is thought to be effective in prioritizing
+and quantifying the risks to homeland security –
+broadly defined – needing to be dealt with. It is too
+early to conclude the effectiveness of the CCS
+approach in improving the United Kingdom’s ability
+to manage global risks. But one obvious constraint
+is the lack of obvious interlocutors in other
+countries, despite the transnational and
+interconnected nature of many of the risks which
+the CCS identifies and assesses.
+
+6. Conclusion
+
+This year it will be difficult to manage global risks.
+Both political and economic uncertainties are likely
+to act as a focus for global discussion and energy.
+On the economic side, an exceptional period of
+global growth may come under pressure as the
+liquidity crisis of 2007 impacts the real economy. On
+the political side, changes of government in several
+major countries and an uncertain situation in the
+Middle East will dominate. Leadership on global risk
+issues will be an increasingly precious commodity.
+As this report has indicated, some progress on
+understanding and managing global risks is taking
+place. Opportunities for a peaceful settlement in the
+Israel-Palestine conflict may be stronger in 2008
+than at any time since the turn of the century. Major
+emerging economies have increasingly
+demonstrated their willingness to take a leadership
+role in managing global risks. New financial products
+may be increasing the potential of financial markets
+to diversify and absorb risk. Risk management has
+become a key element of the management and
+strategy of both business and government.
+Recognition of the need to reform the global energy
+economy has set the stage for a multi-decade shift
+in direction.
+
+But, for many of the global risks discussed in this
+report, the question of ownership of these risks
+remains unanswered. The fragmentation of
+ownership of global risks and the complexity of
+interdependencies will make equitable and
+sustainable management of global risks hugely
+challenging. Should systemic financial risk lead to a
+serious deterioration in the world economy, the
+prospects for collaborative mitigation may be
+reversed on several fronts simultaneously as
+attention turns to more immediate concerns.
+The Global Risk Network will continue to bring
+together policy-makers, business leaders and nongovernmental organizations to help align
+assessments of risk, to understand institutional gaps
+and to better grasp the interconnectedness of
+sectors and risks.
+
+39
+
+Appendix 1: Taxonomy of Global Risk:
+Trends, Issues of Concern, Risks
+
+In 2007-2008 the Global Risk Network identified
+trends, issues of concern and risks. Trends are
+observable facts in the contemporary world. Issues
+of concern are potential challenges which arise from
+those trends. The risks identified are specific
+realizations of those challenges in a format which is
+sufficiently specific to be open to a level of
+assessment in terms of relative severity and
+likelihood, without being so specific as to preclude
+them as a basis for decision-making.
+
+The probability of a specific scenario occurring
+reduces as the parameters of the scenario become
+more described. But scenarios with negligible
+probability are unlikely to be a firm basis for
+decision-making. A balance is therefore required
+between specificity and generality.
+In some domains the path between trends, issues
+and risks is clear. In others, notably geopolitical risk,
+the pathway from trend to risk is less clear,
+contingency is greater and common issues can
+manifest in many different ways.
+
+1. Economics – 6 trends, 6 issues of concern, 6 risks
+1.1. Trend: Growing imbalances in food/agricultural production and use, driven in part by biofuel production
+and a shift to water-intensive crops
+1.1.1. Issue of concern: Rapidly rising and increasingly volatile food prices
+1.1.1.1. Risk: Rising and volatile prices create significant shortages for poor consumers globally
+(those whose consumption basket is more than 50% food)
+1.2. Trend: Tightening energy markets
+1.2.1. Issue of concern: Vulnerability to supply-side disruption
+1.2.1.1. Risk: Oil or gas prices rise steeply due to a major supply disruption (decreased global
+supply by 10% for several months)
+1.3. Trend: Macroeconomic Imbalances
+1.3.1. Issue of concern: Unsustainability of US current account deficit
+1.3.1.1. Risk: An abrupt, major fall in the value of the US dollar with impacts throughout the
+financial system
+1.4. Trend: Rise of Chinese Economic Power
+1.4.1. Issue of concern: Sustainability of Chinese economic growth
+1.4.1.1. Risk: Domestic social/political issues combine to reduce Chinese growth to 6% or less
+(sustained slower growth)
+1.5. Trend: Ageing populations in developed economies
+1.5.1. Issue of concern: Potential for fiscal crises
+1.5.1.1. Risk: Declining fiscal positions force multiple governments of wealthy countries to raise
+taxes, leading to economic stagnation
+1.6. Trend: High and increasing asset prices fuelled by unprecedented liquidity
+1.6.1. Issue of concern: Asset ‘bubble’ and credit crunch
+1.6.1.1. Risk: House and other asset prices collapse in the US, United Kingdom and Europe,
+significantly reducing consumer spending and creating a recession
+
+41
+
+2. Geopolitics – 7 trends, 9 issues of concern, 12 risks
+2.1. Trend: Rise of non-traditional/asymmetric warfare
+2.1.1. Issue of concern: International terrorism
+2.1.1.1. Risk: International terrorists mount multiple attacks with conventional and chemical (but
+not nuclear) weapons, causing significant economic and human losses and
+exacerbating the retrenchment from globalization
+2.2. Trend: Proliferation of Weapons of Mass Destruction
+2.2.1. Issue of concern: Potential spread of nuclear capabilities
+2.2.1.1. Risk: Collapse of the Non-Proliferation Treaty (NPT) leads to multiple states
+simultaneously pursuing nuclear technologies and weaponization, with associated
+increase in geopolitical tensions dragging on the global economy
+2.3. Trend: Reconfiguration of global power
+2.3.1. Issue of concern: War
+2.3.1.1. Risk: US/Iran conflict
+2.3.1.2. Risk: US/Democratic People’s Republic of Korea conflict
+2.4. Trend: Widening gap between “geographies of order and disorder”
+2.4.1. Issue of concern: Failed and failing states
+2.4.1.1. Risk: US/Iran conflict Nation building in Afghanistan fails, providing haven for
+international terrorist groups and triggering the decline of the Pakistani state
+2.4.1.2. Risk: Disorder in the Horn of Africa worsens as multiple states descend into conflict and
+offer haven for terrorist groups
+2.4.1.3. Risk: A fragile Latin American regime collapses suddenly, spreading political and
+economic uncertainty throughout the region
+2.5. Trend: Global integration outpacing international policing capabilities
+2.5.1. Issue of concern: Transnational crime
+2.5.1.1. Risk: Penetration of organized crime in the global economy increases significantly over a
+10-year period, weakening state authority, worsening the investment climate and
+slowing growth
+2.6. Trend: Retrenchment from globalization
+2.6.1. Issue of concern: Rising protectionism in developed economies
+2.6.1.1. Risk: Multiple developed economies adopt policies (tariffs, WTO disputes) which retard
+existing trade and further undermine talks on increased global integration
+2.6.2. Issue of concern: Rising economic nationalism in developing economies
+2.6.2.1. Risk: Multiple significant emerging economies advance policies that harm foreign direct
+investment and slow the engine of global growth
+2.7. Trend: Intractability of Middle East conflicts
+2.7.1. Issue of concern: Israeli/Palestinian conflict
+2.7.1.1. Risk: Worsening conflict in the Occupied Territories claims thousands of lives over a 10year period, and exacerbates geopolitical tensions and economic decline throughout
+the region
+2.7.2. Issue of concern: War in Iraq
+2.7.2.1. Risk: All forms of violence in Iraq – sectarian, insurgent, terrorist – worsen and claim
+thousands of lives. Failure to achieve peace destabilizes the region on an ongoing basis.
+
+42
+
+3. Environment – 3 trends, 6 issues of concern, 7 risks
+3.1. Trend: Climate Change/Global Warming
+3.1.1. Issue of concern: Increase in extreme weather events
+3.1.1.1. Risk: Extreme weather events linked to climate change will impact businesses and
+society at large (e.g. multiple tropical cyclones make landfall along the Gulf Coast, India,
+Bangladesh or China over a 10-year period)
+3.1.2. Issue of concern:Changing rainfall patterns
+3.1.2.1. Risk: More frequent and severe heatwaves and droughts have harsh impacts on
+agricultural yields around the world
+3.2. Trend: Ecosystem degradation
+3.2.1. Issue of concern: Loss of freshwater services
+3.2.1.1. Risk: Declining quality and quantity of water in several major watersheds leads to water
+shortages and increased prevalence of water-borne disease
+3.3. Trend: : Increasing human exposure to natural catastrophes
+3.3.1. Issue of concern: Earthquakes
+3.3.1.1. Risk: Natural catastrophe: A strong earthquake hits an economic centre such as Tokyo,
+Los Angeles or San Francisco
+3.3.1.2. Risk: Natural catastrophe: A strong earthquake or seaquake (followed by a strong
+tsunami) hits a developing country such as China, India or Indonesia
+3.3.2. Issue of concern: Inland flooding
+3.3.2.1. Risk: Natural catastrophe: Extreme inland flooding of the Mississippi, Yangtze, Thames or
+Rhine rivers causes direct economic and human losses and serious disruption downstream
+3.3.3. Issue of concern: Tropical hurricanes
+3.3.3.1. Risk: Natural catastrophe: Category 5 tropical hurricane hits an economic centre such
+as Tokyo or southern Florida
+
+4. Society – 4 trends, 4 issues of concern, 4 risks
+4.1. Trend: Greater interconnectedness of social systems
+4.1.1. Issue of concern: Potential for fast-travelling pathogens
+4.1.1.1. Risk: A pandemic disease jumps from the animal population to humans, with high
+mortality and transmission rates following.
+4.2. Trend: Increasing prevalence of infectious disease in the developing world
+4.2.1. Issue of concern: Potential for worsening of global AIDS/TB/malaria epidemics
+4.2.1.1. Risk: Incidence of infectious disease continues to rise in Africa and rises dramatically in
+Russia and South-East Asia (TB and HIV/AIDS)
+4.3. Trend: Increasing burden of chronic disease in the developed world
+4.3.1. Issue of concern: Conflation of obesity/diabetes/Cardiovascular disease
+4.3.1.1. Risk: Chronic diseases are widespread in the developed world
+4.4. Trend: Spread of liability regimes
+4.4.1. Issue of concern: Potential spread of US-style liability regimes domestically and internationally
+4.4.1.1. Risk: US liability costs increase at four times the rate of GDP growth, and spread rapidly
+to Europe and Asia. Capacity for global insurance is reduced, undermining investment
+and growth
+
+43
+
+5. Technology – 2 trends, 2 issues of concern, 2 risks
+5.1. Trend: Increasingly interdependent critical information infrastructure (CII)
+5.1.1. Issue of concern: Vulnerability of CII to attack or system failure
+5.1.1.1. Risk: Attack or system failure in CII creates a domino effect, shutting down ITdependent applications in power, water, transport, banking and finance, and emergency
+management
+5.2. Trend: Development of technology on the nanoscale
+5.2.1. Issue of concern: Potential toxicity of nanoparticles
+5.2.1.1. Risk: Studies reveal health impairment due to exposure to widely used nanoparticles
+(paint, cosmetics, healthcare). Primary impacts on public health and secondary impacts
+on investment in a range of nanotechnologies
+
+44
+
+Appendix 2: Risk Assessments
+
+which will alter likelihood and severity within 10
+years; for others likelihood and severity may change
+due to inaction or shifts in underlying causal trends
+and, in all cases, new information may alter our
+future perspective on likelihood and mitigation.
+
+The risk assessments below provide the best
+aggregate view of the partners involved in this report.
+All assessments have resulted from group discussion,
+but they contain varying degrees of certainty and
+agreement as to the manifestation of the risk both in
+terms of likelihood and severity. Certain risks can be
+assessed for likelihood using traditional actuarial
+models – particularly natural catastrophe risks. For
+other risks – particularly geopolitical risks – the
+ranges of possible outcomes are much wider and
+correspondingly uncertainty looms large.
+
+Most risk definitions are broadly similar from 2007 to
+2008, but a number of other definitions have been
+sharpened to increase granularity of measurement,
+and geopolitical risks have been disaggregated for
+the purposes of assessment. The 2007 and 2008
+assessments are therefore broadly, but not directly,
+comparable.
+
+The assessments below are not a fixed view of how
+the world will turn out over a 10-year time frame.
+Many of the risks are open to mitigation measures
+
+LIKELIHOOD
+
+Risk Assessments – Economic Loss
+1
+2
+3
+4
+5
+
+below 1%
+1-5%
+5-10%
+10-20%
+above 20%
+
+2-10 billion
+10-50 billion
+50-250 billion
+250 billion-1 trillion
+>1 trillion
+
+2007
+
+2008
+LIKELIHOOD
+
+SEVERITY (US$)
+
+LIKELIHOOD
+
+SEVERITY
+
+SEVERITY
+
+ECONOMICS
+
+ECONOMICS
+Rising and volatile prices create significant
+shortages for poor people globally (those whose
+consumption basket is more than 50% food)
+
+3
+
+3
+
+Oil or gas prices rise steeply due to a major
+supply disruption (decreased global supply of
+10% for several months)
+
+4
+
+4
+
+Oil price shock
+
+4
+
+4
+
+An abrupt, major fall in the value of the US
+dollar over time with impacts throughout the
+financial system
+
+3.5
+
+3
+
+US current account
+deficit
+
+3
+
+3
+
+Domestic social/political issues combine to
+slow Chinese growth to 6% or less (sustained
+over time)
+
+3.5
+
+4
+
+China hard landing
+
+4
+
+4
+
+2
+
+3
+
+Coming fiscal crises
+caused by
+demographic shift
+
+2
+
+3
+
+4.5
+
+5
+
+Blow up in asset
+prices/indebtedness
+
+4
+
+5
+
+Declining fiscal positions force multiple
+governments of wealthy countries to raise
+taxes, leading to economic stagnation
+House and other asset prices collapse in the
+US, United Kingdom and continental Europe,
+reducing consumer spending and creating a
+recession
+
+45
+
+2007
+
+2008
+LIKELIHOOD
+
+International terrorists mount multiple attacks
+with conventional and chemical (but not
+nuclear) weapons, causing significant
+economic and human losses and exacerbating
+the retrenchment from globalization
+
+3
+
+2
+
+Collapse of NPT leads to multiple states
+simultaneously pursuing nuclear technologies
+and weaponization, with associated increase in
+geopolitical tensions dragging on the global
+economy
+
+3.5
+
+1.5
+
+Interstate & civil wars
+• US/Iran conflict
+• US/Democratic People’s Republic of
+Korea conflict
+
+3
+3
+2.5
+
+3
+3
+3
+
+Failed & failing states
+• Nation building in Afghanistan fails,
+providing haven for international terrorist
+groups and triggering the decline of the
+Pakistani state
+• Disorder in the Horn of Africa worsens as
+multiple states descend into conflict and
+offer haven for terrorist groups
+• A fragile Latin American regime collapses
+suddenly, spreading political and economic
+uncertainty throughout the region
+
+4
+4.5
+
+2.5
+2
+
+4
+
+1
+
+2
+
+2
+
+Penetration of organized crime in the global
+economy increases significantly over a 10-year
+period, weakening state authority, worsening
+the investment climate and slowing growth
+
+3
+
+3
+
+Multiple developed economies take steps
+(tariffs, WTO disputes) which retard existing
+trade and further undermine talks on increased
+global integration
+
+3
+
+5
+
+3.5
+
+3
+
+46
+
+SEVERITY
+
+GEOPOLITICS
+
+GEOPOLITICS
+
+Multiple significant emerging economies
+advance policies that harm foreign direct
+investment and slow the engine of global
+growth
+
+LIKELIHOOD
+
+SEVERITY
+
+International terrorism
+
+4
+
+2
+
+3.5
+
+2
+
+4
+
+2.5
+
+Interstate and civil
+wars
+
+3.5
+
+4
+
+Transnational crime
+and corruption
+
+3.5
+
+3.5
+
+Retrenchment from
+globalization
+
+2.5
+
+5
+
+Proliferation of WMD
+
+Failed and failing
+states
+
+2007
+
+2008
+LIKELIHOOD
+
+4
+3
+
+3.5
+2.5
+
+5
+
+2.5
+
+4.5
+
+3.5
+
+3
+
+3
+
+3.5
+
+2.5
+
+3
+
+Natural catastrophe:
+Tropical Storms
+
+2
+
+3
+
+2
+
+3
+
+2
+
+2.5
+
+Extreme weather events linked to climate
+change will impact businesses and society at
+large (e.g. multiple tropical cyclones make
+landfall along the Gulf Coast, India, Bangladesh
+or China over a 10-year period)
+
+3.5
+
+3
+
+More frequent and severe heatwaves and
+droughts have harsh impacts on agricultural
+yields around the world
+
+3.5
+
+3
+
+3
+
+2
+
+Natural catastrophe: Category 5 tropical
+cyclone hits an economic centre such as Tokyo
+or southern Florida
+
+Middle East instability
+
+ENVIRONMENT
+
+ENVIRONMENT
+
+Declining quality and quantity of water in
+several major watersheds leads to water
+shortages and increased prevalence of waterborne disease.
+
+SEVERITY
+
+GEOPOLITICS
+
+GEOPOLITICS
+Middle-East instability
+• Worsening conflict in the Occupied
+Territories claims thousands of lives over
+a 10-year period, and exacerbates
+geopolitical tensions and economic
+decline throughout the region
+• All forms of violence in Iraq – sectarian,
+insurgent, terrorist – worsen and claim
+thousands of lives. Failure to achieve
+peace destabilizes the region on an
+ongoing basis
+
+LIKELIHOOD
+
+SEVERITY
+
+Climate change
+
+Loss of freshwater
+
+2
+
+Natural catastrophe: A strong earthquake hits
+an economic centre such as Tokyo, Los
+Angeles or San Francisco
+
+2
+
+3
+
+Natural catastrophe:
+Earthquakes
+
+Natural catastrophe: Extreme inland flooding of
+the Mississippi, Yangtze, Thames or Rhine
+rivers causes direct economic and human
+losses and serious disruption downstream
+
+2
+
+2.5
+
+Natural catastrophe:
+Inland Flooding
+
+47
+
+2007
+
+2008
+LIKELIHOOD
+
+LIKELIHOOD
+
+SEVERITY
+
+SEVERITY
+
+SOCIETY
+
+SOCIETY
+3
+
+4
+
+Pandemics
+
+2
+
+4
+
+Incidence of infectious disease continues to
+rise in Africa and rises dramatically in Russia
+and South-East Asia (TB and HIV/AIDS)
+
+2.5
+
+3
+
+Infectious disease in
+the developing world
+
+3
+
+2.5
+
+Chronic diseases become widespread in the
+developed world
+
+4
+
+3.5
+
+Chronic disease in
+developed countries
+
+4.5
+
+3
+
+US liability costs increase at 4x the rate of GDP
+growth, and spread rapidly to Europe and Asia.
+Capacity for global insurance is reduced,
+undermining investment and growth
+
+3
+
+3
+
+3
+
+3
+
+Breakdown of critical
+information
+infrastructure (CII)
+
+3
+
+3.5
+
+Emergence of risks
+associated with
+nanotechnology
+
+2
+
+2
+
+A pandemic disease jumps from the animal
+population to humans, with high mortality and
+transmission rates following
+
+TECHNOLOGY
+
+TECHNOLOGY
+Attack or system failure in CII creates a domino
+effect, shutting down IT-dependent applications
+in power, water, transport, banking and
+finance, and emergency management
+Studies reveal health impairment due to
+exposure to widely used nanoparticles (paint,
+cosmetics, healthcare). Primary impacts on
+public health and secondary impacts on
+investment in a range of nanotechnologies
+
+48
+
+Liability regimes
+
+3.5
+
+3.5
+
+2
+
+2-2.5
+
+Risk assessments – Lives lost
+1
+2
+3
+4
+5
+
+below 1%
+1-5%
+5-10%
+10-20%
+above 20%
+
+1 600-8 000
+8 000-40 000
+40 000-200 000
+200 000-1million
+>1million
+
+2007
+
+2008
+LIKELIHOOD
+
+LIKELIHOOD
+
+SEVERITY
+
+SEVERITY
+
+ECONOMICS
+
+ECONOMICS
+Rising and volatile prices create significant
+shortages for poor people globally (those whose
+consumption basket is more than 50% food)
+
+SEVERITY
+(deaths)
+
+LIKELIHOOD
+
+3
+
+5
+
+GEOPOLITICS
+
+GEOPOLITICS
+
+4
+
+1.5
+
+Proliferation of WMD
+
+3.5
+
+0.5
+
+US/China conflict
+
+3.5
+
+4
+
+4
+
+3.5
+
+Interstate and civil
+wars
+
+3.5
+
+4
+
+Transnational crime
+and corruption
+
+3.5
+
+2
+
+International terrorists mount multiple attacks
+with conventional and chemical (but not
+nuclear) weapons, causing significant
+economic and human losses and exacerbating
+the retrenchment from globalization
+
+3
+
+2
+
+International terrorism
+
+Collapse of NPT leads to multiple states
+simultaneously pursuing nuclear technologies
+and weaponization, with associated increase in
+geopolitical tensions dragging on the global
+economy
+
+3.5
+
+2
+
+Interstate & civil wars
+• US/Iran conflict
+• US/Democratic People’s Republic of
+Korea conflict
+
+3.5
+3
+2.5
+
+4
+3
+3
+
+Failed & failing states
+• Nation building in Afghanistan fails,
+providing haven for international terrorist
+groups and triggering the decline of the
+Pakistani state
+• Disorder in the Horn of Africa worsens as
+multiple states descend into conflict and
+offer haven for terrorist groups
+• A fragile Latin American regime collapses
+suddenly, spreading political and economic
+uncertainty throughout the region
+
+4
+4.5
+
+3.5
+2
+
+4
+
+2
+
+2
+
+1
+
+Penetration of organized crime in the global
+economy increases significantly over a 10-year
+period, weakening state authority, worsening
+the investment climate and slowing growth
+
+3
+
+1
+
+Failed and failing
+states
+
+49
+
+2007
+
+2008
+LIKELIHOOD
+
+SEVERITY
+
+SEVERITY
+
+4.5
+
+3
+
+3.5
+
+3
+
+GEOPOLITICS
+
+GEOPOLITICS
+Middle-East instability
+• Worsening conflict in the Occupied
+Territories claims thousands of lives over
+a 10-year period, and exacerbates
+geopolitical tensions and economic
+decline throughout the region
+• All forms of violence in Iraq – sectarian,
+insurgent, terrorist – worsen and claim
+thousands of lives. Failure to achieve
+peace destabilizes the region on an
+ongoing basis
+
+LIKELIHOOD
+
+4
+3
+
+3
+2
+
+5
+
+3.5
+
+Middle East instability
+
+ENVIRONMENT
+
+ENVIRONMENT
+Extreme weather events linked to climate
+change will impact businesses and society at
+large (e.g. multiple tropical cyclones make
+landfall along the Gulf Coast, India, Bangladesh
+or China over a 10-year period)
+
+3.5
+
+2.5
+
+More frequent and severe heatwaves and
+droughts have harsh impacts on agricultural
+yields around the world
+
+3.5
+
+2
+
+Declining quality and quantity of water in
+several major watersheds leads to water
+shortages and increased prevalence of waterborne disease
+
+3
+
+2.5
+
+Natural catastrophe: Category 5 tropical
+cyclone hits a densely populated area in an
+emerging country such as India, China or
+Bangladesh.
+
+4
+
+3
+
+Natural catastrophe:
+Tropical Storms
+
+Not available
+
+Natural catastrophe: A strong earthquake or
+seaquake (followed by a strong tsunami) hits a
+developing country such as China, India or
+Indonesia
+
+2
+
+4
+
+Natural catastrophe:
+Earthquakes
+
+Not available
+
+Natural catastrophe: Extreme inland flooding of
+the Mississippi, Yangtze, Thames or Rhine
+rivers causes direct economic and human
+losses and serious disruption downstream
+
+2
+
+2.5
+
+Natural catastrophe:
+Inland Flooding
+
+50
+
+Loss of freshwater
+
+2
+
+2
+
+2007
+
+2008
+LIKELIHOOD
+
+LIKELIHOOD
+
+SEVERITY
+
+SEVERITY
+
+SOCIETY
+
+SOCIETY
+3
+
+5
+
+Pandemics
+
+2
+
+4
+
+Incidence of infectious disease continues to
+rise in Africa and rises dramatically in Russia
+and South-East Asia (TB and HIV/AIDS)
+
+2.5
+
+5
+
+Infectious disease in
+the developing world
+
+3
+
+5
+
+Chronic diseases become widespread in the
+developed world
+
+4
+
+4
+
+Chronic disease in
+developed countries
+
+4
+
+4
+
+A pandemic disease jumps from the animal
+population to humans, with high mortality and
+transmission rates following
+
+TECHNOLOGY
+
+TECHNOLOGY
+Attack or system failure in CII creates a domino
+effect, shutting down IT-dependent applications
+in power, water, transport, banking and
+finance, and emergency management
+Studies reveal health impairment due to
+exposure to widely used nanoparticles (paint,
+cosmetics, healthcare). Primary impacts on
+public health and secondary impacts on
+investment in a range of nanotechnologies
+
+3.5
+
+1
+
+Breakdown of critical
+information
+infrastructure (CII)
+
+3
+
+1
+
+2
+
+1
+
+Emergence of risks
+associated with
+nanotechnology
+
+2
+
+1
+
+51
+
+Contributors
+
+This report was prepared by the Global Risk Team of
+the World Economic Forum, in conjunction with, and
+with inputs from, its partners.
+Core team
+Global Risk Team, World Economic Forum
+Charles Emmerson, Associate Director, World
+Economic Forum; Editor, Global Risk Report 2008
+Viktoria Ivarsson, Team Coordinator
+Johanna Lanitis, Research Analyst
+Sylvia Lee, Global Leadership Fellow, Environmental
+Risks
+Fiona Paua, Head of Strategic Insight Teams
+Gareth Shepherd, Global Leadership Fellow,
+Economic and Financial Risks
+Supported by Sean Cleary, Strategic Adviser
+Citigroup
+John Ingraham, Managing Director, Head of Risk
+Aggregation
+Maggie Xie, Senior Vice-President, Risk
+Aggregation
+Marsh & McLennan Companies (MMC)
+John Drzik, President and Chief Executive Officer,
+Oliver Wyman Group, USA
+Matt Elkington, Vice-President, Marsh Risk
+Consulting, Marsh, United Kingdom
+Chloe Franklin, Project Manager, MMC
+International, United Kingdom
+David Frediani, Executive Director, MMC
+International, United Kingdom
+Roland Rechtsteiner, Director, Corporate Risk
+Consulting, Oliver Wyman, Switzerland
+John Merkovsky, Managing Director, Global
+Practice Leader, Marsh Risk Consulting, Marsh
+(USA), USA
+
+52
+
+Swiss Re
+Esther Baur, Director, Head Issue Management,
+Swiss Re, Switzerland
+Catherine Burger, Director, Senior Issue &
+Partnership Manager, Swiss Re, Switzerland
+Kurt Karl, Senior Vice-President, Head of Economic
+Research & Consulting, Swiss Re American Holding
+Corp., USA
+Ivo Menzinger, Managing Director, Head
+Sustainability and Emerging Risk Management,
+Swiss Re, Switzerland
+Christian Mumenthaler, Head of Life & Health
+Products, Member of the Executive Board, Swiss
+Re, Switzerland
+Lisa Wyssbrod, Director, Senior Issue and
+Partnership Manager, Swiss Re, Switzerland
+
+The Wharton School, University of Pennsylvania
+Witold J. Henisz, Associate Professor of
+Management
+Howard Kunreuther, Cecilia Yen Koo Professor;
+Co-Director, Risk Management and Decision
+Processes Center
+Erwann Michel-Kerjan, Managing Director, Risk
+Management and Decision Processes Center
+
+Zurich Financial Services
+Daniel M. Hofmann, Group Chief Economist
+Hanspeter Frei, Global Head Risk Engineering
+Geoffrey M. Riddell, Chief Executive Officer, Global
+Corporate, and Member of Group Executive
+Committee
+
+Participants
+
+Over the past year the Global Risk Network has
+engaged with a wider group of experts in workshops
+held at The Wharton School in May, in London and
+Zurich in July, and in New York in October. These
+workshops, along with the risk assessment process
+and risk-related sessions in the broader context of
+World Economic Forum events in Singapore, Dalian
+and elsewhere, have provided broad expertise and
+invaluable insight for the writing of the current report.
+They are an integral part of the Global Risk
+Network’s mandate to originate and support
+multistakeholder dialogues to improve understanding
+of global risk and to increase the possibilities for risk
+mitigation.
+We would like to thank participants for their time –
+and above all for their insights:
+Dan Alamariu, Analyst, Global Macro, Eurasia
+Group
+Luca Albertini, Managing Director, Swiss Re
+Capital Management and Advisery, Swiss
+Reinsurance Company
+Larry Alberts, Managing Partner, Asia, Director,
+Oliver Wyman (MMC)
+Heike Allendorf, Director, Global Financial
+Institutions, Citigroup
+William Anderson, National Intelligence Officer,
+Economic and Global Issues, National Intelligence
+Council
+Karen Avery, Managing Director, Continuity Risk
+Practice, Marsh (MMC)
+Jamie Azhar, Risk Management Associate,
+Citigroup
+Ulrich Benterbusch, Director, G8 Summit, German
+Federal Ministry of Economics and Technology
+Stein Berre, Managing Director, Oliver Wyman
+(MMC)
+Olivia Bosch, Associate Fellow, International
+Security Programme, Chatham House
+Stefan Brem, Head of Risk Analysis and Research
+Coordination, German Federal Department of
+Defence, Civil Protection and Sport
+Hans-Kristian Bryn, Director, Corporate Risk
+Consulting, Oliver Wyman (MMC)
+Christopher Bunting, General Secretary,
+International Risk Governance Council (IRGC)
+Adrian Butt, Impacts and Adaptation, UK
+Department for Environment, Food and Rural Affairs
+
+Martin Caddick, Business Continuity Management
+Practice Leader, Marsh (MMC)
+Benjamin H. Cohen, Member of Secretariat,
+Financial Stability Forum
+Blake A. Coppotelli, Senior Managing Director,
+Business Intelligence and Investigations, Kroll (MMC)
+Patrick M. Cronin, Director of Studies, International
+Institute for Strategic Studies (IISS)
+Frank Diebold, W.P. Carey Professor of Economics,
+University of Pennsylvania
+Patrick Dill, Vice President, Emerging Risk
+Management, Swiss Re
+Thomas Epprecht, Director, Risk Engineering
+Services, Swiss Re
+Alex Evans, Senior Research Fellow, Center on
+International Cooperation (CIC)
+Gareth Evans, President, International Crisis Group
+Jesse Fahnestock, Climate Policy Team, Vattenfall
+Jean Fournier, Managing Director, Innovation,
+Marsh & McLennan Companies (MMC)
+Leon Fuerth, Research Professor of International
+Affairs, George Washington University
+Tina Gabbrielli, Director, US Department of
+Homeland Security
+Rafael Gil-Tienda, Chairman, Asia, Marsh &
+McLennan Companies (MMC)
+Rafael Gomes, Deputy Director, Political Risk,
+Exclusive Analysis
+Marc-Alexandre Graf, Risks Analyst, Federal Office
+for Civil Protection
+Robert L. Grenier, Managing Director, Kroll (MMC)
+Gary Guzy, Global Practice Leader for Climate Risk
+and Sustainability, Senior Vice-President, Marsh Risk
+Consulting, Marsh & McLennan Companies (MMC)
+Beat Habegger, Senior Researcher, Center for
+Security Studies, ETH Zurich
+Robert Hall, Vice-President, Risk Consulting
+Practice, Marsh & McLennan Companies (MMC)
+Scott Harrington, Health Care Systems and
+Insurance Risk Management, The Wharton School,
+University of Pennsylvania
+Melissa Hersh, Vice-President, Risk Intelligence
+Strategies & Resiliency Solutions, Marsh &
+McLennan Companies (MMC)
+Charles Hollis, Managing Director, Consulting
+Services Group, Kroll (MMC)
+John Huff, Managing Director, Claims & Liability
+Management, Swiss Re
+
+53
+
+John Hurrell, Head of Risk Consulting Practice
+EMEA, Marsh & McLennan Companies (MMC)
+Brian Ivanovic, Senior Vice President, L&H
+Products, Swiss Re
+Jason Johnston, Robert G. Fuller Jr Professor of
+Law and Director, Program on Law, the Environment
+and the Economy, University of Pennsylvania Law
+School
+Steve Kobrin, Professor of Multinational
+Management, The Wharton School, University of
+Pennsylvania
+Gary Lynch, Managing Director, Global Leader Risk Intelligence Strategies and Resiliency Solutions,
+Risk Consulting Practice, Marsh & McLennan
+Companies (MMC)
+Thierry Malleret, Partner, Rainbow Insight
+Gregoire Mauchamp, Director, Insurance and
+Pensions Structured Solutions, Citigroup
+Robert Meyer, Gayfryd Steinberg Professor;
+Professor of Marketing; Chairperson, Marketing
+Department; Co-Director, Risk Management and
+Decision Processes Center, The Wharton School,
+University of Pennsylvania
+Christoper Michaelson, Director, Governance,
+Risk & Compliance, PricewaterhouseCoopers
+Frederick Morlaye, Senior Vice President,
+European Capital Market Group, Guy Carpenter &
+Company (MMC)
+Herbert Oberhänsli, Head, Economics and
+International Relations, Nestlé
+Ryan Ogaard, Global Practice Leader - Instrat, Guy
+Carpenter & Company (MMC)
+Christian Pedersen, Director, Finance & Risk,
+Mercer Oliver Wyman (MMC)
+Jean-François Rischard, Vice-President, Europe,
+World Bank (1998-2005)
+Stephen Roberts, Senior Vice-President, Risk
+Consulting Practice, Marsh & McLennan Companies
+(MMC)
+Melinda Roth, Head of the Integrated Risk
+Management team, World Bank
+Armen Sarkissian, President and Founder, Eurasia
+House International
+Ross Schaap, Analyst, Asia, Eurasia Group
+Pierre-Alain Schieb, Counsellor, Advisory Unit to
+the Secretary-General, Organisation for Economic
+Co-operation and Development (OECD)
+
+54
+
+Lynn Slepski, Deputy Director, Office of Risk
+Management and Analysis, US Department of
+Homeland Security
+Rosie Smith, Economist, UK Department for
+Environment, Food and Rural Affairs
+David Steven, Managing Director, River Path
+Associates
+John Stroughair, Managing Director, Corporate
+Risk, Oliver Wyman (MMC)
+Rolf Tanner, Head of Socio-Political and Risk
+Research, Swiss Re
+John Tesh, National Risk Assessment, United
+Kingdom Government
+Leo Tomlin, Pakistan Desk, Foreign and
+Commonwealth Office of the United Kingdom
+Maryam Umar, Risk Management Associate,
+Citigroup
+Mike Useem, Professor of Management and
+Director, Center for Leadership and Change
+Management, The Wharton School, University of
+Pennsylvania
+Philippe Velard, Advisor, Operational Risk Financial Institutions, Marsh & McLennan
+Companies (MMC)
+Gary G. Venter, Managing Director, Guy Carpenter
+Inc.
+David G. Victor, Professor of Law and Director,
+Program on Energy and Sustainable Development,
+Stanford University
+Martin Weymann, Vice-President, Emerging Risk
+Management, Swiss Re
+Dickie Whitaker, Managing Director, Guy
+Carpenter & Company (MMC)
+Nathalie Wlodarczyk, Deputy Director of Analysis,
+Exclusive Analysis
+Ngaire Woods, Director, Global Economic
+Governance Programme
+Keith Woolnough, Vice-President, L&H Risk
+Management, Swiss Re
+Justin Wolfers, Assistant Professor of Business
+and Public Policy and Faculty Research Fellow, The
+Wharton School, University of Pennsylvania
+Ann Wyman, Managing Director, Economic and
+Political Strategies, Citigroup
+
+The World Economic Forum is an independent
+international organization committed to improving
+the state of the world by engaging leaders in
+partnerships to shape global, regional and
+industry agendas.
+Incorporated as a foundation in 1971, and based
+in Geneva, Switzerland, the World Economic
+Forum is impartial and not-for-profit; it is tied to
+no political, partisan or national interests.
+(www.weforum.org)
+
+

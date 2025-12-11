@@ -1,0 +1,1574 @@
+WMO statement on
+the status of the
+global climate in 2009
+
+WMO-No. 1055
+
+WMO-No. 1055
+© World Meteorological Organization, 2010
+The right of publication in print, electronic and any other form and in any language is reserved by WMO. Short
+extracts from WMO publications may be reproduced without authorization, provided that the complete source
+is clearly indicated. Editorial correspondence and requests to publish, reproduce or translate this publication
+in part or in whole should be addressed to:
+Chair, Publications Board
+World Meteorological Organization (WMO)
+7 bis, avenue de la Paix
+P.O. Box 2300
+CH-1211 Geneva 2, Switzerland
+
+Tel.: +41 (0) 22 730 84 03
+Fax: +41 (0) 22 730 80 40
+E-mail: publications@wmo.int
+
+ISBN 978-92-63-11055-8
+
+WMO in collaboration with Members issues since 1993 annual statements on the status of the global
+climate. This publication was issued in collaboration with the Hadley Centre of the UK Meteorological
+Office and the Climatic Research Unit, University of East Anglia, United Kingdom of Great Britain and
+Northern Ireland; and the National Climatic Data Center, the National Environmental Satellite, Data,
+and Information Service, and the National Weather Service of the National Oceanic and Atmospheric
+Administration (NOAA), the Goddard Institute for Space Studies operated by the National Aeronautics and
+Space Administration (NASA), and the National Snow and Ice Data Center, United States of America. Other
+contributors are the National Meteorological and Hydrological Services of Algeria, Argentina, Australia,
+Brazil, Canada, China, Colombia, Ecuador, Finland, France, Germany, Iceland, India, Japan, Morocco, Spain,
+Sweden, Tunisia, Turkey and Uruguay. The WMO Regional Association VI (Europe) Regional Climate Centre
+on Climate Monitoring, the African Centre of Meteorological Applications for Development (ACMAD,
+Niamey), the Australian Commonwealth Scientific and Industrial Research Organization (CSIRO), the
+International Research Centre on El Niño (CIIFEN, Guayaquil, Ecuador), the Intergovernmental Authority
+on Development (IGAD) Climate Prediction and Applications Centre (ICPAC, Nairobi), the Southern African
+Development Community Drought Monitoring Centre (SADC DMC, Gabarone) and the World Climate
+Research Programme (WCRP) also contributed.
+
+Cover: The beauty and variety of the weather. Illustration by Felix Jegenberg, 8 years old, Sweden
+
+NOTE
+The designations employed in WMO publications and the presentation of material in this publication do not imply the expression of any
+opinion whatsoever on the part of the Secretariat of WMO concerning the legal status of any country, territory, city or area, or of its
+authorities, or concerning the delimitation of its frontiers or boundaries.
+Opinions expressed in WMO publications are those of the authors and do not necessarily reflect those of WMO. The mention of specific
+companies or products does not imply that they are endorsed or recommended by WMO in preference to others of a similar nature
+which are not mentioned or advertised.
+
+Foreword
+Since 1993, the World Meteorological
+Organization (WMO) has been issuing its
+annual “WMO Statement on the Status of
+the Global Climate”, which has become an
+authoritative regular source of information,
+eagerly sought by the scientific community
+and the media.
+The present Statement is the latest addition to
+this successful series, and a key result is that
+the period 2000–2009 was the warmest decade on record since the beginning of modern
+instrumental measurements around 1850.
+A number of extreme weather and climate
+events were recorded in 2009, including in
+particular heatwaves in China, India and southern Europe, as well as in Australia. Severe
+droughts, intense storms and flooding were
+also registered in different parts of the world,
+and the end of 2009 was notably cold in the
+northern hemisphere, with heavy snowfall in
+Europe, North America and northern Asia.
+
+and precipitation variations, tropical cyclones,
+drought and flooding, snow cover and sea
+ice, the ozone layer and many other critical
+weather, climate and water parameters monitored across the world over the year which
+has concluded.
+Equally outstanding were the continuing
+efforts of several climate centres to develop
+the long-term homogeneous datasets required
+to support the authoritative assessments that
+contributed to the work of WMO, the United
+Nations Framework Convention on Climate
+Change, the Intergovernmental Panel on
+Climate Change, the World Climate Research
+Programme and other key scientific activities
+across the world.
+I therefore wish to express the gratitude of
+the World Meteorological Organization to all
+contributors to the WMO Statement on the
+Status of the Global Climate in 2009.
+
+Furthermore, the year concluded with a moderate El Niño event, which is being continuously
+monitored.
+It is essential to underscore the vital role of
+the National Meteorological Services of the
+189 Members of WMO and of many WMO
+partners for their key efforts to maintain the
+necessary observing infrastructure and the
+information systems, which permitted the
+exchange of data and analyses of temperature
+
+(M. Jarraud)
+Secretary-General
+
+
+
+Global temperature during 2009
+
+Figure 2. Annual global
+average temperature
+anomalies (relative to
+1961–1990) from 1850
+to 2009 from HadCRUT3
+(black line and grey area,
+representing mean and
+95 per cent uncertainty
+range), the NOAA
+National Climatic Data
+Center (red) and the
+NASA Goddard Institute
+for Space Studies (blue)
+(Source: Met Office Hadley
+Centre, UK, and Climatic
+Research Unit, University of
+East Anglia, UK)
+
+The southern hemisphere was
+particularly warmer than the
+long-term average, especially
+during the austral winter and
+late spring.
+
+Temperature difference (°C)
+from 1961–1990 average
+
+Global temperature assessment is provided
+with an uncertainty margin that affects the
+global sur face temperature
+figures and consequently their
+ranking, mainly as a result of the
+existing gaps in data coverage.
+The magnitude of the uncertainty
+in assessing the global surface
+temperature in 2009 is estimated
+at 0.10°C. Therefore, the most
+likely value of the global surface
+temperature anomaly for 2009 is
+between +0.34°C and +0.56°C.
+
+Rank
+
+Rank of hottest years to coldest
+
+0.6
+Anomaly (°C) relative to 1961–1990
+
+Figure 1. Global ranked
+surface temperatures
+for the warmest
+50 years. Inset shows
+global ranked surface
+temperatures from 1850.
+The size of the bars
+indicates the 95 per cent
+confident limits
+associated with each
+year. The source data
+are blended land surface
+air temperature and sea
+surface temperature
+from HadCRUT3 series
+(Brohan and others,
+2006). Values are simple
+area-weighted averages
+for the whole year.
+(Source: Met Office Hadley
+Centre, UK, and Climatic
+Research Unit, University of
+East Anglia, UK)
+
+The year 2009 is nominally ranked as the fifth
+warmest year on record since the beginning
+of instrumental climate records around 1850.
+On the decadal scale, the analysis shows that
+the 2000s decade (2000–2009) was warmer
+than the 1990s (1990–1999), which in turn
+were warmer than the 1980s (1980–1989) and
+earlier decades.
+
+Note: There are three independent datasets used for the
+analysis of the global temperature anomaly. Based on two
+global datasets maintained independently by the Met Office
+Hadley Centre and Climatic Research Unit, University of
+East Anglia in the United Kingdom and the National Climatic
+Data Center of the National Oceanic and Atmospheric
+Administration (NCDC–NOAA) in the United States, the
+analysis of the global surface temperature for the year
+2009 shows anomalies of +0.44°C (+0.59°F) and +0.46°C
+(+0.63°F) in the two datasets, respectively, with reference
+to the 1961–1990 long-term average of 14°C (57.2°F). A third
+dataset, which is maintained by the Goddard Institute for
+Space Studies operated by the National Aeronautics and
+
+HadCRUT3
+NCDC
+GISS
+
+0.4
+0.2
+0.0
+– 0.2
+– 0.4
+– 0.6
+– 0.8
+
+
+
+1850
+
+1900
+
+1950
+
+2000
+
+14.42
+
+2000–2009
+14.25
+
+1990–1999
+14.09
+
+1980–1989
+13.93
+
+1970–1979
+
+13.90
+
+1960–1969
+
+13.85
+
+1950–1959
+
+Decade
+
+Space Administration (NASA) in the United States, shows
+a global surface temperature anomaly of +0.50°C for 2009,
+which is in the same range as above. Information on source
+and methodology for global surface temperature assessment
+is provided on page 12.
+
+Regional temperature anomalies
+
+13.94
+
+1940–1949
+
+13.87
+
+1930–1939
+13.72
+
+1920–1929
+13.60
+
+1910–1919
+
+13.61
+
+1900–1909
+
+13.68
+
+1890–1899
+
+13.74
+
+1880–1889
+
+According to the reports provided by the
+National Meteorological and Hydrological
+Services, above-normal annual temperatures
+were recorded in 2009 in most parts of the
+continents. However, parts of the United States
+and Canada, and central Siberia experienced
+cooler temperatures than average. During the
+year, extreme warm episodes were frequently
+recorded in southern South America, Australia
+and southern Asia. In the southern hemisphere,
+August and November set new temperature
+records.
+Europe
+In Europe, warmer-than-average temperatures
+were recorded during most of the year. In
+some parts of western and central Europe,
+colder-than-average conditions were recorded
+at the beginning of the year. Spring was very
+warm in Europe. April was particularly mild
+in Germany, the Czech Republic and Austria
+
+13.63
+
+1860–1869
+
+13.61
+
+1850–1859
+13.4
+
+Average 1961–1990
+
+13.77
+
+1870–1879
+
+13.6
+
+13.8
+
+14.0
+
+14.2
+
+14.4
+
+14.6
+
+Global Temperature (°C)
+
+with monthly mean temperature anomalies
+of more than +5°C in some places. The mean
+April temperatures ranged between 10°C and
+15°C compared to the long-term average values
+ranging between 5°C and 10°C. The summer
+was also warmer than the long-term average,
+particularly over southern Europe. Spain had
+the third warmest summer after the very hot
+summers of 2003 and 2005. However, a very
+cold October was reported in Scandinavia, with
+mean temperature anomalies ranging from
+–2°C to –4°C. Early winter 2009/2010 started
+with an extended cold wave of more than a
+week in most of Europe. On some days in
+December, the minimum temperature dropped
+to –40°C in some locations in Scandinavia,
+–17°C in northern Italy and below –20 °C in the
+
+90N
+
+Figure 3. Decadal global
+average combined
+land–ocean surface
+temperature (°C)
+combining two global
+temperature datasets
+(Sources: (a) Met Office
+Hadley Centre, UK, and
+Climatic Research Unit,
+University of East Anglia,
+UK; (b) National Climatic
+Data Center, NOAA, United
+States. The only dataset
+available for decades
+1850–1859, 1860–1869 and
+1970–1979 is (a)).
+
+Figure 4. Global field of
+land surface and sea
+surface temperature
+anomalies (°C), relative
+to 1961–1990 for 2009
+(Source: Met Office Hadley
+Centre, UK, and Climatic
+Research Unit, University of
+East Anglia, UK)
+
+60N
+
+30N
+
+0
+
+30S
+
+60S
+90S
+180
+
+–10
+
+120W
+
+–5
+
+–3
+
+60W
+
+–1
+
+–0.5
+
+0
+
+–0.2
+
+0
+
+60E
+
+0.2
+
+0.5
+
+120E
+
+1
+
+3
+
+180
+
+5
+
+10
+
+
+
+Arctic Sea Ice
+North America snow cover extent
+
+Alaska
+
+Third largest October snow cover extent on record;
+largest December snow cover extent on record
+
+Had its second
+warmest July,
+behind 2004,
+on record
+
+Canada
+A tornado claimed the lives of three people in
+Ontario, the first tornado-related fatalities in Canada
+since 1995 (July). Toronto, Ontario had a snow-free
+November for the first time in recorded history.
+
+United States
+Hurricane Rick (October)
+Maximum winds 285 km/h
+The second most intense Eastern
+North Pacific hurricane on record,
+behind Linda of 1997, and the
+strongest hurricane to form in
+October since reliable records began
+
+Hurricane Andres (June)
+Maximum winds 130 km/h
+Andres was Eastern North Pacific’s latest
+arrival of a named storm since reliable
+records began in 1970.
+
+Eastern North Pacific
+hurricane season
+Near average activity
+20 storms, 8 hurricanes
+
+Third lowest extent on record in September,
+behind 2007 and 2008. September 1996
+was the last year with above average sea
+ice extent.
+Ireland
+
+Record floods on the Red River in
+the northern Plains region (March); wettest
+October since records began 115 years
+ago; below average tornado season
+after record activity in 2008
+
+Experienced its coolest
+December in 28 years
+
+United Kingdom
+
+Mean temperature of 3.2°C during winter
+2008/2009, the coldest since 1996/1997;
+heavy snow in parts of the country (February), the
+worst snowstorm since February 1991; wettest
+November since records began in 1914, exceeding
+the previous record set in 1951; coolest
+December since 1995. In Scotland, twice the
+average August rainfall; tied with 1985 as the
+wettest August since national records began
+in 1914
+
+Atlantic hurricane season
+
+Mexico
+Experienced
+severe to
+exceptional
+drought conditions
+(September)
+
+Guatemala
+
+Below average activity
+9 storms, 3 hurricanes
+
+Hurricane Ida (November)
+Maximum winds 165 km/h
+Brought heavy rain across Nicaragua and
+Honduras; made landfall in the United States
+as a tropical storm, producing heavy rain
+across the south-eastern region
+
+Drought decreased
+harvests by up to 50 per
+cent; 400 000 families
+were affected (September).
+
+Colombia
+Copious rainfall triggered widespread
+floods across western Colombia. Nearly
+2 500 families were affected (February).
+
+ENSO
+
+Peru
+Torrential rainfall
+fell over Peru’s
+south-eastern region
+of Puno, resulting in a
+deadly landslide (March).
+
+Extratropical Storm Klaus
+(equivalent to a category 3 hurricane),
+responsible for 30 fatalities (January),
+was the worst storm to hit the region
+since a December 1999 storm that
+claimed 88 lives.
+
+Burkina Faso
+Heavy rain and floods affected
+150 000 people; 263 mm of
+rain fell in a 12-hour period,
+breaking a record last set
+90 years ago (September).
+
+Zambia and Namibia
+
+Brazil
+
+La Niña conditions transitioned into a warm
+phase ENSO (El Niño) in June.
+
+Spain and France
+
+Torrential downpours caused
+floods and mudslides, affecting
+over 186 000 residents. This
+region experienced its worst
+deluge in over 20 years (April).
+
+Torrential rain prompted the
+overflow of rivers, flooding homes
+and cropland. Nearly 1 million people
+were affected. The Zambezi River
+reached its highest level since
+1969 (March and April).
+
+South-eastern South America
+Between September and December,
+several intense storms severely affected
+this region, producing daily and monthly
+records of rainfall as well as flooding.
+
+Argentina
+Heavy rainfall caused a
+devastating landslide in northern
+Argentina, destroying over
+300 homes and affecting nearly
+20 000 people (February).
+
+Global tropical cyclone activity
+Below average activity
+
+81 storms
+33 hurricanes/typhoons/cyclones
+19 “major” hurricanes/typhoons/cyclones
+
+Argentina
+An extremely cold November affected
+the Patagonia region. Late snowfalls broke
+frequency records in some locations, where
+4–11 days with snow were reported.
+
+north-east of France. The combination of cold
+weather and extensive snowfalls was unusual
+in the United Kingdom, which experienced the
+most prolonged spell of freezing temperatures
+and snowfall across the country since winter
+1981/1982.
+Asia
+Apart from some areas in northern Asia,
+the rest of the continent experienced
+
+
+higher-than-average temperatures. India
+recorded its warmest year since 1901 with a
+mean temperature anomaly of +0.93°C. China
+had its fourth warmest year since 1951. The
+year started with a very mild January in large
+parts of the continent, although February was
+particularly cold in the Russian Federation.
+Spring was warmer than average across the
+whole continent, as was summer in most parts
+of the region. Temperatures during December
+
+Russian Federation
+
+Central Europe
+Heavy rain triggered floods,
+causing central Europe’s worst
+natural disaster since
+the 2002 floods (June).
+
+Experienced anomalously cool conditions during
+February 2009. Temperature anomalies across most of the Russian
+Federation ranged from 3–6°C below the 1961–1990 average.
+
+China
+
+Turkey
+
+Italy
+
+North-western Turkey received its
+heaviest rainfall in 80 years in
+a 48-hour period (September).
+
+China
+
+Suffered from its worst drought
+in five decades. Drought conditions affected over
+4 million people (February). Violent storms across central
+China destroyed nearly 9 800 homes and caused up
+to US$ 39 million in agricultural losses (June).
+
+Experienced its worst mudslide in
+more than a decade, when 229 mm
+India
+of rain fell in a 3-hour period
+Bhutan
+India experienced its
+in Sicily (October)
+Received its heaviest
+weakest monsoon
+Saudi Arabia
+rainfall in 13 years
+season since 1972,
+Jeddah had its worst
+(October)
+with 23 per cent below
+floods in nearly three
+Bangladesh
+normal rainfall on
+decades (November).
+Dhaka received 290 mm
+average across the
+nation for the season. of rain on 29 July,
+East Africa
+the largest rainfall
+Drought led to massive food
+in a single July
+India
+shortages. In Kenya, the
+day since 1949.
+Heavy rain fell over the
+drought was responsible
+southern
+states,
+leaving
+for the loss of over
+2.5 million people homeless
+150 000 livestock and a
+and claiming the lives of nearly
+40 per cent decrease in
+300 people (October).
+maize harvests. Overall,
+23 million people were
+affected (September).
+
+Western North Pacific typhoon season
+
+Heavy snow over parts of northern China;
+heaviest snowfall in 55 years for the
+Hebei province and in history for the
+Shaanxi province (November)
+
+North Indian Ocean
+cyclone season
+Near average activity
+5 storms, 1 cyclone
+
+South Indian Ocean
+cyclone season
+Near average activity
+16 storms, 7 cyclones
+
+Tropical Cyclone Fanele (January)
+Maximum winds 185 km/h
+Brought heavy rain and strong winds to
+Madagascar; affected nearly 28 000 people
+
+Below average activity
+22 storms, 13 typhoons
+
+Japan
+Torrential rain across south-western Japan led to flooding and
+landslides (July). The area had a record amount of rainfall in July.
+
+Typhoon Morakot (August)
+Maximum winds 155 km/h
+The deadliest typhoon to hit Taiwan Province of China since records
+began; prompted the worst flooding in five decades on the island;
+destroyed over 10 000 homes and caused 614 fatalities
+
+Typhoon Ketsana (September)
+Maximum winds 165 km/h
+World’s second deadliest tropical cyclone of 2009; caused Manila’s worst
+flooding in 40 years. The heaviest precipitation (424 mm) fell in a 12-hour
+period, breaking a 24-hour record (335 mm) set in 1967 and surpassing
+the average September monthly rainfall (391 mm) for the area.
+
+Philippines
+Received well above average precipitation during October; mainly due
+to the combined effects of typhoons Parma, Lupit and Mirinae, which
+brought torrential rain across the islands, triggering fatal floods (October)
+
+Papua New Guinea
+
+Indonesia
+Heavy rain over Jakarta caused
+a 76-year-old dam to burst.
+The wall of water inundated
+hundreds of homes (March).
+
+Australia
+
+Heavy downpours triggered a fatal
+landslide (March).
+
+Tropical Cyclone Hamish
+Maximum winds 215 km/h
+The most intense cyclone observed off the
+eastern Queensland coast since 1918
+
+Record-breaking heatwave affected
+southern Australia during January/February.
+Accompanying very dry conditions contributed to
+the development of deadly wildfires. Also, Australia
+had its warmest August and warmest November
+since national records began 60 years ago.
+
+South Pacific tropical
+cyclone season
+Below average activity
+10 storms, 1 cyclone
+
+Southern hemisphere
+Characterized by recording one of the warmest
+years with August and November 2009 at the
+top of their ranking
+
+Antarctic ozone hole: 24 million km² at its peak
+in mid-September; fifteenth largest on record since
+satellite records began in 1979
+
+were well below average over northern Asia
+with monthly temperature anomalies ranging
+between –4°C and –8°C.
+North America
+The year started with colder-than-normal
+weather conditions over the Great Lakes region
+in Canada, as well as the north-east of the
+United States and Alaska. The rest of the United
+States and Mexico experienced a mild January
+
+New Zealand
+Warmest August since national records
+began 155 years ago; experienced cool
+conditions during October 2009, resulting
+in the coolest October since 1945
+
+and February. Spring presented a similar
+pattern to that observed in the winter, with a
+predominance of below-normal temperatures
+in Canada and above-normal temperatures
+in the rest of the region. In late July, many
+cities in Canada recorded their warmest daily
+temperatures; for example, Victoria set a
+new record of 35°C on 29 July. Conversely,
+October was colder than the long-term average across the United States. For the nation
+
+Figure 5. Significant
+climate anomalies and
+events in 2009
+(Source: National Climatic
+Data Center, NOAA, United
+States)
+
+
+
+as a whole, it was the third coolest October on
+record, with an average temperature anomaly
+of –2.2°C (–4°F). Oklahoma recorded the lowest monthly mean temperature for October
+(12.3°C); the previous record (12.4°C) was
+set in 1925. December was also colder than
+normal across most of the United States with
+monthly temperature anomalies around –5°C
+in the central and western regions.
+South America
+During 2009, warmer-than-normal conditions predominated across the region, with
+the south most affected. Argentina had its
+warmest year of the last five decades. The
+austral summer was warmer than normal in
+Chile, Argentina and eastern Brazil, while the
+north-east of the region experienced coolerthan-normal conditions. Autumn (March to
+May) was particularly warm in Argentina,
+Uruguay, Paraguay and southern Brazil. In
+fact, a large part of central Argentina recorded
+the warmest autumn since 1961 with seasonal
+temperature anomalies ranging between +2°C
+and +3°C. August was exceptionally warm
+in southern South America and many new
+daily maximum temperature records were
+set; for example, Buenos Aires set a new
+record of 34.4°C on 30 August. However, in
+June and July below-normal temperatures
+were recorded in Paraguay, Uruguay and
+southern Brazil. Abnormally cold conditions also prevailed in the southern part of
+Argentina, with several late snowfalls and
+frosts in November.
+
+Figure 6. Monthly air
+surface temperature
+anomalies over Europe
+showing departures
+in degrees Celsius,
+1961–1990 base for
+December 2009
+(Source: Deutscher
+Wetterdienst, Germany)
+
+
+
+Less than –4
+–4 to –3
+–3 to –2
+–2 to –1
+–1 to 0
+0 to 1
+1 to 2
+2 to 3
+3 to 4
+Greater than 4
+
+Australia
+In Australia, 2009 was the second warmest
+year in a temperature series that began in 1910.
+The average temperature was 0.9°C above
+the 1961–1990 long-term average. Summer
+was very warm, except in the north, which
+experienced colder-than-normal conditions in
+conjunction with an active monsoon. Winter
+was exceptionally mild over much of Australia.
+In August, maximum temperatures were well
+above normal across the entire continent,
+recording up to 7°C above the monthly longterm average in some places; the national
+mean maximum temperature anomaly of
++3.2°C was the highest ever recorded for
+any month. November was also very warm
+across the south-eastern region with mean
+maximum temperature anomalies between
++4°C and +8ºC.
+
+Heatwaves and cold waves
+Italy recorded two heatwaves in the second
+half of July with maximum daily temperatures above 40°C; some local temperatures
+soared to 45°C. An extreme heatwave also hit
+India during May, which caused 150 deaths.
+Northern China also experienced a heatwave
+during June when daily maximum temperatures rose above 40°C; historical maximum
+temperature records were broken for the summer in some locations. Australia was marked
+by exceptional heatwaves, which affected
+the south-eastern part of the country in
+
+and beginning of November. Unusually high
+temperatures of above 40°C were recorded in
+many places and for several consecutive days.
+Several daily temperature records were broken, often by a wide margin; in some locations
+the annual absolute maximum temperature
+records were also broken, such as the 47°C
+temperature recorded in Catamarca.
+
+–15
+–20
+–25
+
+5
+4
+
+–30
+
+3
+2
+
+–35
+
+1
+0
+
+–40
+
+–1
+–2
+
+–45
+
+–3
+–4
+
+–50
+
+–5
+
+–55
+–75
+
+–70
+
+–65
+
+–60
+
+–55
+
+–50
+
+–45
+
+–40
+
+January/February and November, and the
+subtropical eastern part in August. The
+January/February heatwave was associated
+with disastrous bushfires that caused more
+than 173 fatalities. Victoria recorded its highest temperature with 48.8°C at Hopetoun, the
+highest temperature ever recorded so far south
+anywhere in the world.
+Argentina was affected by an exceptional
+heatwave affecting the northern and central
+part of the country at the end of October
+
+Figure 7. Mean maximum
+temperature anomalies
+(°C) over southern South
+America during austral
+autumn 2009
+(Source: National
+Meteorological Service of
+Argentina)
+
+Northern China was affected by very low
+temperatures during the first half of November
+as part of an early cold wave. Large parts
+of the United States, central and northern
+Europe and northern Asia were affected by
+an extended cold wave during the second
+half of December, the intensity varying with
+geographical location. For example, Germany
+reported daily minimum temperatures ranging
+between –10°C and –25°C with several locations setting new daily minimum records in
+at least six decades. In Switzerland, Geneva
+recorded –12.6°C, the lowest temperature for
+December since the temperature dropped to
+–14°C in 1968. Some minimum daily temperature records were also tied or broken in the
+United States.
+
+Global precipitation
+Global precipitation during 2009 was near
+the 1961–1990 average. However, regionally,
+drier-than-average conditions were recorded
+across Alaska’s panhandle, southern Australia,
+southern South America, and parts of Western
+
+Figure 8. Annual
+precipitation anomalies
+for global land areas for
+2009; gridded 1.0-degree
+raingauge-base analysis
+as normalized departures
+in mm/month from
+normal focusing on
+1951–2000 base period
+(Source: Global Precipitation
+Climatology Centre,
+
+90N
+
+60N
+
+30N
+
+0
+
+30S
+
+Deutscher Wetterdienst,
+Germany)
+
+60S
+
+90S
+180
+
+120W
+
+60W
+
+–70
+
+–50
+
+0
+
+–30
+
+–10
+
+60E
+
+10
+
+30
+
+120E
+
+50
+
+180
+
+70
+
+
+
+Figure 9. Percentage of
+precipitation anomaly
+(%) over China during
+summer 2009
+(Source: China Meteorological
+Administration)
+
+> 80
+60 to 80
+30 to 60
+10 to 30
+0 to 10
+–10 to 0
+–30 to –10
+–60 to –30
+–80 to –60
+< –80
+
+Europe and southern Asia. On the other hand,
+south-eastern Brazil, Uruguay, parts of eastern
+and south-eastern Asia, most of Europe and
+the eastern half of the contiguous United
+States experienced wetter conditions than
+the long-term average.
+
+Severe droughts
+China suffered from severe drought during
+most of the seasons in 2009. Water levels in
+parts of the Gan and Xiangjiang Rivers were
+the lowest in 50 years. In India, the poor monsoon season was reported to be one of the
+weakest since 1972. It caused severe drought
+impacts in 40 per cent of the districts and the
+north-western and north-eastern parts of the
+country were severely affected.
+In East Africa the drought led to massive food
+shortages. In Kenya the drought was responsible for severe damage to livestock and a
+40 per cent decline in the maize harvest.
+In Nor th America, Mexico experienced
+severe-to-exceptional drought conditions by
+September. In the United States, the western
+region was the most affected by a moderateto-exceptional drought by the end of October.
+
+
+Nevertheless, the total area affected by drought
+in the United States during October was the
+second smallest value recorded during the
+decade.
+Drought in central Argentina caused severe
+damage to agriculture, livestock and water
+resources. The situation was most severe at
+the end of October, in combination with the
+recorded high temperatures.
+
+Intense storm events and flooding
+At the end of January, Spain and France were
+severely affected by winter storm Klaus,
+the worst extra-tropical storm in a decade,
+with wind speeds equivalent to a Category 3
+hurricane. During the same month, a wintry storm combined with heavy snowfall
+caused severe damage in Western Europe
+and resulted in serious disruptions to air and
+rail traffic in several countries. In late spring
+and summer, a large number of thunderstorms with heavy rain, hail and tornadoes
+caused local flooding and significant damage
+across Germany. In September, several parts
+of the Mediterranean region were affected
+by extreme rainfall events. Total rainfall of
+more than 300 mm was recorded in less than
+
+48 hours in one location in south-eastern
+Spain, where the long-term average of total
+annual precipitation does not exceed 450 mm.
+During the same month, intense rainfall
+caused devastating damage to infrastructure
+in several parts of northern Africa, including
+Algeria, Morocco and Tunisia. In Turkey the
+extreme weather events recorded during
+2009, including severe storms, tornadoes,
+frosts, hail storms, floods and landslides,
+marked a record high since 1941. November
+brought severe flooding to areas of the northern United Kingdom, with daily rainfall of
+more than 200 mm in Seathwaite, totalling 379
+mm in 48 hours. It was the wettest November
+for the United Kingdom as a whole since 1914.
+The year ended with significant snowstorms
+and extreme frosts all over Europe, which
+resulted in some damage and transport disruptions. A record-breaking 13-month-long
+storm-free period in Swedish coastal waters
+ended on 25 December when local storm
+winds swept the Swedish east coast.
+During the beginning of the year heavy rainfall was observed in Colombia, producing
+landslides and widespread floods. Northeast Brazil was severely affected by heavy
+rainfall and flooding in April and May. In
+July, a severe snowstorm – the worst in
+
+15 years – hit the southern part of Argentina.
+During the austral spring, particularly in
+November, continuous, heavy and intense
+rainfall in north-eastern Argentina, southern
+Brazil and Uruguay caused flooding in many
+places, affecting more than 15 000 people.
+Total monthly precipitation records were
+broken, with rainfall exceeding 500 mm in
+many locations.
+In Canada, Ontario experienced a record
+number of witnessed tornadoes and a record
+number of related fatalities. Canadian avalanches were almost double the yearly average
+for the past decade and the worst since
+2002/2003. A total of 25 deaths made it one
+of the deadliest seasons. The northern plains
+region of the United States was affected by
+record flooding during March. As a whole, the
+United States recorded the wettest October in
+115 years. A major snowstorm hit the northeast region of the country in the second half of
+December, setting new snowfall records from
+Washington to Boston. Travel of every type
+was disrupted; airports, interstate highways
+and local roads were closed, and rail lines
+were shut down.
+In Central America, an intense storm in El
+Salvador in November, associated in part
+
+Rainfall decile ranges
+Highest on
+record
+10
+
+Very much
+above average
+
+8–9
+
+Above average
+
+4–7
+
+Average
+
+2–3
+
+Below average
+
+1
+
+Very much
+below average
+
+Figure 10. Australian
+rainfall deciles for the
+year 2009. Deciles are
+calculated relative to
+the period 1900–2009,
+with distribution based
+on gridded data from the
+National Climate Centre.
+(Source: Commonwealth of
+Australia, Australian Bureau
+of Meteorology)
+
+Lowest on
+record
+
+
+
+with Hurricane Ida, produced deadly floods
+and landslides that claimed 192 lives.
+In Asia, after the weak 2009 monsoon season,
+southern India recorded severe flooding due to
+incessant rain in late September and the first
+week of October, and around 300 lives were
+lost. Northern China was severely affected by
+a snowstorm that occurred during the first half
+of November as part of a strong cold air mass
+outbreak. The snow fell one month earlier than
+normal, breaking local weather records.
+In western Africa, heavy and intense rainfall
+in September caused flooding that affected
+more than 100 000 people. The worst flooding
+was observed in Burkina Faso, where 263 mm
+of rain was recorded in less than 12 hours,
+breaking a record set 90 years ago. Further
+south on the continent, nearly 1 million people
+in Zambia and Namibia were affected by torrential rain that caused rivers to overflow their
+banks, flooding homes and cropland.
+Australia was also affected by local flooding.
+Heavy monsoon rains caused widespread
+flooding in north-eastern Australia in January
+and early February. Subsequently, coastal
+Queensland and New South Wales were the
+hardest hit by several heavy rains, with daily
+rainfall totals in excess of 300 mm. Conversely,
+numerous duststorms af fected eastern
+Australia in the second half of September
+and early October. The most severe duststorm occurred on 22–23 September and
+covered large parts of New South Wales and
+Queensland, where the visibility was reduced
+to 100–200 m in both Sydney and Brisbane.
+
+End of La Niña and development of El Niño
+La Niña-like conditions were present in early
+2009, followed by the development of El Niño
+patterns starting in June 2009. During June–
+September 2009, sea surface temperatures were
+generally about 1°C warmer than the long-term
+average across the central and eastern equatorial
+Pacific. There was a rapid intensification of the
+event to moderate levels during October, with
+the peak of the mature phase being reached in
+late December. Most equatorial regions east of
+the Date Line were more than 1°C warmer than
+average by that time, with a few regions more
+than 2°C above average.
+10
+
+Tropical cyclone season
+The 2009 Atlantic hurricane season closed
+with the fewest named storms and hurricanes
+since 1997, most likely owing to the unfavourable cyclonic conditions caused in part by El
+Niño. A total of nine named tropical storms
+were formed, including three hurricanes, two
+of which were major hurricanes at Category 3
+strength or higher, compared with averages
+of 11, 6 and 2, respectively.
+In the Eastern North Pacific, 20 named tropical storms were recorded, 8 of which evolved
+into hurricanes and 5 of which became major
+hurricanes, compared with averages of 16, 9
+and 4, respectively.
+In the western North Pacific, 22 named tropical
+storms were recorded, 13 of which reached the
+intensity of typhoon, compared with the longterm averages of 27 and 14, respectively. Heavy
+precipitation associated with typhoons Ketsana
+and Parma was observed across the south of
+Luzon Island in the Philippines. The resulting
+flood disaster caused more than 900 fatalities. In August, Typhoon Morakot swept across
+Taiwan Province of China and caused more than
+600 deaths and severe damage to agriculture and
+infrastructure. Hundreds of roads and bridges
+on the island were destroyed by floods.
+The Australian and South Pacific Ocean cyclone
+seasons recorded near-average activity. In
+the Australian region, there were 10 systems
+during the season. Although it did not make
+landfall, Hamish was the most significant,
+reaching Category 5 intensity. It was the most
+intense cyclone observed off the eastern
+Queensland coast since 1918.
+The South Indian Ocean cyclone season
+recorded near-average activity with 16 storms,
+7 of which were cyclones. Tropical Cylcone
+Fanele made landfall in Madagascar in January
+and brought heavy rain and strong winds and
+affected nearly 28 000 people.
+
+Arctic sea ice
+The National Snow and Ice Data Center nearreal-time Defense Meteorological Satellite
+Program (DMSP) Special Sensor Microwave
+Imager (SSM/I) Daily Polar Gridded Sea Ice
+
+2009
+
+2008
+
+Figure 11. Sea-ice extent
+for September 2009
+(third lowest on record),
+September 2008 (second
+lowest on record) and
+September 2007 (lowest
+on record). The magenta/
+orange line indicates
+the long-term median
+from the 1979–2000 base
+period.
+(Source: National Snow
+and Ice Data Center, United
+States)
+
+2007
+
+Concentrations and the Sea Ice Concentrations
+from the Nimbus-7 Scanning Multichannel
+Microwave Radiometer (SSMR) and DMSP
+SSM/I Passive Microwave Data datasets are
+used to generate the monthly records of seaice extent and sea-ice concentration for the
+Arctic and Antarctica from satellite passive
+microwave data.
+Arctic sea-ice extent during the 2009 melt
+season was a minimum extent of 5.10 million km2, ranking third lowest on record after
+2007 (4.13 million km2) and 2008 (4.52 million
+km2) since satellite measurements began in
+1979. Compared with the long-term average
+
+of the reference period 1979–2000, the Arctic
+sea ice at the end of the melt season in 2009
+was 76 per cent of the long-term average of
+6.71 million km2 compared with 67 per cent
+in 2008 and 62 per cent in 2007. According to
+scientific measurements, Arctic sea ice has
+declined dramatically over the past 30 years,
+with the most extreme decline seen in the
+summer melt season.
+
+Antarctic ozone hole
+The daily maximum ozone hole for 2009 was
+24.1 million km2 on 17 September. This is
+
+Ozone Hole: Area [106 km2]
+30
+
+25
+
+2009
+2008
+2007
+
+North America
+
+20
+
+15
+
+Antarctica
+Europe
+
+10
+
+Australia
+
+5
+
+0
+August
+
+September
+
+October
+
+November
+
+December
+
+Figure 12. The plot shows
+the daily evolution of
+the surface area of the
+Antarctic ozone hole
+over the course of the
+ozone hole season. The
+blue horizontal lines
+show the surface area of
+the various regions for
+comparison.
+(Source: The graph was
+prepared by the World Data
+Centre for Remote Sensing
+of the Atmosphere, one
+of the Global Atmosphere
+Watch World Data Centres,
+hosted by the German
+Aerospace Center in
+Germany. The data used
+to produce this graph
+were derived from the
+METOP-A/GOME-2 and
+ENVISAT/SCIAMACHY
+sensors and are the result of
+several algorithms.)
+
+11
+
+5.5 million km2 more than the 1979–2000
+long-term average and about 6 million km2
+less than the record of almost 30 million km2
+in 2000. Compared with the average size over
+the 7 September–13 October time period, the
+ozone hole in 2009 was the fifteenth largest
+on record since satellite records began in
+1979. Measured in Dobson Units (DU), the
+
+minimum daily minimum ozone during 2009
+was reached on 26 September with 94.0 DU.
+This is below the 1979–2000 long-term average
+of 125.4 DU. This ranks 2009 (together with
+1991) as the seventh lowest daily minimum
+ozone on record in the southern hemisphere.
+The record low was observed in 1994 with
+73.0 DU.
+
+Source and methodology for global surface
+temperature assessment
+Global average temperature records are
+essential to help understand how the climate
+is changing. To understand changes and variations in the climate it is essential to know
+how the surface temperature changes – from
+month to month, up to decade to decade. Global
+average temperature records provide this vital
+information. From these records it can be seen
+how warm specific months, years or decades
+are, and trends can be discerned in the climate
+system over longer periods of time.
+The global surface temperature assessment
+is based on the instrumental records of the
+air temperature measured at 1.25 to 2 metres
+above the surface level on the land. Sea surface temperature measurements are recorded
+by various observation platforms, including
+ships and buoys. The annual assessment is
+based on these measurements after they have
+been quality controlled to filter data errors
+and homogenized.
+There are three centres that maintain global
+climate datasets and calculate global average
+temperature and related anomalies at monthly
+and annual timescales:
+
+12
+
+•
+
+Met Office, UK, in collaboration with the
+Climatic Research Unit at the University of
+East Anglia (United Kingdom);
+
+•
+
+National Climatic Data Center, which is part
+of NOAA (United States);
+
+•
+
+Goddard Institute for Space Studies, which
+is part of NASA (United States).
+
+The development of climate datasets is based
+on the following:
+• Routinely disseminated daily and monthly
+weather and climate observations by the
+National Meteorological and Hydrological
+Services of the 189 WMO Members following the WMO standards for data collection,
+quality control and exchange;
+•
+
+Historical climate records dating back to
+1850, including those available from marine
+climate summaries;
+
+•
+
+Recovered old climate records worldwide
+as part of continuous data rescue efforts
+promoted by WMO and its Members;
+
+•
+
+Peer reviewed scientific methods for quality
+control, homogenization and interpolation
+to constitute high-quality global climate
+datasets.
+
+Temperature anomalies
+Absolute temperatures are not used directly
+to calculate the global average temperature.
+They are first converted into anomalies,
+which are the difference in temperature
+from the normal level. The normal level is
+calculated for each observation location
+by taking the long-term average for that
+area over a base period. One of the main
+reasons for using anomalies is that they
+remain fairly constant over large areas. The
+anomaly method also helps to avoid biases.
+For example, if actual temperatures were
+
+used and information from an Arctic observation station were missing for that month,
+the global temperature record therefore
+would seem warmer. Thus, when anomalies
+are used such missing data will not bias the
+temperature record.
+
+Accuracy of the observations
+Each observation station follows international
+standards for taking observations set out by
+WMO. Each National Meteorological Service
+provides reports on how its data are collected
+
+and processed to ensure consistency. This
+includes recording information about the
+local environment around the observation
+station and any changes to that environment.
+This is important for ensuring the required
+data accuracy and performing homogeneity
+tests and adjustments. There are additional
+uncertainties because temperatures over large
+areas of the Earth are not observed as a matter of routine. These elements are taken into
+account by factoring the uncertainty into global
+average temperature calculations, thereby
+producing a temperature range rather than
+one uniquely definite figure.
+
+13
+
+For more information, please contact:
+
+World Meteorological Organization
+Communications and Public Affairs Office
+Tel.: +41 (0) 22 730 83 14 – Fax: +41 (0) 22 730 80 27
+
+7 bis, avenue de la Paix – P.O. Box 2300 – CH 1211 Geneva 2 – Switzerland
+www.wmo.int
+
+P-OBS_10391
+
+E-mail: cpa@wmo.int
+
+

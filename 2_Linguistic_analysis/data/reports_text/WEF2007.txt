@@ -1,0 +1,2333 @@
+COMMITTED TO
+IMPROVING THE STATE
+OF THE WORLD
+
+Global Risks 2007
+A Global Risk Network Report
+
+A World Economic Forum Report
+in collaboration with
+
+Citigroup
+Marsh & McLennan Companies (MMC)
+Swiss Re
+Wharton School Risk Center
+
+World Economic Forum
+January 2007
+
+The information in this report, or on which this report is based, has been obtained from sources that the authors believe to
+be reliable and accurate. However, it has not been independently verified and no representation or warranty, express or
+implied, is made as to the accuracy or completeness of any information obtained from third parties. In addition, the
+statements in this report may provide current expectations of future events based on certain assumptions and include any
+statement that does not directly relate to a historical fact or a current fact. These statements involve known and unknown
+risks, uncertainties and other factors which are not exhaustive. The companies contributing to this report operate in a
+continually changing environment and new risks emerge continually. Readers are cautioned not to place undue reliance on
+these statements. The companies contributing to this report undertake no obligation to publicly revise or update any
+statements, whether as a result of new information, future events or otherwise and they shall in no event be liable for any
+loss or damage arising in connection with the use of the information in this report.
+This work was prepared by the Global Risk Network of the World Economic Forum.
+World Economic Forum
+91-93 route de la Capite
+CH-1223 Cologny/Geneva
+Switzerland
+Tel.: +41 (0)22 869 1212
+Fax: +41 (0)22 786 2744
+E-mail: charles.emmerson@weforum.org
+www.weforum.org
+© 2007 World Economic Forum
+All rights reserved.
+No part of this publication may be reproduced or transmitted
+in any form or by any means, including photocopying and recording, or by any
+information storage and retrieval system.
+
+REF: 150107
+
+Contents
+
+Introduction
+
+4
+
+Risk Assessment
+
+6
+
+Scenarios
+
+13
+
+Understanding the Nature of Global Risks
+
+19
+
+Risk Mitigation
+
+21
+
+Contributors
+
+31
+
+Participants
+
+32
+
+3
+
+Introduction
+
+At the core of this year’s overview of risks to the
+global community over the next decade is a
+fundamental disconnect between risk and mitigation.
+Expert opinion suggests that levels of risk are rising
+in almost all of the 23 risks on which the Global Risk
+Network has been focused over the last year – but
+mechanisms in place to manage and mitigate risk at
+the level of businesses, governments and global
+governance are inadequate. The global economy
+has been expanding faster than at any time in
+history – but it remains vulnerable.
+Some tactical gains have been made in specific
+areas of risk mitigation: despite the raised threat of
+terrorism, cooperation on dealing with the threat
+continues to improve; fears of a major pandemic
+outbreak have driven a major effort to upgrade our
+global preparedness to identify and isolate new
+diseases; there is a growing recognition of the need
+to improve access to mechanisms of risk transfer in
+emerging markets, to allow risks to be priced in a
+way that allows the potential economic growth of
+this century to be fully unlocked.
+There has also been major improvement in the
+understanding of the interdependencies between
+global risks, the importance of taking an integrated
+risk management approach to major global
+challenges and the necessity of attempting to deal
+with root causes of global risks rather than reacting
+to the consequences.
+
+4
+
+Climate change is now seen as one of the defining
+challenges of the 21st century – and as a global risk
+with impacts far beyond the environment. Effective
+mitigation of climate change may ultimately have the
+consequence of improving resilience to oil price
+shocks in developed countries by moving them from
+hydrocarbons to alternative energy sources;
+ineffective mitigation of climate change will almost
+certainly be a factor in major interstate and civil wars
+within the next 50 years. The way in which climate
+change is dealt with at the global level will be a
+leading indicator of the world’s capacity to manage
+globalization in an equitable and sustainable way.
+But the tactical gains may be illusory and are
+certainly temporary. The manifestation of any
+number of global risks in the way described in the
+plausible scenarios in this report could quickly put
+those gains into reverse.
+Global Risks 2007 suggests two possible
+institutional innovations that may help mobilize
+businesses and governments to approach the global
+risks of the next 10 years. One is the idea of a
+Country Risk Officer – an analogy to Chief Risk
+Officers in the corporate world – intended as a focal
+point for managing a portfolio of risk across
+disparate interests, setting national prioritization of
+risk and allowing governments to engage in the
+forward action needed to begin managing global
+risks rather than coping with them. The second is to
+create an avant-garde of relevant governments and
+
+companies around different global risks – “coalitions
+of the willing” – allowing risk mitigation to be a
+process of gradually-expanding alliances rather than
+a proposition requiring permanent consensus.
+Above all, Global Risks 2007 makes the case for the
+active engagement of all sections of the international
+community in dealing with global risks. No one group
+has the ability to effectively mitigate most global
+risks. Interdependency implies not just common
+vulnerability, but a shared responsibility to act.
+A longer version of this report and further information
+on the Global Risk Network can be found at
+www.weforum.org/en/initiatives/globalrisk. The
+longer report includes further background on
+methodology, risk descriptions, numeric
+assessments, the process of workshops leading to
+this report and additional mitigation and scenario
+examples.
+
+5
+
+Risk Assessment
+
+Risks are idiosyncratic – a risk to one group may
+present an opportunity to another. The qualification
+of global risks lies in their systemic nature: their
+impacts challenge the integrity of the system. Their
+consequences are harder to predict, frequently
+disproportionate, difficult to contain and present
+challenges to us all.
+The key newcomers to the list for the Global Risks
+2007 report include a number of geopolitical risks
+which, though difficult to measure, specify and
+predict, were considered integral parts of the risk
+landscape. The risk of major interstate and civil war
+– often inadequately priced in markets – was one
+risk considered. Another was the category of failed
+and failing states as an underlying risk to systemic
+integrity. Both featured in a number of scenarios
+developed by the Global Risk Network.
+Overall, the Global Risk Network identified 23 core
+global risks to the international community over the
+next 10 years. A further description of the core
+global risks can be found in the longer version of the
+report at www.weforum.org/en/initiatives/globalrisk
+
+“Core” Global Risks
+
+Economic
+•
+•
+•
+•
+•
+
+Oil price shock/energy supply interruptions
+US current account deficit/fall in US$
+Chinese economic hard landing
+Fiscal crises caused by demographic shift
+Blow up in asset prices/excessive
+indebtedness
+
+Environmental
+•
+•
+•
+•
+•
+
+Climate change
+Loss of freshwater services
+Natural catastrophe: Tropical storms
+Natural catastrophe: Earthquakes
+Natural catastrophe: Inland flooding
+
+Geopolitical
+• International terrorism
+• Proliferation of weapons of mass
+destruction (WMD)
+• Interstate and civil wars
+• Failed and failing states
+• Transnational crime and corruption
+• Retrenchment from globalization
+• Middle East instability
+Societal
+•
+•
+•
+•
+
+Pandemics
+Infectious diseases in the developing world
+Chronic disease in the developed world
+Liability regimes
+
+Technological
+• Breakdown of critical information
+infrastructure (CII)
+• Emergence of risks associated with
+nanotechnology
+
+6
+
+Understanding Geopolitical Risk
+The first years of this century have been marked
+by the return of geopolitical risks to global
+prosperity and stability. In 2006, the deterioration
+of the situation in Iraq and the Middle East
+occupied the full attention of some governments,
+reducing “bandwidth” available for focus on other
+global risks and increasing fears of the
+fragmentation of the international system. Should
+any of the main geopolitical risks outlined here
+worsen considerably, the environment for business
+and society could be changed beyond recognition.
+In the scenarios below, geopolitics frequently
+provide the narrative and backdrop to the
+emergence of other global risks.
+Despite their importance, however, geopolitical
+risks are hard to quantify in terms of likelihood and
+severity, and therefore difficult to price. While
+expert opinion suggests that geopolitical risk
+worsened in 2006, market expectations of volatility
+tended to fall, indicating a major disconnect. The
+concerted action of governments may help to
+reduce overall geopolitical risks in 2007 –
+improved pricing of these risks may help
+businesses to manage their consequences when
+they do occur.
+The range of different trajectories along which
+geopolitical risks can develop – contingent on
+human decision-making and a range of other
+
+factors – makes their outcomes hard to predict
+with accuracy. For example, while the conditions
+for the outbreak of war may be easily identifiable –
+militarization, existing disputes, an inflexible
+attitude by the parties – the exact sequence of
+events which turn conditions into reality are
+impossible to predict. The “gambler’s mentality” is
+unlikely to succeed.
+As a result, geopolitical risk analysts normally
+focus on underlying trends – economic decline,
+environmental degradation, population density –
+which may provide keys to the emergence of a
+major event. Defence planners cope with
+geopolitical risk on a prudential basis – preparing
+for low-probability, high-severity risks (such as
+interstate war) which present a sovereign risk, as
+well as a range of more immediate challenges.
+Though businesses with international exposure
+cannot pursue the same catch-all policy, they
+should look beyond discrete events and manage
+their risk portfolio through an appreciation of
+underlying dynamics. The challenge for a geopolitical
+risk analyst advising business is to help distinguish
+between events with a tactical impact and those
+that significantly alter underlying trends and, with
+them, the overall calculation of risk.
+
+These core global risks were assessed in terms of
+likelihood and severity.
+
+It was only in July 1914, a month before the outbreak of
+World War I, that liquidity in global equity markets dried up.
+Before then, the markets had not priced the geopolitical risk
+of war, one that would kill millions and trigger a retrenchment
+from globalization.
+
+In addressing likelihood, actuarial principles were
+applied in the few cases where sufficient data
+existed; in most cases only qualitative assessments,
+based on expert opinion, were possible. In
+assessing severity, two indices were considered:
+destruction of assets/economic damage and –
+where applicable – human lives lost. Although some
+risks are inherently long term (such as climate
+change), and others (such as an oil-price shock)
+could occur in the near term, all risks were evaluated
+within a 10-year time frame.
+
+7
+
+The 23 Core Global Risks: Likelihood with Severity by Economic Loss
+
+250 billion - 1 trillion more than 1 trillion
+50-250 billion
+
+Retrenchment from
+globalization
+
+Asset price collapse
+
+Interstate and
+civil wars
+
+Pandemics
+
+Oil price shock
+China economic hard landing
+
+Middle East
+instability
+Coming
+fiscal crises
+NatCat:
+NatCat:
+
+Tropical storms
+Earthquakes
+
+NatCat:
+
+Inland flooding
+
+10-50 billion
+
+Severity (in US$)
+
+Increasing consensus around risk
+
+Nanotechnology
+
+Transnational crime and corruption
+Breakdown of CII
+Fall in $
+Chronic disease in
+Climate change
+developed countries
+Liability regimes
+Developing world disease
+Loss of freshwater services
+Failed and failing states
+Proliferation of WMD
+
+2-10 billion
+
+International terrorism
+
+below 1%
+
+1-5%
+
+5-10%
+
+10-20%
+
+above 20%
+
+Likelihood
+
+Note: Likelihood was based on actuarial principles where possible. For most risks, however, qualitative assessment was used.
+
+8
+
+16 Core Global Risks: Likelihood with Severity by Number of Deaths
+
+200,000-1,000,000 more than 1,000,000
+
+Developing world disease
+Pandemics
+
+40,000-200,000
+8,000-40,000
+
+Interstate and civil wars
+
+Chronic disease in
+developed countries
+Middle East instability
+
+NatCat:
+
+Inland flooding
+
+NatCat:
+
+Earthquakes
+
+NatCat:
+
+Tropical storms
+
+1,600-8,000
+
+Severity (in no. of deaths)
+
+Increasing consensus around risk
+
+Loss of freshwater services
+Climate
+Failed and failing states
+change
+Transnational crime and corruption
+
+International terrorism
+
+Nanotechnology
+
+Breakdown of CII
+Proliferation of WMD
+
+below 1%
+
+1-5%
+
+5-10%
+
+10-20%
+
+above 20%
+
+Likelihood
+
+Note: For seven of the core global risks, severity by number of deaths was not applicable. Likelihood was based on actuarial principles where possible.
+For most risks, however, qualitative assessment was used.
+
+9
+
+In addition to risk assessment in terms of likelihood
+and severity, the Global Risk Network developed a
+qualitative global risk “barometer”, based on expert
+judgement of the outlook for global risks. This is
+essentially a forward-looking measure: it does not
+look at how the risk has played out over the last
+year; rather, it assesses whether the seriousness of
+
+the risk for the next 10 years has become more or
+less acute. For example, while 2006 saw fewer
+tropical storms than in 2005, expert consensus was
+clear that the risk trend is moving upwards, with
+growing agreement on the impact of climate change
+on severe meteorological events.
+
+A qualitative global risk “barometer”
+Key:
+
+Increased overall risk
+ECONOMIC
+
+Decreased overall risk
+
+Expert disagreement
+
+Reason for increased, stable or decreased overall risk
+
+Oil price shock/energy
+supply interruptions
+
+Though some estimate capacity will increase to meet demand (forecast
+25% increase by 2015), the energy market remains tight and, as such,
+highly vulnerable to both physical and speculative shocks.
+
+US current account
+deficit/fall in US$
+
+Although the trade-weighted real exchange rate of the US$ has
+depreciated 23% since 2002, many believe this will continue, in order
+to limit a widening US current account deficit.
+
+Chinese economic
+hard landing
+
+Chinese growth is both investment- and export-led. The expansion of
+exports may generate a backlash (particularly in the US); high
+investment (over 40% of GDP) has generated excess capacity and
+fears of potential bad debts.
+
+Fiscal crises caused by
+demographic shift
+
+The deterioration of fiscal balances in G8 countries, combined with
+continuing large deficits in other large countries, renders a series of
+major fiscal crises possible, exacerbated by the long-term challenges of
+ageing and equitable healthcare provision.
+
+Blow up in asset
+prices/excessive
+indebtedness
+
+House prices have doubled in most mature markets (and in some
+emerging markets) in real terms over the last 10 years, putting price-toincome ratios at all-time highs. Many experts fear a major correction,
+with differential impacts on consumption, economic growth and other
+asset prices.
+
+ENVIRONMENTAL
+
+10
+
+Stable overall risk
+
+Reason for increased, stable or decreased overall risk
+
+Climate change
+
+Carbon emissions are growing above trend and there are indications
+that feedback mechanisms, particularly increased heat-absorption
+caused by Arctic ice-melt, will increase the speed and scale of
+warming. New research argues that the increasing intensity of North
+Atlantic hurricanes is due to global warming.
+
+Loss of freshwater
+services
+
+The mitigation effects of improved water-pricing have yet to have an
+effect; economic development and global warming have increased the
+risk to the sustainability of many already stressed freshwater systems
+worldwide, particularly in Asia.
+
+ECONOMIC
+
+Reason for increased, stable or decreased overall risk
+
+Natural catastrophe:
+Tropical storms
+
+The increasing risk from tropical storms includes two major components.
+The hazard itself may be increasing as global warming drives sea surface
+temperatures higher. Global vulnerability to tropical storms may also be
+increasing as a result of coastal development.
+
+Natural catastrophe:
+Earthquakes
+
+The threat of earthquakes, in terms of likelihood and severity, remains the
+same, driven by basic geophysics. Meanwhile, slight increases in the exposure
+of populations are matched by slight reductions in the vulnerability of assets.
+
+Natural catastrophe:
+Inland flooding
+
+Increasing floodplain development and an expected increase in climate
+change-driven extreme weather events increase the risk of disruptive and
+costly inland flooding.
+
+GEOPOLITICAL
+
+Reason for increased, stable or decreased overall risk
+
+International terrorism
+
+The risk of future attacks has risen: according to official threat assessments in
+Britain, an attack is “highly likely”; the US National Intelligence Estimate
+report has argued the Iraq war has heightened risks, while the situations in
+Afghanistan, Somalia and Pakistan continue to cause concern.
+
+Proliferation of WMD
+
+North Korea tested a nuclear device in 2006, Iran continued its programme,
+the US weakened its commitment to non-proliferation in a controversial
+deal with India, while some Middle East states said they would seek
+civilian nuclear technologies. All increase the risk of proliferation for 2007.
+
+Interstate and civil wars
+
+Civil war took hold in Iraq in 2006 while tensions fluctuated on the Korean
+peninsula and in the Middle East. The International Crisis Group identified
+November 2006 as the worst month for conflict prevention in 40 months.
+The risk of any of a number of hotspots causing a major conflagration in
+2007 increased.
+
+Failed and failing
+states
+
+There is little prospect of immediate improvement in serial failed and
+failing states – notably Somalia, Afghanistan and Pakistan. The creation of
+the UN peacebuilding commission may improve mitigation in 2007 but
+risks are increasing.
+
+Transnational crime
+and corruption
+
+Transnational crime and corruption remain endemic in a number of
+developing and developed countries, damaging state authority, economic
+prosperity and weakening the ability to deal with other global risks.
+
+Retrenchment from
+globalization
+
+Progress on the Doha trade round appears distant, while failures will be difficult
+to reverse after expiry of Presidential negotiation authority. Populist sentiment
+in Europe and the US is set to increase. (See the Europe@Risk report.)
+
+Middle East instability
+
+Overall stability is deteriorating, despite rapid growth and moves towards
+stability in some Gulf countries. Grand bargains to stabilize the region may
+be possible in 2007, but underlying problems of Islamist extremism,
+political succession (as in Egypt) and fragile economic structures will make
+the region highly volatile.
+
+11
+
+SOCIETAL
+
+Reason for increased, stable or decreased overall risk
+
+Pandemics
+
+Some measures (e.g. improved research and cooperation on early warnings)
+have improved response capability. However, the aggregate risk is constant
+as uncertainty remains over the timing and nature of any outbreak.
+
+Infectious diseases in
+the developing world
+
+Although infection rates have stabilized in some countries, infection rates
+for HIV and other diseases are rising in others, presenting major risks to
+future prosperity. India passed South Africa as the country hosting the largest
+population of HIV/AIDS infected people. (See the India@Risk briefing.)
+
+Chronic disease in the
+developed world
+
+Experts were divided on the balance between potential advances in
+medical science over the next 10 years and the increasing prevalence
+of “life-style” diseases.
+
+Liability regimes
+
+Experts were divided on the risks to global prosperity from liability regimes
+over the next 10 years: some argue liability regimes represent a legitimate
+policy choice, others suggest they represent a growing cost to business,
+yet others suggest that US-style liability regimes are unlikely to make
+headway in other parts of the world.
+
+TECHNOLOGICAL
+
+Key:
+
+Reason for increased, stable or decreased overall risk
+
+Breakdown of critical
+information
+infrastructure (CII)
+
+Expert judgement suggested a balance between increasing vulnerability
+arising from interconnectivity and growing awareness of security issues
+surrounding CII with investments in resilience and spare capacity in some
+key infrastructure areas.
+
+Emergence of risks
+associated with
+nanotechnology
+
+In the absence of any major scientific discovery, experts estimated the
+potential risks arising from nanotechnology were unchanged.
+
+Increased overall risk
+
+Stable overall risk
+
+Generally, the picture provided by the risk barometer
+of expert opinion on the year-on-year assessment of
+global risks is one of rising risks. Expert consensus
+was that none of the 23 global risk issues identified
+had improved since 2006. However, experts noted
+that awareness on a number of risks – the first step
+to effective risk mitigation – had improved in a
+number of areas.
+
+12
+
+Decreased overall risk
+
+Expert disagreement
+
+Scenarios
+
+It is a central tenet of work conducted by the Global
+Risk Network that global risks do not manifest
+themselves in isolation: their drivers, triggers and
+consequences are interconnected. This was
+apparent in 2005 when the domino effects of
+Hurricane Katrina briefly shook the global system.
+More recently, the connections between two of the
+major issues for public policy and private enterprise
+– energy security and climate change – have
+reinforced the sense that global risks share a
+common lineage.
+How can one best think about interconnectedness?
+One approach is to assess correlation. This provides
+a simple measure of static interconnectedness. In
+2006 the Global Risk Network engaged in an
+ongoing survey of academics and experts to build
+up a picture of correlation between the 23 core
+
+risks. Many of the risk issues have multiple causes
+and consequences beyond the risk list itself – the
+matrix is not supposed to be a comprehensive
+explanation of causality. However, the correlation
+matrix portrays the strength of the macro
+correlations perceived by experts to exist between
+the risk issues identified and studied in this report. In
+the graphic below, the numerical strength of
+correlation between risk issues is reflected in the
+thickness of the lines connecting them.
+Correlation provides an excellent overall view of links
+between risks, but may not capture the dynamics of
+interconnectedness: even when causation or
+consequence can be determined with confidence,
+the context in which risks emerge and interact as
+they play out may lead to different assessments of
+probability and impact.
+
+The Correlation Matrix
+
+Key:
+
+Oil price shock
+Stronger
+correlation
+
+Proliferation of WMD
+
+Current account
+deficit/ Fall in US$
+International terrorism
+
+Spread of
+liability regimes
+
+Pandemics
+
+Loss of freshwater
+services
+
+Climate change
+
+Breakdown of CII
+Retrenchment from
+globalization
+Coming
+fiscal crises
+China economic
+hard landing
+
+Failed and
+failing states
+
+Middle East instability
+NatCat: Tropical storms
+Developing world disease
+(HIV/AIDS, TB, malaria)
+
+Emergence of
+nanotech risks
+
+NatCat: Inland flooding
+Asset prices/ excessive
+indebtedness
+Transnational crime
+and corruption
+
+NatCat: Earthquakes
+Interstate and
+civil wars
+
+Chronic disease in
+developed countries
+
+13
+
+In order to provide this context, the Global Risk
+Network looked at how key risks could play out in
+narrative scenarios. These scenarios do not
+represent “best”, “worst” or even “base” cases, nor
+are they predictions. Instead, they are possible,
+plausible global risk features in which the challenges
+of interconnectedness become plain.
+The scenarios below contain a number of surprises
+– some of them disturbing – but understanding the
+possible surprises ahead may allow policy-makers
+and business people to make decisions that will
+avert the worst consequences of surprise and turn
+risk into opportunity. While all the scenarios are
+plausible, none is likely to play out in precisely the
+way described. The short-term outlook for the global
+economy remains good: one Citigroup Global
+Capital Markets report (22 November 2006) predicts
+global GDP growth of 3.4% in 2007 and 3.8% in
+2008. But these scenarios show how short-term
+central expectations may plausibly deteriorate.
+One of the key lessons that emerged from all the
+risk scenarios developed by the Global Risk Network
+was the absolute centrality of cooperation between
+the United States and China in dealing with a
+number of major global risks – from mitigating
+climate change, to managing pandemics. Without
+the full engagement of both the US and China,
+global risks will be extremely difficult to manage
+successfully. The accelerating shift in influence,
+power and prosperity to the countries of Asia
+represents a generational opportunity to rethink
+governance and creates the necessity to forge
+common approaches to global risks.
+
+Global Risk Scenario A:
+Pandemic and Its Discontents
+The following scenario illustrates the impacts
+on business, the financial system and political
+and economic conditions that could follow
+from the emergence of a new pandemic.
+It also illustrates the amplifying role played
+by “infodemics”, where the rapid spread of
+inaccurate or incomplete information can
+amplify the effects of the core risk event.
+In January 2008, reports of a new virus emerge in
+Asia. Its properties are not well understood, but its
+roots may lie in the high viral loads present in the
+heavily vaccinated Asian chicken population.
+From the outset, speculation about the virus spreads
+faster than essential facts. Expert commentators
+suggest the virus is more deadly than SARS, while
+governmental data is widely questioned. Fear
+spreads ahead of the disease, and some neighbouring
+countries close their borders immediately.
+By February 2008, the disease has claimed fewer
+than 50 lives. Before the end of the month, Australia
+and Germany report infections carried out of Bangkok
+International Airport. Many passenger aircraft
+travelling to South-East Asia are grounded. But the
+effect on air freight companies is worse: a number
+are forced to declare force majeure on significant
+contracts, pushing them towards bankruptcy.
+The knock-on effects on just-in-time inventories
+appear by the beginning of March, with
+longshoremen refusing to unload cargoes from
+infected countries. The oil price crashes.
+In late February, a large hedge fund fails due to
+sudden asset devaluations. Herd behaviour causes
+global liquidity to dry up. Neither the G8 nor the G20
+is able to coordinate a response. Central banks
+inject liquidity ad hoc, creating inflationary risks. As
+black box models fail to adjust, financial contagion
+continues.
+By late March, there are several hundred confirmed
+deaths outside South-East Asia, but the virus
+remains poorly understood. Conspiracy theories
+abound, with ethnic minorities a frequent target.
+
+14
+
+By November 2008 the disease is a full-blown
+pandemic, with one million deaths worldwide.
+Centralized containment measures are of limited
+efficacy, but private and decentralized efforts help
+slow the spread. By January 2009, a partially
+effective vaccine is produced, with distribution from
+March. However, internationally, there are questions
+of who should distribute the vaccine, to whom and
+at what cost. Domestically, active militaries step into
+a crisis-management role helping to distribute
+vaccines.
+
+Bird flu outbreak at the Norfolk road farm, Britain, April 2006
+
+By summer 2009, vaccination and natural immunity
+have stemmed the spread of the disease. Globally,
+normalcy returns, though increased militarism and
+authoritarian tendencies have reshaped global
+geopolitics.
+
+By early June consensus emerges that the virus has
+been spreading for a year. Yet characterization of the
+virus continues to move slowly and the ineffectiveness
+of existing anti-virals has led to a containment crisis.
+Liability fears among pharmaceutical companies
+threaten eventual vaccine production, while
+governments fail to credibly signal exemptions.
+A scaled-up response looks unlikely.
+
+Global Risk Scenario B:
+Out of the Global Warming Frying Pan
+(and Into the Fiscal Fire)
+
+In some Asian countries, widespread discontent at
+the authorities’ response to the pandemic –
+particularly in inland regions – leads to the
+centralization and militarization of government
+services. In developed democracies, armies become
+key emergency service providers.
+
+Events in 2007 trigger an inflection point in global
+concern over the consequences of climate change.
+
+Failed and failing states, particularly Myanmar, Nepal
+and Pakistan, end up completely isolated and
+deteriorate quickly, although for different reasons. In
+Myanmar, different factions scramble to maintain
+their relative positions. In Pakistan, rumours of
+inequitable mobilization of government resources
+cause tensions between central and border regions
+and between the Sunni majority and Shiite minority.
+In Nepal, the country is shut from all sides, affecting
+the provision of stabilization assistance and
+sharpening political divisions.
+Globally, increased fear of cross-border movement
+and trade feed an emerging backlash against
+globalization, which in turn compounds the hit on
+global demand.
+
+Information asymmetry also plays a key role in
+this scenario, which illustrates the knock-on
+effects of a major shift in risk perception:
+namely, that climate change has arrived.
+
+First, massive inland flooding in South Asia resulting
+from a late monsoon leads to crop failure, as well as
+mass migrations. Tensions rise on the BangladeshIndia border as thousands flee humanitarian disaster.
+In the Americas, oil supply is still disrupted from 2007
+tropical storms; an unprecedented cold snap in the
+north-east of the US leads to a spike in heating-fuel
+prices as domestic and local supplies are exhausted.
+Finally, figures released in December 2007 show an
+unprecedented spike in the global temperature of
+1.5 degrees Celsius for the year as a whole.
+China’s remarkable story of 28 years of economic
+growth – a Citigroup Global Capital Markets report
+(22 November 2006) predicts real GDP growth of
+9.8% in 2007 and 10.7% in 2008 – is disturbed by
+awareness of environmental degradation and
+inequality between “many Chinas”. Some 150 million
+surplus rural workers drift between villages and cities
+by 2008, with many subsisting through part-time,
+
+15
+
+Meanwhile, China concludes the only practical
+option for the country’s future energy needs is
+nuclear, with coal-fired electricity as a bridging
+source. The government announces large-scale
+infrastructure spending and concludes negotiations
+with major suppliers of uranium.
+
+A farmer gathers the rice crop from his paddy field after
+Typhoon “Prapiroon” hit Southern China in August 2006.
+
+low-paying jobs. This dislocation is masked by
+unreliable official figures, but eventually causes
+widespread civil unrest. In part due to the Beijing
+Olympics, the government is initially unable to calm
+demonstrations resulting from viral text-message
+campaigns. The protests seize the mood of global
+discontent and speak loudly on the issue of
+environmental degradation.
+In North America, public concern over climate
+change leapfrogs scientific consensus. High oil
+prices cause a pull back from US asset markets,
+bursting that country’s “housing bubble”. Popular
+discontent results in calls for radical action.
+
+While supply constraints and elevated demand keep
+oil prices high over 2007 to 2010, other developing
+countries follow China’s lead, and demand the right
+to sovereign control of the nuclear fuel cycle. This
+puts increasing pressure on the international nuclear
+non-proliferation regime, causing it to reach a tipping
+point. The continued failure of the international
+community to halt Iran’s nuclear programme leads
+that country to proclaim successful enrichment in
+early 2015.
+Global concerns cause risk premiums to rise, and
+equities to slide. In North America and Europe,
+retirement funds are impacted. Governments are put
+under pressure to increase state financial support,
+causing fiscal positions to worsen, particularly in
+Europe. At the same time, the bursting of the US
+housing bubble and declines in equity markets
+cause private savings in major developed economies
+to rise – beginning a process of correcting longstanding global economic imbalances.
+
+In the United States, legislators follow California's
+populist lead, establishing a national carbon trading
+scheme and creating industry incentives for
+conservation and alternative energy. In late 2008, the
+US administration releases a white paper entitled
+"From Addiction to Oil, to Blessed by Biofuel",
+signalling an enhanced focus in US energy policy on
+biofuels, particularly relevant to farming communities
+in the American Mid-West. The white paper wins
+political support both from “hawks” seeking US
+energy independence and those fearing climate
+change.
+This policy response has the unintended
+consequence of setting up acute competition for
+productive land, between food, fuel, forests and
+fibre, with increased carbon sequestration and
+mining activities competing at the margin. Prices rise
+for agricultural commodities and land.
+
+16
+
+Gas emissions at a plant near downtown Toronto, November
+2006. Current per capita CO2 emissions in Canada and the
+United States are approximately 5 times Chinese levels. If
+China were to emit at the North American per capita rate, its
+total emissions would be more than 4 times greater than those
+of the US.
+
+Global Risk Scenario C:
+Oil Shock and Its Consequences
+
+Continuing with the scenario, the collapse of
+Pakistan is averted in mid-2008 by redirected oil
+revenues, resulting in a geopolitical realignment with
+Arab OPEC nations. Other blocs, similarly structured
+around commodity exporters, emerge in other parts
+of the world: between Venezuela, Bolivia and poor
+Latin American countries; between Russia and
+former Soviet republics with major energy deficits
+(notably Uzbekistan, Georgia and Armenia); between
+African commodity exporters and their neighbours.
+While some alignments cause concern in the West,
+they also help to avert state failure.
+
+This scenario also illustrates the ways in which
+policy responses to a single shock can either
+create opportunities for change or facilitate a
+chain reaction of global risks.
+In early 2008, terrorists attack multiple tankers in
+the Malacca Straits, sparking a major supply-side oil
+price shock. The initial shock drives oil above US$
+150 per barrel. Producing countries, acting in
+concert, choose to “close the tap”; a global slowdown
+does not reduce demand for oil products enough to
+counteract the supply shock. The short-term price
+elasticity of demand for oil proves itself to be low.
+
+But the emergence of the ChavPec block does not
+go unanswered.
+A countervailing OECD bloc emerges. The Malacca
+events cause an immediate slowdown, but the 2008
+slowdown quickly turns into a recession in 2009 as
+OECD governments and central banks have used
+up their ability to inject liquidity. The recession is worse
+in the US than elsewhere. In the US, falling asset
+prices drive down consumption while the unwinding
+of long-term current account imbalances to which the
+US is particularly exposed causes a deep recession. In
+Japan, while higher energy prices help Japan escape
+deflation, growth is destroyed by the decline in
+European and American demand for finished goods.
+
+A secondary reaction of oil-producing countries is to
+match economic weight with a permanent increase
+in international political weight. Oil-producing
+countries aim to achieve this by setting up parallel
+alliances known collectively as ChavPec. The
+operational mode of these alliances is the expansion
+of development assistance from oil producers to
+politically sympathetic and economically vulnerable
+countries, in return for political support. Rather than
+windfall gains from high hydrocarbon prices flowing
+to the developed world, the windfalls generate
+political goodwill among developing countries.
+
+Oil Shocks (Using Hamilton Filter), 1961-3Q.06
+
+140%
+
+140%
+
+120%
+
+120%
+
+100%
+
+100%
+
+80%
+
+80%
+
+60%
+
+60%
+
+40%
+
+40%
+
+20%
+
+20%
+
+0%
+
+0%
+61
+
+65
+
+69
+
+73
+
+77
+
+81
+
+85
+
+89
+
+93
+
+97
+
+01
+
+05
+
+Note: The filter measures an oil shock as the greater of zero or the percent change of the inflation-adjusted US$ oil price over the peak price of the
+previous three years. Shaded areas are U.S. recessions.
+Sources: BLS, NBER and The Wall Street Journal
+
+17
+
+In the US, Europe and Japan, events are marked by
+retrenchment from globalization in general,
+characterized by populism (in Europe and the United
+States), regionalism (in the emerging OECD bloc as
+a whole) and militarism (in the US and Japan).
+But the most problematic response to high oil prices
+comes from China, which experiences its own
+economic hard landing in 2009, primarily due to the
+collapse in OECD consumption. The speed with
+which longstanding global imbalances unwind
+affects China more than OECD bloc countries. But
+the major consequence is political. China’s
+leadership emphasizes militarism in an effort to
+consolidate power. Tensions over Taiwan are
+inflamed. An emboldened military builds up power
+projection capacities from a relatively low base and
+turns its attentions south, with an eventual aspiration
+to control the sea lanes and approaches to major
+choke-points (including the Malacca Straits). India is
+
+isolated by these events, failing to find its place in
+any of the emerging major blocs. Over a period of
+time, tensions with Pakistan – particularly after
+Pakistan’s realignment with Arab OPEC countries –
+worsen, leading to heightened fears of a nuclear
+exchange over Kashmir.
+The final major casualty of the oil price shock is the
+prospect for collective action to mitigate climate
+change. Though the high oil price causes the rate of
+increase of oil consumption to fall, its major impact
+is to delegitimize proposals for a global carbon tax.
+The effect of higher oil prices on alternative energy
+substitutes only plays out in a 10-year time-horizon.
+In the short to medium term, the chief substitute for
+oil – where this is possible – is an increase in the
+consumption of coal. The fracturing of the international
+community means that a framework that would
+make carbon capture and storage attractive
+politically or economically does not emerge.
+
+Financial market scenario
+
+Short-Term
+Interest Rates
+
+Long-Term
+Interest Rates
+
+Equities
+(Changes)
+
+Currency (TradeWeighted Basis)
+Changes
+
+Investment Grade
+Corporate Credit
+Spreads
+
+4.75
+1.50
+4.50
+5.00
+5.75
+
+-15%
+-15%
+-15%
+-12%
++5%
+
+-3%
+-3%
++5%
++3%
++0%
+
++40bp
++20bp
++40bp
++40bp
++30bp
+
+Stress case, Oil Shock, 3-month horizon
+
+United States
+Japan
+Euro area
+UK
+Australia
+
+5.25
+0.25
+3.50
+5.50
+6.25
+
+Note: Over a 3-month time horizon of oil prices above US$ 100, equities in the United States and other markets are expected to decline by over 10%.
+Source: Citigroup Global Capital Markets report, 22 November 2006
+
+18
+
+Understanding the Nature of Global Risks
+
+This section of the report provides a brief exploration
+of three fundamental aspects of global risks:
+interdependency, heuristic biases and policy
+mistakes. The first provides an insight into the nature
+of interdependency and provides an example of how
+interdependency affects the way in which we
+manage and mitigate global risks. The second
+reflects a human approach to risk in general.
+Humans operate with incomplete information
+through the use of heuristics. The third, often
+connected to the second, explores how policy, often
+intended to mitigate risk, can actually exacerbate it.
+
+Why Interdependence
+Matters for Security
+A major challenge for policy-makers is how to
+encourage firms to invest in risk-reducing measures
+in a world where there are growing interdependencies
+between different parts of the system. Since 9/11
+
+Setting policy under conditions of
+interdependency: Reducing the risk
+of power outages
+Consider a utility that is part of an integrated
+system – the power grid – and wants to determine
+whether to invest in additional capacity or security
+measures (such as taking care of growing
+vegetation near distribution lines) to reduce the
+chance that it will cause a power outage. In any
+highly interdependent system, such as the power
+grid, there is a systemic tendency to underinvest in
+reliability. A consequence of interdependency is
+that a part of the cost of a failure is passed on to
+competitors and their customers.
+Since 2002 several outages in individual European
+countries (France, Italy, Germany, Switzerland)
+have had cross-border impacts. An agreement
+between different European grid operators already
+exists, defining who should provide back-up
+power when an outage in one country risks
+undermining the stability of the European
+transmission system as a whole. Although this
+agreement was able to avoid larger damage, it
+could not prevent the spread of the problem.
+
+there has been a focus by researchers and
+practitioners on strategies for dealing with this issue
+under the heading of interdependent security (IDS).
+An interdependent security setting is one in which
+each individual or firm that is part of an
+interconnected system must decide independently
+whether to adopt protective strategies that mitigate
+future losses. These measures can reduce the risk of
+a direct loss to a country, firm or individual, but there
+is still some chance of suffering damage from others
+who do not take similar actions.
+The economic incentive of a decision-maker to
+invest in protective actions depends on whether
+others are expected to follow suit. The fact that the
+risk is often determined in part by the behaviour of
+others gives a complex structure to the incentives
+that individuals or firms face to reduce or invest in
+risk mitigation measures.
+
+There are a number of alternative approaches.
+One is based in the provision of the service as a
+right for the customer, under which a utility would
+be held responsible for the full costs of a service
+failure, wherever it occurs. This is only possible,
+however, if the grid is set up in such a way that
+additional costs for providing transmission services
+are not directly passed on to customers. A second
+approach, more explicitly based in regulation, is to
+mandate minimum reliability standards with
+monitoring and serious penalties for noncompliance.
+The first approach provides a clear incentive on
+the part of service providers to avoid failures. But it
+is only a valid option when accompanied by
+oversight. If customers are made to bear the cost,
+the distribution of incentives would be asymmetric.
+The transaction expenses (information, proving
+responsibility, legal fees) would be prohibitive for
+individual customers to seek to recover outage
+costs. The second seeks to prevent them through
+explicit regulatory action.
+Further examples of interdependency can be found
+in the longer version of the current report at
+www.weforum.org/en/initiatives/globalrisk
+
+19
+
+In many interdependent security problems, if one
+actor believes others will not invest in security, the
+incentive to do so is reduced. The end result may be
+that no one invests in protection, although all would
+have been better off if all had incurred the cost of a
+protection strategy. On the other hand, should each
+decision-maker believe others will also undertake
+mitigation measures, the optimal strategy will be to
+do the same.
+
+Heuristics
+The world is increasingly complex and uncertain.
+With imperfect information, humans cannot make
+fully-informed decisions; contrary to neo-classical
+theory, humans do not make fully rational decisions
+either. Our decisions frequently depend on
+approximations of the world around us – short cuts
+that allow quick decisions by resorting to learned
+behaviours. These short cuts and “rule-of-thumb”
+practices are known as heuristics, derived from the
+Greek word “to find”.
+To a large extent, the existence of heuristics stems
+from the fact that human brains have evolved to
+specialize in rapid decision-making at the expense of
+processing complexity. In our original condition,
+survival depended upon the rapid appreciation of
+threat and an effective response. Heuristics are often
+useful, making decisions quicker and easier. But
+they can also lead to inaccurate judgements,
+particularly in risk perception.
+There are approximately 80 specific heuristic biases
+that distort our ability to assess risk effectively. Most
+are not independent of one another, but exacerbate
+the effects of others. The use of highly diversified
+networks can help overcome a number of biases:
+interpreting a story of events through the lens of
+superficially similar accounts (availability), focusing
+on instances which seem to confirm our initial
+assumptions rather than those that question them
+(confirmation bias), overestimating our own abilities
+to assess (overconfidence) and clinging mentally to
+facts or figures heard in a particular context (anchoring).
+
+20
+
+Policy Errors in Risk Management
+Historically, public policy in financial markets has
+both mitigated and exacerbated risk. Global risks,
+difficult to understand and dependent on a range of
+interconnected factors, are particularly susceptible to
+policy errors, whether on the part of governments,
+regulators or central banks.
+In some cases, policy has dampened the effects of
+the market and thereby reduced volatility –
+automatic stabilizers in welfare economies, for
+example, have helped to flatten economic cycles. In
+others, however, policy has seriously exacerbated
+risk: most initial government responses to the stockmarket crash of 1929 – combining mercantilism with
+a classical approach to wages and prices –
+sharpened the consequences of the event rather
+than mitigated them. More recently, errors of
+regulatory or monetary policy have either reduced
+the ability of the market to mitigate risk, or
+exacerbated risks within the market itself.
+Policy errors are generally obvious in retrospect but
+rarely obvious at the time – decisions made by
+governments and regulators depend on judgement,
+experience, incomplete information and the balancing
+of alternative paths of action. However, the awareness
+of potential policy mistakes may offer the best
+mitigation strategy for avoiding errors in the future.
+
+Policy decisions by governments and central banks can help
+improve resilience and prevent the contagion of financial risk.
+In 1929, however, policy in the US and elsewhere exacerbated
+the impacts of the equity crash.
+
+Risk Mitigation
+
+The aim of risk identification and risk assessment is
+to provide the tools to mitigate exposure to global
+risk. But the step from the assessment of individual
+global risks to the mitigation of global risks under
+conditions of uncertainty, interdependency and
+competing interests is far from simple.
+
+Mitigation involves a constant balance between
+action and reaction, between preventing a risk from
+occurring and dealing with its consequences when it
+does, between acting rashly and acting too late.
+
+Risk Mitigation
+
+REACTION
+
+ACTION
+
+Degree of Uncertainty
+
+Room for Action
+
+Number of Indicators
+
+Options for Action
+
+Time
+Note: As time progresses, the information surrounding a given risk event may increase. But as it does, the options available for effective mitigation are
+bound to reduce. Risk mitigation – as with risk itself – involves degrees of uncertainty. Taking proactive mitigation policies implies operating under
+considerable uncertainty, with incomplete indicators.
+Source: Crisis and Risk Network, Swiss Federal Institute for Technology
+
+21
+
+Prioritizing Risk
+Resources for risk mitigation are necessarily
+limited; prioritization among risks is a necessary
+step for deciding how mitigation resources should
+best be spent.
+The normal basis for prioritization is, firstly, an
+assessment of the likelihood of the risk occurring
+and the severity of the consequences of the risk
+occurring. These assessments are necessarily
+idiosyncratic and distorted by a range of heuristics
+– for example, perceived likelihood is affected by
+“recency” and “availability” biases while severity
+depends on “vividness” and perceived vulnerability.
+A second element to prioritization is values – the
+different values of an organization may determine
+its perception of vulnerability, as well as its
+perception of responsibility for mitigation. A third
+and final element is openness to mitigation – risks
+where there are clear strategies for mitigation will
+tend to be mitigated before those where strategies
+are more diffuse, even if the assessment of
+likelihood and severity is less acute.
+At the global level, these key elements of risk
+mitigation are problematic. First, the potential
+consequences of combinations of risks affect all
+organizations, even if global risks are often
+perceived by individual organizations and countries
+as exogenous. Second, global risks may produce
+consequences outside the central expectations of
+risk managers – they represent low-probability,
+The approach taken to mitigate an individual global
+risk will depend on prioritization, resources and
+understanding. Some risks can effectively be
+mitigated with relatively few resources by changing
+individual mindsets and altering behaviours – others
+require strong institutional processes and actions.
+What is common to the mitigation of all global risks
+is that they require alignment on priorities, common
+understanding and common efforts to overcome
+problems of collective action.
+One approach involves acting to prevent the
+manifestation of a specific risk. The advantage of
+“upstream mitigation”, if successful, is that it allows
+the disruption of the risk event itself to be avoided.
+
+22
+
+high-impact events which cannot necessarily be
+well understood through classic cost-benefit
+analysis. Third, global risks (such as climate
+change) may emerge over a multi-decade timeframe, making it necessary to compare mitigation
+over different generations to ensure equity. Fourth,
+interconnections between global risks complicate
+prioritization – looking at global risks in isolation
+may increase the perceived costs of mitigation: as
+this report argues, interdependencies are the key
+factor in the global risk environment. Finally,
+mitigating global risks often requires the
+cooperation of different groups – issues of how to
+manage collective action impact heavily on how
+individual and global risk mitigation priorities can
+be successfully aligned (the “tragedy of the
+commons”). Most global risks are not open to
+effective mitigation by any individual organization.
+The Stern Review on the Economics of Climate
+Change offers one approach to managing risk
+prioritization on the multi-decade and global scale,
+suggesting a low discount rate for calculating the
+net present value of future costs from not acting to
+mitigate climate change. It is an approach that
+aims to get beyond national vulnerabilities to
+assess the systemic costs. An alternative
+approach, explicitly stating a limitation on available
+mitigation resources, is that undertaken by the
+Copenhagen Consensus project. Risk prioritization
+at the global level is a major task – but a
+necessary prerequisite to efficient mitigation.
+
+However, this assumes a degree of certainty about
+the manifestation of the risk, and the expectation
+that it can be managed in isolation. The scenarios in
+this report suggest that interdependency between
+global risks is hard to manage in this way. An
+alternative is to attempt to understand nodes of
+interconnectedness between global risks, and focus
+mitigation efforts on them.
+A final approach is to improve resilience,
+allowing the system to cope with a range of
+unexpected manifestations. Such “downstream
+mitigation” recognizes that not all events can be
+predicted and prevented.
+
+Why are organizations not more
+proactive in mitigating risk?
+The following is a list of common reactions to
+risk, which prevent a proactive approach to risk
+mitigation:
+• Someone else will manage my risk.
+• The risk is not relevant to my organization.
+• Won’t taking action just slow me down?
+• No one is telling me that I must act.
+• What reward do I get from mitigating risk?
+• It is too costly to mitigate.
+• Why worry about it?
+It could never happen to me.
+• It is too large to manage, and success
+is not guaranteed.
+
+In reality, these approaches are not mutually
+exclusive. Mitigation strategies tend to involve parts
+of both – like global risks themselves they are
+dynamic and complex.
+In the 2006 report, the Global Risk Network
+developed the idea of the “5 pathways” to
+mitigation, defining five elements of risk mitigation
+strategies: improving insight, enhancing information
+flow, refocusing incentives, improving investment
+and implementing through institutions. In the 2007
+report, these “5 pathways” have been applied to the
+“core global risks” to achieve an understanding of
+where mitigation efforts should focus.
+
+The “5 Pathways” to Mitigation
+• Improving insight: moving risks from the
+unknown to the known through research. The
+best mitigation strategies often derive from
+the changed mindset which can result from
+enhanced knowledge and information.
+• Enhancing information flow: allowing
+information to flow effectively between
+decision-makers and those experiencing the
+risk first-hand, to provide early warning,
+inform the public and exchange best practice.
+• Refocusing incentives: creating the incentive
+frameworks that will allow decisions to be
+made to reduce risks previously considered
+exogenous.
+• Improving investment: providing the
+investments necessary to mitigate risk.
+• Implementing through institutions: improving
+(or creating) the framework needed to
+mitigate risks for which an institutional
+response is required.
+
+23
+
+Applying the “Five Pathways” to the 23 “Core” Global Risks
+
+Global Risk
+
+Oil price shock/energy supply
+interruptions
+US current account deficit/fall
+in US$
+Chinese economic
+hard landing
+Fiscal crises caused
+by demographic shift
+Blow up in asset prices/
+excessive indebtedness
+Climate change
+Loss of freshwater services
+Natural catastrophe:
+Tropical storms
+Natural catastrophe:
+Earthquakes
+Natural catastrophe:
+Inland flooding
+International terrorism
+Proliferation of WMD
+Interstate and civil wars
+Failed and failing states
+Transnational crime
+and corruption
+Retrenchment from
+globalization
+Middle East instability
+Pandemics
+Infectious diseases
+in the developing world
+Chronic disease in the
+developed world
+Liability regimes
+Breakdown of critical
+information infrastructure (CII)
+Emergence of risks associated
+with nanotechnology
+
+24
+
+Improving
+insight
+
+Enhancing
+information
+flow
+
+Re-focusing
+incentives
+
+Improving
+investment
+
+Implementing
+through
+institutions
+
+Two Possible Institutional Innovations
+for Managing Global Risks
+Country Risk Officer
+The Country Risk Officer concept would require
+governments to appoint a single Country Risk
+Officer, prioritizing risks on a cross-sectoral basis,
+exploring private sector techniques of risk
+assessment, management and transference.
+In the corporate sector, the Chief Risk Officer
+(CRO) is responsible for all categories of risk,
+particularly risk reporting, consolidation and
+aggregation. Enterprise CROs take a portfolio view
+of risk – a Country Risk Officer would serve a
+similar function, acting as a focus point for
+strategic thinking (rather than day-to-day
+management) and forward action within
+government on how global risks can be effectively
+managed and mitigated.
+The principal advantage of the CRO concept
+domestically would be to allow effective trade-offs
+between the priorities of different ministries, and to
+allow governments to escape silo-thinking. This is
+particularly relevant when thinking of
+“downstream” resilience strategies as similar
+measures can help mitigate the consequences of
+different risks: buildings which are protected
+against earthquakes are also likely to better
+withstand an explosion.
+
+require consensus to act and that their objectives
+are frequently sidelined by institutional conflicts. At
+a time of acute global risks, the lack of
+decisiveness may have severe costs.
+An alternative may be so-called “coalitions of the
+willing” whereby a number of individual, interested
+and vital states cooperate in a non-exclusive
+fashion on a specific global risk issue for a specific
+period of time, acting as an avant-garde for risk
+mitigation. Other countries will join the initiative as
+it progresses towards a statement of policy
+actions. The incentive to join is to influence a
+successful global policy. The incentive to pursue
+the risk mitigation goals seriously once inside
+would be a “naming and shaming” of those
+countries that do not meet the specific, agreed,
+commitments and the possible risk of expulsion.
+The principal advantage of the “coalition of the
+willing” structure is its flexibility and the
+involvement of only interested states, thereby
+reducing the possibilities for obstruction and
+gradually drawing less interested states into a
+dialogue. The principal disadvantage of such an
+approach would be the inability to effectively
+negotiate trade-offs between different countries’
+approaches to different global risks. For “grand
+bargains” between states a coordinating role
+would still be required.
+
+At the international level, the meeting of national
+CROs could provide a coordination body for global
+risk mitigation efforts.
+
+“Coalition of the Willing”
+An alternative institutional solution to the
+management of global risks is the setting up of
+“coalitions of the willing” regarding individual global
+risks involving different groups of countries in a
+system of flexible geometry. A common criticism of
+current international approaches to major risk
+issues is that they depend on bureaucracies that
+
+The World Economic Forum can play a key role in
+facilitating dialogue on risk issues, helping to achieve
+consensus around the need for change and possible
+mitigation solutions.
+
+25
+
+Focus on Mitigation: Oil Price
+Shock/Energy Supply Interruptions
+The recent progress on mitigating the risk of an oil
+price shock includes reductions in oil subsidies,
+higher investment in energy efficiency and
+increased strategic oil inventories:
+• Energy price subsidies have been reduced
+in some countries, for example,
+Indonesia and Russia.
+• High oil prices have increased investments in
+the oil and gas sector, public and private
+investment in energy efficiency and alternative
+energy sources.
+• Reserves have been added to Strategic
+Petroleum Stockpiles, in, for example,
+the US and China.
+Future mitigation needs can be divided into those
+which address the question of interruptions
+specifically, and those that broadly address the
+question of demand and supply.
+• Remove the silo-based approach to risk
+management and link energy security with
+considerations on climate change.
+• Promote marketing of energy-efficient products
+and clean energy sources and attempt to promote
+sustainable economic growth as a positive
+economic choice in the developed world and as
+a long-term policy for emerging markets.
+
+26
+
+• Reduce legal and political uncertainties related
+to emissions-trading schemes and renewable
+energies to allow markets to fully develop their
+potential.
+• Develop nuclear energy and coal-fired electric
+utility plants in a manner that is mindful of the
+risks and environmental concerns.
+• Increase investment in refinery capacity and in
+Liquid Natural Gas plants, off-loading and
+processing terminals.
+• Increase taxes progressively on fuel in the
+United States to European levels, made more
+politically palatable with an equal value cut in
+income tax.
+• Eliminate remaining energy-price subsidies. This
+is particularly necessary to encourage energy
+efficiency in emerging markets and
+hydrocarbon-rich nations.
+• Stockpile oil in Strategic Petroleum Reserves,
+but release supplies unpredictably when
+necessary to undercut speculative psychology
+in the markets.
+• Promote intergovernmental cooperation on
+energy security policies in defined geographies
+– such as the European Union.
+• Promote and ensure common standards for
+energy transit.
+
+Focus on Mitigation:
+International Terrorism
+Despite the increase in the overall strategic threat
+from international terrorism (particularly in Iraq,
+Afghanistan and Somalia), there have been a
+considerable number of tactical advances in the
+mitigation of terrorism risk. These range from
+improved security controls, to improved political
+understanding and better management of
+terrorism events when they occur, including
+development of terrorism insurance markets to
+cover some of the economic consequences of
+attacks and facilitate the recovery process.
+On pre-event mitigation:
+• In the United Kingdom, a plot to blow up
+aircraft between Britain and the United States
+was disrupted.
+• The European Union is improving its security
+information-sharing system, through work on an
+EU-wide counter-terrorism database.
+• The United States is improving its tracking of
+imports and exports, through its Automated
+Commercial Environment system.
+• In Saudi Arabia, over 20 senior Al Qaeda
+operatives have been killed. A few years ago,
+fears that the Saudi regime was under threat
+were widespread – these fears are now
+reduced.
+• The Philippine authorities are re-establishing
+control over Basilan and the Jolo Islands,
+operational centres for the Abu Sayyaf and
+Jemaa Islamiyah terrorism organizations.
+• In Indonesia, the government’s multipillar
+counter-terrorism campaign is being
+strengthened, with considerable new counterterror legislation, the prosecution of a number
+of major terrorists and the support and
+promotion of moderate Islam as an alternative
+to radical theology.
+• The private sector has improved physical
+security measures and screening.
+
+In post-event mitigation:
+• The private sector has continued progress on
+diversifying operations and building up
+resilience, for example, by establishing a
+second computer backbone.
+• Terrorism insurance schemes have been
+established to spread the risk among the
+different stakeholders in some markets through
+public-private partnerships: NHT in the
+Netherlands, Pool Re in the UK, Gareat in
+France, Extremus in Germany and TRIA in the
+US.
+• Terrorism insurance has risen: one survey of
+Marsh clients revealed that terrorism coverage
+rose from 23% in mid-2003 to 64% by the end
+of 2005.
+Future specific needs for mitigating the terrorism
+risk:
+• Renew terrorism insurance schemes scheduled
+to sunset in 2007 in some form; improve
+framework for public-private arrangements in
+other countries.
+• Reach an internationally-agreed definition of
+terrorism and terrorist acts and build a body of
+transcultural values to help combat terrorism.
+• Expand intelligence capabilities, while reenforcing oversight functions to ensure that
+privacy is maintained.
+• Improve cooperation between intelligence
+agencies. In regions where bilateral cooperation
+is already good and a level of trust has been
+established, transition to a more dynamic and
+efficient multilateral mode of cooperation.
+• Improve tracking of financial flows to cut off
+funding to dispersed terrorist cells.
+• Strengthen the monitoring of the shipment of
+goods to allow for the detection of explosive
+devices and nuclear/biological/chemical/
+radiological material.
+
+27
+
+Focus on Mitigation: Climate Change
+As the science surrounding global climate change
+continues to unfold, a range of public and private
+mitigation measures are critical both in the
+immediate term and over the long term.
+Some steps are already under way:
+• Awareness of the impacts of climate change is
+rising quickly (particularly in the developed
+world), building public support for mitigation.
+Ultimately, changes in the mindset of
+consumers – altering their behaviour as a result
+– may produce considerable mitigation.
+• The European Union launched an Emissions
+Trading Scheme in 2005.
+• California has passed a law aiming to reduce
+greenhouse gas emissions by 25% by 2020.
+But there are a number of mitigation needs which
+should be introduced, updated or implemented
+more fully:
+• Raise awareness in the developing world of the
+impacts of climate change.
+• Involve major developing countries in new
+frameworks for limiting future emissions’ growth
+(particularly China and India).
+• Urgently begin work on a successor to the
+Kyoto agreement with three central principles:
+• Involvement of the United States and major
+developing countries (particularly China and
+India);
+• Differential responsibilities for future
+emissions’ reduction dependent upon past
+emissions and stage of economic
+development; and,
+• Common overall responsibility for climate
+change.
+• Allow transfer of technologies which may help
+reduce climate change, or mitigate its impacts.
+• Expand market mechanisms – such as carbon
+emissions’ credit trading – which encourage
+innovation, reward efficiency and ease the
+development of insurance and other financial
+tools to manage risks inherent in emissions’
+reduction projects.
+
+28
+
+• Strengthen current market mechanisms by
+ensuring a stable and predictable legal
+environment and ensuring ambitious overall
+limits on emissions.
+• Create strong incentive structures and provide
+research funds to foster possible “breakthrough
+technologies” such as hydrogen fuel cells or
+advanced thin film photovoltaics, particularly in
+the power-generation sector.
+• Provide investment or tax incentives that level
+the playing field for capital intensive investments
+in clean-coal combustion and carbon
+sequestration.
+• Improve cost-effective reductions in emissions
+at the business and domestic level. Many wellmanaged corporations have already identified
+more efficient processes that can lead to cost
+savings in their production processes,
+transportation and facilities management. These
+should be extended.
+• Improve the protection of private and public
+operations from discontinuities caused by
+severe physical risks due to climate change,
+including strategic assessments of long-term
+vulnerabilities.
+• Encourage long-term adaptation in countries
+where impacts of climate change are most likely
+to be felt, by increasing adaptation aid and
+creating financial structures to leverage global
+insurance capacities.
+
+A car struck by a tree blown down in the storm on a road
+in China’s Guangdong province. Typhoon “Prapiroon”
+killed at least 48 and left 15 others missing after crashing
+ashore in Southern China.
+
+Focus on Mitigation: Pandemics
+The nature of the pandemic threat has become
+much more widely understood over the last year:
+• A pandemic is not a one-time occurrence, but
+occurs as a series of waves.
+• An outbreak cannot be predicted – multiple,
+simultaneous geographic outbreaks may occur
+with concurrent failures in the supply/value
+chain.
+• The behavioural response to an outbreak – the
+“infodemic” element – may be more significant
+than the virus itself.
+As a result, mitigation measures have advanced,
+both for the specific HN51 virus, as well as
+preparedness for a pandemic outbreak more
+generally:
+• There has been an increase in exchange of best
+practices between businesses.
+• The coordination of international organizations
+has improved.
+• The awareness of the significance of national
+transparency in order to aid any future
+international effort makes the control of the
+disease more likely.
+Some future mitigation needs may only become
+available once an outbreak has occurred and its
+origins and vector of transmission have been
+identified. But many mitigation options remain
+incomplete or not fully exploited:
+• Strengthen collaborative preparedness
+activities, including simulations and decisionmodelling exercises among national, local and
+value-chain interdependent parties.
+
+• Manage expectations of what government will
+and will not do if an outbreak occurs, endorsing
+wider accountability in the event of a pandemic
+and driving financial responsibility.
+• Improve governmental ability to provide timely,
+clear and effective information, and improve
+education of first-responders.
+• Increase research into the identification of
+critical choke-points in the supply/value chain
+where skill sets are rare, interdependencies are
+greatest and the risk of triggering systemic
+failure is highest.
+• Invest in surge capacity in healthcare services.
+• Encourage private sector investment in surge
+capacity for vaccine manufacture.
+• Develop effective domestic plans for the
+distribution and administration of vaccines and
+other medication in a pandemic situation.
+• Reach understanding between manufacturing
+and consuming countries on an equitable and
+agreed basis for international distribution of
+vaccines in a pandemic situation.
+• Encourage the maintenance of basic supplies
+at home.
+• Explore the possibility of “work-from-home” for
+some businesses, reducing the potential for
+infection and spread.
+• Undertake an administration-wide skill-set
+evaluation to allow planning for replacing skilled
+personnel, should they become unavailable.
+• Explore the feasibility of alternate financing
+schemes to serve as a backstop and transfer
+the risk to a larger community, including the
+public sector, to avoid systemic failure.
+
+29
+
+All of the four global risks focused on here – oil-price
+shocks, international terrorism, climate change and
+pandemics – would benefit in different ways from the
+institutional innovations suggested in this report: a
+Country Risk Officer or the setting up of “coalitions
+of the willing” around particular global risks.
+A Country Risk Officer would allow prioritization to
+be made effectively and resources to be focused on
+different risks at different times – creating, for
+example, the kind of surge capacity for dealing with
+pandemics which is outlined above. A Country Risk
+Officer would be equally well placed to understand
+the interconnections between many global risks –
+understanding how some mitigation measures for
+climate change might help improve energy security
+while others would transfer the risk, or
+understanding how improvements in preparedness
+for natural catastrophes could also strengthen
+resilience to international terrorism. Faced with a
+portfolio of mitigation options, a Country Risk Officer
+would be able to shape the necessary strategic
+understanding and response to global risks that are
+needed.
+The “coalition of the willing” idea would allow for
+flexibility and clarity in adopting many of the specific
+mitigation options suggested above. The appropriate
+governance, management and mitigation of global
+risks are only likely to emerge from the expanding
+participation of interested parties. Some of the
+specific mitigation ideas above are already under
+way in some parts of the world, but their impact is
+reduced by the partial nature of their adoption
+elsewhere. Structured “coalitions of the willing”
+would allow momentum to build up around
+mitigation measures, bringing countries and
+businesses into an evolving set of standards, rather
+than seek to achieve an overarching arrangement at
+the outset. As such, a “coalition of the willing” would
+reflect the realities of global politics – and attempt to
+derive dynamic advantage from them.
+
+30
+
+In some cases, this approach would not work: a
+global definition of terrorism and terrorist acts is
+clearly a task which requires cross-cultural
+consensus from the outset. However, for others –
+such as an oil-price spike – this structure might
+create exactly the balance between inclusiveness
+and manageability that is required to produce
+agreement on appropriate measures for global risk
+mitigation.
+There is no guarantee of mitigation initiatives
+preventing global risks from causing major disruption
+to the international system, economic damage and
+irreparable human loss. Global risks cannot – for the
+most part – be mitigated out of existence. But
+inaction in the face of global risks is not an option –
+either for businesses or government.
+
+Contributors
+
+This report was prepared by Charles Emmerson of
+the Global Risk team of the World Economic Forum,
+in conjunction with its partners:
+
+Citigroup
+John Ingraham, Managing Director, Head of Risk
+Aggregation, Citigroup, USA
+
+Global Risk Team, World Economic Forum
+Wharton School
+Charles Emmerson, Global Leadership Fellow,
+editor Global Risks 2007
+Jesse Fahnestock, Global Leadership Fellow
+Johanna Lanitis, Team Coordinator
+Thierry Malleret, Senior Director
+Gareth Shepherd, Global Leadership Fellow
+Supported by Sean Cleary, Strategic Adviser
+MMC
+Sara Dixter, Senior Business Analyst, Marsh,
+United Kingdom
+John Drzik, President, Mercer Oliver Wyman, USA
+David Frediani, Executive Director, MMC International,
+Marsh & McLennan Companies, United Kingdom
+John Merkovsky, Managing Director, Global
+Practice Leader, Marsh Risk Consulting, USA
+Roland Rechtsteiner, Director, Corporate Risk
+Consulting, Mercer Oliver Wyman, Switzerland
+
+Witold Henisz, Associate Professor of
+Management, The Wharton School, University of
+Pennsylvania, USA
+Stephen Kobrin, Professor of Multinational
+Management, The Wharton School, University of
+Pennsylvania, USA
+Howard Kunreuther, Cecilia Yen Koo Professor of
+Decision Sciences and Public Policy, The Wharton
+School, University of Pennsylvania, USA
+Erwann Michel-Kerjan, Managing Director, Center
+for Risk Management and Decision Processes, The
+Wharton School, University of Pennsylvania, USA
+
+Swiss Re
+Esther Baur, Head, Issue Management, Swiss
+Reinsurance Company, Switzerland
+Catherine Burger, Head, Networks and Research,
+Swiss Re Centre for Global Dialogue, Switzerland
+Annabelle Hett, Head, Emerging Risk Management,
+Swiss Re, Switzerland
+Kurt Karl, Head, Economic Research and Consulting,
+Swiss Re Financial Services Corporation, USA
+Ivo Menzinger, Head, Sustainability and Emerging
+Risk Management, Swiss Re, Switzerland
+Christian Mumenthaler, Chief Risk Officer and
+Member of the Executive Board, Swiss Re,
+Switzerland
+
+31
+
+Participants
+
+Over the past year there have been a number of
+workshops associated with the Global Risk work.
+Four of these, at the Wharton School in May, in
+London in June and October, and in New York in
+September, directly contributed to the writing of the
+current report. We would like to thank the participants
+in these workshops for their time – and above all for
+their insights:
+Mohammad Hossein Adeli, Chairman, Center for
+Economic & International Studies (Iran)
+William A. Anderson, National Intelligence Officer,
+National Intelligence Council
+Dan Ariely, Professor, MIT - Media Laboratory
+David Bowers, Joint Managing Director, Absolute
+Strategy Research
+Christopher Bunting, General Secretary,
+International Risk Governance Council
+Matthew Burrows, Director of Analysis and
+Production Staff, National Intelligence Council
+Jon Danielsson, London School of Economics
+Frank Diebold, Professor of Economics, Finance
+and Statistics, Wharton School
+Patrick Dill, Vice-President, Emerging Risk
+Management, Swiss Re
+Hadi Dowlatabadi, Professor, Sustainable
+Development Research Institute, University of British
+Columbia
+Alex Evans, Senior Research Fellow,
+Center on International Cooperation
+Jean Fournier, Managing Director, Innovation,
+Marsh (MMC)
+Leon Fuerth, Research Professor of International
+Affairs, George Washington University
+Boris Galonske, Senior Manager, Mercer Oliver
+Wyman (MMC)
+Ian A. Goldin, Director, James Martin 21st Century
+School, University of Oxford
+Robert L. Grenier, Managing Director, Kroll (MMC)
+Gary S. Guzy, Practice Leader, Emerging
+Environmental Risk, Marsh (MMC)
+Beat Habegger, Senior Researcher,
+Crisis and Risk Network
+Bruce Hoffman, Professor, Security Studies,
+Georgetown University
+John P. Holdren, Director, Woods Hole
+Research Center
+Charles Hollis, Head, Middle East Programme,
+Kroll (MMC)
+Bob Howe, Chief Risk Officer, Swiss Re Life & Health
+
+32
+
+Sir Paul Judge, Chairman, Royal Society (UK)
+Ethan B. Kapstein, Professor, Department of
+Economics and Political Science, INSEAD
+Stefan H.E. Kaufmann, Founding Director, Max
+Planck Institute for Infection Biology
+Micheal Keen, Chief, Tax Policy Division,
+International Monetary Fund (IMF)
+Parag Khanna, Fellow, New American Foundation
+David Knipe, Director, Mercer Oliver Wyman (MMC)
+Gary S. Lynch, Managing Director and Business
+Continuity Practice Leader, Marsh (MMC)
+Nick Mabey, Chief Executive, E3G
+Simon Maxwell, Director, Overseas
+Development Institute
+Vivian Menna, Managing Director, Marsh (MMC)
+Sean M. Mooney, Chief Economist,
+Guy Carpenter (MMC)
+Berrien Moore, Director, Institute for
+the Study of Earth, Oceans and Space,
+University of New Hampshire
+Geoff Mulgan, Director, The Young Foundation
+Neil Doherty, Frederick H. Ecker Professor of
+Insurance and Risk Management, Wharton School
+Tina Nelson Fordham, Director, Economic and
+Political Strategies, Citigroup Global Markets
+Herbert Oberhänsli, Head, Economics and
+International Relations, Nestlé SA
+Martin Parry, Co-Chair, Working Group II (Impacts
+and Adaptation), Intergovernmental Panel on Climate
+Change, Hadley Centre, Met Office
+Christian Pedersen, Director, Mercer Oliver
+Wyman (MMC)
+John L. Petersen, President, The Arlington Institute
+Erik Peterson, Senior Vice-President and Director,
+Center for Strategic and International Studies (CSIS)
+Sanjay Purohit, Head, Corporate Planning, Infosys
+Technologies Ltd
+Danny Quah, Professor of Economics, London
+School of Economics
+Walter V. Reid, Director, Conservation and Science
+Programme, The David and Lucile Packard
+Foundation
+Uriel Rosenthal, Professor of Government and
+Public Administration, Leiden University
+David Rothkopf, President and Chief Executive
+Officer, Garten Rothkopf LLC
+Nouriel Roubini, Professor, New York University
+Joanna Rubinstein, Dean, Health and Science
+Initiative, Columbia University
+
+Enrique Rueda-Sabater, Director, Strategy and
+Integrated Risk Management, World Bank
+Michael Ryan, Director, Epidemic and
+Pandemic Alert and Response, World Health
+Organization (WHO)
+David Salisbury, Director, Immunization,
+Department of Health of the United Kingdom
+Armen Sarkissian, President and Founder, Eurasia
+House International
+Claire Spencer, Head, Middle East Programme,
+Chatham House
+Don Sull, Associate Professor of Management
+Practice, London Business School
+Rolf Tanner, Director, Political & Sustainability Risk
+Management, Swiss Re
+James Tansey, Deputy Director, James Martin
+Institute for Science and Civilization
+J. Adair Turner, Chairman, UK Pensions
+Commission
+Gary G. Venter, Managing Director,
+Guy Carpenter (MMC)
+David G. Victor, Director, Program on Energy and
+Sustainable Development, CESP
+Katherine Walker, Vice-President, Europe, Middle
+East and Africa, Merrill Lynch Europe, Middle East
+and Africa
+Alyson C. Warhurst, Chair, Strategy and
+International Development, Warwick
+Business School
+Kevan V. Watts, Chairman, Merrill Lynch
+International Inc.
+Mark E. Welland, Head of the Laboratory,
+Nanoscience Centre
+Martin Weymann, Assistant Vice-President,
+Emerging Risk Management, Swiss Re
+Dickie Whitaker, Managing Director, Guy Carpenter
+(MMC)
+Angela Wilkinson, Director, Scenario Planning and
+Futures Research, James Martin Institute for Science
+and Civilization
+Gareth Williams, Partner, Worldwide, Mercer
+Human Resource Consulting (MMC)
+Justin Wolfers, Assistant Professor of Business and
+Public Policy, Wharton School, University of
+Pennsylvania
+Ngaire Woods, Director, Global Economic
+Governance Programme
+Keith Woolnough, Actuary, Swiss Re Life & Health
+
+33
+
+The World Economic Forum is an independent
+international organization committed to improving
+the state of the world by engaging leaders in
+partnerships to shape global, regional and
+industry agendas.
+Incorporated as a foundation in 1971, and based
+in Geneva, Switzerland, the World Economic
+Forum is impartial and not-for-profit; it is tied to
+no political, partisan or national interests.
+(www.weforum.org)
+
+

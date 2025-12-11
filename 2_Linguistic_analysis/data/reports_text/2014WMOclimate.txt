@@ -1,0 +1,1938 @@
+WMO statement on
+the status of the
+global climate in 2014
+
+WMO-No. 1152
+
+WMO-No. 1152
+© World Meteorological Organization, 2015
+The right of publication in print, electronic and any other form and in any language is reserved by WMO.
+Short extracts from WMO publications may be reproduced without authorization, provided that the complete
+source is clearly indicated. Editorial correspondence and requests to publish, reproduce or translate this
+publication in part or in whole should be addressed to:
+Chairperson, Publications Board
+World Meteorological Organization (WMO)
+7 bis, avenue de la Paix
+P.O. Box 2300
+CH-1211 Geneva 2, Switzerland
+
+Tel.: +41 (0) 22 730 84 03
+Fax: +41 (0) 22 730 80 40
+E-mail: publications@wmo.int
+
+ISBN 978-92-63-11152-4
+WMO, in collaboration with Members, began issuing annual statements on the status of the global climate
+in 1993. This publication was issued in collaboration with the Met Office Hadley Centre, United Kingdom
+of Great Britain and Northern Ireland; the Climatic Research Unit (CRU) at the University of East Anglia,
+United Kingdom; the Climate Prediction Center (CPC), the National Climatic Data Center (NCDC), the
+National Oceanographic Data Center (NODC) and the National Hurricane Center (NHC) of the National
+Oceanic and Atmospheric Administration (NOAA), United States of America; the Goddard Institute for
+Space Studies (GISS) operated by the National Aeronautics and Space Administration (NASA), United
+States; the Japan Meteorological Agency (JMA), Japan; the European Centre for Medium-Range Weather
+Forecasts (ECMWF), United Kingdom; the Global Precipitation Climatology Centre (GPCC), Germany; the
+National Snow and Ice Data Center (NSIDC), United States; the Commonwealth Scientific and Industrial
+Research Organization (CSIRO) Marine and Atmospheric Research, Australia; and the Global Snow Lab,
+Rutgers University, United States. Other contributors are the National Meteorological and Hydrological
+Services or equivalent climate institutions of Argentina, Armenia, Australia, Austria, Bangladesh, Belarus,
+Bosnia and Herzegovina, Brazil, Bulgaria, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Fiji,
+Finland, France, Gambia (the), Germany, India, Iran (Islamic Republic of), Ireland, Israel, Italy, Japan,
+Kenya, Luxembourg, Mauritius, Mexico, Morocco, Mozambique, New Zealand, Norway, Pakistan, Poland,
+Portugal, Republic of Korea, Russian Federation, Serbia, Slovakia, South Africa, Spain, Sri Lanka, Sweden,
+Switzerland, Tunisia, Turkey, United Kingdom, United Republic of Tanzania, and United States. The WMO
+Regional Association VI (Europe) Regional Climate Centre on Climate Monitoring; the African Centre
+of Meteorological Applications for Development (ACMAD, Niamey); the Hong Kong Observatory, Hong
+Kong, China; the International Research Centre on El Niño (CIIFEN, Guayaquil, Ecuador); the University
+of Washington Polar Science Center, United States; and the Royal Netherlands Meteorological Institute
+(KNMI), Netherlands, also contributed.
+
+Cover illustration: Vanessa Vick (World Food Programme)
+NOTE
+The designations employed in WMO publications and the presentation of material in this publication do not imply the expression of any opinion whatsoever on the part of WMO concerning the legal status of any country, territory, city or area, or of its authorities, or concerning the delimitation of its
+frontiers or boundaries.
+The mention of specific companies or products does not imply that they are endorsed or recommended by WMO in preference to others of a similar
+nature which are not mentioned or advertised.
+The findings, interpretations and conclusions expressed in WMO publications with named authors are those of the authors alone and do not necessarily reflect those of WMO or its Members.
+
+Contents
+Foreword .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+Key findings  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+Temperatures .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+Rain, snow and ice  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Oceans . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+Regional analysis .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+Africa .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+Asia .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8
+South America . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+North America, Central America and the Caribbean .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+South-West Pacific .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 13
+Europe  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 13
+Tropical cyclones .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 14
+Greenhouse gases and ozone-depleting substances .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15
+Major weather and climate events around the world in 2014 .  .  .  .  .  .  .  .  .  .  .  .  .  . 17
+
+Event attribution: an application to the global and United Kingdom record
+temperatures of 2014 .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 18
+
+Foreword
+The warming trend observed over the past few
+decades continued in 2014, which WMO has
+ranked as nominally the warmest year since
+modern instrumental measurements began in
+the mid-1800s. Although 2014 broke the record
+by only a few hundredths of a degree – less
+than the margin of uncertainty – this result
+means that 14 of the 15 hottest years on record
+occurred during the twenty-first century. The
+evidence for human-induced global warming
+is therefore increasingly robust.
+Although discussions of climate change focus
+primarily on atmospheric warming near the
+Earth’s surface – which is, of course, where we
+live our lives – the warming of the ocean is also
+critically important. This is because the ocean
+absorbs over 93 per cent of the excess heat
+trapped by rising atmospheric concentrations
+of greenhouse gases. The WMO Statement on
+the Status of the Global Climate in 2014 reports
+that global-average sea-surface temperatures
+for 2014 were warmer than for any previous
+year on record. We need to maintain and even
+strengthen our ocean observing systems in
+order to better understand sea-temperature
+trends and their implications for long-term
+climate change.
+This Statement also highlights extremes that
+occurred in 2014 at the national and regional
+levels. Europe, for example, was unusually
+warm, with 19 countries reporting record temperatures for the year. Severe flooding and flash
+floods occurred in many countries, particularly
+in the Balkans, South Asia, and parts of Africa
+and South and Central America.
+Natural climate variability creates such extremes
+every year, but the high incidence of flooding
+around the world is consistent with an accelerated hydrological cycle driven by the additional
+energy captured in the atmosphere by greenhouse gases. As a result of improved scientific
+understanding and modelling techniques, good
+
+progress has been made on attributing certain
+observed climate extremes and weather events
+to human-induced climate change. WMO is
+working with its Members and leading scientific
+organizations to further advance attribution
+research with a view to incorporating it into
+operational climate services in the near future.
+Despite expectations that an El Niño could
+develop, the event did not materialize, making
+2014 a neutral El Niño–Southern Oscillation
+(ENSO) year. El Niño is typically associated
+with elevated global temperatures. Not only
+does this mean that 2014 was exceptionally
+warm despite not being an El Niño year, but
+the failure of ENSO to mature poses important
+scientific questions demanding further research.
+Another interesting phenomenon in 2014 was
+the behaviour of the seas around Antarctica.
+While parts of Antarctica’s land-based glaciers
+are melting, the sea ice expanded to a record
+extent for the third year in a row. Again, this is
+an exciting and important area for continued
+observation and research.
+This Statement draws on data provided by
+leading global and regional climate centres
+and research institutes as well as National
+Meteorological and Hydrological Services. It
+is published in the six official WMO languages
+in order to reach a broader audience.
+
+(M. Jarraud)
+Secretary-General
+
+3
+
+0.6
+
+Met Office Hadley Centre and Climatic Research Unit
+NOAA National Climatic Data Center
+NASA Goddard Institute for Space Studies
+
+0.4
+0.2
+0
+– 0.2
+– 0.4
+– 0.6
+1850
+
+1950
+
+2000
+
+Year
+
+TEMPERATURES
+The global-average near-surface temperature
+for 2014 was comparable to the warmest years
+in the 165-year instrumental record. In 2014, the
+global average temperature was 0.57 ± 0.09 °C1
+(1.03 ± 0.16 °F) above the 1961–1990 average
+of 14 °C (57.2 °F). It was 0.08 °C (0.14 °F) above
+1
+
+The uncertainty is that estimated for the HadCRUT.4.3.0.0
+dataset. Estimates produced for the MLOST dataset at ± 0.12 °C
+are comparable. NASA/GISS does not produce uncertainty
+estimates for individual years, but the uncertainty of annual
+averages from 1950 –2008 is estimated to be ± 0.05 °C.
+ftp://ftp.ncdc.noaa.gov/pub/data/mlost/operational/products/aravg.
+ann.land_ocean.90S.90N.v3.5.4.201409.asc and Hansen et al. (2010).
+
+A boy pours water over his
+head from a street tap to cool off
+in Sana’a, May 2014.
+
+4
+
+1900
+
+the average anomaly of 0.50 °C (0.89 °F) for the
+past 10 years (2005–2014).
+An anomaly of 0.57 ± 0.09 °C (1.03 ± 0.16 °F)
+for the year would nominally place 2014 as the
+warmest year on record. However, the estimated
+uncertainties in the annual averages are larger
+than the differences between the warmest years.
+Nominally, the three other warmest years are
+2010 (0.55 ± 0.09 °C), 2005 (0.54 ± 0.09 °C) and
+1998 (0.52 ± 0.09 °C).
+The annual average used by WMO is based on
+the mean of three global temperature datasets:
+HadCRUT.4.3.0.0 produced by the Met Office
+Hadley Centre and the Climatic Research Unit
+at the University of East Anglia in the United
+Kingdom, MLOST produced by the United
+States National Oceanic and Atmospheric
+Administration’s National Climatic Data Center
+(NOAA/NCDC) and GISTEMP produced by the
+United States National Aeronautics and Space
+Administration’s Goddard Institute for Space
+Studies (NASA/GISS). The Japan Meteorological
+Agency also produces an estimate of the global
+average temperature, which nominally places
+2014 as the warmest year. According to data from
+the reanalysis produced by the European Centre
+for Medium-Range Weather Forecasts, 2014 was
+in the top 10% of warmest years since 1979.
+One of the largest drivers of year-to-year changes
+in global temperature is the El Niño–Southern
+
+KHALED ABDULLAH ALI AL MAHDI (REUTERS)
+
+Figure 1. Global annual
+average temperature
+anomalies (relative
+to 1961–1990) for
+1850–2014. The black
+line and shaded area
+(which represent
+the median and 95%
+uncertainty range
+respectively) are from
+the HadCRUT.4.3.0.0
+dataset (produced in
+collaboration between
+the Met Office Hadley
+Centre and the Climatic
+Research Unit at the
+University of East
+Anglia). The blue line
+is from the GISTEMP
+analysis produced by the
+NASA Goddard Institute
+for Space Studies
+(NASA/GISS). The
+red line is the Merged
+Land Ocean Surface
+Temperature dataset
+(MLOST) produced by
+the NOAA National
+Climatic Data Center
+(NOAA/NCDC).
+(Source: Met Office
+Hadley Centre, United
+Kingdom, and Climatic
+Research Unit, University
+of East Anglia, United
+Kingdom)
+
+Global average temperature anomaly (°C)
+
+Key findings
+
+Figure 2. Annual
+average air temperature
+anomalies over land
+and sea-surface
+temperature anomalies
+over the oceans for
+2014 (relative to the
+1961–1990 average) from
+the HadCRUT.4.3.0.0
+dataset. A grid cell
+average is calculated
+if there is at least one
+month of data for at least
+two quarters.
+(Source: Met Office
+Hadley Centre, United
+Kingdom, and Climatic
+Research Unit, University
+of East Anglia, United
+Kingdom)
+
+90N
+
+60N
+
+30N
+
+0
+
+30S
+
+60S
+
+–10
+
+90W
+
+–5
+
+–3
+
+–2
+
+0
+
+–1
+
+–0.5
+
+Oscillation (ENSO). Years that start during an El
+Niño episode are typically warmer than those
+that start with neutral ENSO conditions or a La
+Niña episode. Sea-surface temperatures in the
+eastern tropical Pacific at the end of 2013 were
+only slightly cooler than average, indicating
+that the global temperature of 2014 would not
+be strongly influenced by El Niño or La Niña.
+The average temperature for 2014 was above the
+long-term mean for most land areas. Air temperatures averaged over land were 0.88 ± 0.20 °C
+above the 1961–1990 average according to
+NOAA estimates, nominally the fourth warmest
+on record (fifth warmest in the CRUTEM4 dataset). Areas where the warmth was particularly
+notable were western North America including
+Alaska, western Eurasia – many countries in
+Europe experienced record warmth – eastern
+Eurasia, much of Africa, large areas of South
+America, and southern and western Australia.
+Notably cooler-than-average conditions for the
+year were recorded across large areas of the
+United States and Canada.
+
+RAIN, SNOW AND ICE
+Global average precipitation in 2014 was close
+to the long-term average of 1 033 mm, according
+to NOAA. As usual, the pattern of precipitation
+anomalies was marked by areas of unusually
+low and high precipitation. Areas of notably
+low precipitation included particularly the
+
+90E
+
+0
+
+0.5
+
+1
+
+2
+
+180
+
+3
+
+5
+
+10
+
+south-west of the United States, north-east
+China and eastern Brazil, which all experienced
+drought in 2014. Areas of high annual precipitation included the Paraná River basin covering
+northern Argentina, Bolivia, Paraguay and the
+south of Brazil, and the Balkans.
+According to data from the Global Snow Lab at
+Rutgers University in the United States, winter
+snow cover in the northern hemisphere was
+above the long-term average. Spring snow cover
+was the third lowest on record (since 1966) at
+close to 28 million km2. By contrast, autumn
+snow cover was the highest on record for the
+northern hemisphere (22.2 million km2), with a
+record high autumn extent for North America
+(9.7 million km2 ) and the third highest extent
+for Eurasia (12.5 million km2 ).
+
+0.6
+
+Temperature anomaly (°C)
+
+90S
+180
+
+El Niño
+Neutral
+La Niña
+
+0.4
+
+0.2
+
+0.0
+
+–0.2
+
+1950
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+Figure 3. Global annual
+average temperature
+anomalies (relative
+to the 1961–1990
+average) for 1950–2014,
+based on an average
+of the three datasets
+(GISTEMP, MLOST and
+HadCRUT.4.3.0.0). The
+colouring of the bars
+indicates whether a year
+was classified as an
+El Niño-influenced year
+(red), an ENSO-neutral
+year (grey) or a La Niñainfluenced year (blue).
+(Source: Met Office
+Hadley Centre, United
+Kingdom, and Climatic
+Research Unit, University
+of East Anglia, United
+Kingdom)
+
+Year
+
+5
+
+90N
+
+Figure 4. Precipitation
+totals for 2014 expressed
+as anomalies relative to
+the 1951–2000 average
+(Source: Global
+Precipitation Climatology
+Centre, Deutscher
+Wetterdienst, Germany)
+
+60N
+
+30N
+
+0
+
+30S
+
+60S
+
+90S
+180
+
+120W
+
+60W
+
+–70
+
+–50
+
+0
+
+–30
+
+–10
+
+Arctic sea-ice extent 2 reaches a maximum in
+March and a minimum in September. According
+to the National Snow and Ice Data Center, in
+2014 the annual maximum daily extent, recorded
+on 21 March, was 14.91 million km2, and the
+annual minimum daily extent, recorded on
+17 September, was 5.02 million km2. This daily
+minimum was the sixth lowest on record. The
+monthly average extent for September was also
+the sixth lowest on record, 1.24 million km2 below
+
+6
+
+10
+
+22
+
+8
+
+21
+
+6
+5
+4
+3
+1978
+
+1984
+
+1990
+
+1996
+
+Year
+
+2002
+
+2008
+
+2014
+
+50
+
+180
+
+70
+
+Antarctic daily sea-ice extent remained at record
+high levels for much of 2014; a maximum daily
+extent of 20.11 million km 2 was reached on
+22 September, 0.56 million km2 higher than the
+previous record set on 1 October 2013. The year
+2014 was the third year in a row to set a new
+Antarctic sea-ice extent record. The Antarctic
+sea-ice extent dropped below record levels at
+the end of the year, and the December extent
+
+9
+
+7
+
+30
+
+120E
+
+the 1981–2010 average and 1.65 million km2
+above the record-low ex tent recorded in
+September 2012.
+
+Extent (million km2)
+
+Figure 5. Arctic (left)
+and Antarctic (right)
+September 1979–2014
+sea-ice extent measured
+in millions of square
+kilometres
+(Source: Data provided
+by the National Snow
+and Ice Data Center,
+United States)
+
+http://nsidc.org/arcticseaicenews/2014/10/2014-melt-season-inreview/; http://nsidc.org/arcticseaicenews/2014/04/
+
+Extent (million km2)
+
+2
+
+60E
+
+20
+19
+18
+17
+16
+1978
+
+1984
+
+1990
+
+1996
+
+Year
+
+2002
+
+2008
+
+2014
+
+Melting at the surface of the Greenland ice sheet
+was above the 1981–2010 average in June, July
+and August. The melt-area anomaly for the summer months was above the long-term average,
+but it was well below the record melt observed in
+2012. Summer 2014 was the warmest on record
+for Kangerlussuaq in West Greenland, the area
+of highest surface melt. Nuuk had its second
+warmest summer since 1784. The snow and ice
+were also darker in the summer of 2014 than
+they were in 2013; a lower albedo means that
+the surface absorbs more sunlight, increasing
+melt in otherwise identical conditions.
+
+25
+
+Heat content (1022 joules)
+
+was the third highest on record. There is low
+confidence in the scientific understanding of
+the observed long-term increase in Antarctic
+sea-ice extent since 1979.
+
+20
+
+3-month average through Oct–Dec 2014
+Yearly average through 2014
+Pentadal average through 2010–2014
+
+15
+10
+5
+0
+–5
+–10
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+2020
+
+Year
+
+OCEANS
+Most of the energy that accumulates in the
+climate system ends up in the oceans. Seasurface temperatures (SSTs) were much warmer
+than average across the North and North-East
+Pacific as well as the polar and subtropical North
+Atlantic, South-West Pacific, parts of the South
+Atlantic and much of the Indian Ocean. Belowaverage SSTs were recorded in the Southern
+Ocean, to the south of Greenland and parts of
+the east Pacific around 20° south of the equator. Global-average SSTs for 2014 were about
+0.44 ± 0.03 °C 3 above the 1961–1990 average,
+warmer than any previous year on record. Seasurface temperatures were particularly high in
+the northern hemisphere from June to October.
+Sea level is another important measure of the
+climate system. It is related to ocean heat,
+as ocean volume increases through thermal
+expansion. Water from the melting of ice sheets
+and glaciers also contributes. Local variations
+in sea level are affected by tides, storms and
+large-scale climate patterns such as ENSO.
+For most months of 2014, global-average sea
+level reached record or near-record levels.4 This
+was close to what would be expected given
+
+3
+
+4
+
+Based on the ERSST dataset used in NCDC and GISTEMP.
+It also ranks warmest in HadSST.3.1.1.0, with an anomaly of
+0.48 ± 0.10 °C.
+http://www.cmar.csiro.au/sealevel/sl_hist_last_15.html
+
+the average rate of change of 3.2 ± 0.4 mm/y
+observed over the satellite record (1993 to 2014).
+
+REGIONAL ANALYSIS
+AFRICA
+During 2014, temperatures in Africa were close
+to or above average in almost all areas where
+long-term records are available. Notable warmth
+of 1–2 °C above the long-term mean dominated
+northern Africa. The average anomaly across
+the entire continent was also higher than the
+long-term mean, but lower than the record
+value for 2010. There were notable heatwaves in
+South Africa between 16 and 18 January, when
+four high-temperature records were broken.
+Hot weather conditions affected Tunisia and
+Morocco in late September and October.
+Delay and poor distribution of precipitation
+characterized the first part of the monsoon
+season in many parts of the Sahel (the semiarid southern fringe of the Sahara) from May
+to July. There were significant rainfall deficits
+in Senegal, Guinea-Bissau and the Lake Chad
+area of Niger, Nigeria, Cameroon and Chad. In
+the Gambia, annual rainfall was 17% below the
+long-term mean, leaving the country in drought
+conditions. In Kenya, the “long rains” between
+March and May were below average for the
+second consecutive season in most areas, and
+
+Figure 6. Global ocean
+heat content anomaly
+(relative to 1955–2006)
+for the 0–700 m layer
+from 1955 to 2014
+showing the threemonth average for
+October–December 2014
+(red line), the annual
+average (black line) and
+the pentadal average
+(blue line)
+(Source: Satellite and
+Information Service,
+National Oceanographic
+Data Center, NOAA,
+United States, updated
+from Levitus et al. (2012),
+http://www.nodc.noaa.
+gov/OC5/3M_HEAT_
+CONTENT/)
+
+7
+
+of October since 1957. October flooding also
+affected Ethiopia and south-central Somalia.
+In March, persistent rain affected large areas
+of northern South Africa. Flooding caused by
+heavy rains affected Mozambique in March. On
+26 March in the city of Pemba, 587.8 mm of rain
+was recorded over four consecutive days, setting
+a record for that station. In Morocco, 126 mm of
+rain fell in four days at Guelmim in November,
+an amount that is close to the average annual
+total at that location.
+
+Figure 7. Satellite
+image illustrating the
+meteorological system
+that led to the severe
+flooding event in
+southern Morocco
+(Image MSG, 28/11/2014,
+05h00 UTC)
+(Source: Maroc Météo)
+
+ASIA
+
+Figure 8. Four-month
+precipitation total
+expressed as a
+percentage of the
+1981–2010 baseline for
+June to September 2014;
+no data available from
+Afghanistan (Source:
+Japan Meteorological
+Agency, http://ds.data.
+jma.go.jp/tcc/tcc/
+products/clisys/reports/
+report/report20141128.
+pdf)
+
+Early in the year, heavy rainfall was recorded in
+Eastern Africa in late January to February, which
+caused flash floods in parts of Kenya and the
+United Republic of Tanzania. Heavy rains and
+severe flooding were witnessed in October and
+November in several locations in Eastern Africa,
+including in Kenya, where three stations recorded
+their highest 24-hour total rainfall for the month
+
+50N
+
+200
+180
+
+40N
+
+160
+140
+
+30N
+
+120
+100
+
+20N
+
+80
+60
+
+10N
+
+40
+20
+
+0
+10S
+60E
+
+70E
+
+80E
+
+Spring in the Russian Federation was the
+warmest since records began in 1936, with an
+anomaly of 3.12 °C; temperatures in the north
+and east were more than 5 °C above average
+for the season. In April, the ice started breaking
+up on the River Ob in Siberia two weeks earlier
+than normal, the earliest in the past 100 years. In
+May, daily maximum temperature records were
+broken in many parts of the Russian Federation,
+and the Republic of Korea experienced its warmest May since records began in 1973.5 In July
+and August, parts of the Islamic Republic of Iran
+experienced heatwaves where temperatures
+rose above 50°C, reaching 53°C at Gotvand in
+Khuzestan province on 17 July.
+
+four stations recorded their lowest monthly
+rainfall totals for April in the last 50 years. In
+South Africa, the North-West Province was
+declared to be in a state of drought disaster on
+5 September 2013, with the drought continuing
+into January 2014. Farmers lost more than 50%
+of their crops; estimated losses were about
+R2 billion (US $ 170 million). Rainfall totals
+during February 2012 to January 2014 were also
+exceptionally low in parts of Namibia, southern
+Angola and Zambia.
+
+90E
+
+100E
+
+110E
+
+120E
+
+130E
+
+140E
+
+150E
+
+During summer, China was cooler than average over the Yangtze River Basin and in the
+north-western part of the country. The lower
+reaches of the Yangtze River experienced their
+coolest August since 1961.
+
+The onset of the south-west monsoon in India
+was slightly later than the long-term average,
+reaching Kerala on 6 June, five days after the
+50N mean onset date. In 2014, the Indian summer
+monsoon rainfall was 88% of its long-term
+40N average. In the first week of March, an unprecedentedly widespread hailstorm af fected
+30N
+Maharashtra, India.
+20N
+
+Heav y rain was recorded in August and
+September in Bangladesh and north-east India,
+10N
+which caused severe flooding in Bangladesh
+in August that affected 2.8 million people and
+0
+
+10S 5 h t t p : / / w e b . k m a . g o . k r / e n g / a b o u t k m a / n o t i c e . j s p ? n u m =
+60E7 3 &70E
+b i d = e80E
+n g _ n o90E
+t i c e &100E
+m o d e 110E
+= v i e w 120E
+& s e s =130E
+U S E R S140E
+E S S I O150E
+N
+
+&field=&text=&page=1&num=72
+
+8
+
+3.
+
+2.
+
+2.
+
+1.
+
+1.
+
+0.
+
+0.
+
+–0.
+
+–1.
+
+–1.
+
+–2.
+
+–2.
+
+–3.
+
+displaced more than 57 000 families.6 In Assam,
+in north-east India, and in Pakistan, severe
+flooding during September affected about
+1 million people.
+
+3
+
+10
+
+15
+
+30
+
+70
+
+85
+
+90
+
+97
+
+15N
+10N
+
+The precipitation in the southern part of northeast China and parts of the Yellow River basin
+and the Huaihe River basin did not reach even
+half of the summer average. In December, there
+was flooding associated with heavy rain in Sri
+Lanka; over 1 million people were affected. Two
+heavy snowfalls affected the Pacific side of
+northern and eastern Japan in February. Some
+parts of the Tohoku region and the Kanto/Koshin
+region experienced record-breaking snowfalls.
+In August, western Japan experienced recordhigh precipitation.
+
+5N
+0
+5S
+10S
+15S
+20S
+25S
+30S
+35S
+40S
+45S
+50S
+55S
+
+SOUTH AMERICA
+In South America, temperatures were above
+average across much of the continent. In
+Argentina, the average temperature anomaly
+for the year places it as the second warmest on
+record behind 2012, but slightly warmer than
+2013. Temperatures were particularly high in
+southern Brazil and northern Argentina. An
+October heatwave affected the Plurinational
+State of Bolivia and Paraguay. Monthly average
+temperatures in the region were the warmest
+on record for October.
+South America experienced both unusually high
+and low rainfall. Argentina, Uruguay, Paraguay
+and the Plurinational State of Bolivia were wetter
+than average between January and October.
+Argentina experienced record national rainfall
+totals for January to October, thus making 2014
+the first wetter-than-average year in the country
+since 2003. In May and June, precipitation totals
+in excess of 250% of the long-term average
+were recorded in Paraguay, southern parts of
+the Plurinational State of Bolivia and parts of
+south-east Brazil.
+Eastern parts of Brazil and countries along
+the northern edge of the continent were much
+drier than average. Parts of eastern and central
+Brazil were still in a state of severe drought
+at the end of 2014 with severe water deficits
+
+60S
+95W 90W 85W 80W 75W 70W 65W 60W 55W 50W 45W 40W 35W 30W 25W 20W
+
+extending back more than two years. São Paulo
+was affected particularly badly, with a severe
+shortage of stored water in the Cantareira
+reservoir that supplies over 11 million people.
+
+NORTH AMERICA, CENTRAL AMERICA AND
+THE CARIBBEAN
+In North America, annual temperatures were below
+average across the eastern United States and
+Canada. In the United States, seven states had one
+of their ten coldest years on record. Temperatures
+during the winter and early spring were particularly
+low due to a persistent weather pattern that also
+brought high temperatures to Europe. Continued
+cold weather meant that nearly two thirds of the
+Great Lakes remained frozen into early April, and
+Lake Superior was not completely ice-free until
+early June.7 By contrast, the west of the continent,
+from Alaska through Canada down to California,
+was much warmer than average. In the United
+States, eight states had a top-ten warm year and
+California, Arizona and Nevada saw record warmth.
+Mexico also recorded its warmest year on record.8
+
+7
+8
+6
+
+http://reliefweb.int/disaster/fl-2014-000117-bgd
+
+Figure 9. Precipitation
+totals for 2014 expressed
+as percentiles; baseline
+period is 1979–2013
+(Source: Climate
+Prediction Center, NOAA,
+United States)
+
+http://coastwatch.glerl.noaa.gov/statistic/statistic.html
+http://smn.cna.gob.mx/climatologia/analisis/reporte/
+Anual2014.pdf
+
+9
+
+Figure 10. Significant climate anomalies and events in 2014
+(Source: Map and information provided by the National Climatic Data Center, NOAA, United States,
+http://www.ncdc.noaa.gov/sotc)
+
+ALASKA, UNITED STATES
+Alaska experienced its warmest year
+since statewide records began in 1916.
+
+CANADA
+Canada had its coldest year since 1996. Winter 2013/2014
+was characterized by crippling cold temperatures and
+record snowfalls, resulting in the coldest winter in
+18 years and the third coldest in 35 years.
+
+CONTIGUOUS UNITED STATES
+
+HURRICANE ISELLE
+
+Numerous Arctic air outbreaks in early 2014 set
+the stage for a cool year across the Mid-west
+and Mississippi River Valley. Seven states had a
+top 10 cool year. Meanwhile, much of the West
+was warmer than average, with eight states
+having a top 10 warm year. Arizona, California
+and Nevada had their warmest year on record.
+
+(31 July–11 August)
+
+Maximum winds – 220 km/h
+The strongest tropical cyclone on record to
+have an impact on Hawaii’s Big Island and the
+first tropical cyclone to make landfall anywhere
+in Hawaii since Hurricane Iniki in 1992
+
+ATLANTIC HURRICANE
+SEASON
+Below-average activity
+63% of normal accumulated
+cyclone energy
+8 storms, 6 hurricanes
+
+EASTERN NORTH PACIFIC
+HURRICANE SEASON
+Above-average activity
+143% of normal accumulated
+cyclone energy
+20 storms, 14 hurricanes
+
+MEXICO
+Much of the year was warmer than
+average. Several months ranked
+among their top 10 warmest.
+
+HURRICANE ODILE
+(10–19 September)
+
+Maximum winds – 215 km/h
+Tied with Hurricane Olivia of 1967
+as the strongest hurricane to make
+landfall in the state of Baja
+California in the satellite era
+
+ARGENTINA
+
+SOUTH AMERICA
+Wetter-than-normal conditions
+were observed across parts of
+Paraguay, southern Bolivia and
+south-eastern Brazil during
+May and June. Precipitation
+totals were over 250% of the
+long-term average.
+
+Argentina experienced its second
+warmest year, behind 2012, since
+national records began in 1961.
+
+Please Note: Material provided in this map was compiled from NOAA’s NC
+For more information please visit: http://www.ncdc.noaa.gov/sotc
+
+10
+
+ARCTIC SEA-ICE EXTENT
+During its growth season, the Arctic
+had its fifth smallest annual maximum
+sea-ice extent. During its melt season,
+the Arctic reached its sixth smallest
+minimum sea-ice extent on record.
+
+EUROPE
+Europe, as a whole, experienced its
+warmest year on record, including,
+for example, in Germany, Austria,
+France, Sweden, Belgium, and the
+United Kingdom.
+
+RUSSIAN FEDERATION
+The Russian Federation had its
+warmest March−May since national
+records began in 1936.
+
+JAPAN
+Western Japan had its wettest August since
+1946, receiving nearly triple its monthly
+average. Typhoons Halong and Nakri
+contributed to the extreme wetness.
+
+INDIA AND PAKISTAN
+Torrential downpours caused severe flooding
+in September. Over 100 000 people were
+displaced and 250 fatalities were reported.
+
+WESTERN PACIFIC OCEAN
+TYPHOON SEASON
+Near-average activity
+23 storms, 11 typhoons
+
+MOROCCO
+Heavy rain in late November
+triggered severe flooding in
+southern Morocco. Some locations
+recorded more than the yearly
+average rainfall in only a few days.
+
+SOUTH AFRICA
+Drought conditions persisted
+through the beginning of 2014 in
+the North-West Province. This
+was considered to be the worst
+drought since 1933.
+
+CYCLONE HUDHUD
+(7–14 October)
+
+NORTH INDIAN OCEAN
+CYCLONE SEASON
+Near-average activity
+3 storms, 2 cyclones
+
+SOUTH-WEST INDIAN
+OCEAN CYCLONE
+SEASON
+Near-average activity
+9 storms, 5 cyclones
+
+Maximum winds – 215 km/h
+Brought heavy rain to south-eastern India; a
+24-hour rainfall total of 380 mm reported in one
+localized area in the state of Andhra Pradesh
+
+AUSTRALIAN CYCLONE
+SOUTH-WEST PACIFIC
+SEASON
+OCEAN CYCLONE
+Below-average activity
+SEASON
+8 storms, 4 cyclones
+Below-average activity
+6 storms, 2 cyclones
+
+AUSTRALIA
+Persistent warmth affected Australia
+throughout the year, contributing to
+the warmest spring on record, the
+third warmest autumn, and the third
+warmest year on record.
+
+ANTARCTIC SEA-ICE EXTENT
+
+NEW ZEALAND
+
+During its growth season, the Antarctic had its largest annual
+maximum sea-ice extent. During its melt season, the Antarctic
+reached its fourth largest minimum sea-ice extent on record.
+
+Several stations across New Zealand
+experienced one of their three driest
+months of March on record.
+
+CDC State of the Climate Reports and the WMO Provisional Status of the Climate in 2014.
+
+11
+
+Figure 11. Drought
+conditions in the United
+States at the end of 2014
+(Source: United States
+Drought Monitor)
+
+Intensity:
+D0 Abnormally dry
+D1 Drought – moderate
+D2 Drought – severe
+D3 Drought – extreme
+D4 Drought – exceptional
+Drought impact types:
+Delineates dominant impacts
+S = Short-term, typically < 6 months
+(e.g. agriculture, grasslands)
+L = Long-term, typically > 6 months
+(e.g. hydrology, ecology)
+
+In July, the Government of Honduras declared
+a drought emergency. Rainfall deficits also
+affected Guatemala, El Salvador and Nicaragua.
+In the United States, record precipitation in
+March contributed to a landslide in the state
+of Washington, which resulted in 43 deaths.
+On 29 and 30 April, torrential rain fell across
+the South-east, Mid-Atlantic and North-east,
+
+Workers look on as search work continues in the mud and debris from a massive mudslide
+that struck Oso, near Darrington, Washington, United States, March 2014.
+
+12
+
+JASON REDMOND (REUTERS)
+
+Above-average precipitation was recorded
+across the northern tier of the contiguous United
+States, whereas below-average precipitation
+was observed across the southern Great Plains
+and parts of the central Appalachians. Drought
+conditions improved during 2014 across the
+Mid-west and central Great Plains, but drought
+worsened for much of the Far West. Canada
+experienced dry conditions at the start of 2014.
+
+Figure 12. Annual
+average temperature
+deciles for Australia in
+2014
+(Source: Bureau of
+Meteorology, Australia)
+
+Temperature decile ranges
+
+10
+8–9
+
+Above average
+
+4–7
+
+Average
+
+2–3
+
+Below average
+
+1
+
+causing significant flash floods. Exceptional
+cold in mid-November triggered a lake-effect
+snowstorm in Buffalo, New York; several locations accumulated more than 127 cm of snow
+in a 24-hour period, most likely exceeding the
+statewide all-time snowfall accumulation.
+
+SOUTH-WEST PACIFIC
+For Australia, 2014 was the third warmest year
+on record (records began in 1910), with warmth
+particularly notable in the west and south-east.
+In January, Melbourne experienced four consecutive days warmer than 41 °C, Adelaide five
+days over 42 °C and Canberra four days over
+39 °C. May was dominated by a long warm spell,
+making it the third warmest May on record for
+Australia; autumn as a whole was the third
+warmest on record.
+In New Zealand, after a cold May, when a number of North Island locations observed record or
+near-record low minimum temperatures for that
+month, June was the warmest yet recorded.9 A
+cold outbreak affecting Australia at the end of
+ht tp ://w w w.niwa.co.nz /climate /nzcu /new-zealandclimate-update-181-july-2014/current-climate-june-2014
+
+Very much
+below average
+Lowest on
+record
+
+July and into the first few days of August was
+one of the most significant for over a decade,
+with severe frosts and associated crop damage
+across the south-eastern part of the country.
+Australia experienced the onset of unusually
+hot conditions during spring, marked by an
+early start to the fire season in the south and
+east and by spring heatwaves. Spring overall
+was the warmest on record, with two significant
+heatwaves in November.
+
+EUROPE
+Throughout Europe, temperatures for the year
+were well above average with a number of
+countries reporting record or near-record annual
+temperatures. The average temperature anomaly across Europe10 was significantly warmer
+than any previous year on record. It was the
+hottest year on record in 19 European countries.
+January was the warmest January in France
+since 1900 and the third warmest in both
+Portugal (since 1931) and Spain (since 1961). The
+10
+
+9
+
+Highest on
+record
+Very much
+above average
+
+From CRUTEM4, Europe defined either as 25°W–45°E 35°–75°N
+or as 25°W–30°E 35°–70°N plus Turkey, 30°–45°E 35°–40°N
+(as used by the European Environment Agency).
+
+13
+
+4.0
+
+2.7
+
+1.3
+
+0.0
+
+–1.3
+
+–2.7
+
+–4.0
+Celsius
+
+winter on record for the United Kingdom as a
+whole. Heavy rain failing from 12 to 18 May
+on already saturated surfaces caused flooding
+and landslides in Bosnia and Herzegovina,
+Croatia and Serbia. Serbia was the worst hit,
+with some 1.6 million people affected. Flooding
+also affected Croatia, Romania, Bulgaria and
+Slovakia, with record daily May rainfall at some
+stations in Slovakia.13
+July and August were very wet in France, with
+the two-month total being the highest on record.
+Exceptional rainfall was recorded in parts of
+Switzerland in July. It was the wettest August in
+Luxembourg since records began. In September,
+southern parts of the Balkans received over
+250% of the monthly average rainfall, in the
+Czech Republic, locally, rainfall was as high as
+332% of normal and, in parts of Turkey, it was
+over 500% of normal.
+
+TROPICAL CYCLONES
+Figure 13. Annual
+average temperature
+anomalies (relative to
+1981–2010) for Europe
+from the E-OBS dataset
+(Source: European
+Climate Assessment &
+Dataset, data available at
+www.ecad.eu)
+
+same persistent weather pattern that brought
+colder-than-average conditions to the United
+States and Canada in February and March also
+led to exceptionally warm and wet conditions
+over Europe. Parts of Sweden experienced
+their warmest March since 1859.11 The summer
+was warmer than average in many European
+countries. In Norway, it was the warmest July on
+record, with an anomaly of 4.3 °C, 1 °C warmer
+than the previous record.12 In Denmark, July was
+the second warmest since 1874. In Finland, a
+prolonged heatwave lasting from mid-July to
+mid-August lasted for a record 26 continuous
+days in Helsinki.
+Annual rainfall was above average for the United
+Kingdom, western France, the western Iberian
+Peninsula – in Portugal it was the wettest year
+in the past quarter century – Italy and, most
+prominently, the Balkans. Norway and eastern
+parts of Spain and France, on the other hand,
+were drier than average. In the United Kingdom,
+January and February winter rainfall was 177%
+of the long-term average, making it the wettest
+11
+
+12
+
+14
+
+Globally, 78 tropical storms (storms where
+wind speeds equalled or exceeded 63 km/h)
+were recorded during 2014. This is below the
+total of 94 storms in 2013 and below the 1981–
+2010 average of 89 storms, but it exceeds the
+67 storms recorded in 2010, the lowest total in
+the modern satellite era. A total of 80 storms
+were recorded during tropical storm seasons
+that ended in 2014, some of which overlapped
+with the end of 2013 (see below).
+In 2014, in the North Atlantic basin there were
+8 named storms,14 which is below the 1981–2010
+average of 12 storms. Of these storms, six
+became hurricanes with two of these becoming
+major hurricanes (wind speeds exceeding
+177 km/h). The Eastern North Pacific basin
+saw above-average hurricane activity in 2014.
+In all, 20 named storms formed between 22 May
+and 5 November,15 somewhat more than the
+long-term average of 15 storms. Tropical storm
+Iselle made landfall on Hawaii’s Big Island on
+7 August, with maximum sustained winds of
+96 km/h. This was the strongest tropical cyclone
+on record to make landfall on the Big Island and
+
+http://w w w.dwd.de/bvbw/generator/DWDW W W/Content/
+Oeffentlichkeit/KU/KU2/KU23/rcc-cm/products/Berichte/monthly__
+ravi_ _bulletin/bulletin_ _2014_ _02,templateId = raw,property=
+publicationFile.pdf/bulletin_2014_02.pdf
+
+13
+
+http://www.shmu.sk/sk/?page=2049&id=528
+
+14
+
+http://www.nhc.noaa.gov/text/MIATWSAT.shtml
+
+http://met.no/Klima/Klimastatistikk/Varet_i_Norge/2014/juli_2014/
+
+15
+
+http://www.nhc.noaa.gov/text/MIATWSEP.shtml
+
+CHINA STRINGER NETWORK
+
+A factory building, destroyed by
+Typhoon Rammasun, in Leizhou, China, July 2014
+
+was the first tropical cyclone to make landfall
+anywhere in Hawaii since hurricane Iniki in
+1992. Hurricane Odile brought heavy rain to
+Baja California, Mexico, and Hurricane Vance
+led to high rainfall totals in November.
+In the Western North Pacific basin, 22 named
+tropical cyclones formed between 18 January
+and the end of the year, with another Tropical
+Storm, Genevieve, crossing from the North-East
+Pacific, slightly below the 1981–2010 average
+of 26 storms; 11 reached typhoon intensity.
+Typhoon Rammasun made landfall in the eastern Philippines on 15 July and on Hainan Island
+in China on 18 July. It caused great disruption
+in the Philippines, Viet Nam and Thailand. In
+all, five typhoons made landfall on mainland
+China, with total economic losses estimated
+at more than US$ 10 billion. Typhoon Hagupit
+made landfall in the Philippines in December,
+again causing much disruption.
+The North Indian Ocean basin recorded three
+storms, slightly below the 1981–2010 average of
+four storms. Two of these storms – Hudhud and
+Nilofar – became very severe cyclonic storms over
+the Bay of Bengal and the Arabian Sea, respectively. On 12 October, Hudhud crossed the east
+coast of India around Visakhapatnam with maximum sustained wind speeds of 170–180 km/h.
+Nilofar dissipated over the Arabian Sea. In the
+
+South-West Indian Ocean basin, a total of nine
+named tropical storms formed in the 2013–2014
+season, with Bruce crossing over from the
+Australian basin. The Australian basin experienced an average number of tropical storms in
+the 2013/2014 season. The most intense tropical
+cyclone to make landfall over Australia in the
+2013/2014 season was severe Tropical Cyclone
+Ita, which made landfall as a category 4 cyclone.
+Tropical Cyclone Ita also affected the Solomon
+Islands,16 with heavy rain causing flash floods
+in the capital Honiara and across Guadalcanal
+Province. In the South-West Pacific basin, 5 storms
+formed in the 2013/2014 season, with another
+Tropical Cyclone, Edna, crossing over from the
+Australian basin, below the long-term average
+of 12 storms. Tropical Cyclone Ian made landfall
+in northern Tonga on 11 January.
+
+GREENHOUSE GASES AND OZONEDEPLETING SUBSTANCES
+The latest analysis of observations by the WMO
+Global Atmosphere Watch Programme shows
+that atmospheric levels of carbon dioxide (CO2),
+methane (CH4 ) and nitrous oxide (N2O) reached
+new highs in 2013 (data for 2014 have not yet
+been fully processed).
+16
+
+ht tp :// w w w.unocha.org / top -stories /all-stories /solomonislands-worst-flooding-history.
+
+15
+
+15
+
+Globally averaged atmospheric levels of CO2
+reached 396.0 ± 0.1 parts per million (ppm),
+approximately 142% of the pre-industrial average.17 The increase from 2012 to 2013 was
+2.9 ppm, which is the largest year-to-year
+increase between 1984 and 2013.
+Methane concentrations in the atmosphere
+reached a new high of 1824 ± 2 parts per billion (ppb) in 2013, approximately 253% of the
+pre-industrial level.18 Global concentrations of
+N2O reached 325.9 ± 0.1 ppb, which is 121% of
+the pre-industrial level.19
+17
+
+Pre-industrial CO2 concentration was 278 ± 2 ppm
+according to Climate Change 2013: The Physical Science
+Basis. Contribution of Working Group I to the Fifth
+Assessment Report of the Intergovernmental Panel
+on Climate Change (IPCC AR5 WGI), section 2.2.1.1.1.
+
+18
+
+Pre industrial CH 4 concentration was 722 ± 25 ppb according
+to IPCC AR5 WGI, section 2.2.1.1.2.
+
+19
+
+Pre industrial N 2O concentration was 270 ± 7 ppb according to
+IPCC AR5 WGI, section 2.2.1.1.3.
+
+As a result of the Montreal Protocol on
+Substances that Deplete the Ozone Layer, the
+use of ozone-depleting gases, such as chlorofluorocarbons and halons, has been phased out.
+However, these compounds break down only
+slowly and will remain in the atmosphere for
+many decades. There is still enough chlorine
+and bromine present in the atmosphere to
+cause complete destruction of ozone at certain
+altitudes in Antarctica during the August to
+December ozone season. Because the abundance of ozone-depleting gases changes only
+slowly, the size of the ozone hole in any particular year is largely determined by meteorological
+conditions. Conditions during the winter and
+spring of 2014 were similar to those observed
+in 2013. Analyses carried out at both NASA and
+KNMI show that the maximum area of the ozone
+hole in 2014 (24.06 million km2 on 11 September
+and 23.0 million km2 on 16 September, respectively) was similar to that of 2013 (24.01 million
+km2 on 16 September and 23.1 million km2 on
+15 September, respectively).
+
+Day number
+200
+
+250
+
+300
+
+30
+
+2012
+2011
+2006
+
+25
+
+25
+
+2004
+2002
+20
+
+20
+
+2000
+1992–2012
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Month
+
+16
+
+16
+
+350
+
+2014
+
+30
+
+Area (106 km2)
+
+Figure 14. Daily area
+(million km 2 ) of the
+Antarctic ozone hole
+for 2014 compared with
+some selected previous
+ozone holes between
+2000 and 2013. The plot
+covers the period from
+1 July to 31 December.
+Shown for comparison
+are two years when
+the ozone hole was not
+very extensive (2002
+and 2012), as well as the
+two largest ozone holes
+on record (2000 and
+2006). The thick grey line
+shows the daily ozone
+hole area averaged over
+1992–2012. The plot
+is produced at WMO
+and based on data
+from the Multi Sensor
+Reanalysis (MSR) of
+the Royal Netherlands
+Meteorological Institute
+until 2008 and on
+GOME-2 data from the
+EUMETSAT-operated
+Metop-A satellite from
+2009. More information
+about the MSR data
+can be found at http://
+www.atmos-chem-phys.
+net/10/11277/2010/acp10-11277-2010.pdf
+
+Nov
+
+Dec
+
+0
+
+MAJOR WEATHER AND CLIMATE
+EVENTS AROUND THE WORLD IN 2014
+•
+
+Europe was unusually warm in 2014, with 19 countries reporting record
+temperatures for the year.
+
+•
+
+Flooding in the Balkans in May and June affected Bosnia and Herzegovina,
+Croatia and Serbia.
+
+•
+
+Heavy rains led to flooding in Bangladesh, Pakistan and India in August
+and September and in Sri Lanka in December.
+
+•
+
+Flooding affected Morocco, Mozambique, South Africa, Kenya, Ethiopia,
+Somalia and the United Republic of Tanzania.
+
+•
+
+Flooding in the Paraná River basin affected Paraguay, Argentina, Bolivia
+and Brazil.
+
+•
+
+Severe drought affected eastern and central Brazil.
+
+•
+
+Severe drought affected Honduras, Guatemala, El Salvador and Nicaragua.
+
+•
+
+Greenhouse gas concentrations in the atmosphere reached record highs
+in 2013.
+
+•
+
+Global mean sea level and the heat content of the oceans reached record
+or near-record levels.
+
+•
+
+Antarctic sea ice set a new record maximum extent for the third year in
+a row.
+
+17
+
+Event attribution: an application to
+the global and United Kingdom record
+temperatures of 2014
+Reference: Christidis, N., P.A. Stott and F.W.
+Zwiers, Fast-track attribution assessments based
+on pre-computed estimates of changes in the
+odds of warm extremes. Climate Dynamics, 2015
+(online early-view). Authors: Nikos Christidis,
+Peter Stott
+Detection and attribution studies have demonstrated that human influence on the climate has
+been a main driver of the unequivocal warming
+of the global climate system observed since the
+1950s, according to the Fifth Assessment Report
+of the Intergovernmental Panel on Climate
+Change. Human influence has also led to significant regional temperature increases at the
+continental and subcontinental levels. Shifts of
+the temperature distribution to warmer regimes
+are also expected to bring about increases in
+the frequency and intensity of extremely warm
+events. It is interesting to note that, unlike
+the observed slowdown in the global mean
+temperature increase over the last 15 years,
+the occurrence of high temperature extremes
+has continued to increase across a range of
+spatial scales. The fast-growing research area
+of event attribution has been developing new
+scientific tools to determine the influence of
+anthropogenic climate change on extreme
+events by estimating the change in the likelihood
+of extremes relative to a counterfactual climate
+that is not influenced by human activity. Here,
+a new event attribution technique is applied to
+the global and UK mean record temperature
+of 2014.
+Event attribution assessments aim to disentangle the contributions of several different
+possible influences on the event, such as the
+atmospheric circulation, prevalent modes of
+climate variability and the state of the ocean
+at the time of the event, as well as the effect
+of external climatic forcings such as greenhouse gas emissions from human activity.
+Such assessments have typically appeared a
+year or more after the event occurs and can
+therefore be classed as “slow track”. However,
+scientists are often questioned about the role
+of climate change in the immediate aftermath
+of a high-impact extreme event and asked to
+provide a robust scientific analysis at media
+timescales. Hence, “fast-track” attribution
+techniques are being developed to provide
+timely assessments of how human influence
+
+18
+
+may have changed the chances of events in
+a general case, that is, irrespective of the
+specific conditions at the time of the event
+under consideration, until more thorough
+slow-track investigations become available. A
+fast-track attribution methodology was published last year by scientists of the Met Office
+Hadley Centre in the United Kingdom based
+on pre-computed tables of the change in the
+likelihood of temperature extremes. Tables
+can be constructed for any region of the world
+and are available for the study of both annual
+and seasonal temperature extremes.
+The methodology comprises three steps. First,
+an optimal fingerprinting analysis is carried out.
+This analysis combines information from stateof-the-art climate models and observational
+datasets to provide the temperature response
+of the global climate to different climatic forcings. In the second step, regional information
+is extracted from the global response for the
+region of interest. Finally, the simulated overall
+effect of internal climatic variability is introduced into the analysis. Regional temperature
+distributions with and without the effect of
+human influence are constructed. Figure 15
+shows the resulting temperature anomaly distributions for (a) the global annual mean and
+(b) the UK annual mean. The observed temperatures in 2014 are also marked in Figure 15.
+Once the regional temperature distributions
+are produced, the likelihood of exceeding an
+extreme temperature threshold with and without human influence on the climate can be
+estimated. Tables of the change in the risk
+can then be produced by obtaining likelihood
+estimates over a range of thresholds. Once
+a record is equalled or broken, as in the two
+cases considered here, the tables provide an
+instant assessment of the effect of anthropogenic forcings on the event. This enabled
+the Met Office to issue a press release on the
+record temperatures as soon as the event was
+established. Regarding the global mean surface
+temperature, the observed record (vertical
+black line in Figure 15 (a)) lies within the red
+distribution, but in the extreme warm tail of
+the green distribution. This suggests that the
+record would not have been equalled or broken in a natural climate without the effect of
+anthropogenic forcings.
+
+The UK record of 2014 lies within both distributions, albeit more to the extreme warm tail
+of the green distribution (Figure 15 (b)). The
+UK distributions are broader and overlap to
+a greater extent because natural variability
+is higher relative to the attributed anthropogenic changes at this smaller scale. At a
+
+global scale, the relative contribution of the
+anthropogenic component is much larger,
+and thus the distributions overlap hardly
+at all. It is estimated that human influence
+has increased the likelihood of the observed
+record-breaking temperatures in the United
+Kingdom by a factor of ten.
+
+(b) United Kingdom
+0.8
+
+3
+
+0.6
+
+Likelihood
+
+Likelihood
+
+(a) Global
+4
+
+2
+
+1
+
+0.4
+
+0.2
+
+0
+
+0.0
+–3
+
+–2
+
+–1
+
+0
+
+1
+
+Temperature anomaly (K)
+
+2
+
+3
+
+–3
+
+–2
+
+–1
+
+0
+
+1
+
+Temperature anomaly (K)
+
+2
+
+3
+
+Figure 15. Distributions
+of (a) global mean and
+(b) UK mean annual
+temperature anomalies
+relative to 1961–1990
+from the fast-track
+attribution methodology
+with (red line) and
+without (green line) the
+effect of human influence
+on the climate; the
+temperature records of
+2014 are represented by
+the black vertical lines.
+
+19
+
+For more information, please contact:
+
+World Meteorological Organization
+7 bis, avenue de la Paix – P.O. Box 2300 – CH 1211 Geneva 2 – Switzerland
+Communications and Public Affairs Office
+E-mail: cpa@wmo.int
+www.wmo.int
+
+JN 15319
+
+Tel.: +41 (0) 22 730 83 14/15 – Fax: +41 (0) 22 730 80 27
+
+

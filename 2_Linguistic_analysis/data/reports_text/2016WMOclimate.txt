@@ -1,0 +1,3012 @@
+WEATHER CLIMATE WATER
+
+WMO Statement on
+the State of the
+Global Climate in 2016
+
+WMO-No. 1189
+
+WMO-No. 1189
+© World Meteorological Organization, 2017
+The right of publication in print, electronic and any other form and in any language is reserved by WMO. Short
+extracts from WMO publications may be reproduced without authorization, provided that the complete source is
+clearly indicated. Editorial correspondence and requests to publish, reproduce or translate this publication in part
+or in whole should be addressed to:
+Chairperson, Publications Board
+World Meteorological Organization (WMO)
+7 bis, avenue de la Paix
+P.O. Box 2300
+CH-1211 Geneva 2, Switzerland
+
+Tel.: +41 (0) 22 730 84 03
+Fax: +41 (0) 22 730 81 17
+E-mail: publications@wmo.int
+
+ISBN 978-92-63-11189-0
+
+This publication was issued in collaboration with the European Centre for Medium-Range Weather Forecasts (ECMWF), United Kingdom of
+Great Britain and Northern Ireland; Japan Meteorological Agency (JMA); Met Office Hadley Centre, United Kingdom; Climatic Research Unit
+(CRU), University of East Anglia, United Kingdom; Climate Prediction Center (CPC), the National Centers for Environmental Information (NCEI)
+and the National Hurricane Center (NHC) of the National Oceanic and Atmospheric Administration (NOAA), United States of America; National
+Aeronautics and Space Administration, Goddard Institute for Space Studies (NASA GISS), United States of America; Global Precipitation
+Climatology Centre (GPCC), Germany; National Snow and Ice Data Center (NSIDC), United States of America; Commonwealth Scientific and
+Industrial Research Organization (CSIRO) Marine and Atmospheric Research, Australia; Global Snow Lab, Rutgers University, United States of
+America; Regional Climate Centre for Regional Association VI, Climate Monitoring, Germany; Beijing Climate Centre, China; Tokyo Climate Centre,
+Japan; International Research Centre on El Niño (CIIFEN), Ecuador; Caribbean Institute for Meteorology and Hydrology, Bridgetown, Barbados;
+Royal Netherlands Meteorological Institute (KNMI), Netherlands; Institute on Global Climate and Ecology (IGCE), Russian Federation; All-Russian
+Research Institute for Hydrometeorological Information-World Data Center (ARIHMI-WDC), Russian Federation; Global Atmospheric Watch
+Station Information System (GAWSIS), MeteoSwiss, Switzerland; World Data Centre for Greenhouse Gases (WDCGG), Japan Meteorological
+Agency, Japan; World Glacier Monitoring Service (WGMS), Switzerland; World Ozone and UV Radiation Data Centre (WOUDC), Environment and
+Climate Change, Canada; Niger Basin Authority, Niger. Other contributors are the National Meteorological and Hydrological Services or equivalent
+of: Argentina; Armenia; Australia; Austria; Azerbaijan; Bahrain; Belarus; Belgium; Bolivia (Plurinational State of), Bosnia and Herzegovina; Brazil;
+Brunei Darussalam; Burkina Faso; Canada; Chile; China; Colombia; Costa Rica; Croatia; Cyprus; Czechia; Democratic People’s Republic of Korea;
+Denmark; Egypt; Estonia; Fiji; Finland; France; Gambia; Georgia; Germany; Greece; Hong Kong, China; Hungary; Iceland; India; Indonesia; Iran,
+Islamic Republic of; Ireland; Israel; Italy, Jamaica; Japan; Jordan; Latvia; Libya; Luxembourg; Madagascar; Malawi; Malaysia; Mali; Mauritius;
+Mexico; Montenegro; Morocco; Netherlands; New Zealand; Niger; Norway; Pakistan; Papua New Guinea; Paraguay; Peru; Poland; Portugal;
+Republic of Korea; Republic of Moldova; Romania; Russian Federation; Samoa; Serbia; Singapore; Slovakia; Slovenia; Solomon Islands; South
+Africa; Spain; Swaziland; Sweden; Switzerland; Thailand; the former Yugoslav Republic of Macedonia; Tonga, Tunisia; Turkey; Ukraine; United
+Kingdom; United Republic of Tanzania; United States of America; Uruguay and Vanuatu.
+Contributions from international organizations were made available, including the Centre for Research on the Epidemiology of Disasters (CRED),
+Université catholique de Louvain, Belgium; Food and Agriculture Organization of the United Nations (FAO); International Monetary Fund (IMF);
+International Organization for Migration (IOM); United Nations Environment Programme (UNEP) and United Nations High Commissioner for
+Refugees (UNHCR); World Food Programme (WFP) and World Health Organization (WHO).
+
+Cover illustration: Adobe Stock
+NOTE
+The designations employed in WMO publications and the presentation of material in this publication do not imply the expression of any opinion whatsoever on the part of WMO concerning the legal status of any country, territory, city or area, or of its authorities, or concerning the delimitation of its
+frontiers or boundaries.
+The mention of specific companies or products does not imply that they are endorsed or recommended by WMO in preference to others of a similar
+nature which are not mentioned or advertised.
+The findings, interpretations and conclusions expressed in WMO publications with named authors are those of the authors alone and do not necessarily reflect those of WMO or its Members.
+
+Contents
+Foreword .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+Preface .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+Executive summary  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+Key findings  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Temperature  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Global  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Temperatures over land  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+The oceans  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+Greenhouse gases  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+The cryosphere in 2016 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Sea ice  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  10
+Glaciers and ice sheets .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  10
+Snow cover  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11
+Major climate drivers .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  11
+Precipitation .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  13
+Extreme events .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  14
+Major droughts and floods .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  14
+El-Niño-related droughts ease in several regions, but droughts develop elsewhere .
+
+14
+
+Significant floods  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  17
+Tropical cyclones  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  18
+Destructive wildfires in several parts of the world .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  19
+Extreme heat and cold .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  20
+Severe storms, snowfalls and tornadoes .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  21
+Stratospheric ozone  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+22
+
+Towards globally consistent National Climate Monitoring Products .  .  .  .  .  .  .  .  .  .  .  .  . 23
+
+Global sea levels rose strongly during the
+2015/2016 El Niño, with early 2016 values
+reaching new record highs.
+
+4 million km2
+Global sea-ice extent dropped more than
+4 million km2 below average.
+
+Carbon dioxide
+reached new highs
+at 400.0 ± 0.1 parts
+per million in the
+atmosphere.
+
++1.1°C
+
+2
+
+Severe droughts and floods
+displaced hundreds of
+thousands of people.
+
+Warming continued,
+setting a new record at
+about 1.1°C above the
+pre-industrial period.
+
+Foreword
+Every year, the World Meteorological Organization (WMO) issues a Statement on the State
+of the Global Climate based on data provided
+by National Meteorological and Hydrological
+Services (NMHSs) and other national and
+international organizations. For more than
+20 years, these reports have been published in
+the six official languages of the United Nations
+to inform governments, international agencies, other WMO partners and the general
+public about the global climate and significant
+weather and climate trends and events at the
+global and regional levels.
+This latest report confirms that 2016 was the
+warmest year on record: a remarkable 1.1 °C
+above the pre-industrial period, which is 0.06 °C
+above the previous record set in 2015. This
+increase in global temperature is consistent
+with other changes in the climate system.
+Globally averaged sea-surface temperatures
+were also the warmest on record; global sea
+levels continued to rise; and Arctic sea-ice extent
+was well below average for most of the year.
+The powerful 2015/2016 El Niño played an
+important role in the year’s climate and confirmed
+that, when natural variability interacts with
+anthropogenic climate change, the impacts on
+human societies and the natural environment
+can be severe. The year was marked by severe
+droughts that affected agricultural production
+and left people exposed to food insecurity in
+southern and eastern Africa and Central America.
+Hurricane Matthew caused significant damage
+in Haiti and the United States, while heavy rains
+and floods affected eastern and southern Asia.
+Coral bleaching and mortality were reported in
+many tropical waters, with important impacts on
+marine food chains, ecosystems and fisheries.
+With carbon dioxide reaching a record annual
+average concentration of 4 0 0 par ts per
+million (ppm) in the atmosphere, the influence
+of human activities on the climate system
+has become more and more evident. This
+influence is increasingly being demonstrated by
+attribution studies for some of the most critical
+weather and climate extremes, in particular
+extremes related to heat. Because the societal
+and economic impacts of climate change have
+become so important, WMO has partnered with
+other UN organizations to include information
+in the Statement on how climate has affected
+people, agriculture, health and other sectors.
+
+The entry into force of the Paris Agreement
+under the UN Framework Convention on
+Climate Change (UNFCCC) on 4 November 2016
+represents a historic landmark. It is vital that
+its implementation becomes a reality and that
+the Agreement guides the global community
+in addressing climate change by curbing
+greenhouse gases, fostering climate resilience
+and mainstreaming climate adaptation into
+national development policies.
+At the request of the Conference of the Parties
+(COP) to the UNFCCC at its annual session, which
+took place in Marrakesh in 2016, both the annual
+WMO Statement on the State of the Global
+Climate and the annual WMO Greenhouse Gas
+Bulletin will from now on be submitted to COP
+to inform its decisions on the implementation of
+the Paris Agreement. In this way, the Statements
+will complement the assessment repor ts
+that the Intergovernmental Panel on Climate
+Change (IPCC) produces every six to seven
+years. In addition to providing information
+about scientific progress, WMO is committed to
+supporting its Members in building operational
+climate services that enable climate resilience
+and adaptation.
+I would like to take this opportunity to express
+my gratitude to the NMHSs of WMO Members,
+international and regional data centres and
+agencies, climate experts from around the world
+for their contributions and United Nations sister
+agencies for their valuable input on societal and
+economic impacts. They have greatly assisted
+WMO in ensuring that this annual Statement
+achieves the highest scientific standards and
+societal relevance.
+WMO welcomes suggestions from its Members
+on how to further improve the Statement on the
+State of the Global Climate, including how it can
+better support action on the Paris Agreement,
+the Sendai Framework for Disaster Risk
+Reduction and the United Nations Sustainable
+Development Goals.
+
+(P. Taalas)
+Secretary-General
+
+3
+
+Preface
+The present Statement is based on datasets and
+information that were made available by WMO
+Members and partners. Comparisons were
+made with climatological averages and records
+(historical background) whenever possible and
+appropriate.
+More than 80 NMHSs provided direct input
+to the Statement following WMO’s call for
+contributions, or made their data and climate
+reports available for access on their websites.
+When necessary, WMO communicated with
+the relevant national source in order to verify the information before its inclusion in the
+Statement.
+
+WMO Statements on the Global Climate report
+on the status of selected Essential Climate
+Variables as defined by the Global Climate
+Observing System. The Statement also uses
+information on climate impacts provided by
+United Nations agencies having a mandate in
+various social and economic domains. Input
+from other sources affiliated under United
+Nations mandates are also used, based on published and online reports and material. Figures
+concerning casualties and economic losses
+are sourced, unless otherwise stated, from
+the Centre for Research on the Epidemiology
+of Disasters (CRED), Université catholique de
+Louvain, Belgium.
+
+Executive summary
+Warming continued in 2016, setting a new
+temperature record of approximately 1.1 °C
+above the pre-industrial period, and 0.06 °C
+above the previous highest value set in 2015.
+Carbon dioxide (CO 2) reached new highs at
+400.0 ± 0.1 ppm in the atmosphere at the end of
+2015. Global sea-ice extent dropped more than
+4 million km2 below average – an unprecedented
+anomaly – in November. Global sea levels rose
+strongly during the 2015/2016 El Niño, with the
+early 2016 values making new records.
+The powerful 2015/2016 El Niño event exerted
+a strong influence on the climate and societies
+against a background of long-term climate
+change. Severe droughts affected agriculture
+and yield production in many parts of the world,
+particularly in southern and eastern Africa
+and parts of Central America, where several
+million people experienced food insecurity
+and hundreds of thousands were displaced
+internally, according to reports from the World
+Food Programme (WFP), the United Nations
+Food and Agriculture Organization (FAO), the
+United Nations High Commissioner for Refugees
+(UNHCR) and the International Organization for
+Migration (IOM).
+
+with Haiti sustaining the heaviest casualties.
+There were also major economic losses in the
+United States and elsewhere in the region.
+Flooding severely affected eastern and southern
+Asia with hundreds of lives lost, hundreds of
+thousands of people displaced and severe
+economic damage. Wet conditions led to good
+crop production in many parts of the Sahel,
+with record yields reported in Mali, Niger and
+Senegal.1
+Detection and attribution studies have demonstrated that human influence on the climate
+has been a main driver behind the unequivocal
+warming of the global climate system observed
+since the 1950s, according to the Fifth Assessment Report of IPCC. Human influence has
+also led to significant regional temperature
+increases at the continental and subcontinental
+levels. Shifts of the temperature distribution to
+warmer regimes are expected to bring about
+increases in the frequency and intensity of
+extremely warm events.
+
+1
+
+Hurricane Matthew in the North Atlantic led to
+the most damaging meteorological disaster,
+
+4
+
+Unless stated otherwise, information on crop yields and production in this Statement is derived from Crop Prospects and
+Food Situation, No.4, December 2016, FAO
+
+Key findings
+Global average temperature anomaly (°C)
+
+Figure 1. Global
+average temperature
+anomalies (1961–1990
+reference period) for
+the three major datasets
+used in this Statement.
+The grey shading
+indicates the uncertainty
+in the HadCRU dataset.
+(Source: UK Met Office
+Hadley Centre)
+
+Met Office Hadley Centre and Climatic Research Unit
+NOAA National Centers for Environmental Information
+NASA Goddard Institute for Space Studies
+
+0.5
+
+0
+
+– 0.5
+
+1850
+
+1900
+
+TEMPERATURE
+GLOBAL
+The year 2016 was the warmest on record in
+all major global surface temperature datasets,
+although, in some, the difference between
+2016 and the second warmest year, 2015,
+was within the margin of uncertainty. In the
+three dataset mean 2 used by WMO, 2016
+was 0.83 °C ± 0.1°C warmer than the average
+for the 1961–1990 reference period (0.52 °C
+above the 1981–2010 average), 0.06 °C above
+the previous highest value set in 2015. This
+is also about 1.1 °C above the pre-industrial
+period. The ERA-Interim reanalysis dataset 3
+was even warmer, with global mean temperatures 0.62 °C above the 1981–2010 average and
+0.18 °C warmer than those of 2015. It was the
+
+2
+
+Global temperatures in this Statement are reported using the
+mean of the latest versions of the three datasets: GISTEMP,
+NOAAGlobalTemp and HadCRUT maintained, respectively, by
+NOAA, the US National Air and Space Administration (NASA)
+and the UK Met Office Hadley Centre, in collaboration with the
+University of East Anglia Climatic Research Unit. The combined
+dataset extends back to 1880.
+
+3
+
+Further discussion of the use of reanalysis data in global
+temperature analyses is contained in a special section of the
+WMO Statement on the Status of the Global Climate in 2010
+(WMO-No. 1074).
+
+Year
+
+1950
+
+2000
+
+warmest year on record for both land areas
+and oceans and for both the northern and
+southern hemispheres.
+The five- and ten-year mean temperatures
+also reached their highest values on record,
+with 2012–2016 and 2007–2016 respectively
+being 0.65 °C and 0.57 °C above the 1961–1990
+average (0.34 °C and 0.26 °C respectively above
+the 1981–2010 average). Each of the 16 years
+since 2001 has been at least 0.4 °C above the
+1961–1990 average, a mark which, prior to 2001,
+had only been reached once, in 1998. Global
+temperatures continue to be consistent with a
+warming trend of 0.1 °C to 0.2 °C per decade.
+Differences between datasets largely reflect
+their areal coverage. With warmth in 2016 being
+especially pronounced in data-sparse regions of
+the Arctic, the difference between 2015 and 2016
+values is greatest in those datasets which either
+represent the full Arctic (ERA-Interim reanalysis
+of the European Centre for Medium Range
+Weather Forecasts) or extrapolate station data
+over long distances (GISTEMP dataset produced
+by the US National Air and Space Administration
+(NASA) Goddard Institute for Space Studies) and
+least in those datasets which take a relatively
+conservative approach to extrapolation and
+hence treat large areas of the Arctic as missing
+data (HadCRUT dataset produced by the UK
+Met Office Hadley Centre in collaboration with
+the Climatic Research Unit of the University of
+
+5
+
+Figure 2. Global
+temperature anomalies
+in 2016 (from 1961–1990
+reference period)
+(Source: UK Met Office
+Hadley Centre)
+
+90N
+
+60N
+
+30N
+
+0
+
+30S
+
+60S
+
+90S
+180
+
+–10
+
+120W
+
+–5
+
+–3
+
+60W
+
+60E
+
+–2
+–1
+–0.5
+0
+0.5
+2
+1
+Temperature difference (°C) compared to the 1961–1990 average
+
+120E
+
+3
+
+180
+
+5
+
+10
+
+East Anglia and the NOAAGlobalTemp dataset
+produced by the NOAA National Centers for
+Environmental Information).4
+
+but from September onwards, temperatures
+were lower than those for the corresponding
+month in 2015.
+
+Global temperatures in 2016 were substantially influenced by the strong El Niño event of
+2015/2016, especially early in the year. Temperatures in years in which strong El Niño events
+finish, such as 1973, 1983 and 1998, are typically
+0.1 °C to 0.2 °C warmer than background levels
+(as indicated by 10-year mean temperatures
+centred on each of those years) and temperatures in 2016 were consistent with that pattern.
+
+TEMPERATURES OVER LAND
+
+Conditions were especially warm from October
+2015 to April 2016, when the El Niño influence
+on global climate was at its maximum. Global
+temperatures were at least 0.85 °C above the
+1961–1990 average in each of those months,
+peaking at 1.13 °C above the 1961–1990 average
+in February 2016. It was somewhat less warm
+from May onwards as El Niño broke down, with
+each of the months from May to December
+being between 0.65 °C and 0.75 °C above
+average, except for August (+0.82 °C). Each
+month from January to August, except for June,
+had the highest global temperatures on record,
+
+4
+
+6
+
+0
+
+A more detailed discussion of the differences between global
+temperature datasets has been published by the UK Met
+Office at http://www.metoffice. gov.uk/research/news/2017/
+overview-global-temperature-2016.
+
+Warmth extended almost worldwide in 2016.
+Temperatures were above the 1961–1990 average over the vast majority of the world’s land
+areas, the only significant exceptions being
+northern and central Argentina, and parts
+of south-western Australia. Most mid- and
+higher-latitude areas of the northern hemisphere
+were at least 1 °C above the 1961–1990 average
+(the main exceptions were in Quebec (Canada)
+and parts of the far eastern Russian Federation).
+Mean annual temperatures at least 3 °C above
+the 1961–1990 average occurred in various
+high-latitude locations, particularly along the
+Arctic coast of the Russian Federation and in
+Alaska and far north-western Canada, and on
+islands in the Barents and Norwegian Seas. In
+the high Arctic, in Norway, Svalbard Airport’s
+mean annual temperature of −0.1 °C was 6.5 °C
+above the 1961–1990 average and 1.6 °C above
+the previous record.
+Beyond the Arctic, the warmth was more notable for its consistency across the globe than
+for its extreme nature in individual locations.
+Only a relatively small proportion of countries
+which reported national temperature data had
+their warmest year on record, including India,
+
+THE OCEANS
+The rate of energy increase in the climate
+system – the Earth’s energy imbalance – is the
+most fundamental metric that defines the rate
+of global climate change. On timescales longer
+than about a year, the vast majority (more than
+90%) of the Earth’s energy imbalance goes into
+heating the oceans. Thus, tracking ocean temperatures and associated changes in ocean heat
+content (OHC) allow us to monitor variations in
+the Earth’s energy imbalance over time. As the
+oceans warm, they expand, resulting in both
+global and regional sea-level rise. Increased
+OHC accounts for about 40% of the observed
+global sea-level increase over the past 60 years.
+Globally averaged sea-surface temperatures in
+2016 were the warmest on record. As for land
+temperatures, the anomalies were strongest in
+
+15
+
+3-month average October–December 2016
+Yearly average to end of 2016
+5-year average 2012–2016
+
+10
+
+5
+
+0
+
+–5
+
+– 10
+1950
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+2020
+
+Year
+
+the early months but, unlike land temperatures,
+sea-surface temperatures fell only slightly after
+April, with values from May to October still
+generally within 0.1 °C of the early peak before
+a more substantial decline in November and
+December.
+Outside polar regions, areas which experienced
+sea-surface temperatures at least 1 °C above
+average included the western North Atlantic
+north of the tropics (locally reaching 2 °C above
+average off Nova Scotia), the western North
+Pacific from Japan south and west to China and
+the Philippines, the Gulf of Alaska, parts of the
+
+Figure 3. Total global
+
+ocean heat content (in
+units of 10 22 J) for the
+0–700 m layer, compared
+with 1955–2006
+reference period. Data
+averaged over periods of
+three months (red line),
+one year (black) and five
+years (blue)
+(Source: prepared
+by WMO using data
+from the US NOAA
+National Centers
+for Environmental
+Information)
+
+TARAWA, KIRIBATI
+With surrounding sea levels rising, it has been predicted that
+Kiribati will become uninhabitable in 30–60 years.
+
+7
+
+David Gray (Reuters)
+
+The most significant cool land area was in
+South America, covering northern and central
+Argentina, Paraguay and lowland Bolivia. Cool
+temperature anomalies were most pronounced
+in autumn and early winter, especially in May,
+when Argentina had its lowest nationwide
+mean maximum on record. (In marked contrast,
+further south, it reached 17.2 °C at Esperanza
+base in the Antarctic on 26 May, one of the
+highest temperatures ever recorded there at
+any time of year). The temperature did not
+rise above 20 °C in Buenos Aires for 103 days
+from 25 April to 5 August, the longest such
+period on record. The other region with cool
+annual anomalies, south-western Australia,
+experienced its coldest winter since 1990.
+
+20
+
+Heat content (1022 Joules)
+
+Thailand, Singapore, New Zealand and Tunisia.
+On a wider scale, 2016 was in the five warmest
+years for every inhabited continent. It was the
+warmest year on record for North America,
+with the continental United States having its
+second warmest year, Alaska its warmest and
+Canada its fourth warmest. It was the second
+warmest for Africa and South America and
+third warmest for Europe. Asia had its warmest
+January–September on record, as did the Russian Federation, but relatively cool conditions
+in the last three months of the year (including
+Asia’s coolest November since 2000) saw Asia’s
+annual mean temperature anomaly drop to
+third highest, and the Russian Federation’s to
+fifth. North America had its warmest autumn
+on record and Africa its warmest June–August.
+
+December revealing coral mortality up to 70%
+in the Sekisei lagoon.6
+
+50
+
+Monthly
+
+Global mean sea level (mm)
+
+40
+
+3–month running mean
+Trend = 3.3 mm/year
+
+30
+20
+10
+0
+–10
+–20
+
+Seasonal signal removed
+
+–30
+
+Inverse barometer and glacial isostatic
+adjustment corrections both applied
+
+–40
+
+1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016
+
+Year
+
+Figure 4. Global mean
+sea-level change 1993 to
+August 2016, with annual
+cycle removed from the
+data: monthly values
+shown in pale blue;
+three-month averages
+in dark blue and a simple
+linear trend in red
+(Source: Commonwealth
+Scientific and Industrial
+Research Organization,
+Australia)
+
+waters around Indonesia and northern Australia,
+and the Tasman Sea. Record high mean annual
+sea-surface temperatures occurred over most
+of the Maritime Continent (covering waters of
+Indonesia, northern Australia, the Philippines and
+other islands in the region) and adjacent areas of
+the western North Pacific, the Tasman Sea, the
+Caribbean Sea and parts of the western North
+Atlantic. Below-average sea-surface temperatures occurred in various parts of the Southern
+Ocean south of 45°S, most notably around,
+and east of, the Drake Passage between South
+America and the Antarctic Peninsula, as well as
+in the North Atlantic south of Greenland (where
+the cool anomaly, however, was less pronounced
+than in 2015), parts of the central North Pacific
+and around south-western Australia.
+The very warm ocean temperatures contributed
+to significant coral bleaching in some tropical
+waters. Among the areas significantly affected
+was the Great Barrier Reef off the east coast
+of Australia, where record high sea-surface
+temperatures occurred in March. Coral mortality of up to 50% was reported in northern
+parts of the reef north of Lizard Island. 5 Later
+in the year, severe coral bleaching was also
+repor ted in the Okinawa region of Japan,
+with government surveys in November and
+
+5
+
+8
+
+Information Statement on Coral Bleaching, Australian Meteorological and Oceanographic Society, 20 September 2016,
+available at www.amos.org.au
+
+Coral bleaching was also reported from Pacific
+island countries such as Fiji and Kiribati,
+with associated fish deaths reported in Fiji.7
+Significantly higher sea-surface temperatures,
+as much as 3 °C above average in some areas,
+are implicated in dramatic changes to the
+physical, chemical and biological state of the
+marine environment with great impacts on
+food chains and marine ecosystems, as well as
+socioeconomically important fisheries. 8
+Global OHC 9 fell slightly from the record high
+values of 2015, but mean annual values were
+still the second highest on record. Northern
+hemisphere OHC reached new record highs
+in 2016 that were outweighed in the global
+average by substantial falls in the southern
+hemisphere. According to NOAA data, the total
+global OHC anomaly in 2016 (from a 1955–2006
+reference period) was 140 ZJ10 for the 0–700 m
+layer, and 208 ZJ for the 0 –2 000 m layer,
+compared with 151 ZJ and 224 ZJ respectively
+in 2015.
+Globally, sea level has risen by 20 cm since the
+start of the twentieth century, due mostly to
+thermal expansion of the oceans and melting
+of glaciers and ice caps. Some regions are
+experiencing greater sea-level rise than others.
+The tropical western Pacific observed some of
+the highest rising sea-level rates over the period
+1993–2015, which was a significant factor in the
+enormous devastation in parts of the Philippines
+when Typhoon Haiyan caused a massive storm
+surge in November 2013.
+
+6
+
+Japanese Environment Ministry data, reported in The Japan
+Times, 11 Januar y 2 017: ht tp: //w w w.japantimes.co.jp/
+news/2017/01/11/national/science-health/70-coral-okinawassekiseishoko-area-dead-survey-shows/#.WK2vdUZLUmc
+
+7
+
+Information supplied by the Climate and Oceans Support Program
+in the Pacific (COSPPac), Australian Bureau of Meteorology
+
+8
+
+United Nations Environment Programme
+
+9
+
+A more detailed discussion of ocean heat content and its
+importance is contained in the WMO Statement on the Status
+of the Global Climate in 2015 (WMO-No. 1167).
+
+10
+
+1 ZJ (zetajoule) is equal to 10 21 J.
+
+1900
+
+390
+380
+370
+360
+350
+340
+330
+
+1800
+1750
+1700
+1650
+
+2
+1
+
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+10
+5
+0
+
+310
+305
+
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+Global sea levels rose strongly during the
+2015/2016 El Niño, rising about 15 mm between
+November 2014 and February 2016, well above
+the post-1993 trend of 3 mm–3.5 mm per year,
+with the early 2016 values reaching new record
+highs. From February to August, sea levels
+remained fairly stable as the influence of El
+Niño declined. Final 2016 sea-level data are not
+yet available at the time of writing.11
+
+GREENHOUSE GASES
+The latest analysis of observations from the
+WMO Global Atmosphere Watch Programme
+shows that globally averaged surface mole
+fractions for CO2, methane (CH4) and nitrous
+oxide (N2O) reached new highs in 2015, with
+CO2 at 400.0 ± 0.1 ppm, CH4 at 1 845 ± 2 parts
+per billion (ppb) and N2O at 328.0 ± 0.1 ppb.
+These values constitute, respectively, 144%,
+256% and 121% of pre-industrial (before 1750)
+levels. Comprehensive global greenhouse data
+for 2016 will not be available until later in 2017.
+The increase of CO2 from 2014 to 2015 was larger
+than that observed from 2013 to 2014 and that
+averaged over the past 10 years, despite no
+significant change in emissions from fossil-fuel
+
+11
+
+315
+
+2
+
+15
+
+-5
+
+320
+
+300
+
+N2O growth rate (ppb/yr)
+
+3
+
+325
+
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+20
+CH4 growth rate (ppb/yr)
+
+CO2 growth rate (ppm/yr)
+
+4
+
+0
+
+1850
+
+1600
+
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+330
+N2O mole fraction (ppb)
+
+400
+
+CH4 mole fraction (ppb)
+
+CO2 mole fraction (ppm)
+
+410
+
+Sea-level measurements are transitioning to a new satellite
+and full 2016 data from the merged dataset will be available
+later in 2017.
+
+1.5
+1
+0.5
+0
+
+1985 1990 1995 2000 2005 2010 2015
+Year
+
+sources.12 The El Niño event contributed to the
+increased growth rate in 2015, both through
+increased emissions from terrestrial sources
+(e.g. forest fires) and decreased uptake of CO2
+by vegetation in drought-affected areas. The
+increase of CH4 from 2014 to 2015 was also larger
+than that observed from 2013 to 2014 and that
+averaged over the last decade. The increase
+of N2O from 2014 to 2015 was similar to that
+observed from 2013 to 2014 and greater than
+the average growth rate over the past 10 years.
+The NOAA Annual Greenhouse Gas Index shows
+that, from 1990 to 2015, radiative forcing by
+long-lived greenhouse gases increased by
+37%, with CO 2 accounting for about 80% of
+this increase.
+
+Figure 5. Globally
+averaged mole
+fractions (a measure of
+concentration) of CO 2 in
+parts per million (left),
+CH 4 in parts per billion
+(middle) and N 2 O in parts
+per billion (right). The
+period 1984–2015 is
+shown on the top row
+with growth rates on the
+bottom row; annually
+averaged growth rates
+are shown as columns in
+the bottom row of plots.
+(Source: WMO Global
+Atmospheric Watch)
+
+THE CRYOSPHERE IN 2016
+The cryosphere component of the Earth system includes solid precipitation, snow cover,
+sea ice, lake and river ice, glaciers, ice caps,
+ice sheets, permafrost and seasonally frozen
+ground. The cryosphere provides some of the
+most useful indicators of climate change, yet is
+one of the most under-sampled domains of the
+Earth system. There are at least 30 cryospheric
+properties that, ideally, would be measured.
+Many are measured at the surface, but spatial
+
+12
+
+Global Carbon Budget 2016, Global Carbon Project: www.
+globalcarbonproject.org
+
+9
+
+slow summer melt resulted in the seasonal
+minimum – 4.14 million km2 – being well above
+the record low of 2012. In 2016, the annual
+minimum was equal to the second lowest on
+record in 2007. The 2016 autumn freeze-up was
+exceptionally slow – with sea-ice extent even
+contracting for a few days in mid-November.
+The mean November extent of 9.08 million km2
+was 0.8 million km2 below the previous record
+low. Anomalies became slightly less extreme
+in December.
+
+Arctic September sea-ice extent 1979 – 2016
+
+Percentage
+
+20
+
+0
+
+– 20
+
+– 40
+
+1981–2010 mean = 6.5 million sq km
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+Year
+slope = –13.3 ± 2.6 % per decade
+
+Antarctic September sea-ice extent 1979 – 2016
+
+Percentage
+
+20
+10
+0
+– 10
+– 20
+
+1981–2010 mean = 18.8 million sq km
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+Year
+
+Antarctic sea-ice extent was close to the
+1979–2015 average for the first eight months
+of 2016, reaching a seasonal maximum of
+18.44 million km2 on 31 August. This was the earliest seasonal maximum on record. The spring
+melt was then exceptionally rapid, resulting in
+a November mean extent of 14.54 million km2
+– by far the lowest on record (1.0 million km2
+below the previous lowest) – and 5.7 standard
+deviations below average: easily the largest
+monthly anomaly in the satellite record. The
+reasons for the rapid collapse of Antarctic
+sea ice in late 2016 are not yet completely
+understood, although local winds are likely to
+have been a substantial contributor.
+
+slope = 0.9 ± 0.6 % per decade
+
+Figure 6. (a) September
+sea-ice extent for the
+Arctic and (b) September
+sea-ice extent for the
+Antarctic: percentage
+of long-term average
+of the reference period
+1981–2010
+(Source: prepared by
+WMO using data from
+the US National Snow
+and Ice Data Center)
+
+coverage is generally poor. Some have been
+measured for many years from space; the
+capability to measure others with satellites is
+developing. The major cryosphere elements
+for which assessment is provided for 2016
+include sea ice, glaciers and ice sheets and
+snow cover.
+
+With Arctic and Antarctic sea-ice extent at
+record low levels simultaneously, global seaice extent in November was also far below
+average. After having been 1 million km2 to
+2 million km2 below the 1979–2015 average
+for most of the year, it dropped more than
+4 million km2 below average in November –
+an unprecedented anomaly – before a slight
+recovery in December.
+
+SEA ICE
+
+GLACIERS AND ICE SHEETS
+
+Arctic sea-ice extent13 was well below average
+throughout 2016 and was at record low levels for
+large parts of the year. The seasonal maximum
+of 14.52 million km2 on 24 March was the lowest
+seasonal maximum in the 1979–2016 satellite
+record, just below that of 2015. Sea-ice extent
+again dropped to record low levels for the
+time of year in May and June but a relatively
+
+Preliminary data from the World Glacier Monitoring Service indicate that mountain glaciers
+continued to melt in 2016. Those reference
+glaciers for which 2015/2016 data are available
+show a mean mass balance of −858 mm, with
+only one of 26 glaciers showing a positive mass
+balance. This mean mass balance deficit is less
+extreme than that of 2014/2015, but is slightly
+above the 2003–2015 average.
+
+Data in this section are sourced from the US National Snow
+and Ice Data Center (sea ice), the World Glacier Monitoring
+Service (mountain glaciers), the Danish Meteorological Institute
+(Greenland ice sheet), Rutgers University (global snow cover),
+Snowy Hydro (Australian snow cover) and relevant NMHSs.
+
+The loss of Greenland ice sheets in the 12 months
+to August 2016 was a similar rate to that of
+recent means. The surface mass balance for
+this period was close to the 1990–2013 average,
+with above-average accumulation during the
+
+13
+
+10
+
+colder months being offset by above-average
+melting, especially in July. The melt season
+also had an unusually early start as a result
+of record high April temperatures at many
+Greenland locations. The loss of glacier area
+was the largest since 2012. Accumulation was
+well above average in the last quarter of 2016,
+especially in October, mostly as a result of
+exceptionally heavy precipitation in south-east
+Greenland.
+
+SNOW COVER
+Northern hemisphere mean annual snowcover extent for 2016 was 24.6 million km2,
+0.5 million km2 below the 1967–2015 average
+and the 12th lowest value on record. This was
+very similar to 2015.
+After above-average snow cover in January,
+snow cover was well below average from February
+to June, with cover between 2.4 million km2 and
+3.3 million km2 below average. The April mean
+snow-cover extent was the lowest on record, with
+March ranking second, February and June third
+and May fourth. Autumn snow cover, however,
+was above average, as it had been in the previous
+three years. There were positive anomalies from
+September and each month from October to
+December ranked in the 10 highest years on
+
+record: October (4.7 million km2 above average)
+ranked third highest, due, in part, to a record
+high October snow-cover extent for Canada.
+There are no comparable snow-cover records
+for the southern hemisphere, where (except for
+the Antarctic) snow is generally rare outside
+high mountain regions. Abnormally dry and
+warm conditions in southern South America
+were reflected in a 69-day period, with no snow
+falling at Ushuaia (Argentina) from 21 April
+to 30 June: a record for that time of year.
+In Australia, peak seasonal snow depths at
+Spencers Creek in the Snowy Mountains were
+slightly below average, but high precipitation
+and below-average temperatures in September
+and October led to a late finish to the season,
+with an unusually late seasonal peak in the
+first week of October.
+
+MAJOR CLIMATE DRIVERS
+There are several large-scale modes of variability in the world’s climate that influence
+conditions over large parts of the world on
+seasonal to interannual timescales. The El Niño–
+Southern Oscillation (ENSO) is probably the
+best-known of the major drivers of interannual
+climate variability. The equatorial Indian Ocean
+is also subject to fluctuations in sea-surface
+
+ARCTIC OCEAN
+
+NASA
+
+Arctic sea-ice extent at record low levels for large parts of the year
+
+11
+
+1.5
+
+2.5
+
+Indian Ocean Dipole (IOD) index
+
+2
+
+Oceanic Niño Index (ONI)
+
+1.5
+1
+0.5
+0
+– 0.5
+–1
+– 1.5
+
+1
+
+0.5
+
+0
+
+– 0.5
+
+–1
+
+–2
+
+– 1.5
+
+– 2.5
+1950
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+2020
+
+2012
+
+Year
+
+Figure 7. The Oceanic
+Niño Index (ONI) (left)
+and Indian Ocean Dipole
+(IOD) index (right)
+(Source: prepared by
+WMO using data from the
+NOAA Climate Prediction
+Center (ONI) and the
+Australian Bureau of
+Meteorology (IOD)).
+
+temperatures, although on a less regular basis
+than the Pacific. The Indian Ocean Dipole (IOD)
+describes a mode of variability that affects
+the western and eastern parts of the ocean.
+The Arctic Oscillation (AO) and North Atlantic
+Oscillation (NAO) are two closely related modes
+of variability in the atmospheric circulation at
+middle and higher latitudes of the northern
+hemisphere. In positive mode, the subtropical
+high-pressure ridge is stronger than normal, as
+are areas of low pressure at higher latitudes,
+such as the “Icelandic” and “Aleutian” lows,
+resulting in enhanced westerly circulation
+through mid-latitudes. In negative mode, the
+reverse is true, with a weakened subtropical
+ridge, weakened higher-latitude, low-pressure
+areas and anomalous easterly flow through
+mid-latitudes. The Southern Annular Mode
+(SAM), also known as the Antarctic Oscillation
+(AAO), is the southern hemisphere analogue
+of the AO.
+The year began with a strong El Niño event
+near peak levels in the tropical Pacific Ocean,
+with sea-surface temperatures still more than
+2 °C above average in the east-central equatorial
+Pacific region in January. Conditions cooled
+steadily through the early months of the year,
+consistent with typical El Niño decay patterns,
+and ocean temperatures had fallen below El
+Niño thresholds by May. The 2015/2016 El Niño
+event reached a peak Oceanic Niño Index (ONI)14
+
+14
+
+12
+
+The Oceanic Niño Index is defined as the three-month running
+mean of sea-surface temperature anomalies in the Niño 3.4
+region (5°N–5°S, 120°–170°W). See: http://www.cpc.noaa.
+gov/products/analysis_monitoring/ensostuff/ensoyears.shtml
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Year
+
+value of +2.3 °C for the three-month period
+November 2015 to January 2016, making it
+one of the three strongest events since 1950
+together with those of 1997/1998 and 1982/1983.
+Equatorial Pacific temperatures were below
+average for most of the second half of 2016. The
+lowest ONI values were −0.8 °C in September,
+October and November, which was sufficient
+for a marginal La Niña event to be declared
+by some agencies but as neutral conditions
+by others.
+There was a strong negative phase of IOD
+between June and October, with abnormally
+warm sea-surface temperatures in the eastern
+tropical Indian Ocean between Indonesia and
+north-western Australia and relatively cool
+conditions off the east coast of Africa. Indian
+Ocean Dipole index values fell below −1 °C in
+both July and September, making it one of
+the strongest negative episodes since records
+began. Negative IOD phases are associated
+with above-average rainfall in many parts of
+Australia and Indonesia and dry conditions in
+equatorial East Africa.
+The AO was near average during January–March
+2016 (the time of year when it has its strongest
+influence on northern hemisphere climate), with
+negative values in January being followed by
+slightly positive values in February and March.
+The AO index was then positive in the early
+stages of the 2016/2017 northern hemisphere
+winter. The NAO index was positive throughout
+January to March 2016 (although only weakly
+so in January) and again in December, although
+less so than in 2015.
+
+The AAO (or SAM) was in a strongly positive
+phase for much of 2016, with standardized
+three-month index values reaching their highest
+level on record early in the year. Three-month
+AAO index values were positive continuously
+for almost two years from November 2014
+to October 2016, the longest such period on
+record. There was, however, a shift to negative
+values in the last three months of 2016, which
+continued into early 2017. Negative (positive)
+phases of the AAO are associated with enhanced
+(suppressed) westerlies on the poleward side
+of the subtropical ridge, typically between
+35°S and 45°S. During the positive AAO period,
+anomalous easterly flow was especially pronounced in the South American sector, while,
+later in the year, anomalous westerlies were
+most prominent in Australian and New Zealand
+longitudes.
+
+PRECIPITATION
+Global precipitation in 2016 was strongly influenced by the transition from El Niño conditions
+in the early part of the year to neutral or weak
+La Niña conditions in the second half. This
+resulted in strong seasonal contrasts but annual
+totals relatively close to average in many parts
+of the world.
+Some regions experienced heavy rainfall in the
+post-El Niño period, resulting in annual totals
+which were well above average. Indonesia and
+Australia, both of which were also strongly
+influenced after May by a negative IOD, had
+extensive areas with rainfall above the 90th
+percentile (wettest 10% of all years), as did
+parts of south-eastern China.
+It was a wet year in many high-latitude parts
+of the nor thern hemisphere. A large area
+with precipitation above the 90th percentile
+extended from Kazakhstan westwards across
+the western Russian Federation into Finland,
+northern Sweden and Norway. Large parts
+of the north-central Russian Federation were
+dry, however, with much of the region north
+of 55°N between the Urals and Lake Baikal
+having precipitation below the 10th percentile.
+Persistent high pressure over the far south of
+South America and the positive AAO which prevailed for much of the year strongly influenced
+precipitation in southern South America. It was
+an exceptionally dry year in much of Chile from
+
+the Santiago region southwards and in the far
+south of Argentina. In contrast, on the eastern
+side of the Andes in Argentina, precipitation
+was well above average over many areas from
+northern Patagonia northwards.
+The tropical west coast of South America, which
+normally experiences very heavy rain during
+strong El Niño years, only had patchy falls in
+the early months of 2016, with seasonal rainfall
+generally close to average in western Peru and
+Ecuador. Another area to miss out on typical El
+Niño rainfall was California, where 2015/2016
+seasonal rainfall was near average (after four
+very dry years in succession), making only
+limited inroads into long-term drought, although
+the situation was eased by above-average rainfall in late 2016, especially in the north.
+Precipitation was close to average over most of
+central and western Europe, with a very wet first
+half of the year contrasting with a dry second
+half. The 2015/2016 winter was very wet across
+the western fringe of Europe, with Scotland,
+Wales and Northern Ireland having their wettest
+winter on record (and the United Kingdom as a
+whole its second-wettest). May and June were
+also very wet in many parts of west-central
+Europe with significant flooding, particularly
+in France and Germany. The July–September
+period was dry in much of western and central
+Europe, with France having its driest July and
+August on record. December was also extremely
+dry, with many areas having less than 20% of
+normal precipitation. Lowland Switzerland had
+
+Figure 8. Annual total
+precipitation expressed
+as a percentile of the
+1951–2010 reference
+period for areas that
+would have been in the
+driest 20% (brown) and
+wettest 20% (green)
+of years during the
+reference period, with
+darker shades of brown
+and green indicating the
+driest and wettest 10%,
+respectively.
+(Source: Global
+Precipitation Climatology
+Centre, Deutscher
+Wetterdienst, Germany)
+
+90N
+
+60N
+
+30N
+
+0
+
+30S
+
+60S
+
+90S
+180
+
+120W
+
+60W
+
+0.1
+
+0.2
+
+0
+
+0.3
+
+0.4
+
+60E
+
+0.6
+
+0.7
+
+120E
+
+0.8
+
+180
+
+0.9
+
+Percentile of 1951–2010 reference period
+
+13
+
+5N
+
+0
+
+5S
+
+2
+1.5
+
+10S
+
+1
+15S
+
+–1
+–1.5
+
+20S
+
+–2
+
+Extremely wet
+Very wet
+Wet
+Normal
+Dry
+Very dry
+Extremely dry
+
+25S
+
+30S
+
+35S
+75W
+
+70W
+
+65W
+
+Figure 9. Standardized
+Precipitation Index for
+Brazil for the 24 months
+from January 2015 to
+December 2016
+(Source: National
+Institute of Meteorology
+(INMET), Brazil)
+
+60W
+
+55W
+
+50W
+
+45W
+
+40W
+
+35W
+
+its driest December and third driest month on
+record. A few stations in western Switzerland
+and adjacent areas of France had no precipitation at all for the month. One indicator of the
+contrast between the first and second half of the
+year was that Uccle (Belgium) had its wettest
+January–June on record (62% above average),
+followed by its third-driest July–December (36%
+below average).
+
+EXTREME EVENTS
+Extreme events are responsible for many significant impacts, in terms of both casualties and
+economic effects. The International Monetary
+Fund (IMF) has found15 that small developing
+States are disproportionately affected by natural
+disasters, with the average annual cost being
+much greater than in larger countries.
+
+MAJOR DROUGHTS AND FLOODS
+EL-NIÑO-RELATED DROUGHTS EASE
+IN SEVERAL REGIONS, BUT DROUGHTS
+DEVELOP ELSEWHERE
+The year began with droughts associated with
+El Niño underway in several parts of the world.
+Most of these regions, except for Brazil, saw
+a general return to near- or above-average
+
+15
+
+14
+
+Cabezon, E., L. Hunter, P. Tumbarello, K. Washimi and Y. Wu, 2015:
+Enhancing macroeconomic resilience to natural disasters and
+climate change in the small states of the Pacific. IMF Working
+Paper WP/15/125.
+
+precipitation during the course of 2016, although,
+in some cases, the impacts of drought linger.
+World Food Programme projections indicated
+that the number of people requiring assistance
+as a result of El-Niño-related droughts would
+peak in February 2017.
+Much of southern Africa began the year in severe
+drought. For the second year in succession,
+rainfall was widely 20%–60% below average
+for the summer rainy season (October–April)
+in 2015/2016. There were crop failures in many
+parts of the region. Drought emergencies were
+declared in all but one of South Africa’s provinces, while, further north, poor agricultural
+production resulted in food shortages: WFP
+estimated that 18.2 million people would require
+emergency assistance by early 2017. Total cereal
+production in southern Africa in 2015/2016 was
+down by 13% from 2014/2015 and by 31% from
+2013/2014. The 2016/2017 rainy season had a
+promising start, with October–December rainfall
+generally near or above average over most
+of the region. Some dry pockets (e.g. central
+and northern Malawi) remain, and significant
+improvements in the humanitarian situation
+are not expected until harvests in March and
+April 2017.
+Significant drought affected the Amazon basin
+in Brazil, as well as the country’s north-east:
+both regions have a historical tendency towards
+drought in the later stages of El Niño events.
+After very dry conditions throughout the drier
+months in mid-2015, rainfall deficits in the
+Amazon extended to the peak rainfall months
+of January–March, especially across western
+and southern parts of the basin, and rainfall
+continued at near- to below-average levels
+over the following months. By the end of July,
+24-month rainfall was in the extremely dry category (Standardized Precipitation Index below −2)
+over almost the entire Amazon basin. Rainfall in
+the later part of the year was patchy and resulted
+only in modest and localized improvements in
+the situation. Provisional figures show 2016 as
+the driest calendar year on record averaged
+over the Amazon basin. Crop production was
+reduced and rivers were at abnormally low
+levels: the Acre struck record lows. Drought
+continued in north-east Brazil, where heavy
+rain in January was not followed up with further
+rainfall and more than 60% of the region was
+classified as being in exceptional drought by
+the end of the year. Cereal production in Brazil
+
+was 22% below the five-year average. Drought
+conditions elsewhere in northern South America
+(particularly Colombia and Venezuela) eased
+from April onwards, although low water-storage
+levels contributed to electricity shortages in
+Venezuela in the first half of the year. Central
+America also experienced ongoing drought in
+early 2016, with FAO estimating that 3.5 million
+people were experiencing food insecurity in El
+Salvador, Guatemala, Honduras and Nicaragua.
+Substantial improvement did not occur in these
+areas until later in the year.
+The most dramatic transition from drought to
+above-average rainfall occurred in Australia.
+Droughts were well established early in the year
+in two separate regions – inland Queensland
+and a region of the south-east encompassing
+Tasmania, western Victoria and south-east
+South Australia – with below-average rainfall
+extending back to 2012 in parts of both regions.
+Tasmania was especially badly affected with
+significant fires and electricity shortages from
+low levels in hydroelectric storages (exacerbated
+by the failure of connections to the mainland).
+There was a marked shift to above-average
+rainfall from May onwards as El Niño weakened
+and a negative IOD phase became established,
+culminating in September, when many parts
+of eastern Australia had record high monthly
+rainfall. The subsequent extensive flooding of
+inland rivers caused the main highway from
+Melbourne to Brisbane to be closed for more
+than a month. Damaging flooding occurred in
+early June on the east coast and in northern
+Tasmania. After the driest eight months on
+record from September 2015 to April 2016,
+Tasmania had its wettest May to December
+on record. The high rainfall and mild spring
+conditions led to record grain production with
+winter crop production expected to be 49%
+above that of 2015.16
+Other regions where the year started with
+significant droughts in place (largely reflecting poor rainy seasons in mid-2015) included
+much of India, parts of Viet Nam (especially the
+Mekong Delta), northern Ethiopia and large parts
+of Indonesia. There were significant agricultural
+losses in Viet Nam, where 83% of the national
+
+Rainfall decile ranges
+
+10
+
+Australian Crop Report – February 2017. Australian Bureau of
+Agricultural and Resource Economics. Available at: http://
+www.agriculture.gov.au/abares
+
+8–9
+
+Above average
+
+4–7
+
+Average
+
+2–3
+
+Below average
+
+1
+
+Very much
+below average
+Lowest on
+record
+
+Rainfall decile ranges
+
+10
+
+territory was assessed as being affected by
+drought or saltwater intrusion, and water shortages in India, while 10 million people required
+humanitarian assistance in Ethiopia.17 A report
+of IOM shows that El Niño-driven drought was
+the major factor contributing to the greatest
+number of people newly displaced in Ethiopia
+in the first quarter of 2016, compared to the
+same time frame in the three previous years
+(2013, 2014 and 2015).18 The first three all saw
+average to above-average rainy seasons in
+mid-2016 which improved conditions substantially, while, in Indonesia, the negative phase
+
+18
+
+Highest on
+record
+Very much
+above average
+
+8–9
+
+Above average
+
+4–7
+
+Average
+
+2–3
+
+Below average
+
+1
+
+17
+16
+
+Highest on
+record
+Very much
+above average
+
+Very much
+below average
+Lowest on
+record
+
+Figure 10. Rainfall
+deciles for Australia
+for the eight months
+September 2015 to April
+2016 (top) and the eight
+months May to December
+2016 (bottom)
+(Source: Australian
+Bureau of Meteorology)
+
+FAO and WFP
+Internal Displacement Monitoring Report, January- March 2016,
+International Organisation for Migration (IOM), 2016
+
+15
+
+15
+
+to Fiji, Tonga, Samoa and the southern Cook
+Islands, as the South Pacific Convergence Zone
+was displaced to the north-east (typical of
+El Niño years) before some recovery in the
+second half of the year. Port Vila (Vanuatu) had
+its driest year on record.
+
+15N
+
+10N
+
+5N
+
+0
+
+5S
+
+10S
+
+25E
+
+30E
+
+1
+
+5
+
+Philimon Bulawayo (Reuters)
+
+Figure 11. Rainfall for
+East Africa for October
+to December 2016 as a
+percentage of average
+(Source: US NOAA
+Climate Prediction
+Center)
+
+16
+
+35E
+
+25
+
+50
+
+40E
+
+80
+
+120
+
+45E
+
+150
+
+400
+
+600
+
+of IOD contributed to heavy rainfall from May
+onwards, centred on Java and Sumatra, in
+what is normally the drier season. (This was
+even more apparent on Christmas Island, south
+of Java, where April–November rainfall was
+3 900 mm – nearly four times the average). In
+the South Pacific, abnormally dry conditions in
+late 2015 and the early months of 2016 affected
+a region extending from southern Papua New
+Guinea across the Solomon Islands and Vanuatu
+
+MASVINGO, ZIMBABWE
+Villagers collect water from a dry river bed.
+
+16
+
+200
+
+50E
+
+Dry conditions affected parts of East Africa
+with the situation worsening towards the end
+of the year. Rainfall in Somalia, Kenya and the
+United Republic of Tanzania was generally near
+to below average during the “long rains” season
+(March to May), before a particularly poor “short
+rains” season (October to December). Although
+there were some useful falls towards the end of
+the season, October–December rainfall was still
+widely 50% or more below average, particularly
+in eastern United Republic of Tanzania, eastern
+Kenya, and Somalia, reaching 70% to 90% below
+average in the coastal strip of Kenya and the
+United Republic of Tanzania. This region has
+a history of major humanitarian impacts from
+drought and agencies are monitoring the situation closely at the time of writing, with UNHCR
+reporting that 135 000 people were internally
+displaced within Somalia as of February 2017.
+Substantial crop losses and livestock distress
+from poor pasture conditions were also reported
+in Kenya. The 2015/2016 winter season was
+also dry in Morocco and north-west Algeria,
+where rainfall for the period September 2015
+to April 2016 was 15%–40% below average at
+most Moroccan locations. The wheat harvest
+in Morocco was 65% below that of 2015.
+Very dry conditions affected most of southern
+and central Chile, as well as the far south of
+Argentina. Rainfall was generally 30%–60%
+below average in most of this region. In Chile,
+it was the driest year on record for Coyhaique
+and Balmaceda and the second driest for Puerto
+Montt, Osorno and Punta Arenas. This continues
+a prolonged period of below-average rainfall in
+central Chile, with Santiago’s mean rainfall for
+the six years 2011–2016 being 40% below the
+long-term average. The dry conditions contributed to major forest fires which broke out late
+in the year before worsening in January 2017.
+There was also extreme heat in late 2016, with
+a new record of 37.3 °C being set in Santiago
+on 14 December.19 Drought conditions also
+prevailed in parts of Bolivia.
+
+19
+
+Subsequently broken in January 2017
+
+Many parts of the eastern United States and
+adjacent parts of eastern Canada had a dry
+summer and autumn. The interior south-east of
+the United States was especially dry in October
+and November, where some locations had little
+or no rainfall for two months, contributing to
+major wildfires. After good monsoon rains
+over most of India in mid-2016, conditions
+became very dry in those parts of southern
+India which receive their peak rainfall during
+the north-east monsoon between October and
+December. It was the driest October–December
+on record over this region with seasonal rainfall
+65% below average (in marked contrast to the
+severe flooding which affected the region in
+late 2015). The dry conditions also affected
+Sri Lanka.
+
+40N
+
+35N
+
+30N
+
+25N
+
+20N
+
+95E
+
+SIGNIFICANT FLOODS
+The Yangtze basin in China experienced its
+most significant flood season since 1999, with
+some tributaries experiencing record flood
+levels. Rainfall was consistently high across
+the middle and lower Yangtze region from April
+to July, with total April–July rainfall over the
+region about 30% above average and similar
+to, or slightly above, that of 1998 and 1999.
+Over shorter timescales, very heavy rains from
+18 to 20 July centred on the Beijing region also
+caused destructive flooding. In total, 310 deaths
+and damage amounting to US$ 14 billion20 were
+attributed to flooding in the Yangtze and Beijing
+regions. Averaged over China as a whole, it
+was the wettest year on record, with national
+mean rainfall of 730 mm being 16% above the
+long-term average.
+Flooding and landslides in Sri Lanka in mid-May
+left more than 200 people dead or missing21,
+and several hundreds of thousands displaced.
+Significant flooding was reported in various
+parts of India during the monsoon season,
+particularly in the Ganges basin, where the
+Ganges River reached record heights at some
+locations, as well as in Nepal and Bangladesh.
+
+20
+
+Information supplied by the China Meteorological Administration
+
+21
+
+Unless otherwise stated, casualty and economic loss figures
+in this publication are sourced from D. Guha-Sapir, R. Below,
+Ph. Hoyois – EM-DAT: The CRED/OFDA International Disaster
+Database, Université Catholique de Louvain, Brussels, Belgium:
+http://www.emdat.be/.
+
+100E
+
+20
+
+105E
+
+50
+
+110E
+
+100
+
+115E
+
+200
+
+400
+
+120E
+
+600
+
+125E
+
+130E
+
+800
+
+Rainfall (mm)
+
+Consistently above-average rainfall in May and
+early June fell in parts of western Europe. In
+northern France, it reached as much as double
+the monthly average, culminating in four-day
+totals from 28 to 31 May of 80 mm–120 mm in
+the Paris region. This led to major flooding in
+the region at the beginning of June. In Paris,
+the Seine River reached its fifth highest level
+on record (and the highest outside the winter
+months), leading to major property damage.
+
+Figure 12. Rainfall
+over eastern Asia for
+the 30 days 21 June to
+20 July 2016 from the
+APHRODITE dataset
+(Source: Japan
+Meteorological Agency)
+
+Extreme flooding affected parts of the southern United States, especially Louisiana, from
+9 to 15 August. Seven-day rainfall totals in the
+worst-affected areas ranged from 500 mm to
+800 mm, with 432 mm recorded in 15 hours in
+Livingston on 12 August. Some rivers peaked
+at levels up to 1.5 m above previous records.
+Thirteen deaths were reported and more than
+50 000 homes and 20 000 businesses were damaged or destroyed. Total losses were estimated
+at US$ 10 billion. 22
+Generally above-average seasonal rainfall in
+the Sahel led to significant flooding in the Niger
+basin. In the upper Niger, the river reached
+its highest level since 1964 at Mopti (Mali) on
+6 September and flooding in the inner Niger Delta
+in Mali in November and December attained
+
+22
+
+US National Centers for Environmental Information
+
+17
+
+Number of global tropical cyclones
+
+120
+
+100
+
+80
+
+60
+
+40
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+Year
+
+Figure 13. Total number
+of tropical cyclones for
+each year from 1981
+to 2016. Annual totals
+combine the 12 months
+ending December for
+northern hemisphere
+regions and the
+12 months ending June
+for southern hemisphere
+regions (e.g. the 2016
+total is for the 2016
+northern hemisphere
+season and the 2015/2016
+southern hemisphere
+season).
+
+some of its highest levels of the last 50 years.
+Flooding also occurred further downstream,
+particularly in Niger and northern Nigeria,
+and was reported in other parts of West Africa
+outside the Niger basin, including Gambia,
+Senegal and Ghana. Significant flooding was
+also reported in the southern half of Sudan.
+The wet conditions led to good crop production
+in many parts of the Sahel, with record yields
+reported in Mali, Niger and Senegal.
+
+TROPICAL CYCLONES
+Global tropical cyclone activity was close to
+normal, with a total of 82 cyclones, slightly
+below the long-term average of 85. Activity was
+above average in the North Atlantic (15 cyclones,
+average 12) and East Pacific (21 cyclones,
+average 16) regions, but below average in the
+southern hemisphere, particularly the Australian
+region, which had its least active season since
+satellite records began with only three cyclones
+(average 10). After the second latest start on
+record, with the first named storm (Nepartak)
+not forming until 3 July, the North-West Pacific
+season was close to average with 26 cyclones,
+although their geographic distribution had some
+unusual features, such as three landfalls on
+the Japanese island of Hokkaido: the first time
+this has occurred since records began in 1951.
+The most destructive tropical cyclone of the year
+(and also the most damaging meteorological
+disaster of any type) was Hurricane Matthew,
+which affected various parts of the North Atlantic
+in late September and early October. It reached
+Category 5 intensity south of Haiti – the first
+Atlantic hurricane to do so since 2007 – and
+crossed south-western Haiti as a Category 4
+system on 4 October. After crossing eastern
+Cuba and the Bahamas, Matthew then moved
+
+18
+
+north just off the eastern coast of the United
+States with a near-parallel track to the coast
+and briefly making landfall in South Carolina
+before moving back offshore. The heaviest
+casualties associated with Matthew occurred
+in Haiti, with at least 546 deaths23 reported. It
+also contributed to worsening existing issues of
+food insecurity and disease in the country, with
+cholera cases in the worst-affected provinces
+increasing by 50% from pre-hurricane levels. 24
+There were also major economic losses in the
+United States (mostly from flooding in North
+and South Carolina, Georgia and Florida), Cuba,
+the Bahamas and Haiti, amounting to more than
+US$ 15 billion.
+Another event responsible for a major disaster
+was Typhoon Lionrock in late August. The major
+effect of Lionrock was in north-eastern areas
+of the Democratic People’s Republic of Korea
+(DPRK), where rainfall of up to 320 mm in four
+days led to catastrophic flooding. According to
+government reports, which described the event
+as the most significant natural disaster since
+the foundation of DPRK, there were 133 deaths,
+395 people missing and 11 600 dwellings
+destroyed. 25
+Cyclone Winston crossed the islands of Fiji in
+late February as a Category 5 system, making
+it the strongest cyclone on record for Fiji. It was
+associated with major damage, especially on
+the north shore of the main island of Viti Levu.
+A total of 44 deaths were reported and damage
+was estimated at US$ 1.4 billion. Winston also
+led to significant damage in Tonga.
+Other significant intense tropical cyclones
+included: Typhoon Nepartak, which was associated with 86 deaths in the Taiwan province
+of China and featured an observed pressure of
+911 hPa; Typhoon Meranti, which was reported
+to be the most intense landfall on record in
+Fujian province, China, after first crossing the
+far northern islands of the Philippines, and had
+
+23
+
+Source: Civil Protection Directorate. Estimates sourced from
+regional and local authorities are substantially higher.
+
+24
+
+Hurricane Matthew – Situation Report No. 27, 23 November 2016,
+Pan American Health Organization/World Health Organization
+
+25
+
+Statement of the Korean Central News Agency (www.kcna.
+kp), 14 September 2016
+
+the lowest observed central pressure (890 hPa)
+of any tropical cyclone in 2016; and Cyclone
+Fantala, which generated 10-minute average
+winds of 250 km/h on 17 April south of the
+Seychelles, making it one of the most intense
+cyclones ever recorded in the South-West Indian
+Ocean.
+There were two unusual January hurricanes
+in the northern hemisphere: Pali, in the central
+Pacific, in addition to its unusual timing, also
+reached the lowest latitude (2°N) of any western
+hemisphere hurricane, while Alex was the first
+January hurricane in the North Atlantic since
+1938. It caused some damage in the Azores.
+In late November, Otto set several records for
+late-season formation and intensity, and also
+had the southernmost recorded landfall of
+any tropical cyclone in Central America when
+it crossed the coast of southern Nicaragua. It
+was also the first tropical cyclone to cross Costa
+Rica and one of the few to retain its identity as
+a tropical cyclone across Central America and
+to re-emerge on the Pacific Ocean side.
+
+DESTRUCTIVE WILDFIRES IN
+SEVERAL PARTS OF THE WORLD
+The most damaging wildfire in Canadian history – and the country’s most costly natural
+disaster – occurred in May. After an unusually
+dry and mild start to the year, with the driest
+winter and spring on record, fire broke out near
+
+Fort McMurray in Alberta early in the month,
+before moving through the city on 4 May as
+temperatures reached 33 °C – the highest on
+record so early in the year – accompanied by
+strong winds and low humidity. The fire led to
+the total evacuation of the city and ultimately
+destroyed 2 400 buildings, with US$ 3 billion in
+insured losses and several billion more in other
+losses26. No deaths were directly attributed to
+the fire, although two people died in a road accident during the evacuation. The fire ultimately
+burned an area of about 590 000 ha before being
+declared under control in early July.
+Later in the year, unusually dry conditions in
+the south-eastern United States contributed
+to the most destructive wildfire in modern
+history. In and around Gatlinburg, Tennessee,
+on 28 November, 14 deaths were reported
+and some 2 400 buildings were damaged or
+destroyed. 27
+During the summer of 2015/2016, long-lived
+fires affected large parts of central and western Tasmania, which, at the time, was badly
+affected by drought. The fires mostly broke out
+in mid-January and extended to areas on the
+
+26
+
+Information supplied by Environment Canada
+
+27
+
+Information supplied by the US National Centers for Environmental Information
+
+FORT McMURRAY, CANADA
+
+Mark Blinch (Reuters)
+
+Smoke and flames from the wildfires erupt behind a car on the highway.
+
+19
+
+Central Plateau where fire is extremely rare,
+resulting in significant damage to some sensitive
+alpine vegetation in Tasmanian Wilderness
+World Heritage Areas. The fires burned for
+several weeks with some not being brought
+under control until mid-March. 28
+Portugal reported the largest burnt area in
+summer wildfires since 2006. A fire on Madeira
+in early August coincided with the hottest
+day since 1976 at Funchal Airport (38.2 °C),
+resulting in three deaths and estimated damage
+of 60 million euros29.
+
+EXTREME HEAT AND COLD
+
+Mohamed Azakir (Reuters)
+
+There were a number of major heatwaves.
+The year started with an extreme heatwave in
+southern Africa, exacerbated by the ongoing
+drought. Many stations set all-time records in
+the first week of January; in some cases, these
+broke records which were only a few weeks’
+old, following other heatwaves in November
+and December 2015. On 7 January, temperatures reached 42.7 °C at Pretoria and 38.9 °C
+at Johannesburg, both of which were 3 °C or
+more above the all-time records at those sites
+prior to November 2015.
+
+28
+
+A review of the management of the Tasmanian fires of January
+2016, Australasian Fire and Emergency Service Authorities
+Council. Available at https://www.fire.tas.gov.au/userfiles/
+tym/file/misc/1604_tasfirereport_final1.pdf
+
+29
+
+Information supplied by the NMHS of Portugal (IPMA)
+
+BEIRUT, LEBANON
+A man pours water over himself while washing a horse.
+
+20
+
+Extreme heat affected South and South-East
+Asia in April and May, prior to the start of the
+summer monsoon; South-East Asia was badly
+affected in April. The extreme heat was centred
+on Thailand, where a national record of 44.6 °C
+was set at Mae Hong Son on 28 April and all-time
+records were set at many individual locations.
+A number of monthly records were set in March
+and April in Malaysia. A few weeks later, 51.0 °C
+was observed on 19 May at Phalodi, the highest
+temperature on record for India.
+Record or near-record temperatures occurred
+in parts of the Middle East and northern Africa
+on a number of occasions from late July to
+early September. The highest temperature
+observed was 54.0 °C at Mitribah (Kuwait) on
+21 July which (subject to ratification) will be the
+highest temperature on record for Asia. Other
+extremely high temperatures included 53.9 °C
+at Basra (Iraq) and 53.0 °C at Delhoran (Islamic
+Republic of Iran – a national record), both on
+22 July, while significant high temperatures
+were also reported in Morocco, Tunisia, Libya
+and the United Arab Emirates.
+A significant late-season heatwave affected
+many parts of western and central Europe
+in the first half of September. The highest
+temperatures occurred in southern Spain,
+where 45.4 °C was recorded at Cordoba on
+6 September; September records were set at
+many other stations in Spain and in Portugal.
+The heat extended to north-western Africa
+with some record high September temperatures reported in Morocco. The heat extended
+to northern Europe: 34.4 °C at Gravesend
+(England) on 13 September was a late-season
+record for the United Kingdom by more than
+2 °C and the highest September temperature
+in the United Kingdom since 1911, while many
+monthly or late-season records were set in
+Germany, Sweden and Norway.
+The most significant cold wave occurred in
+late January in eastern Asia, with extreme low
+temperatures extending southwards from eastern China as far south as Thailand. In southern
+China, Guangzhou recorded its first snow since
+1967 and Nanning its first since 1983, whilst
+the temperature fell to 3.1 °C at the Hong Kong
+Observatory, its sixth lowest temperature on
+record. Late-season frosts led to significant
+agricultural damage in late April in parts of
+central and eastern Europe, with losses of
+
+A woman holds a baby in a canoe as Texas Guardsmen arrive to assist after flooding.
+105 million euros to crops and fruit trees
+reported in Croatia30.
+
+SEVERE STORMS, SNOWFALLS AND
+TORNADOES
+Severe thunderstorms and tornadoes triggered
+significant losses in many parts of the world.
+The worst single incident occurred in Yancheng,
+Jiangsu province, China, on 23 June, when
+a tornado was associated with 99 deaths. It
+was one of the most destructive tornadoes in
+recorded Chinese history, at a time when the
+region was also experiencing severe flooding.
+Tornado activity in the United States was below
+the long-term average for the fifth consecutive
+year, with a preliminary count of 985 tornadoes,
+about 10% below the post-1990 average. A total
+of 17 tornado-related fatalities for the year was
+also well below average. There were, however,
+many other severe, destructive thunderstorms.
+Two separate outbreaks of major hailstorms in
+Texas, one around Dallas–Fort Worth in March
+and a second centred on San Antonio in April,
+resulted in combined damage of more than
+
+30
+
+Information supplied by the NMHS of Croatia (DHMZ)
+
+Reuters
+
+TEXAS, UNITED STATES
+
+US$ 5 billion31; hailstones with a diameter of
+11 cm were reported in San Antonio. Outside
+the United States, a notable hailstorm occurred
+in North Brabant province of the Netherlands
+on 23 June, with hailstones of 5 cm–10 cm in
+diameter and losses estimated at 500 million
+euros.32
+Flash floods from severe thunderstorms
+occurred in many parts of the world. Notable
+episodes included those around Houston,
+Texas, United States, in April; in Tunisia, in
+September (232 mm of rain fell in 24 hours
+at Hiboun-Monastir on 29 September); and
+in Johannesburg, South Africa, in November.
+A major snowstorm affected the north-eastern United States from 22 to 24 January, with
+total accumulations exceeding 50 cm extending from West Virginia to the New York City
+region. A number of sites in the New York
+area set all-time record accumulations for a
+single storm (e.g. 77 cm at John F. Kennedy
+
+31
+
+Information supplied by the US National Centers for Environmental Information
+
+32
+
+Information supplied by the NMHS of the Netherlands (KNMI)
+
+21
+
+30
+1979-2015
+
+Max
+
+25
+
+2012
+
+90%
+
+2013
+2014
+
+70%
+
+millions of km2
+
+20
+
+2015
+2016
+
+Mean
+30%
+
+15
+10%
+Min
+
+South polar stratospheric temperatures in 2016
+were near the long-term (1979–2015) mean and
+the vortex was somewhat perturbed. This is
+in contrast to 2015, when temperatures were
+relatively cold and the vortex was stable and
+well-centred around the South Pole.
+
+10
+
+5
+
+0
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+Dec
+
+Month
+
+Figure 14. Area
+(millions of km 2) where
+the total ozone column
+is less than 220 Dobson
+units. 2016 is shown in
+red, 2015 in blue, 2014
+in green, 2013 in orange
+and 2012 in magenta. The
+smooth grey line is the
+1979–2015 average. The
+dark green-blue shaded
+area represents the
+30th to 70th percentiles
+and the light green-blue
+shaded area represents
+the 10th and 90th
+percentiles for the time
+period 1979-2015. The
+ozone hole area reached
+its maximum for 2016 on
+28 September with
+23.1 million km 2
+(Source: prepared
+by WMO using data
+downloaded from the
+Ozonewatch website at
+NASA http://ozonewatch.
+gsfc.nasa.gov)
+
+22
+
+ozone hole has stabilized, with no significant
+trend since 1998. Due to their long lifetime,
+however, these compounds will remain in the
+atmosphere for many decades. There is still more
+than enough chlorine and bromine present in
+the atmosphere to cause complete destruction
+of ozone at certain altitudes in the Antarctic
+from August to December, hence the size of the
+ozone hole from one year to the next is mostly
+governed by the meteorological conditions.
+
+International Airport and 71 cm at Newark), as did
+Baltimore (74 cm). The storm was rated by NOAA
+as the fourth most-impactful snowstorm in the
+region since 1950.
+Unusually early heavy snowfalls affected parts
+of Scandinavia in early November as cold easterly winds passed over relatively warm coastal
+waters. A snow depth of 39 cm, after two days of
+heavy snow, at Stockholm on 10 November was
+a record for November. Heavy falls also occurred
+in other parts of eastern Sweden (including
+the island of Götland), as well as on the west
+side of the Oslofjord in Norway. Significant
+early snowfalls also affected Japan, with Tokyo
+receiving its first measurable November snow
+since records began in 1875.
+
+STRATOSPHERIC OZONE
+Following the success of the Montreal Protocol,
+the use of halons and chlorofluorocarbons has
+been discontinued and the size of the Antarctic
+
+Ozone depletion started relatively early due to
+vortex excursion into sunlit regions. The ozone
+hole area reached its maximum for 2016 on
+28 September with 23.1 million km2, whereas it
+reached 28.2 million km2 on 2 October in 2015,
+according to an analysis by the US National
+Aeronautics and Space Administration (see
+Figure 14). A second analysis by the Royal
+Netherlands Meteorological Institute found that
+the 2016 ozone hole area reached a maximum
+of 22.3 million km2 on 28 September, whereas
+the 2015 ozone hole area reached a maximum
+of 27.1 million km2 on 9 October. In both cases,
+peak values were close to the average of the last
+10 years, and somewhat lower than the record
+or near-record high values observed in 2015.
+In the Arctic, the degree of stratospheric column
+ozone loss averaged over the polar vortex
+reached 27% in early March 2016. This is more
+than the average for the 1994 –2016 period
+(18%), but less than the most severe ozone loss
+observed in the Arctic (38% in 2011, 30% in 1996).
+The 2015/2016 winter started out unusually cold,
+but a sudden stratospheric warming in early
+February averted further ozone loss.
+
+Towards globally consistent National
+Climate Monitoring Products
+John Kennedy1, Lucie Vincent 2,
+Jessica Blunden 3, Karl Braganza 4,
+Ladislaus Chang’a 5, Kenji Kamiguchi 6,
+Andrea Ramos 7
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+While the climate system recognizes no
+national boundaries, people, governments and businesses do. Monitoring
+and understanding the climate system
+at the local and national scales are vital
+for countries to develop resilience in the
+face of a changing climate.
+Today, many countries operationally monitor
+and report their nation’s weather and climate on
+a routine basis. Indeed, the WMO Statements
+on the State of the Global Climate are underpinned by a wide range of climate-monitoring
+products produced by WMO Members. These
+products concisely summarize recent climate
+conditions that are experienced around the
+world, including variations in rainfall and
+temperature at monthly, seasonal, annual
+and multi-year timescales.
+Well-developed observational infrastructure,
+data-management practices and climate analysis form essential capabilities for NMHSs to
+operate robust climate monitoring. WMO continues to work with the NMHSs to develop and
+use standards and applications for consistent
+monitoring of the climate system around the
+world and for the provision of high-quality and
+timely services to various sectors.
+The development of standard National Climate Monitoring Products (NCMPs), based on
+a standard set of climate indices that allows a
+like-for-like comparison across regions, assists
+in the development of a truly global picture
+1
+
+UK Met Office, United Kingdom
+
+2
+
+Environment Canada, Canada
+
+3
+
+NOAA National Centers for Environmental Information, USA
+
+4
+
+National Climate Centre, Bureau of Meteorology, Australia
+
+5
+
+Tanzania Meteorological Agency, United Republic of Tanzania
+
+6
+
+Climate Prediction Division, Global Environment and Marine
+Department, Japan Meteorological Agency, Japan
+
+7
+
+Instituto Nacional de Meteorologia (INMET), Brazil
+
+of climate variability, providing an improved
+understanding of climate change and its impact
+on people, societies and the environment.
+It also facilitates the greater contribution of
+WMO Members to global climate syntheses
+and reports, such as the WMO Statement on
+the State of the Global Climate and the State
+of the Climate annual reports of the Bulletin of
+the American Meteorological Society.
+To this end, WMO has recently developed
+a short list of standard NCMPs. Computer
+software has also been developed to help build
+the capacity for the operational and timely
+production of NCMPs to summarize recent
+temperature and precipitation conditions at
+a national scale and show how they compare
+with the past.
+For example, the annual average temperature
+for Canada was 0.51°C above the 1981–2010
+average, making 2015 the 11th warmest year in
+a series that began in 1950. The precipitation
+anomaly was +0.09% above the long-term
+average making 2015 the 22nd wettest year on
+record (see Figure 15). By displaying the data
+in this way, it is easy to see how year-to-year
+variations compare with long-term trends.
+National Climate Monitoring Products are
+designed to be produced on a regular basis by
+most countries, including those with relatively
+fewer resources dedicated to climate-monitoring
+activities. The products of the initial suite were
+chosen because they have an immediate practical and scientific benefit. They are as follows:
+1. Mean temperature anomaly: the nationally
+averaged temperature departure from the
+long-term average (1981–2010) for the
+month and year;
+2. Precipitation anomaly: total precipitation
+for the month and year, expressed as a
+percentage of the long-term average, across
+the country;
+3. Standardized Precipitation Index: a measure of the nationally averaged standardized
+precipitation anomaly;
+4. Warm days: number of days in the month
+when daily maximum temperature exceeded
+the 90th percentile, averaged across the
+country;
+
+23
+
+5. Cold nights: number of days in the month
+when daily minimum temperature was
+below the 10th percentile, averaged across
+the country; and
+6. Temperature and precipitation station
+records: number of stations that reported
+record daily maximum temperature, minimum temperature and precipitation.
+The first two NCMPs are widely used to describe
+overall temperature and rainfall deviations.
+The Standardized Precipitation Index is used in
+drought monitoring. The fourth and fifth – warm
+days and cold nights – represent moderate
+extremes of temperature. The sixth NCMP
+indicates when short-lived, but potentially
+high-impact, events have occurred.
+Stakeholders, from the citizens who are directly
+affected by the impacts of a changing climate,
+to governmental and industrial sectors, such as
+agriculture, energy and human health, can use
+
+this information to help make well-informed decisions. National Climate Monitoring Products can
+further provide benefits within a country by raising
+awareness and understanding of the effects of
+climate variability and change. Monitoring can
+also provide a means to identify longer-term
+problems, such as droughts, as they develop.
+Moreover, NCMPs are valuable for understanding
+seasonal forecasts, giving the starting point from
+which the ensuing season will unfold.
+A network of focal points – local experts who
+will produce and disseminate the NCMPs – is
+being developed and capacity-development
+workshops to train focal points to produce the
+NCMPs are being planned.
+For more information on NCMPs and the work
+of the Expert Team on NCMPs, please contact
+John Kennedy: john.kennedy@metoffice.gov.
+uk or Lucie Vincent: lucie.vincent@canada.ca
+or visit the website: http://www.metoffice.gov.
+uk/hadobs/opace2_tt_ncmp/.
+
+Figure 15. Time-series
+National Climate
+Monitoring Products
+NCMP1 to NCMP5 in
+four countries: Canada,
+Morocco, United
+Republic of Tanzania
+and the United Kingdom
+(Source: WMO
+Commission for
+Climatology Expert Team
+on National Climate
+Monitoring Products)
+
+United Republic of
+Tanzania
+1.0
+
+NCMP1
+Mean
+temperature
+anomaly (°C)
+
+0.5
+0.0
+-0.5
+-1.0
+1950 1960 1970 1980 1990 2000 2010
+60
+40
+
+NCMP2
+Precipitation
+anomaly (%)
+
+20
+0
+-20
+-40
+-60
+1950 1960 1970 1980 1990 2000 2010
+1.5
+
+NCMP3
+Standardized
+Precipitation
+Index
+
+NCMP4
+Percentage
+warm days
+
+1.0
+0.5
+0.0
+-0.5
+-1.0
+-1.5
+1950 1960 1970 1980 1990 2000 2010
+25
+
+24
+
+2
+1
+0
+-1
+-2
+-3
+1950 1960 1970 1980 1990 2000 2010
+20
+10
+0
+-10
+-20
+1950 1960 1970 1980 1990 2000 2010
+1.0
+0.5
+0.0
+-0.5
+-1.0
+1950 1960 1970 1980 1990 2000 2010
+25
+
+Morocco
+2.0
+1.5
+1.0
+0.5
+0.0
+-0.5
+
+United Kingdom
+2
+1
+0
+-1
+
+-1.0
+-1.5
+1950 1960 1970 1980 1990 2000 2010
+150
+
+-2
+1950 1960 1970 1980 1990 2000 2010
+30
+
+100
+
+20
+
+50
+0
+-50
+-100
+1950 1960 1970 1980 1990 2000 2010
+3
+2
+1
+0
+-1
+
+10
+0
+-10
+-20
+-30
+1950 1960 1970 1980 1990 2000 2010
+2
+1
+0
+-1
+
+-2
+1950 1960 1970 1980 1990 2000 2010
+25
+
+-2
+1950 1960 1970 1980 1990 2000 2010
+25
+
+20
+
+20
+
+20
+
+20
+
+15
+
+15
+
+15
+
+15
+
+10
+
+10
+
+10
+
+10
+
+5
+
+5
+
+5
+
+5
+
+0
+1950 1960 1970 1980 1990 2000 2010
+
+NCMP5
+Percentage
+cold nights
+
+Canada
+3
+
+0
+1950 1960 1970 1980 1990 2000 2010
+25
+
+0
+1950 1960 1970 1980 1990 2000 2010
+25
+
+0
+1950 1960 1970 1980 1990 2000 2010
+25
+
+20
+
+20
+
+20
+
+15
+
+15
+
+15
+
+10
+
+10
+
+10
+
+5
+
+5
+
+5
+
+0
+1950 1960 1970 1980 1990 2000 2010
+
+0
+1950 1960 1970 1980 1990 2000 2010
+
+0
+1950 1960 1970 1980 1990 2000 2010
+
+REFERENCE PERIODS
+It is common practice to compare recent climate data with averages from a long-term
+reference period. Seventeenth World Meteorological Congress in 2015 adopted 1981–2010
+as a standard reference period for routine climate-monitoring purposes, whilst retaining
+1961–1990 as the baseline for long-term analyses of climate change.
+In this Statement, both 1961–1990 and 1981–2010 reference periods are used where appropriate if data are available. Many datasets, especially those which use satellite data, do
+not have data for the full 1961–1990 period and hence only a 1981–2010 reference period
+is available for use.
+No set definition exists for the “pre-industrial” period. A number of periods have been
+proposed with respect to temperature observations, such as 1850–1900 and 1880–1900.
+The available data indicate that these periods all give outcomes within 0.1 °C of each other.
+The years 1880–1900 are used in this Statement as a reference period for pre-industrial
+temperatures, to match the availability of data from global datasets, which start in 1880.
+In the case of greenhouse gases, for which ice cores provide reliable data well before the
+start of the instrumental period, 1750 is used as the end of the pre-industrial period.
+The choice of reference period has no effect on the ranking of individual years or on the
+size of trends, as choosing a different reference period will increase or decrease all values
+by a constant amount.
+
+For more information, please contact:
+
+World Meteorological Organization
+7 bis, avenue de la Paix – P.O. Box 2300 – CH 1211 Geneva 2 – Switzerland
+Communication and Public Affairs Office
+Tel.: +41 (0) 22 730 83 14/15 – Fax: +41 (0) 22 730 80 27
+E-mail: cpa@wmo.int
+
+26
+
+JN 17419
+
+public.wmo.int
+
+
