@@ -190,7 +190,7 @@ circle_inside_rect = Line2D([0], [0], marker='o', color='#1E90FF', markerfacecol
 plt.legend(handles=[cross_inside_rect, circle_inside_rect], loc='upper right', fontsize=12, frameon=False)
 
 # Add labels and title
-ax.set_ylabel('Normalized proportion of screens (Z-score)', fontsize=12)
+ax.set_ylabel('Normalized proportion of screens', fontsize=12)
 
 plt.tight_layout(pad=2.0)
 
