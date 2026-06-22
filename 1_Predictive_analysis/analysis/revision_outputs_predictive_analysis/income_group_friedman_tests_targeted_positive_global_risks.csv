@@ -1,0 +1,3 @@
+"metric","metric_label","n_risk_categories","risk_categories","statistic","df","p_value"
+"diff_future_corrpast","Anticipatory skill",4,"Climate, Diseases, Conflicts, Terrorism",8.1,3,0.0439895899152726
+"max_future","Predictive capacity",4,"Climate, Diseases, Conflicts, Terrorism",8.4,3,0.0384293188578885

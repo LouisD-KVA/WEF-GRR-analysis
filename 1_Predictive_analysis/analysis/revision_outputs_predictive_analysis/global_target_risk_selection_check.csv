@@ -1,0 +1,9 @@
+"Risk_Type","display_risk","global_predictive_capacity","global_anticipatory_skill","positive_global_predictive_capacity","selected_for_targeted_income_tests"
+"Geophysical","Geophysical",-0.0113208831984469,0.0135160038475188,FALSE,FALSE
+"Climate","Climate",0.0942176887806206,0.307772528266098,TRUE,TRUE
+"Diseases","Diseases",0.776001670439424,0.14981998900588,TRUE,TRUE
+"Food","Food",-0.442231533795843,0.40792042622136,FALSE,FALSE
+"Economic","Economic",-0.122919272427533,-0.361551643108815,FALSE,FALSE
+"GeoConflict","Conflicts",0.977575989747955,1.24612218035781,TRUE,TRUE
+"Terror","Terrorism",0.902054551006357,-0.0193659374232739,TRUE,TRUE
+"Tech","Technology",-0.387478326107866,0.058835055525428,FALSE,FALSE

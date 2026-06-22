@@ -1,0 +1,9 @@
+"metric","metric_label","Region","mean_rank"
+"diff_future_corrpast","Anticipatory skill","HIC",4
+"diff_future_corrpast","Anticipatory skill","UMC",1.75
+"diff_future_corrpast","Anticipatory skill","LMC",1.75
+"diff_future_corrpast","Anticipatory skill","LIC",2.5
+"max_future","Predictive capacity","HIC",4
+"max_future","Predictive capacity","UMC",2
+"max_future","Predictive capacity","LMC",1.5
+"max_future","Predictive capacity","LIC",2.5
