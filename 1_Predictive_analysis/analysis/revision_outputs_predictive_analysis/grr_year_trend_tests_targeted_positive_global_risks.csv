@@ -1,6 +1,6 @@
 "Region","metric","slope","p_value","n"
-"Global","Predictive capacity",0.0192131499579956,0.923928548011503,13
-"Global","Anticipatory skill",-0.0102071150747912,0.912196864273699,13
+"Global","Predictive capacity",0.0189750468362154,0.93571596141719,12
+"Global","Anticipatory skill",-0.0323690357713342,0.771658358828684,12
 "HIC","Predictive capacity",-0.121446766082321,0.414412125038055,12
 "HIC","Anticipatory skill",-0.048176643260308,0.636198692090976,12
 "UMC","Predictive capacity",-0.00163404143435841,0.994415994919918,12

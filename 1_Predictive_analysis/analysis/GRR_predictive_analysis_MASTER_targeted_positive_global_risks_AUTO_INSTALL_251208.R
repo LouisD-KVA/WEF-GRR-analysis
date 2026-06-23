@@ -1,5 +1,5 @@
 # ======================================================================
-# GRR predictive analysis: MASTER all-in-one diagnostic + revision script
+# GRR predictive analysis: MASTER all-in-one diagnostic + corrected revision script
 # ======================================================================
 #
 # What this script does
@@ -48,7 +48,12 @@
 #   - glob_expanding_res_2025-11-08.RData  # global; recomputed if missing
 #
 # Outputs are written to revision_outputs_predictive_analysis/.
-# This revision saves only the figures listed for the manuscript/SI revision.
+# This corrected revision saves the manuscript/SI figures, lag-level reproducibility tables,
+# 95% two-sided Monte Carlo envelopes, and coverage-aware edition-level diagnostics.
+# Section 13/13B diagnostics use coverage-aware partial windows at data boundaries:
+# years outside category-specific shock coverage are not counted as zeros, but the
+# available part of a requested window is still used when at least one coverage
+# year is present.
 # ======================================================================
 
 # ----------------------------------------------------------------------
@@ -131,11 +136,52 @@ global_sim_file_sets <- list(
 regional_regression_files <- c("expanding_res_2025-11-06.RData")
 global_regression_files   <- c("glob_expanding_res_2025-11-08.RData")
 
+# Leave FALSE for the normal manuscript run. Set TRUE only if you deliberately
+# want to ignore existing observed-regression RData files and recompute observed
+# coefficients from the raw CSVs with the current settings. If this is changed
+# after simulations were generated, regenerate/reload matching simulation RData as well.
+FORCE_RECOMPUTE_OBSERVED_REGRESSIONS <- FALSE
+
 # Analysis settings matching the original expanding-window analysis.
+# The predictive analysis uses the comparable GRPS-derived risk-score period.
+# Later GRRs are used in the thematic/linguistic analyses but excluded here
+# because the published GRPS scoring changed after 2021.
+PREDICTIVE_GRR_YEAR_MIN <- 2006L
+PREDICTIVE_GRR_YEAR_MAX <- 2021L
+
+# IMPORTANT: include0 and INCLUDE_RISK_YEAR_IN_WINDOWS are intentionally TRUE.
+# The predictive windows are therefore inclusive of the GRR assessment year:
+# prospective windows cover y to y + h, and retrospective windows cover
+# y - h to y. Interpret coefficients as near-term alignment rather than
+# as strictly out-of-sample forecasts beginning after the GRR year.
 max_lag  <- 5
 include0 <- TRUE
-min_n    <- 5
 INCLUDE_RISK_YEAR_IN_WINDOWS <- TRUE
+
+# Section 13/13B diagnostics should not treat structurally unavailable years as
+# observed zero-shock years. By default, they allow partial windows near
+# category-specific coverage boundaries. For example, if diseases coverage ends
+# in 2022, a five-year prospective window for the 2018 GRR is evaluated over
+# 2018-2022 rather than being dropped because 2023 is unavailable. The number
+# of years actually used is exported in the diagnostic CSVs.
+SECTION13_ALLOW_PARTIAL_WINDOWS <- TRUE
+SECTION13_MIN_WINDOW_OBSERVED_YEARS <- 1L
+
+# Centered smoothing for the annual-component diagnostic. Requiring the central
+# annual component avoids drawing a smoothed line into years where no annual
+# component could be computed. A minimum of one non-missing value lets the line
+# follow the available diagnostic component at coverage boundaries, consistent
+# with the partial-window choice above.
+SECTION13_ROLLING_MEAN_REQUIRE_CENTER <- TRUE
+SECTION13_ROLLING_MEAN_MIN_NON_MISSING <- 1L
+
+min_n    <- 5
+
+# Simulation envelope used for lag-level point classification in Figure 1/S6.
+# Use 0.025/0.975 for a two-sided 95% Monte Carlo envelope, matching P < 0.05
+# language in captions and legends.
+SIM_ENVELOPE_LOWER <- 0.025
+SIM_ENVELOPE_UPPER <- 0.975
 
 # Number of coefficient draws for parametric uncertainty intervals.
 # Use 10000 for final results; reduce for quick testing.
@@ -536,6 +582,24 @@ sh_nat <- rename_if_present(sh_nat, "Shock category", "Shock.category")
 sh_nat <- rename_if_present(sh_nat, "Shock type", "Shock.type")
 
 if (!("Year" %in% names(risks))) stop("The risks file must contain a Year column.")
+risks$Year <- as.integer(risks$Year)
+risk_years_before_filter <- sort(unique(risks$Year))
+risks <- risks %>%
+  filter(
+    Year >= PREDICTIVE_GRR_YEAR_MIN,
+    Year <= PREDICTIVE_GRR_YEAR_MAX
+  )
+if (nrow(risks) == 0) {
+  stop("No risk-score rows remain after applying PREDICTIVE_GRR_YEAR_MIN/MAX.")
+}
+message(
+  "Predictive analysis restricted to comparable GRR years ",
+  min(risks$Year, na.rm = TRUE), "-", max(risks$Year, na.rm = TRUE), "."
+)
+excluded_risk_years <- setdiff(risk_years_before_filter, unique(risks$Year))
+if (length(excluded_risk_years) > 0) {
+  message("Excluded non-comparable risk-score years: ", paste(excluded_risk_years, collapse = ", "))
+}
 if (!("Country.name" %in% names(sh_nat))) stop("Could not find Country.name / Country name in Shock counts data.")
 if (!("Shock.category" %in% names(sh_nat))) stop("Could not find Shock.category / Shock category in Shock counts data.")
 if (!("Shock.type" %in% names(sh_nat))) stop("Could not find Shock.type / Shock type in Shock counts data.")
@@ -584,6 +648,55 @@ end_years <- tibble::tribble(
   "TERRORISM", 2020,
   "CONFLICTS", 2023,
   "ECONOMIC", 2019
+)
+
+# Category-specific coverage used in diagnostics that build annual shock tables.
+# Within coverage, missing country/category/year combinations can be treated as
+# observed zero counts. Beyond coverage, years are structural missing values and
+# are not zero-filled.
+analysis_first_year <- min(risks$Year, na.rm = TRUE) - max_lag
+analysis_last_year <- max(end_years$LastYear, na.rm = TRUE)
+
+shock_coverage <- end_years %>%
+  mutate(
+    Risk_Type = dplyr::recode(
+      Shock.category, !!!map_risk,
+      .default = as.character(Shock.category)
+    ),
+    Risk_Type = factor(Risk_Type, levels = risk_levels),
+    FirstYear = analysis_first_year
+  ) %>%
+  filter(!is.na(Risk_Type), Risk_Type %in% risk_levels) %>%
+  select(Risk_Type, FirstYear, LastYear) %>%
+  distinct()
+
+write.csv(
+  shock_coverage,
+  file.path(output_dir, "shock_category_coverage_used.csv"),
+  row.names = FALSE
+)
+
+section13_window_settings <- tibble(
+  setting = c(
+    "INCLUDE_RISK_YEAR_IN_WINDOWS",
+    "SECTION13_ALLOW_PARTIAL_WINDOWS",
+    "SECTION13_MIN_WINDOW_OBSERVED_YEARS",
+    "SECTION13_ROLLING_MEAN_REQUIRE_CENTER",
+    "SECTION13_ROLLING_MEAN_MIN_NON_MISSING"
+  ),
+  value = c(
+    as.character(INCLUDE_RISK_YEAR_IN_WINDOWS),
+    as.character(SECTION13_ALLOW_PARTIAL_WINDOWS),
+    as.character(SECTION13_MIN_WINDOW_OBSERVED_YEARS),
+    as.character(SECTION13_ROLLING_MEAN_REQUIRE_CENTER),
+    as.character(SECTION13_ROLLING_MEAN_MIN_NON_MISSING)
+  )
+)
+
+write.csv(
+  section13_window_settings,
+  file.path(output_dir, "section13_window_settings_used.csv"),
+  row.names = FALSE
 )
 
 sh_nat <- sh_nat %>%
@@ -699,7 +812,11 @@ recompute_global_observed <- function() {
   out
 }
 
-regional_regression_file <- find_existing_file(regional_regression_files)
+regional_regression_file <- if (isTRUE(FORCE_RECOMPUTE_OBSERVED_REGRESSIONS)) {
+  NA_character_
+} else {
+  find_existing_file(regional_regression_files)
+}
 if (!is.na(regional_regression_file)) {
   res_reg_expand_fast <- load_rdata_flexible(regional_regression_file, preferred_object = "res_reg_expand_fast")
 } else {
@@ -707,7 +824,11 @@ if (!is.na(regional_regression_file)) {
   res_reg_expand_fast <- recompute_regional_observed()
 }
 
-global_regression_file <- find_existing_file(global_regression_files)
+global_regression_file <- if (isTRUE(FORCE_RECOMPUTE_OBSERVED_REGRESSIONS)) {
+  NA_character_
+} else {
+  find_existing_file(global_regression_files)
+}
 if (!is.na(global_regression_file)) {
   res_glob_expand_fast <- load_rdata_flexible(global_regression_file, preferred_object = "res_glob_expand_fast")
 } else {
@@ -727,8 +848,8 @@ sim_expand_glob_sum <- filter_risk_score(res_glob_lag_parallel) %>%
   summarise(
     mean_sim = mean(estimate, na.rm = TRUE),
     sd_sim = sd(estimate, na.rm = TRUE),
-    q05 = quantile(estimate, 0.05, na.rm = TRUE),
-    q95 = quantile(estimate, 0.95, na.rm = TRUE),
+    q025 = quantile(estimate, SIM_ENVELOPE_LOWER, na.rm = TRUE),
+    q975 = quantile(estimate, SIM_ENVELOPE_UPPER, na.rm = TRUE),
     .groups = "drop"
   )
 
@@ -736,8 +857,8 @@ comp_glob_expand <- filter_risk_score(res_glob_expand_fast) %>%
   rename(real_est = estimate) %>%
   left_join(sim_expand_glob_sum, by = c("Risk_Type", "Lag")) %>%
   mutate(
-    z = (real_est - mean_sim) / sd_sim,
-    signif = real_est < q05 | real_est > q95,
+    z = if_else(is.finite(sd_sim) & sd_sim > 0, (real_est - mean_sim) / sd_sim, NA_real_),
+    signif = real_est < q025 | real_est > q975,
     sig.two = case_when(
       signif & p.value < 0.05 ~ "BOTH",
       signif & p.value >= 0.05 ~ "SIM",
@@ -754,8 +875,8 @@ sim_expand_smooth_sum <- filter_risk_score(res_lag_parallel) %>%
   summarise(
     mean_sim = mean(estimate, na.rm = TRUE),
     sd_sim = sd(estimate, na.rm = TRUE),
-    q05 = quantile(estimate, 0.05, na.rm = TRUE),
-    q95 = quantile(estimate, 0.95, na.rm = TRUE),
+    q025 = quantile(estimate, SIM_ENVELOPE_LOWER, na.rm = TRUE),
+    q975 = quantile(estimate, SIM_ENVELOPE_UPPER, na.rm = TRUE),
     .groups = "drop"
   )
 
@@ -763,8 +884,8 @@ comp_reg_expand <- filter_risk_score(res_reg_expand_fast) %>%
   rename(real_est = estimate) %>%
   left_join(sim_expand_smooth_sum, by = c("Region", "Risk_Type", "Lag")) %>%
   mutate(
-    z = (real_est - mean_sim) / sd_sim,
-    signif = real_est < q05 | real_est > q95,
+    z = if_else(is.finite(sd_sim) & sd_sim > 0, (real_est - mean_sim) / sd_sim, NA_real_),
+    signif = real_est < q025 | real_est > q975,
     sig.two = case_when(
       signif & p.value < 0.05 ~ "BOTH",
       signif & p.value >= 0.05 ~ "SIM",
@@ -785,6 +906,36 @@ comp_all_expand <- bind_rows(comp_reg_expand, comp_glob_tagged) %>%
     Region = factor(as.character(Region), levels = region_levels),
     Risk_Type = factor(as.character(Risk_Type), levels = risk_levels)
   )
+
+# Export the main lag-level observed-vs-null tables used for Figure 1/S6 and
+# for the derived predictive-capacity/anticipatory-skill metrics. These files
+# make the figure classifications and lag-level coefficients auditable without
+# reopening the RData objects.
+write.csv(
+  comp_glob_expand,
+  file.path(output_dir, "global_lag_coefficients_observed_vs_simulation.csv"),
+  row.names = FALSE
+)
+write.csv(
+  comp_reg_expand,
+  file.path(output_dir, "income_group_lag_coefficients_observed_vs_simulation.csv"),
+  row.names = FALSE
+)
+write.csv(
+  comp_all_expand,
+  file.path(output_dir, "all_regions_lag_coefficients_observed_vs_simulation.csv"),
+  row.names = FALSE
+)
+write.csv(
+  sim_expand_glob_sum,
+  file.path(output_dir, "global_lag_simulation_summary.csv"),
+  row.names = FALSE
+)
+write.csv(
+  sim_expand_smooth_sum,
+  file.path(output_dir, "income_group_lag_simulation_summary.csv"),
+  row.names = FALSE
+)
 
 # ----------------------------------------------------------------------
 # 6. Compute predictive capacity and anticipatory skill
@@ -879,7 +1030,7 @@ write.csv(
 
 figure1_global <- ggplot(comp_glob_expand, aes(x = Lag, y = real_est)) +
   geom_ribbon(
-    aes(ymin = q05, ymax = q95),
+    aes(ymin = q025, ymax = q975),
     fill = "grey70", alpha = 0.25, colour = NA
   ) +
   geom_line(alpha = 0.7, linewidth = 0.7) +
@@ -890,9 +1041,9 @@ figure1_global <- ggplot(comp_glob_expand, aes(x = Lag, y = real_est)) +
   scale_colour_manual(values = sig_pal, drop = FALSE) +
   scale_x_continuous(breaks = c(-5, -2.5, 0, 2.5, 5)) +
   labs(
-    y = "Coefficient (observed shocks vs. simulated 5-95%)",
+    y = "Coefficient (observed shocks vs. simulated 95% envelope)",
     x = "Max lag (years)",
-    colour = "Significant (5%)"
+    colour = "Significant (P < 0.05)"
   ) +
   theme_bw(base_size = 12) +
   theme(
@@ -901,7 +1052,7 @@ figure1_global <- ggplot(comp_glob_expand, aes(x = Lag, y = real_est)) +
     panel.spacing = unit(1, "lines"),
     strip.text = element_text(face = "bold", size = 12),
     strip.background = element_rect(fill = "grey92", colour = "grey60"),
-    legend.position = c(0.78, 0.16),
+    legend.position = c(0.84, 0.16),
     legend.justification = c("center", "center"),
     legend.background = element_rect(fill = "white", colour = "grey80"),
     legend.key = element_blank(),
@@ -916,7 +1067,7 @@ save_plot(figure1_global, "Figure_1_global_revised", width = 7.2, height = 7.0)
 # ----------------------------------------------------------------------
 
 figure_s6_regional <- ggplot(comp_reg_expand, aes(x = Lag, y = real_est)) +
-  geom_ribbon(aes(fill = Region, ymin = q05, ymax = q95), alpha = 0.30, colour = NA) +
+  geom_ribbon(aes(fill = Region, ymin = q025, ymax = q975), alpha = 0.30, colour = NA) +
   geom_line(aes(group = Region), alpha = 0.45, linewidth = 0.45) +
   geom_point(aes(colour = sig.two), size = 1.7) +
   facet_grid(Region ~ Risk_Type, labeller = labeller(Risk_Type = as_labeller(risk_label))) +
@@ -925,9 +1076,9 @@ figure_s6_regional <- ggplot(comp_reg_expand, aes(x = Lag, y = real_est)) +
   scale_colour_manual(values = sig_pal, drop = FALSE) +
   scale_x_continuous(breaks = c(-5, -2.5, 0, 2.5, 5)) +
   labs(
-    y = "Coefficient (observed shocks vs. simulated 5-95%)",
+    y = "Coefficient (observed shocks vs. simulated 95% envelope)",
     x = "Max lag (years)",
-    colour = "Significant (5%)",
+    colour = "Significant (P < 0.05)",
     fill = "Region"
   ) +
   theme_bw(base_size = 10) +
@@ -1578,7 +1729,8 @@ suppressPackageStartupMessages({
 
 required_objects_13 <- c(
   "sh_reg", "sh_nat", "risks_long", "map_risk", "risk_levels",
-  "region_levels", "income_levels", "output_dir"
+  "region_levels", "income_levels", "output_dir",
+  "shock_coverage", "analysis_first_year", "analysis_last_year"
 )
 
 missing_objects_13 <- required_objects_13[
@@ -1597,6 +1749,28 @@ dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
 if (!exists("INCLUDE_RISK_YEAR_IN_WINDOWS")) {
   INCLUDE_RISK_YEAR_IN_WINDOWS <- TRUE
 }
+if (!exists("SECTION13_ALLOW_PARTIAL_WINDOWS")) {
+  SECTION13_ALLOW_PARTIAL_WINDOWS <- TRUE
+}
+if (!exists("SECTION13_MIN_WINDOW_OBSERVED_YEARS")) {
+  SECTION13_MIN_WINDOW_OBSERVED_YEARS <- 1L
+}
+if (!exists("SECTION13_ROLLING_MEAN_REQUIRE_CENTER")) {
+  SECTION13_ROLLING_MEAN_REQUIRE_CENTER <- TRUE
+}
+if (!exists("SECTION13_ROLLING_MEAN_MIN_NON_MISSING")) {
+  SECTION13_ROLLING_MEAN_MIN_NON_MISSING <- 1L
+}
+message(
+  "Section 13 inclusive-window setting: INCLUDE_RISK_YEAR_IN_WINDOWS = ",
+  INCLUDE_RISK_YEAR_IN_WINDOWS
+)
+message(
+  "Section 13 partial-window setting: SECTION13_ALLOW_PARTIAL_WINDOWS = ",
+  SECTION13_ALLOW_PARTIAL_WINDOWS,
+  "; SECTION13_MIN_WINDOW_OBSERVED_YEARS = ",
+  SECTION13_MIN_WINDOW_OBSERVED_YEARS
+)
 
 if (!exists("risk_label")) {
   risk_label <- function(x) {
@@ -1675,25 +1849,51 @@ standardize_shock_table <- function(x, region = NULL) {
       Risk_Type = dplyr::recode(
         as.character(Risk_Type), !!!map_risk,
         .default = as.character(Risk_Type)
-      ),
-      Risk_Type = factor(Risk_Type, levels = risk_levels)
+      )
     ) %>%
     filter(!is.na(Risk_Type), Risk_Type %in% risk_levels)
   
   if (!is.null(region)) y <- y %>% mutate(Region = region)
   if (!("Region" %in% names(y))) stop("Shock table lacks Region and no region was supplied.")
   
-  y %>%
-    mutate(Region = factor(as.character(Region), levels = region_levels)) %>%
+  base <- y %>%
+    mutate(
+      Region = as.character(Region),
+      Risk_Type = as.character(Risk_Type)
+    ) %>%
     select(Region, Risk_Type, Year, Shock_Value) %>%
     group_by(Region, Risk_Type, Year) %>%
     summarise(Shock_Value = mean(Shock_Value, na.rm = TRUE), .groups = "drop")
+  
+  regions_present <- sort(unique(base$Region))
+  coverage <- shock_coverage %>% mutate(Risk_Type = as.character(Risk_Type))
+  
+  # Complete true absences as zero only within the category-specific coverage
+  # period. Years outside coverage are left absent so that downstream windows
+  # become NA rather than structural zeros.
+  grid <- tidyr::expand_grid(
+    Region = regions_present,
+    Risk_Type = risk_levels,
+    Year = seq(analysis_first_year, analysis_last_year)
+  ) %>%
+    left_join(coverage, by = "Risk_Type") %>%
+    filter(Year >= FirstYear, Year <= LastYear) %>%
+    select(Region, Risk_Type, Year)
+  
+  grid %>%
+    left_join(base, by = c("Region", "Risk_Type", "Year")) %>%
+    mutate(
+      Shock_Value = tidyr::replace_na(Shock_Value, 0),
+      Region = factor(Region, levels = region_levels),
+      Risk_Type = factor(Risk_Type, levels = risk_levels)
+    ) %>%
+    arrange(Region, Risk_Type, Year)
 }
 
 make_global_shock_table_for_section13 <- function(sh_nat_clean) {
-  yrs <- seq(min(sh_nat_clean$Year, na.rm = TRUE), max(sh_nat_clean$Year, na.rm = TRUE))
+  coverage <- shock_coverage %>% mutate(Risk_Type = as.character(Risk_Type))
   
-  sh_nat_clean %>%
+  base <- sh_nat_clean %>%
     mutate(
       Risk_Type = dplyr::recode(
         Shock.category, !!!map_risk,
@@ -1701,9 +1901,21 @@ make_global_shock_table_for_section13 <- function(sh_nat_clean) {
       )
     ) %>%
     filter(!is.na(Risk_Type), Risk_Type %in% risk_levels) %>%
+    mutate(Risk_Type = as.character(Risk_Type)) %>%
     group_by(Risk_Type, Year) %>%
-    summarise(count = sum(count, na.rm = TRUE), .groups = "drop") %>%
-    complete(Risk_Type = risk_levels, Year = yrs, fill = list(count = 0)) %>%
+    summarise(count = sum(count, na.rm = TRUE), .groups = "drop")
+  
+  grid <- tidyr::expand_grid(
+    Risk_Type = risk_levels,
+    Year = seq(analysis_first_year, analysis_last_year)
+  ) %>%
+    left_join(coverage, by = "Risk_Type") %>%
+    filter(Year >= FirstYear, Year <= LastYear) %>%
+    select(Risk_Type, Year)
+  
+  grid %>%
+    left_join(base, by = c("Risk_Type", "Year")) %>%
+    mutate(count = tidyr::replace_na(count, 0)) %>%
     group_by(Risk_Type) %>%
     mutate(
       sd_count = sd(count, na.rm = TRUE),
@@ -1715,7 +1927,8 @@ make_global_shock_table_for_section13 <- function(sh_nat_clean) {
       Risk_Type = factor(Risk_Type, levels = risk_levels),
       Year,
       Shock_Value
-    )
+    ) %>%
+    arrange(Region, Risk_Type, Year)
 }
 
 shock_reg_year <- standardize_shock_table(sh_reg)
@@ -1735,27 +1948,148 @@ shock_year_all <- bind_rows(
     Risk_Type = factor(as.character(Risk_Type), levels = risk_levels)
   )
 
-get_window_mean <- function(shock_ts, region, risk_type, year, horizon, direction) {
-  yrs <- if (direction == "future") {
+write.csv(
+  shock_year_all,
+  file.path(output_dir, "section13_shock_year_table_coverage_adjusted.csv"),
+  row.names = FALSE
+)
+
+make_window_years <- function(year, horizon, direction) {
+  if (direction == "future") {
     if (isTRUE(INCLUDE_RISK_YEAR_IN_WINDOWS)) {
       seq(year, year + horizon)
     } else {
       seq(year + 1, year + horizon)
     }
-  } else {
+  } else if (direction == "past") {
     if (isTRUE(INCLUDE_RISK_YEAR_IN_WINDOWS)) {
       seq(year - horizon, year)
     } else {
       seq(year - horizon, year - 1)
     }
+  } else {
+    stop("direction must be either 'future' or 'past'.")
+  }
+}
+
+get_window_summary <- function(shock_ts, region, risk_type, year, horizon, direction) {
+  requested_years <- as.integer(make_window_years(year, horizon, direction))
+  requested_years <- requested_years[!is.na(requested_years)]
+  n_requested <- length(requested_years)
+  
+  if (n_requested == 0) {
+    return(tibble(
+      mean = NA_real_,
+      n_available = 0L,
+      n_requested = 0L,
+      first_year_used = NA_integer_,
+      last_year_used = NA_integer_
+    ))
   }
   
-  vals <- shock_ts %>%
-    filter(Region == region, Risk_Type == risk_type, Year %in% yrs) %>%
-    pull(Shock_Value)
+  eval_years <- requested_years
+  cov <- shock_coverage %>%
+    filter(as.character(Risk_Type) == as.character(risk_type))
   
-  if (length(vals) == 0 || all(is.na(vals))) return(NA_real_)
-  mean(vals, na.rm = TRUE)
+  if (nrow(cov) == 1) {
+    if (isTRUE(SECTION13_ALLOW_PARTIAL_WINDOWS)) {
+      # Keep the part of the requested window that lies inside known
+      # category-specific shock-data coverage. Years outside coverage are not
+      # counted as zero and are not part of the denominator.
+      eval_years <- eval_years[
+        eval_years >= cov$FirstYear[1] & eval_years <= cov$LastYear[1]
+      ]
+    } else {
+      # Strict sensitivity mode: drop the whole window if any requested year
+      # lies outside category-specific coverage.
+      if (min(eval_years, na.rm = TRUE) < cov$FirstYear[1] ||
+          max(eval_years, na.rm = TRUE) > cov$LastYear[1]) {
+        return(tibble(
+          mean = NA_real_,
+          n_available = 0L,
+          n_requested = n_requested,
+          first_year_used = NA_integer_,
+          last_year_used = NA_integer_
+        ))
+      }
+    }
+  }
+  
+  eval_years <- sort(unique(as.integer(eval_years)))
+  
+  if (length(eval_years) == 0) {
+    return(tibble(
+      mean = NA_real_,
+      n_available = 0L,
+      n_requested = n_requested,
+      first_year_used = NA_integer_,
+      last_year_used = NA_integer_
+    ))
+  }
+  
+  win <- shock_ts %>%
+    filter(
+      as.character(Region) == as.character(region),
+      as.character(Risk_Type) == as.character(risk_type),
+      Year %in% eval_years
+    ) %>%
+    group_by(Year) %>%
+    summarise(Shock_Value = mean(Shock_Value, na.rm = TRUE), .groups = "drop")
+  
+  # Join to the requested, coverage-trimmed year grid so that missing rows in
+  # the shock table are not silently ignored. Within coverage, true absences
+  # should already have been zero-filled when shock_year_all was built.
+  win_complete <- tibble(Year = eval_years) %>%
+    left_join(win, by = "Year")
+  
+  vals <- win_complete$Shock_Value
+  n_available <- sum(is.finite(vals))
+  
+  if (n_available < SECTION13_MIN_WINDOW_OBSERVED_YEARS) {
+    return(tibble(
+      mean = NA_real_,
+      n_available = as.integer(n_available),
+      n_requested = n_requested,
+      first_year_used = NA_integer_,
+      last_year_used = NA_integer_
+    ))
+  }
+  
+  if (!isTRUE(SECTION13_ALLOW_PARTIAL_WINDOWS) && n_available < n_requested) {
+    return(tibble(
+      mean = NA_real_,
+      n_available = as.integer(n_available),
+      n_requested = n_requested,
+      first_year_used = NA_integer_,
+      last_year_used = NA_integer_
+    ))
+  }
+  
+  used_years <- win_complete$Year[is.finite(vals)]
+  
+  tibble(
+    mean = mean(vals, na.rm = TRUE),
+    n_available = as.integer(n_available),
+    n_requested = n_requested,
+    first_year_used = as.integer(min(used_years, na.rm = TRUE)),
+    last_year_used = as.integer(max(used_years, na.rm = TRUE))
+  )
+}
+
+get_window_mean <- function(shock_ts, region, risk_type, year, horizon, direction) {
+  get_window_summary(shock_ts, region, risk_type, year, horizon, direction)$mean[[1]]
+}
+
+get_window_n <- function(shock_ts, region, risk_type, year, horizon, direction) {
+  get_window_summary(shock_ts, region, risk_type, year, horizon, direction)$n_available[[1]]
+}
+
+get_window_first_year <- function(shock_ts, region, risk_type, year, horizon, direction) {
+  get_window_summary(shock_ts, region, risk_type, year, horizon, direction)$first_year_used[[1]]
+}
+
+get_window_last_year <- function(shock_ts, region, risk_type, year, horizon, direction) {
+  get_window_summary(shock_ts, region, risk_type, year, horizon, direction)$last_year_used[[1]]
 }
 
 fit_lm_slope_safe <- function(dat, response_col, min_n = 5) {
@@ -1790,6 +2124,25 @@ fit_lm_slope_safe <- function(dat, response_col, min_n = 5) {
     )
 }
 
+
+finite_min_or_na <- function(x) {
+  x <- x[is.finite(x)]
+  if (length(x) == 0) return(NA_real_)
+  min(x)
+}
+
+finite_mean_or_na <- function(x) {
+  x <- x[is.finite(x)]
+  if (length(x) == 0) return(NA_real_)
+  mean(x)
+}
+
+finite_max_or_na <- function(x) {
+  x <- x[is.finite(x)]
+  if (length(x) == 0) return(NA_real_)
+  max(x)
+}
+
 compute_year_region_horizon <- function(region, year, horizon, shock_ts, risk_ts,
                                         risk_set = risk_levels, min_n = 5) {
   dat <- risk_ts %>%
@@ -1805,6 +2158,14 @@ compute_year_region_horizon <- function(region, year, horizon, shock_ts, risk_ts
       past_shocks = map_dbl(
         Risk_Type,
         ~ get_window_mean(shock_ts, region, .x, year, horizon, "past")
+      ),
+      future_window_years = map_int(
+        Risk_Type,
+        ~ get_window_n(shock_ts, region, .x, year, horizon, "future")
+      ),
+      past_window_years = map_int(
+        Risk_Type,
+        ~ get_window_n(shock_ts, region, .x, year, horizon, "past")
       )
     )
   
@@ -1817,6 +2178,12 @@ compute_year_region_horizon <- function(region, year, horizon, shock_ts, risk_ts
     horizon = horizon,
     n_future = fut$n,
     n_past = pst$n,
+    future_window_years_min = finite_min_or_na(dat$future_window_years[is.finite(dat$future_shocks)]),
+    future_window_years_mean = finite_mean_or_na(dat$future_window_years[is.finite(dat$future_shocks)]),
+    future_window_years_max = finite_max_or_na(dat$future_window_years[is.finite(dat$future_shocks)]),
+    past_window_years_min = finite_min_or_na(dat$past_window_years[is.finite(dat$past_shocks)]),
+    past_window_years_mean = finite_mean_or_na(dat$past_window_years[is.finite(dat$past_shocks)]),
+    past_window_years_max = finite_max_or_na(dat$past_window_years[is.finite(dat$past_shocks)]),
     predictive_capacity = fut$estimate,
     predictive_capacity_se = fut$std.error,
     predictive_capacity_p = fut$p.value,
@@ -1891,7 +2258,9 @@ best_grr_years_by_region <- bind_rows(
   select(
     Region, metric, Year, best_horizon, value,
     predictive_capacity, past_at_best_horizon, anticipatory_skill,
-    n_future, n_past
+    n_future, n_past,
+    future_window_years_min, future_window_years_mean, future_window_years_max,
+    past_window_years_min, past_window_years_mean, past_window_years_max
   )
 
 write.csv(
@@ -2071,7 +2440,10 @@ best_grr_years_by_region_targeted <- bind_rows(
   select(
     Region, metric, Year, best_horizon, value,
     predictive_capacity, past_at_best_horizon, anticipatory_skill,
-    n_future, n_past, risk_set
+    n_future, n_past,
+    future_window_years_min, future_window_years_mean, future_window_years_max,
+    past_window_years_min, past_window_years_mean, past_window_years_max,
+    risk_set
   )
 
 write.csv(
@@ -2143,17 +2515,25 @@ z_within <- function(x) {
   (x - mx) / sx
 }
 
-roll_mean_safe <- function(x, k = 3) {
+roll_mean_safe <- function(x, k = 3, min_non_missing = 1, require_center = TRUE) {
+  # Centered rolling mean for diagnostic display.
+  # With partial-window diagnostics, end-of-series annual components can remain
+  # available even when the requested future horizon is only partly observed. The
+  # line therefore follows the available annual component. Requiring the central
+  # value prevents smoothing through genuinely missing annual components.
   n <- length(x)
   out <- rep(NA_real_, n)
   half <- floor(k / 2)
   
   for (i in seq_along(x)) {
+    if (isTRUE(require_center) && !is.finite(x[i])) next
+    
     idx <- seq(i - half, i + half)
     idx <- idx[idx >= 1 & idx <= n]
+    ok <- is.finite(x[idx])
     
-    if (length(idx) == k && any(!is.na(x[idx]))) {
-      out[i] <- mean(x[idx], na.rm = TRUE)
+    if (sum(ok) >= min_non_missing) {
+      out[i] <- mean(x[idx][ok], na.rm = TRUE)
     }
   }
   
@@ -2226,6 +2606,30 @@ category_year_dat <- expand_grid(
     past_shocks = pmap_dbl(
       list(Region, Risk_Type, Year, best_horizon),
       ~ get_window_mean(shock_year_all, ..1, ..2, ..3, ..4, "past")
+    ),
+    future_window_years = pmap_int(
+      list(Region, Risk_Type, Year, best_horizon),
+      ~ get_window_n(shock_year_all, ..1, ..2, ..3, ..4, "future")
+    ),
+    past_window_years = pmap_int(
+      list(Region, Risk_Type, Year, best_horizon),
+      ~ get_window_n(shock_year_all, ..1, ..2, ..3, ..4, "past")
+    ),
+    future_window_first_year = pmap_int(
+      list(Region, Risk_Type, Year, best_horizon),
+      ~ get_window_first_year(shock_year_all, ..1, ..2, ..3, ..4, "future")
+    ),
+    future_window_last_year = pmap_int(
+      list(Region, Risk_Type, Year, best_horizon),
+      ~ get_window_last_year(shock_year_all, ..1, ..2, ..3, ..4, "future")
+    ),
+    past_window_first_year = pmap_int(
+      list(Region, Risk_Type, Year, best_horizon),
+      ~ get_window_first_year(shock_year_all, ..1, ..2, ..3, ..4, "past")
+    ),
+    past_window_last_year = pmap_int(
+      list(Region, Risk_Type, Year, best_horizon),
+      ~ get_window_last_year(shock_year_all, ..1, ..2, ..3, ..4, "past")
     )
   ) %>%
   group_by(Region, Risk_Type) %>%
@@ -2237,8 +2641,18 @@ category_year_dat <- expand_grid(
     predictive_capacity_component = z_risk * z_future,
     past_component = z_risk * z_past,
     anticipatory_skill_component = predictive_capacity_component - past_component,
-    predictive_capacity_component_roll3 = roll_mean_safe(predictive_capacity_component, k = 3),
-    anticipatory_skill_component_roll3 = roll_mean_safe(anticipatory_skill_component, k = 3)
+    predictive_capacity_component_roll3 = roll_mean_safe(
+      predictive_capacity_component,
+      k = 3,
+      min_non_missing = SECTION13_ROLLING_MEAN_MIN_NON_MISSING,
+      require_center = SECTION13_ROLLING_MEAN_REQUIRE_CENTER
+    ),
+    anticipatory_skill_component_roll3 = roll_mean_safe(
+      anticipatory_skill_component,
+      k = 3,
+      min_non_missing = SECTION13_ROLLING_MEAN_MIN_NON_MISSING,
+      require_center = SECTION13_ROLLING_MEAN_REQUIRE_CENTER
+    )
   ) %>%
   ungroup() %>%
   mutate(
@@ -2276,6 +2690,14 @@ category_year_horizon_dat <- expand_grid(
     past_shocks = pmap_dbl(
       list(Region, Risk_Type, Year, horizon),
       ~ get_window_mean(shock_year_all, ..1, ..2, ..3, ..4, "past")
+    ),
+    future_window_years = pmap_int(
+      list(Region, Risk_Type, Year, horizon),
+      ~ get_window_n(shock_year_all, ..1, ..2, ..3, ..4, "future")
+    ),
+    past_window_years = pmap_int(
+      list(Region, Risk_Type, Year, horizon),
+      ~ get_window_n(shock_year_all, ..1, ..2, ..3, ..4, "past")
     ),
     Region = factor(as.character(Region), levels = region_levels),
     Risk_Type = factor(as.character(Risk_Type), levels = risk_levels)
