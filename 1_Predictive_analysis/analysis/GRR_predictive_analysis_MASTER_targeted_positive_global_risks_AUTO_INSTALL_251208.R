@@ -1041,7 +1041,7 @@ figure1_global <- ggplot(comp_glob_expand, aes(x = Lag, y = real_est)) +
   scale_colour_manual(values = sig_pal, drop = FALSE) +
   scale_x_continuous(breaks = c(-5, -2.5, 0, 2.5, 5)) +
   labs(
-    y = "Coefficient (observed shocks vs. simulated 95% envelope)",
+    y = "Coefficient (observed shocks vs. simulated 2.5–97.5% envelope)",
     x = "Max lag (years)",
     colour = "Significant (P < 0.05)"
   ) +
