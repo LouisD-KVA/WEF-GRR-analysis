@@ -1375,15 +1375,33 @@ save_plot(
 
 # Figure B: Friedman ranks. This directly displays the information used by the
 # omnibus test: within each risk category, rank 4 is the highest value.
+rank_offset_tbl <- tibble::tibble(
+  Risk_Type = factor(target_risks, levels = target_risks),
+  x_offset = c(-0.09, -0.03, 0.03, 0.09)
+)
+
+income_rank_long_targeted_plot <- income_rank_long_targeted %>%
+  dplyr::left_join(rank_offset_tbl, by = "Risk_Type") %>%
+  dplyr::mutate(
+    Region_num = as.numeric(Region),
+    Region_plot = Region_num + x_offset
+  )
+
+income_mean_rank_targeted_plot <- income_mean_rank_targeted %>%
+  dplyr::mutate(
+    Region_num = as.numeric(Region),
+    Region_plot = Region_num
+  )
+
 figure_income_targeted_ranks <- ggplot(
-  income_rank_long_targeted,
-  aes(x = Region, y = rank, group = Risk_Type, colour = Risk_Type)
+  income_rank_long_targeted_plot,
+  aes(x = Region_plot, y = rank, group = Risk_Type, colour = Risk_Type)
 ) +
-  geom_line(alpha = 0.60, linewidth = 0.45) +
-  geom_point(size = 2.3) +
+  geom_line(alpha = 0.70, linewidth = 0.50) +
+  geom_point(size = 2.5) +
   geom_point(
-    data = income_mean_rank_targeted,
-    aes(x = Region, y = mean_rank, shape = "Mean rank"),
+    data = income_mean_rank_targeted_plot,
+    aes(x = Region_plot, y = mean_rank, shape = "Mean rank"),
     inherit.aes = FALSE,
     size = 4.2,
     fill = "white",
@@ -1391,15 +1409,25 @@ figure_income_targeted_ranks <- ggplot(
     stroke = 1.0
   ) +
   geom_text(
-    data = income_mean_rank_targeted,
-    aes(x = Region, y = mean_rank, label = sprintf("%.2f", mean_rank)),
+    data = income_mean_rank_targeted_plot,
+    aes(x = Region_plot, y = mean_rank, label = sprintf("%.2f", mean_rank)),
     inherit.aes = FALSE,
     vjust = -0.9,
     size = 2.8
   ) +
   facet_wrap(~ metric_label, ncol = 1) +
+  scale_x_continuous(
+    breaks = seq_along(income_levels),
+    labels = income_levels,
+    limits = c(0.75, length(income_levels) + 0.25)
+  ) +
   scale_y_continuous(breaks = 1:4, limits = c(0.75, 4.35)) +
-  scale_colour_manual(values = risk_pal, breaks = target_risks, labels = risk_label(target_risks), drop = FALSE) +
+  scale_colour_manual(
+    values = risk_pal,
+    breaks = target_risks,
+    labels = risk_label(target_risks),
+    drop = FALSE
+  ) +
   scale_shape_manual(values = c("Mean rank" = 23), name = NULL) +
   guides(
     colour = guide_legend(order = 1, override.aes = list(size = 2.8)),
