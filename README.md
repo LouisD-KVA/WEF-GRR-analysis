@@ -15,34 +15,7 @@ The central predictive analysis tests whether GRR risk scores align more strongl
 
 ---
 
-## Repository structure
-
-A recommended repository structure is:
-
-```text
-.
-├── README.md
-├── code/
-│   ├── GRR_predictive_analysis_MASTER.R
-│   ├── sim_functions.R
-│   ├── thematic_analysis/
-│   └── linguistic_analysis/
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── external/
-├── outputs/
-│   ├── figures/
-│   ├── tables/
-│   └── diagnostics/
-└── manuscript/
-```
-
-The predictive-analysis script assumes that input files are available in the expected data directories and writes figures and CSV outputs to the output directory specified in the script.
-
----
-
-## Main predictive-analysis script
+## Predictive analysis
 
 The main script is:
 
@@ -63,9 +36,7 @@ It performs the following steps:
 9. produces main-text and supporting-information figures;
 10. exports diagnostic CSV files and summary tables.
 
----
-
-## Predictive-analysis design
+## Design
 
 The predictive analysis uses the comparable **2006–2021 GRPS-derived risk-score series**. Later GRRs are used in the thematic and linguistic analyses but are excluded from the predictive analysis because the GRPS scoring methodology changed substantially after 2021.
 
@@ -89,8 +60,6 @@ Observed shocks are aggregated globally and by World Bank income group:
 
 Shock counts are standardised using a category-first procedure so that high-frequency shock categories do not mechanically dominate the regression results.
 
----
-
 ## Key metrics
 
 For each shock category and region, the script estimates regressions between GRPS-derived risk scores and observed shock occurrence across retrospective and prospective windows of one to five years.
@@ -109,8 +78,6 @@ This metric distinguishes cases in which risk scores align with future shocks fr
 
 The selected horizon, denoted **h** in some figures, is the time horizon in years at which predictive capacity is maximised.
 
----
-
 ## Window convention
 
 The current predictive specification uses windows that are inclusive of the GRR assessment year.
@@ -123,8 +90,6 @@ For a GRR year `y` and horizon `h`:
 The resulting coefficients should therefore be interpreted as measures of near-term prospective and retrospective alignment, not as strictly out-of-sample forecasts beginning only after the survey year.
 
 For edition-level and annual-component diagnostic figures, partial windows are allowed when a full requested horizon extends beyond category-specific shock-data coverage. Unavailable years are not treated as zero-shock years.
-
----
 
 ## Shock-data coverage
 
@@ -145,8 +110,6 @@ The predictive script uses the following category-specific end years:
 
 Years outside category-specific coverage are not treated as observed zero-shock years.
 
----
-
 ## Monte Carlo simulations
 
 The script evaluates lag-regression coefficients against Monte Carlo-randomised shock simulations.
@@ -156,47 +119,6 @@ The simulation procedure expands the shock data to a complete country × shock-c
 This preserves country–category marginal distributions while breaking temporal alignment between observed shocks and GRPS-derived risk scores.
 
 The main lag figures use the **2.5–97.5% Monte Carlo envelope** for simulation-based classification.
-
----
-
-## Main outputs
-
-The script generates the main figures used in the manuscript:
-
-```text
-Figure_1_global_revised.png
-Figure_2_top_left_revised.png
-Figure_2_top_right_revised.png
-```
-
-It also generates supporting-information figures, including:
-
-```text
-Figure_S_GRR_year_category_pointwise_alignment_global_all_risks.png
-Figure_S_GRR_year_category_rolling_performance_global_all_risks.png
-Figure_S_GRR_year_performance_timeseries_all_risks.png
-Figure_S_income_group_targeted_metric_profiles.png
-Figure_S_income_group_targeted_friedman_ranks.png
-```
-
-The script also exports CSV files documenting the summary metrics, income-group tests, uncertainty intervals, Monte Carlo intervals, and diagnostic window settings. Key outputs include:
-
-```text
-Predictive_and_anticipatory_capacity_and_best_recomputed.csv
-metric_parametric_coefficient_draw_CI.csv
-metric_randomization_intervals_and_tests.csv
-income_group_friedman_tests_targeted_positive_global_risks.csv
-income_group_mean_ranks_targeted_positive_global_risks.csv
-income_group_metric_values_targeted_positive_global_risks.csv
-income_group_ranks_targeted_positive_global_risks.csv
-grr_year_performance_by_horizon.csv
-grr_year_performance_best_horizon.csv
-grr_year_trend_tests.csv
-shock_category_coverage_used.csv
-section13_window_settings_used.csv
-```
-
----
 
 ## Income-group tests
 
@@ -209,17 +131,11 @@ The main test is restricted to the four shock categories with positive global pr
 - geopolitical conflicts;
 - terrorism.
 
-This targeted test is used because regional differences in anticipatory skill are most interpretable when there is at least some positive global future alignment.
-
----
-
 ## Reproducibility notes
 
 Some parts of the predictive analysis can use precomputed RData simulation files to avoid rerunning computationally expensive simulations. If these objects are present, the script may load them directly. To fully regenerate the analysis, remove or ignore the precomputed objects and ensure that the helper functions and raw input files are available.
 
 When changing core settings such as the lag-window convention, the observed regressions and Monte Carlo simulations should be regenerated under the same settings. Do not mix observed coefficients generated under one convention with simulation envelopes generated under another.
-
----
 
 ## Software requirements
 
